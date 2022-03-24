@@ -1,12 +1,22 @@
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX oio: <http://www.geneontology.org/formats/oboInOwl#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
 
-SELECT DISTINCT ?supname ?sup ?subname ?sub
+
+SELECT DISTINCT ?supname ?sup ?subname ?sub ?inferred
 WHERE {
   { ?sub rdfs:subClassOf ?sup .
     ?sub rdfs:label ?subname .
     ?sup rdfs:label ?supname .
+      OPTIONAL {
+      [a owl:Axiom ;
+           owl:annotatedSource ?sub ;
+           owl:annotatedProperty rdfs:subClassOf ;
+           owl:annotatedTarget ?sup ;
+           oio:is_inferred ?inferred ] .
+           }
     }
    FILTER (STRSTARTS(STR(?sup), "http://purl.obolibrary.org/obo/UBERON_"))
    # Can't get double filter to work!

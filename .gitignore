@@ -1,0 +1,7 @@
+src/ontology/mirror/*
+src/ontology/sources/*
+.DS_Store
+src/.DS_Store
+src/ontology/.DS_Store
+src/ontology/tmp.owl
+src/ontology/tmp.json

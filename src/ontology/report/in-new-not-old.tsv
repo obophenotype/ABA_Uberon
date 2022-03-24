@@ -1,0 +1,482 @@
+V1	V2	V3	V4
+1	meyer's loop of optic radiation	<http://purl.obolibrary.org/obo/uberon_0035935>	meyer's loop of optic radiation 	<http://purl.obolibrary.org/obo/hba_265505214>
+2	brainstem nucleus	<http://purl.obolibrary.org/obo/uberon_0006331>	nucleus of reuniens	<http://purl.obolibrary.org/obo/mba_181>
+3	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	forebrain ipsilateral fiber tracts	<http://purl.obolibrary.org/obo/dhba_10568>
+4	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	uncinate fasciculus	<http://purl.obolibrary.org/obo/dhba_10594>
+5	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	dorsal longitudinal fasciculus	<http://purl.obolibrary.org/obo/dhba_12035>
+6	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	cuneate fasciculus	<http://purl.obolibrary.org/obo/dhba_12731>
+7	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	gracile fasciculus	<http://purl.obolibrary.org/obo/dhba_12739>
+8	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	medial longitudinal fasciculus	<http://purl.obolibrary.org/obo/dhba_12764>
+9	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	fasciculus retroflexus	<http://purl.obolibrary.org/obo/hba_12953>
+10	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	cuneate fasciculus	<http://purl.obolibrary.org/obo/hba_265505550>
+11	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	gracile fasciculus	<http://purl.obolibrary.org/obo/hba_265505586>
+12	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	dorsal longitudinal fasciculus, right	<http://purl.obolibrary.org/obo/hba_9348>
+13	cerebral nerve fasciculus	<http://purl.obolibrary.org/obo/uberon_0022248>	medial longitudinal fasciculus, right	<http://purl.obolibrary.org/obo/hba_9351>
+14	gyrus	<http://purl.obolibrary.org/obo/uberon_0000200>	dentate area (dentate gyrus)	<http://purl.obolibrary.org/obo/dhba_10295>
+15	gyrus	<http://purl.obolibrary.org/obo/uberon_0000200>	fasciolar gyrus	<http://purl.obolibrary.org/obo/dhba_12175>
+16	gyrus	<http://purl.obolibrary.org/obo/uberon_0000200>	dentate gyrus	<http://purl.obolibrary.org/obo/hba_12891>
+17	lateral structure	<http://purl.obolibrary.org/obo/uberon_0015212>	lateral ventricles	<http://purl.obolibrary.org/obo/dhba_10596>
+18	lateral structure	<http://purl.obolibrary.org/obo/uberon_0015212>	ventricles, forebrain	<http://purl.obolibrary.org/obo/dmba_126651562>
+19	lateral structure	<http://purl.obolibrary.org/obo/uberon_0015212>	lateral ventricle	<http://purl.obolibrary.org/obo/hba_9419>
+20	lateral structure	<http://purl.obolibrary.org/obo/uberon_0015212>	lateral ventricle	<http://purl.obolibrary.org/obo/mba_81>
+21	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	alveus	<http://purl.obolibrary.org/obo/dhba_10570>
+22	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	olfactory nerve layer of olfactory bulb	<http://purl.obolibrary.org/obo/dhba_11326>
+23	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	glomerular layer of olfactory bulb	<http://purl.obolibrary.org/obo/dhba_11327>
+24	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	mitral cell layer of olfactory bulb	<http://purl.obolibrary.org/obo/dhba_11329>
+25	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	inner plexiform layer of olfactory bulb	<http://purl.obolibrary.org/obo/dhba_11330>
+26	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	external medullary lamina of globus pallidus	<http://purl.obolibrary.org/obo/dhba_12037>
+27	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	external medullary lamina of thalamus	<http://purl.obolibrary.org/obo/dhba_12038>
+28	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	internal medullary lamina of globus pallidus	<http://purl.obolibrary.org/obo/dhba_12062>
+29	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	internal medullary lamina of thalamus	<http://purl.obolibrary.org/obo/dhba_12063>
+30	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	external medullary lamina of globus pallidus	<http://purl.obolibrary.org/obo/hba_265505086>
+31	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	external medullary lamina of thalamus	<http://purl.obolibrary.org/obo/hba_265505098>
+32	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	internal medullary lamina of globus pallidus	<http://purl.obolibrary.org/obo/hba_265505122>
+33	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	internal medullary lamina of thalamus	<http://purl.obolibrary.org/obo/hba_265505134>
+34	layer of neocortex	<http://purl.obolibrary.org/obo/uberon_0002301>	alveus	<http://purl.obolibrary.org/obo/hba_9234>
+35	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	neural plate	<http://purl.obolibrary.org/obo/dhba_10153>
+36	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	neural tube	<http://purl.obolibrary.org/obo/dhba_10154>
+37	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum lacunosum-moleculare of rostral ca1	<http://purl.obolibrary.org/obo/dhba_11276>
+38	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum radiatum of rostral ca1	<http://purl.obolibrary.org/obo/dhba_11277>
+39	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum pyramidale of rostral ca1	<http://purl.obolibrary.org/obo/dhba_11278>
+40	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum oriens of rostral ca1	<http://purl.obolibrary.org/obo/dhba_11279>
+41	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum lacunosum-moleculare of caudal ca1	<http://purl.obolibrary.org/obo/dhba_11281>
+42	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum radiatum of caudal ca1	<http://purl.obolibrary.org/obo/dhba_11282>
+43	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum pyramidale of caudal ca1	<http://purl.obolibrary.org/obo/dhba_11283>
+44	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum oriens of caudal ca1	<http://purl.obolibrary.org/obo/dhba_11284>
+45	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum lacunosum-moleculare of rostral ca2	<http://purl.obolibrary.org/obo/dhba_11286>
+46	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum radiatum of rostral ca2	<http://purl.obolibrary.org/obo/dhba_11287>
+47	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum pyramidale of rostral ca2	<http://purl.obolibrary.org/obo/dhba_11288>
+48	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum oriens of rostral ca2	<http://purl.obolibrary.org/obo/dhba_11289>
+49	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum lacunosum-moleculare of caudal ca2	<http://purl.obolibrary.org/obo/dhba_11291>
+50	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum radiatum of caudal ca2	<http://purl.obolibrary.org/obo/dhba_11292>
+51	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum pyramidale of caudal ca2	<http://purl.obolibrary.org/obo/dhba_11293>
+52	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum oriens of caudal ca2	<http://purl.obolibrary.org/obo/dhba_11294>
+53	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum lacunosum-moleculare of rostral ca3	<http://purl.obolibrary.org/obo/dhba_11296>
+54	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum radiatum of rostral ca3	<http://purl.obolibrary.org/obo/dhba_11297>
+55	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum pyramidale of rostral ca3	<http://purl.obolibrary.org/obo/dhba_11299>
+56	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum oriens of rostral ca3	<http://purl.obolibrary.org/obo/dhba_11300>
+57	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum lacunosum-moleculare of caudal ca3	<http://purl.obolibrary.org/obo/dhba_11302>
+58	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum radiatum of caudal ca3	<http://purl.obolibrary.org/obo/dhba_11303>
+59	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum pyramidale of caudal ca3	<http://purl.obolibrary.org/obo/dhba_11305>
+60	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum oriens of caudal ca3	<http://purl.obolibrary.org/obo/dhba_11306>
+61	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	septum pellucidum	<http://purl.obolibrary.org/obo/dhba_12098>
+62	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	roof plate of midbrain	<http://purl.obolibrary.org/obo/dhba_12320>
+63	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	cerebellar plate	<http://purl.obolibrary.org/obo/dhba_12698>
+64	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum lacunosum-moleculare of uncal ca1	<http://purl.obolibrary.org/obo/dhba_266441271>
+65	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum radiatum of uncal ca1	<http://purl.obolibrary.org/obo/dhba_266441283>
+66	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum pyramidale of uncal ca1	<http://purl.obolibrary.org/obo/dhba_266441287>
+67	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum oriens of uncal ca1	<http://purl.obolibrary.org/obo/dhba_266441291>
+68	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum lacunosum-moleculare of uncal ca2	<http://purl.obolibrary.org/obo/dhba_266441315>
+69	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum radiatum of uncal ca2	<http://purl.obolibrary.org/obo/dhba_266441327>
+70	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum pyramidale of uncal ca2	<http://purl.obolibrary.org/obo/dhba_266441331>
+71	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum oriens of uncal ca2	<http://purl.obolibrary.org/obo/dhba_266441335>
+72	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum lacunosum-moleculare of uncal ca3	<http://purl.obolibrary.org/obo/dhba_266441359>
+73	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum radiatum of uncal ca3	<http://purl.obolibrary.org/obo/dhba_266441371>
+74	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum pyramidale of uncal ca3	<http://purl.obolibrary.org/obo/dhba_266441379>
+75	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	stratum oriens of uncal ca3	<http://purl.obolibrary.org/obo/dhba_266441383>
+76	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	neural plate	<http://purl.obolibrary.org/obo/dmba_15565>
+77	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	field ca3, stratum lucidum	<http://purl.obolibrary.org/obo/dmba_16144>
+78	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r1 roof plate	<http://purl.obolibrary.org/obo/dmba_16916>
+79	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r1 floor plate	<http://purl.obolibrary.org/obo/dmba_17022>
+80	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r2 roof plate	<http://purl.obolibrary.org/obo/dmba_17024>
+81	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r2 floor plate	<http://purl.obolibrary.org/obo/dmba_17091>
+82	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r3 roof plate	<http://purl.obolibrary.org/obo/dmba_17094>
+83	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r3 floor plate	<http://purl.obolibrary.org/obo/dmba_17155>
+84	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r4 roof plate	<http://purl.obolibrary.org/obo/dmba_17157>
+85	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r4 floor plate	<http://purl.obolibrary.org/obo/dmba_17219>
+86	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r5 roof plate	<http://purl.obolibrary.org/obo/dmba_17222>
+87	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r5 floor plate	<http://purl.obolibrary.org/obo/dmba_17289>
+88	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r6 roof plate	<http://purl.obolibrary.org/obo/dmba_17291>
+89	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r6 floor plate	<http://purl.obolibrary.org/obo/dmba_17351>
+90	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r7 roof plate	<http://purl.obolibrary.org/obo/dmba_17354>
+91	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r7 floor plate	<http://purl.obolibrary.org/obo/dmba_17415>
+92	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r8 roof plate	<http://purl.obolibrary.org/obo/dmba_17417>
+93	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	r8 floor plate	<http://purl.obolibrary.org/obo/dmba_17475>
+94	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	lateral nucleus of the pulvinar, left	<http://purl.obolibrary.org/obo/hba_4413>
+95	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	dentate gyrus, subgranular zone	<http://purl.obolibrary.org/obo/mba_10702>
+96	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	field ca3, stratum lucidum	<http://purl.obolibrary.org/obo/mba_479>
+97	neural tissue	<http://purl.obolibrary.org/obo/uberon_0003714>	hippocampal stratum lucidum of ca3	<http://purl.obolibrary.org/obo/pba_10071>
+98	neural tube derived brain	<http://purl.obolibrary.org/obo/uberon_0008823>	basic cell groups and regions	<http://purl.obolibrary.org/obo/mba_8>
+99	neural tube derived brain	<http://purl.obolibrary.org/obo/uberon_0008823>	root	<http://purl.obolibrary.org/obo/mba_997>
+100	neural tube derived brain	<http://purl.obolibrary.org/obo/uberon_0008823>	brain	<http://purl.obolibrary.org/obo/pba_3999>
+101	paraventricular nucleus of the hypothalamus descending division - dorsal parvocellular part	<http://purl.obolibrary.org/obo/uberon_0014596>	paraventricular nucleus of the hypothalamus, left, descending division, dorsal parvicellular part	<http://purl.obolibrary.org/obo/hba_4577>
+102	paraventricular nucleus of the hypothalamus descending division - dorsal parvocellular part	<http://purl.obolibrary.org/obo/uberon_0014596>	paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part	<http://purl.obolibrary.org/obo/mba_439>
+103	paraventricular nucleus of the hypothalamus descending division - lateral parvocellular part	<http://purl.obolibrary.org/obo/uberon_0014597>	paraventricular nucleus of the hypothalamus, left, descending division, lateral parvicellular part	<http://purl.obolibrary.org/obo/hba_4578>
+104	paraventricular nucleus of the hypothalamus descending division - lateral parvocellular part	<http://purl.obolibrary.org/obo/uberon_0014597>	paraventricular hypothalamic nucleus, descending division, lateral parvicellular part	<http://purl.obolibrary.org/obo/mba_455>
+105	paraventricular nucleus of the hypothalamus descending division - medial parvocellular part, ventral zone	<http://purl.obolibrary.org/obo/uberon_0014595>	paraventricular nucleus of the hypothalamus, left, descending division, medial parvicellular part, ventral zone	<http://purl.obolibrary.org/obo/hba_4576>
+106	paraventricular nucleus of the hypothalamus descending division - medial parvocellular part, ventral zone	<http://purl.obolibrary.org/obo/uberon_0014595>	paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone	<http://purl.obolibrary.org/obo/mba_464>
+107	paraventricular nucleus of the hypothalamus parvocellular division	<http://purl.obolibrary.org/obo/uberon_0014604>	parvicellular division of paraventricular nucleus	<http://purl.obolibrary.org/obo/dhba_10479>
+108	paraventricular nucleus of the hypothalamus parvocellular division	<http://purl.obolibrary.org/obo/uberon_0014604>	paraventricular nucleus of the hypothalamus, left, parvicellular division	<http://purl.obolibrary.org/obo/hba_4586>
+109	paraventricular nucleus of the hypothalamus parvocellular division	<http://purl.obolibrary.org/obo/uberon_0014604>	paraventricular hypothalamic nucleus, parvicellular division	<http://purl.obolibrary.org/obo/mba_94>
+110	parvocellular part of medial dorsal nucleus	<http://purl.obolibrary.org/obo/uberon_0002654>	ventral anterior nucleus of the thalamus, left, principal division	<http://purl.obolibrary.org/obo/hba_4419>
+111	parvocellular part of ventral posteromedial nucleus	<http://purl.obolibrary.org/obo/uberon_0003018>	parvocellular division of vpm	<http://purl.obolibrary.org/obo/dhba_146034766>
+112	parvocellular part of ventral posteromedial nucleus	<http://purl.obolibrary.org/obo/uberon_0003018>	ventral posteromedial nucleus of the thalamus, parvicellular part	<http://purl.obolibrary.org/obo/mba_741>
+113	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lightly-stained cell islands of lateral olfactory area  	<http://purl.obolibrary.org/obo/dhba_266441439>
+114	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anteromedial large-celled island of md 	<http://purl.obolibrary.org/obo/dhba_266441507>
+115	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial division of central lateral nucleus 	<http://purl.obolibrary.org/obo/dhba_266441527>
+116	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	body of cc, caudal portion 	<http://purl.obolibrary.org/obo/dhba_266441575>
+117	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	meyer's loop of optic radiation 	<http://purl.obolibrary.org/obo/dhba_266441617>
+118	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral occipito-temporal area 	<http://purl.obolibrary.org/obo/dhba_267499067>
+119	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area v3b of peristriate cortex 	<http://purl.obolibrary.org/obo/dhba_267499095>
+120	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area v6 of peristriate cortex 	<http://purl.obolibrary.org/obo/dhba_267499123>
+121	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area v7 of peristriate cortex 	<http://purl.obolibrary.org/obo/dhba_267499179>
+122	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the diagonal band, right 	<http://purl.obolibrary.org/obo/hba_4316>
+123	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pallidothalamic pathway	<http://purl.obolibrary.org/obo/mba_142>
+124	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of reuniens	<http://purl.obolibrary.org/obo/mba_181>
+125	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial corticohypothalamic tract	<http://purl.obolibrary.org/obo/mba_428>
+126	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area	<http://purl.obolibrary.org/obo/mba_480149202>
+127	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149206>
+128	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149210>
+129	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149214>
+130	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149218>
+131	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149222>
+132	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149226>
+133	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area	<http://purl.obolibrary.org/obo/mba_480149230>
+134	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149234>
+135	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149238>
+136	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149242>
+137	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149246>
+138	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149250>
+139	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149254>
+140	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area	<http://purl.obolibrary.org/obo/mba_480149258>
+141	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149262>
+142	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149266>
+143	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149270>
+144	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149274>
+145	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149278>
+146	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149282>
+147	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area	<http://purl.obolibrary.org/obo/mba_480149286>
+148	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149290>
+149	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149294>
+150	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149298>
+151	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149302>
+152	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149306>
+153	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149310>
+154	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area	<http://purl.obolibrary.org/obo/mba_480149314>
+155	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149318>
+156	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149322>
+157	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149326>
+158	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149330>
+159	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149334>
+160	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149338>
+161	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum	<http://purl.obolibrary.org/obo/mba_484682470>
+162	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, dorsal part	<http://purl.obolibrary.org/obo/mba_484682475>
+163	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, dorsal part, molecular layer	<http://purl.obolibrary.org/obo/mba_484682479>
+164	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, dorsal part, pyramidal layer	<http://purl.obolibrary.org/obo/mba_484682483>
+165	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, dorsal part, stratum radiatum	<http://purl.obolibrary.org/obo/mba_484682487>
+166	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, ventral part	<http://purl.obolibrary.org/obo/mba_484682492>
+167	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, ventral part, molecular layer	<http://purl.obolibrary.org/obo/mba_484682496>
+168	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, ventral part, pyramidal layer	<http://purl.obolibrary.org/obo/mba_484682500>
+169	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, ventral part, stratum radiatum	<http://purl.obolibrary.org/obo/mba_484682504>
+170	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area prostriata	<http://purl.obolibrary.org/obo/mba_484682508>
+171	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	supra-callosal cerebral white matter	<http://purl.obolibrary.org/obo/mba_484682512>
+172	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	corpus callosum, body	<http://purl.obolibrary.org/obo/mba_484682516>
+173	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	optic radiation	<http://purl.obolibrary.org/obo/mba_484682520>
+174	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	auditory radiation	<http://purl.obolibrary.org/obo/mba_484682524>
+175	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	commissural branch of stria terminalis	<http://purl.obolibrary.org/obo/mba_484682528>
+176	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal part of the lateral geniculate complex, shell	<http://purl.obolibrary.org/obo/mba_496345664>
+177	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal part of the lateral geniculate complex, core	<http://purl.obolibrary.org/obo/mba_496345668>
+178	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal part of the lateral geniculate complex, ipsilateral zone	<http://purl.obolibrary.org/obo/mba_496345672>
+179	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal pole, layer 5	<http://purl.obolibrary.org/obo/mba_526157192>
+180	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal pole, layer 6a	<http://purl.obolibrary.org/obo/mba_526157196>
+181	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal pole, layer 6b	<http://purl.obolibrary.org/obo/mba_526322264>
+182	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	orbital area, medial part, layer 6b	<http://purl.obolibrary.org/obo/mba_527696977>
+183	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral strip of striatum	<http://purl.obolibrary.org/obo/mba_549009199>
+184	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retroparafascicular nucleus	<http://purl.obolibrary.org/obo/mba_549009203>
+185	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intercollicular nucleus	<http://purl.obolibrary.org/obo/mba_549009207>
+186	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial accesory oculomotor nucleus	<http://purl.obolibrary.org/obo/mba_549009211>
+187	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	peritrigeminal zone	<http://purl.obolibrary.org/obo/mba_549009215>
+188	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	accessory trigeminal nucleus	<http://purl.obolibrary.org/obo/mba_549009219>
+189	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parvicellular motor 5 nucleus	<http://purl.obolibrary.org/obo/mba_549009223>
+190	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intertrigeminal nucleus	<http://purl.obolibrary.org/obo/mba_549009227>
+191	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ethmoid nucleus of the thalamus	<http://purl.obolibrary.org/obo/mba_560581551>
+192	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retroethmoid nucleus	<http://purl.obolibrary.org/obo/mba_560581555>
+193	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	xiphoid thalamic nucleus	<http://purl.obolibrary.org/obo/mba_560581559>
+194	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior intralaminar thalamic nucleus	<http://purl.obolibrary.org/obo/mba_560581563>
+195	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior triangular thalamic nucleus	<http://purl.obolibrary.org/obo/mba_563807435>
+196	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate geniculate nucleus	<http://purl.obolibrary.org/obo/mba_563807439>
+197	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventromedial preoptic nucleus	<http://purl.obolibrary.org/obo/mba_576073699>
+198	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	perifornical nucleus	<http://purl.obolibrary.org/obo/mba_576073704>
+199	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampo-amygdalar transition area	<http://purl.obolibrary.org/obo/mba_589508447>
+200	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paratrigeminal nucleus	<http://purl.obolibrary.org/obo/mba_589508451>
+201	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vestibulocerebellar nucleus	<http://purl.obolibrary.org/obo/mba_589508455>
+202	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subcommissural organ	<http://purl.obolibrary.org/obo/mba_599626923>
+203	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterodorsal tegmental nucleus	<http://purl.obolibrary.org/obo/mba_599626927>
+204	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial mammillary nucleus, lateral part	<http://purl.obolibrary.org/obo/mba_606826647>
+205	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial mammillary nucleus, medial part	<http://purl.obolibrary.org/obo/mba_606826651>
+206	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial mammillary nucleus, posterior part	<http://purl.obolibrary.org/obo/mba_606826655>
+207	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial mammillary nucleus, dorsal part	<http://purl.obolibrary.org/obo/mba_606826659>
+208	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paratrochlear nucleus	<http://purl.obolibrary.org/obo/mba_606826663>
+209	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paranigral nucleus	<http://purl.obolibrary.org/obo/mba_607344830>
+210	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, rostral	<http://purl.obolibrary.org/obo/mba_607344834>
+211	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, caudal	<http://purl.obolibrary.org/obo/mba_607344838>
+212	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, apical	<http://purl.obolibrary.org/obo/mba_607344842>
+213	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, lateral	<http://purl.obolibrary.org/obo/mba_607344846>
+214	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, intermediate	<http://purl.obolibrary.org/obo/mba_607344850>
+215	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, dorsomedial	<http://purl.obolibrary.org/obo/mba_607344854>
+216	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, dorsolateral	<http://purl.obolibrary.org/obo/mba_607344858>
+217	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, rostrolateral	<http://purl.obolibrary.org/obo/mba_607344862>
+218	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	supraoculomotor periaqueductal gray	<http://purl.obolibrary.org/obo/mba_614454277>
+219	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mammillothalamic tract	<http://purl.obolibrary.org/obo/mba_690>
+220	reuniens nucleus	<http://purl.obolibrary.org/obo/uberon_0001921>	nucleus of reuniens	<http://purl.obolibrary.org/obo/mba_181>
+221	stria of telencephalon	<http://purl.obolibrary.org/obo/uberon_0016555>	dorsal acoustic stria	<http://purl.obolibrary.org/obo/dhba_12733>
+222	stria of telencephalon	<http://purl.obolibrary.org/obo/uberon_0016555>	intermediate acoustic stria	<http://purl.obolibrary.org/obo/dhba_12755>
+223	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in frontal neocortex	<http://purl.obolibrary.org/obo/dhba_10543>
+224	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in occipital neocortex	<http://purl.obolibrary.org/obo/dhba_10544>
+225	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in parietal neocortex	<http://purl.obolibrary.org/obo/dhba_10545>
+226	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in temporal neocortex	<http://purl.obolibrary.org/obo/dhba_10546>
+227	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in allocortex	<http://purl.obolibrary.org/obo/dhba_10547>
+228	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in periallocortex	<http://purl.obolibrary.org/obo/dhba_10548>
+229	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in postamygdaloid region	<http://purl.obolibrary.org/obo/dhba_10553>
+230	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in thalamic region	<http://purl.obolibrary.org/obo/dhba_10554>
+231	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in hypothalamic portion	<http://purl.obolibrary.org/obo/dhba_10555>
+232	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	forebrain commissural fiber tracts	<http://purl.obolibrary.org/obo/dhba_10558>
+233	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	forebrain ipsilateral fiber tracts	<http://purl.obolibrary.org/obo/dhba_10568>
+234	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in dorsomedial frontal cortex	<http://purl.obolibrary.org/obo/dhba_11988>
+235	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in orbital frontal cortex	<http://purl.obolibrary.org/obo/dhba_11989>
+236	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in posteror frontal cortex (motor cortex)	<http://purl.obolibrary.org/obo/dhba_11990>
+237	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in dorsolateral prefrontal cortex	<http://purl.obolibrary.org/obo/dhba_11991>
+238	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in ventrolateral prefrontal cortex	<http://purl.obolibrary.org/obo/dhba_11992>
+239	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in frontal polar cortex	<http://purl.obolibrary.org/obo/dhba_11993>
+240	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in primary visual cortex	<http://purl.obolibrary.org/obo/dhba_11994>
+241	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in dorsomedial extrastriate cortex (v2)	<http://purl.obolibrary.org/obo/dhba_11995>
+242	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in ventromedial extrastriate cortex (vp)	<http://purl.obolibrary.org/obo/dhba_11996>
+243	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in midlateral extrastriate cortex (area 19)	<http://purl.obolibrary.org/obo/dhba_11997>
+244	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in primary somatosensory cortex	<http://purl.obolibrary.org/obo/dhba_11998>
+245	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in posterosuperior (dorsal) parietal cortex	<http://purl.obolibrary.org/obo/dhba_11999>
+246	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in posteroinferior (ventral) parietal cortex	<http://purl.obolibrary.org/obo/dhba_12000>
+247	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in dorsomedial parietal cortex (area 7m)	<http://purl.obolibrary.org/obo/dhba_12001>
+248	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in primary auditory cortex	<http://purl.obolibrary.org/obo/dhba_12002>
+249	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in superolateral temporal cortex	<http://purl.obolibrary.org/obo/dhba_12003>
+250	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in inferolateral temporal cortex	<http://purl.obolibrary.org/obo/dhba_12004>
+251	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in midinferior temporal cortex	<http://purl.obolibrary.org/obo/dhba_12005>
+252	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in posterior parahippocampal cortex	<http://purl.obolibrary.org/obo/dhba_12006>
+253	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in medial temporal-occipital cortex	<http://purl.obolibrary.org/obo/dhba_12007>
+254	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in lateral temporal-occipital cortex	<http://purl.obolibrary.org/obo/dhba_12008>
+255	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in temporal polar cortex	<http://purl.obolibrary.org/obo/dhba_12009>
+256	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in cingulate neocortex	<http://purl.obolibrary.org/obo/dhba_12010>
+257	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in rostral cingulate neocortex	<http://purl.obolibrary.org/obo/dhba_12011>
+258	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in midcingulate neocortex	<http://purl.obolibrary.org/obo/dhba_12012>
+259	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in caudal cingulate neocortex	<http://purl.obolibrary.org/obo/dhba_12013>
+260	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in subgenual cingulate neocortex	<http://purl.obolibrary.org/obo/dhba_12014>
+261	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in hippocampal proper	<http://purl.obolibrary.org/obo/dhba_12015>
+262	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in subicular cortex	<http://purl.obolibrary.org/obo/dhba_12016>
+263	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in presubicular cortex	<http://purl.obolibrary.org/obo/dhba_12017>
+264	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in caudal entorhinal cortex	<http://purl.obolibrary.org/obo/dhba_12018>
+265	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in perirhinal cortex	<http://purl.obolibrary.org/obo/dhba_12019>
+266	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in retrosplenial cortex	<http://purl.obolibrary.org/obo/dhba_12020>
+267	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	supramamillary commissure	<http://purl.obolibrary.org/obo/dhba_12028>
+268	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	amygdalotegmental tract	<http://purl.obolibrary.org/obo/dhba_12029>
+269	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corticopallidal tract	<http://purl.obolibrary.org/obo/dhba_12031>
+270	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corticostriate tract	<http://purl.obolibrary.org/obo/dhba_12032>
+271	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	dentatopallidal tract	<http://purl.obolibrary.org/obo/dhba_12033>
+272	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	dorsal occipital bundle	<http://purl.obolibrary.org/obo/dhba_12036>
+273	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	hypothalamo-hypophyseal tract	<http://purl.obolibrary.org/obo/dhba_12041>
+274	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	middle longitudinal fasciculus	<http://purl.obolibrary.org/obo/dhba_12067>
+275	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	nigropallidal tract	<http://purl.obolibrary.org/obo/dhba_12068>
+276	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	nigrostriate tract	<http://purl.obolibrary.org/obo/dhba_12069>
+277	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	subcallosal fasciculus	<http://purl.obolibrary.org/obo/dhba_12072>
+278	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	pallidonigral tract	<http://purl.obolibrary.org/obo/dhba_12077>
+279	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	pallidotegmental tract	<http://purl.obolibrary.org/obo/dhba_12078>
+280	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	pallidothalamic tract	<http://purl.obolibrary.org/obo/dhba_12079>
+281	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	pontine bundle	<http://purl.obolibrary.org/obo/dhba_12081>
+282	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	striopallidal tract	<http://purl.obolibrary.org/obo/dhba_12086>
+283	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	strionigral tract	<http://purl.obolibrary.org/obo/dhba_12087>
+284	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	striothalamic tract	<http://purl.obolibrary.org/obo/dhba_12088>
+285	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	thalamopallidal tract	<http://purl.obolibrary.org/obo/dhba_12090>
+286	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	thalamostriate tract	<http://purl.obolibrary.org/obo/dhba_12091>
+287	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	tuberoinfundibular path	<http://purl.obolibrary.org/obo/dhba_12092>
+288	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	ventral amygdaloid efferent path	<http://purl.obolibrary.org/obo/dhba_12093>
+289	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	brachium of inferior colliculus	<http://purl.obolibrary.org/obo/dhba_12327>
+290	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	brachium of superior colliculus	<http://purl.obolibrary.org/obo/dhba_12328>
+291	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	central tegmental tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12329>
+292	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	cerebral peduncle (crus cerebri)	<http://purl.obolibrary.org/obo/dhba_12330>
+293	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corticopontine fibers, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12331>
+294	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	pyramidal tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12332>
+295	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rubro-olivary tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12334>
+296	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corticomesencephalic fibers	<http://purl.obolibrary.org/obo/dhba_12335>
+297	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	decussation of  rubrospinal tract	<http://purl.obolibrary.org/obo/dhba_12336>
+298	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	dorsal longitudinal fasciculus, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12339>
+299	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	dorsal tegmental decussation	<http://purl.obolibrary.org/obo/dhba_12340>
+300	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	dorsal trigeminothalamic tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12341>
+301	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	fasciculus retroflexus (habenuno-interpeduncular tract)	<http://purl.obolibrary.org/obo/dhba_12342>
+302	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	hypothalamospinal fibers, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12343>
+303	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	interpedunculotegmental tract	<http://purl.obolibrary.org/obo/dhba_12344>
+304	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	interstitiospinal tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12345>
+305	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	lateral lemniscus, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12346>
+306	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial lemniscus, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12347>
+307	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial longitudinal fasciculus, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12348>
+308	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial tegmental tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12349>
+309	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mesencephalic trigeminal tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12350>
+310	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rubrobulbar (rubronuclear) tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12351>
+311	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rubrospinal tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12352>
+312	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	spinal lemniscus, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12353>
+313	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	tectobulbar tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12362>
+314	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	tecto-olivary fibers	<http://purl.obolibrary.org/obo/dhba_12363>
+315	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	tectospinal tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12365>
+316	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	ventral tegmental decussation	<http://purl.obolibrary.org/obo/dhba_12366>
+317	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	ventral trigeminothalamic tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_12367>
+318	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	white matter of tegmentum	<http://purl.obolibrary.org/obo/dhba_12368>
+319	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in extrastriate cortex	<http://purl.obolibrary.org/obo/dhba_13179>
+320	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in area prostriata	<http://purl.obolibrary.org/obo/dhba_13180>
+321	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in polysensory temporal cortex	<http://purl.obolibrary.org/obo/dhba_13181>
+322	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in midlateral temporal cortex	<http://purl.obolibrary.org/obo/dhba_13182>
+323	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in rostral midinferior temporal cortex (area 36)	<http://purl.obolibrary.org/obo/dhba_13183>
+324	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in caudal midinferior temporal cortex (area tf)	<http://purl.obolibrary.org/obo/dhba_13184>
+325	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in parainsular temporal cortex	<http://purl.obolibrary.org/obo/dhba_13185>
+326	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in rostal hippocampal proper	<http://purl.obolibrary.org/obo/dhba_13186>
+327	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in caudal hippocampal proper	<http://purl.obolibrary.org/obo/dhba_13187>
+328	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in rostral subicular cortex	<http://purl.obolibrary.org/obo/dhba_13188>
+329	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in caudal subicular cortex	<http://purl.obolibrary.org/obo/dhba_13189>
+330	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in rostral presubicular cortex	<http://purl.obolibrary.org/obo/dhba_13190>
+331	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in caudal presubicular cortex	<http://purl.obolibrary.org/obo/dhba_13191>
+332	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in entorhinal cortex	<http://purl.obolibrary.org/obo/dhba_13192>
+333	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in medial (posterior) entorhinal cortex	<http://purl.obolibrary.org/obo/dhba_13193>
+334	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in lateral (anterior) entorhinal cortex	<http://purl.obolibrary.org/obo/dhba_13194>
+335	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in rostral entorhinal cortex	<http://purl.obolibrary.org/obo/dhba_13195>
+336	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in rostral perirhinal cortex	<http://purl.obolibrary.org/obo/dhba_13196>
+337	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in caudal perirhinal cortex	<http://purl.obolibrary.org/obo/dhba_13197>
+338	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	comb fibers	<http://purl.obolibrary.org/obo/dhba_13215>
+339	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	supraoptic dicussation	<http://purl.obolibrary.org/obo/dhba_13216>
+340	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer vz in dorsolateral prefrontal cortex	<http://purl.obolibrary.org/obo/dhba_13289>
+341	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner vz in dorsolateral prefrontal cortex	<http://purl.obolibrary.org/obo/dhba_13290>
+342	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer vz in posteror frontal cortex (motor cortex)	<http://purl.obolibrary.org/obo/dhba_13291>
+343	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner vz in posteror frontal cortex (motor cortex)	<http://purl.obolibrary.org/obo/dhba_13292>
+344	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer vz in primary somatosensory cortex	<http://purl.obolibrary.org/obo/dhba_13293>
+345	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner vz in primary somatosensory cortex	<http://purl.obolibrary.org/obo/dhba_13294>
+346	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer vz in posteroinferior (ventral) parietal cortex	<http://purl.obolibrary.org/obo/dhba_13295>
+347	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner vz in posteroinferior (ventral) parietal cortex	<http://purl.obolibrary.org/obo/dhba_13296>
+348	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer vz in inferolateral temporal cortex	<http://purl.obolibrary.org/obo/dhba_13297>
+349	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner vz in inferolateral temporal cortex	<http://purl.obolibrary.org/obo/dhba_13298>
+350	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer vz in caudal midinferior temporal cortex (area tf)	<http://purl.obolibrary.org/obo/dhba_13299>
+351	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner vz in caudal midinferior temporal cortex (area tf)	<http://purl.obolibrary.org/obo/dhba_13300>
+352	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer vz in posterior parahippocampal cortex	<http://purl.obolibrary.org/obo/dhba_13301>
+353	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner vz in posterior parahippocampal cortex	<http://purl.obolibrary.org/obo/dhba_13302>
+354	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer vz in primary visual cortex	<http://purl.obolibrary.org/obo/dhba_13303>
+355	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner vz in primary visual cortex	<http://purl.obolibrary.org/obo/dhba_13304>
+356	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	lge-vz border region	<http://purl.obolibrary.org/obo/dhba_13305>
+357	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer portion of lateral ganglionic eminence	<http://purl.obolibrary.org/obo/dhba_13306>
+358	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner portion of lateral ganglionic eminence	<http://purl.obolibrary.org/obo/dhba_13307>
+359	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mge-lateral region	<http://purl.obolibrary.org/obo/dhba_13308>
+360	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer portion of medial ganglionic eminence	<http://purl.obolibrary.org/obo/dhba_13309>
+361	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner portion of medial ganglionic eminence	<http://purl.obolibrary.org/obo/dhba_13310>
+362	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	outer portion of caudal ganglionic eminence	<http://purl.obolibrary.org/obo/dhba_13311>
+363	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	inner portion of caudal ganglionic eminence	<http://purl.obolibrary.org/obo/dhba_13312>
+364	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in septal region	<http://purl.obolibrary.org/obo/dhba_13313>
+365	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in subcallosal region	<http://purl.obolibrary.org/obo/dhba_13314>
+366	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	dorsal fasciculus of spinal cord	<http://purl.obolibrary.org/obo/dhba_146035092>
+367	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	lateral fasciculus of spinal cord	<http://purl.obolibrary.org/obo/dhba_146035096>
+368	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	posterior lateral tract of spinal cord	<http://purl.obolibrary.org/obo/dhba_146035100>
+369	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	ventral fasciculus of spinal cord	<http://purl.obolibrary.org/obo/dhba_146035104>
+370	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in dorsolateral temporal cortex	<http://purl.obolibrary.org/obo/dhba_15511>
+371	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vz in ventrolateral temporal cortex	<http://purl.obolibrary.org/obo/dhba_15512>
+372	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	bundle x	<http://purl.obolibrary.org/obo/dhba_15538>
+373	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	short association fibers	<http://purl.obolibrary.org/obo/dhba_15545>
+374	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	lightly-stained cell islands of lateral olfactory area  	<http://purl.obolibrary.org/obo/dhba_266441439>
+375	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	body of cc, caudal portion 	<http://purl.obolibrary.org/obo/dhba_266441575>
+376	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	angular bundle	<http://purl.obolibrary.org/obo/dhba_266441587>
+377	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	ansa peduncularis	<http://purl.obolibrary.org/obo/dhba_266441591>
+378	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corticobulbar tract, supracapsular part	<http://purl.obolibrary.org/obo/dhba_266441595>
+379	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial corticohypothalamic tract	<http://purl.obolibrary.org/obo/dhba_266441613>
+380	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	meyer's loop of optic radiation 	<http://purl.obolibrary.org/obo/dhba_266441617>
+381	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	orbito-polar tract	<http://purl.obolibrary.org/obo/dhba_266441625>
+382	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	perpendicular fasciculus	<http://purl.obolibrary.org/obo/dhba_266441629>
+383	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	superficial presubicular path	<http://purl.obolibrary.org/obo/dhba_266441637>
+384	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	temporopulvinar bundle	<http://purl.obolibrary.org/obo/dhba_266441653>
+385	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	frontal pontine fibers, midbrain portion	<http://purl.obolibrary.org/obo/dhba_266441693>
+386	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	parieto-occipito-temporal pontine fibers, midbrain portion	<http://purl.obolibrary.org/obo/dhba_266441697>
+387	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corticobulbar tract, midbrain portion	<http://purl.obolibrary.org/obo/dhba_266441701>
+388	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	lateral occipito-temporal area 	<http://purl.obolibrary.org/obo/dhba_267499067>
+389	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	area v3b of peristriate cortex 	<http://purl.obolibrary.org/obo/dhba_267499095>
+390	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	area v6 of peristriate cortex 	<http://purl.obolibrary.org/obo/dhba_267499123>
+391	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	area v7 of peristriate cortex 	<http://purl.obolibrary.org/obo/dhba_267499179>
+392	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	brachium of the inferior colliculus	<http://purl.obolibrary.org/obo/hba_265505386>
+393	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	brachium of the inferior colliculus, left	<http://purl.obolibrary.org/obo/hba_265505390>
+394	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	brachium of the inferior colliculus, right	<http://purl.obolibrary.org/obo/hba_265505394>
+395	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	brachium of the superior colliculus	<http://purl.obolibrary.org/obo/hba_265505398>
+396	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	brachium of the superior colliculus, left	<http://purl.obolibrary.org/obo/hba_265505402>
+397	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	brachium of the superior colliculus, right	<http://purl.obolibrary.org/obo/hba_265505406>
+398	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	central tegmental tract, midbrain portion	<http://purl.obolibrary.org/obo/hba_265505410>
+399	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	central tegmental tract, midbrain portion, left	<http://purl.obolibrary.org/obo/hba_265505414>
+400	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	central tegmental tract, midbrain portion, right	<http://purl.obolibrary.org/obo/hba_265505418>
+401	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	cerebral peduncle (crus cerebri)	<http://purl.obolibrary.org/obo/hba_265505422>
+402	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	cerebral peduncle (crus cerebri), left	<http://purl.obolibrary.org/obo/hba_265505426>
+403	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	cerebral peduncle (crus cerebri), right	<http://purl.obolibrary.org/obo/hba_265505430>
+404	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	commissure of the inferior colliculus, left	<http://purl.obolibrary.org/obo/hba_265505438>
+405	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	commissure of the inferior colliculus, right	<http://purl.obolibrary.org/obo/hba_265505442>
+406	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corticobulbar tract, midbrain portion	<http://purl.obolibrary.org/obo/hba_265505446>
+407	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corticobulbar tract, midbrain portion, left	<http://purl.obolibrary.org/obo/hba_265505450>
+408	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corticobulbar tract, midbrain portion, right	<http://purl.obolibrary.org/obo/hba_265505454>
+409	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	nucleus of the diagonal band, right 	<http://purl.obolibrary.org/obo/hba_4316>
+410	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial corticohypothalamic tract	<http://purl.obolibrary.org/obo/mba_428>
+411	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rostrolateral lateral visual area	<http://purl.obolibrary.org/obo/mba_480149202>
+412	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rostrolateral lateral visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149206>
+413	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rostrolateral lateral visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149210>
+414	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rostrolateral lateral visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149214>
+415	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rostrolateral lateral visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149218>
+416	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rostrolateral lateral visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149222>
+417	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	rostrolateral lateral visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149226>
+418	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	laterolateral anterior visual area	<http://purl.obolibrary.org/obo/mba_480149230>
+419	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	laterolateral anterior visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149234>
+420	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	laterolateral anterior visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149238>
+421	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	laterolateral anterior visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149242>
+422	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	laterolateral anterior visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149246>
+423	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	laterolateral anterior visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149250>
+424	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	laterolateral anterior visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149254>
+425	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial anterior visual area	<http://purl.obolibrary.org/obo/mba_480149258>
+426	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial anterior visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149262>
+427	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial anterior visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149266>
+428	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial anterior visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149270>
+429	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial anterior visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149274>
+430	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial anterior visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149278>
+431	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial anterior visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149282>
+432	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial posterior visual area	<http://purl.obolibrary.org/obo/mba_480149286>
+433	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial posterior visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149290>
+434	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial posterior visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149294>
+435	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial posterior visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149298>
+436	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial posterior visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149302>
+437	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial posterior visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149306>
+438	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	mediomedial posterior visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149310>
+439	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial visual area	<http://purl.obolibrary.org/obo/mba_480149314>
+440	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149318>
+441	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149322>
+442	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149326>
+443	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149330>
+444	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149334>
+445	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	medial visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149338>
+446	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	prosubiculum	<http://purl.obolibrary.org/obo/mba_484682470>
+447	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	prosubiculum, dorsal part	<http://purl.obolibrary.org/obo/mba_484682475>
+448	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	prosubiculum, dorsal part, molecular layer	<http://purl.obolibrary.org/obo/mba_484682479>
+449	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	prosubiculum, dorsal part, pyramidal layer	<http://purl.obolibrary.org/obo/mba_484682483>
+450	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	prosubiculum, dorsal part, stratum radiatum	<http://purl.obolibrary.org/obo/mba_484682487>
+451	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	prosubiculum, ventral part	<http://purl.obolibrary.org/obo/mba_484682492>
+452	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	prosubiculum, ventral part, molecular layer	<http://purl.obolibrary.org/obo/mba_484682496>
+453	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	prosubiculum, ventral part, pyramidal layer	<http://purl.obolibrary.org/obo/mba_484682500>
+454	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	prosubiculum, ventral part, stratum radiatum	<http://purl.obolibrary.org/obo/mba_484682504>
+455	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	area prostriata	<http://purl.obolibrary.org/obo/mba_484682508>
+456	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	corpus callosum, body	<http://purl.obolibrary.org/obo/mba_484682516>
+457	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	commissural branch of stria terminalis	<http://purl.obolibrary.org/obo/mba_484682528>
+458	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	frontal pole, layer 5	<http://purl.obolibrary.org/obo/mba_526157192>
+459	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	frontal pole, layer 6a	<http://purl.obolibrary.org/obo/mba_526157196>
+460	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	frontal pole, layer 6b	<http://purl.obolibrary.org/obo/mba_526322264>
+461	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	orbital area, medial part, layer 6b	<http://purl.obolibrary.org/obo/mba_527696977>
+462	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	lateral strip of striatum	<http://purl.obolibrary.org/obo/mba_549009199>
+463	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	peritrigeminal zone	<http://purl.obolibrary.org/obo/mba_549009215>
+464	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	accessory trigeminal nucleus	<http://purl.obolibrary.org/obo/mba_549009219>
+465	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	parvicellular motor 5 nucleus	<http://purl.obolibrary.org/obo/mba_549009223>
+466	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	intertrigeminal nucleus	<http://purl.obolibrary.org/obo/mba_549009227>
+467	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	hippocampo-amygdalar transition area	<http://purl.obolibrary.org/obo/mba_589508447>
+468	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	paratrigeminal nucleus	<http://purl.obolibrary.org/obo/mba_589508451>
+469	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	vestibulocerebellar nucleus	<http://purl.obolibrary.org/obo/mba_589508455>
+470	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	posterodorsal tegmental nucleus	<http://purl.obolibrary.org/obo/mba_599626927>
+471	structure with developmental contribution from neural crest	<http://purl.obolibrary.org/obo/uberon_0010314>	accessory spinal nerve	<http://purl.obolibrary.org/obo/mba_717>
+472	vasculature of head	<http://purl.obolibrary.org/obo/uberon_0002200>	choroid plexus of lateral ventricle	<http://purl.obolibrary.org/obo/dhba_10601>
+473	vasculature of head	<http://purl.obolibrary.org/obo/uberon_0002200>	choroid plexus of the fourth ventricle	<http://purl.obolibrary.org/obo/dhba_12808>
+474	vasculature of head	<http://purl.obolibrary.org/obo/uberon_0002200>	choroid plexus of the lateral ventricle	<http://purl.obolibrary.org/obo/hba_9708>
+475	vasculature of head	<http://purl.obolibrary.org/obo/uberon_0002200>	choroid plexus of the third ventricle	<http://purl.obolibrary.org/obo/hba_9709>
+476	vasculature of head	<http://purl.obolibrary.org/obo/uberon_0002200>	choroid plexus of the fourth ventricle	<http://purl.obolibrary.org/obo/hba_9710>
+477	vasculature of head	<http://purl.obolibrary.org/obo/uberon_0002200>	choroid plexus	<http://purl.obolibrary.org/obo/mba_108>
+478	white matter lamina of cerebral hemisphere	<http://purl.obolibrary.org/obo/uberon_0014532>	external medullary lamina of thalamus	<http://purl.obolibrary.org/obo/dhba_12038>
+479	white matter lamina of cerebral hemisphere	<http://purl.obolibrary.org/obo/uberon_0014532>	internal medullary lamina of thalamus	<http://purl.obolibrary.org/obo/dhba_12063>
+480	white matter lamina of cerebral hemisphere	<http://purl.obolibrary.org/obo/uberon_0014532>	external medullary lamina of thalamus	<http://purl.obolibrary.org/obo/hba_265505098>
+481	white matter lamina of cerebral hemisphere	<http://purl.obolibrary.org/obo/uberon_0014532>	internal medullary lamina of thalamus	<http://purl.obolibrary.org/obo/hba_265505134>
