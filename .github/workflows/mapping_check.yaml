@@ -1,0 +1,29 @@
+name: Validate Mappings
+
+# Controls when the action will run.
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    paths:
+      - 'src/robot_templates/CCF_to_UBERON.tsv'
+      - '.github/workflows/mapping_check.yaml'
+      - 'src/scripts/mapping_template_validator.py'
+  pull_request:
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  validate-mappings:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: validate mappings
+        run: python ./src/scripts/mapping_template_validator.py

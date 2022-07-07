@@ -1,0 +1,15 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+
+SELECT DISTINCT ?term ?label
+WHERE {
+    ?term a owl:Class .
+    ?term rdfs:label ?label .
+
+    FILTER (STRSTARTS(STR(?term), "http://purl.obolibrary.org/obo/MBA_") || STRSTARTS(STR(?term), "http://purl.obolibrary.org/obo/DMBA_")
+    || STRSTARTS(STR(?term), "http://purl.obolibrary.org/obo/ABA_") || STRSTARTS(STR(?term), "http://purl.obolibrary.org/obo/DHBA_")
+    || STRSTARTS(STR(?term), "http://purl.obolibrary.org/obo/HBA_") || STRSTARTS(STR(?term), "http://purl.obolibrary.org/obo/PBA_"))
+}

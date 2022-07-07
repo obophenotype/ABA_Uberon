@@ -1,0 +1,1242 @@
+V1	V2	V3	V4
+1	meyer's loop of optic radiation	<http://purl.obolibrary.org/obo/uberon_0035935>	meyer's loop of optic radiation 	<http://purl.obolibrary.org/obo/hba_265505214>
+2	paraventricular nucleus of the hypothalamus descending division - dorsal parvocellular part	<http://purl.obolibrary.org/obo/uberon_0014596>	paraventricular nucleus of the hypothalamus, left, descending division, dorsal parvicellular part	<http://purl.obolibrary.org/obo/hba_4577>
+3	paraventricular nucleus of the hypothalamus descending division - dorsal parvocellular part	<http://purl.obolibrary.org/obo/uberon_0014596>	paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part	<http://purl.obolibrary.org/obo/mba_439>
+4	paraventricular nucleus of the hypothalamus descending division - lateral parvocellular part	<http://purl.obolibrary.org/obo/uberon_0014597>	paraventricular nucleus of the hypothalamus, left, descending division, lateral parvicellular part	<http://purl.obolibrary.org/obo/hba_4578>
+5	paraventricular nucleus of the hypothalamus descending division - lateral parvocellular part	<http://purl.obolibrary.org/obo/uberon_0014597>	paraventricular hypothalamic nucleus, descending division, lateral parvicellular part	<http://purl.obolibrary.org/obo/mba_455>
+6	paraventricular nucleus of the hypothalamus descending division - medial parvocellular part, ventral zone	<http://purl.obolibrary.org/obo/uberon_0014595>	paraventricular nucleus of the hypothalamus, left, descending division, medial parvicellular part, ventral zone	<http://purl.obolibrary.org/obo/hba_4576>
+7	paraventricular nucleus of the hypothalamus descending division - medial parvocellular part, ventral zone	<http://purl.obolibrary.org/obo/uberon_0014595>	paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone	<http://purl.obolibrary.org/obo/mba_464>
+8	paraventricular nucleus of the hypothalamus parvocellular division	<http://purl.obolibrary.org/obo/uberon_0014604>	parvicellular division of paraventricular nucleus	<http://purl.obolibrary.org/obo/dhba_10479>
+9	paraventricular nucleus of the hypothalamus parvocellular division	<http://purl.obolibrary.org/obo/uberon_0014604>	paraventricular nucleus of the hypothalamus, left, parvicellular division	<http://purl.obolibrary.org/obo/hba_4586>
+10	paraventricular nucleus of the hypothalamus parvocellular division	<http://purl.obolibrary.org/obo/uberon_0014604>	paraventricular hypothalamic nucleus, parvicellular division	<http://purl.obolibrary.org/obo/mba_94>
+11	parvocellular part of medial dorsal nucleus	<http://purl.obolibrary.org/obo/uberon_0002654>	ventral anterior nucleus of the thalamus, left, principal division	<http://purl.obolibrary.org/obo/hba_4419>
+12	parvocellular part of ventral posteromedial nucleus	<http://purl.obolibrary.org/obo/uberon_0003018>	parvocellular division of vpm	<http://purl.obolibrary.org/obo/dhba_146034766>
+13	parvocellular part of ventral posteromedial nucleus	<http://purl.obolibrary.org/obo/uberon_0003018>	ventral posteromedial nucleus of the thalamus, parvicellular part	<http://purl.obolibrary.org/obo/mba_741>
+14	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	forebrain (prosencephalon)	<http://purl.obolibrary.org/obo/dhba_10156>
+15	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	gray matter of forebrain	<http://purl.obolibrary.org/obo/dhba_10157>
+16	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	telencephalon	<http://purl.obolibrary.org/obo/dhba_10158>
+17	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	neocortex (isocortex)	<http://purl.obolibrary.org/obo/dhba_10160>
+18	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal neocortex	<http://purl.obolibrary.org/obo/dhba_10161>
+19	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior frontal cortex (motor cortex)	<http://purl.obolibrary.org/obo/dhba_10162>
+20	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	premotor cortex (area 6)	<http://purl.obolibrary.org/obo/dhba_10168>
+21	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prefrontal cortex	<http://purl.obolibrary.org/obo/dhba_10172>
+22	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsolateral prefrontal cortex	<http://purl.obolibrary.org/obo/dhba_10173>
+23	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parietal neocortex	<http://purl.obolibrary.org/obo/dhba_10208>
+24	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary somatosensory cortex (area s1, areas 3,1,2)	<http://purl.obolibrary.org/obo/dhba_10209>
+25	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior parietal cortex	<http://purl.obolibrary.org/obo/dhba_10214>
+26	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterodorsal (superior) parietal cortex	<http://purl.obolibrary.org/obo/dhba_10215>
+27	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	temporal neocortex	<http://purl.obolibrary.org/obo/dhba_10235>
+28	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary auditory cortex (core)	<http://purl.obolibrary.org/obo/dhba_10236>
+29	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	secondary auditory cortex (belt, area 42)	<http://purl.obolibrary.org/obo/dhba_10239>
+30	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	occipital neocortex	<http://purl.obolibrary.org/obo/dhba_10268>
+31	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parastriate cortex (area v2, area 18)	<http://purl.obolibrary.org/obo/dhba_10271>
+32	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cingulate neocortex	<http://purl.obolibrary.org/obo/dhba_10277>
+33	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior (caudal) cingulate cortex	<http://purl.obolibrary.org/obo/dhba_10285>
+34	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	insular neocortex	<http://purl.obolibrary.org/obo/dhba_10288>
+35	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dysgranular insular cortex	<http://purl.obolibrary.org/obo/dhba_10289>
+36	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular insular cortex	<http://purl.obolibrary.org/obo/dhba_10290>
+37	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	allocortex	<http://purl.obolibrary.org/obo/dhba_10292>
+38	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	archicortex	<http://purl.obolibrary.org/obo/dhba_10293>
+39	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampus (hippocampal formation)	<http://purl.obolibrary.org/obo/dhba_10294>
+40	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dentate area (dentate gyrus)	<http://purl.obolibrary.org/obo/dhba_10295>
+41	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampal proper	<http://purl.obolibrary.org/obo/dhba_10296>
+42	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca1 region of hipp	<http://purl.obolibrary.org/obo/dhba_10297>
+43	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca2 region of hipp	<http://purl.obolibrary.org/obo/dhba_10298>
+44	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca3 region of hipp	<http://purl.obolibrary.org/obo/dhba_10299>
+45	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca4 region of hipp	<http://purl.obolibrary.org/obo/dhba_10300>
+46	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subicular cortex	<http://purl.obolibrary.org/obo/dhba_10301>
+47	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subiculum	<http://purl.obolibrary.org/obo/dhba_10302>
+48	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	indusium griseum	<http://purl.obolibrary.org/obo/dhba_10304>
+49	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	taenia tectum	<http://purl.obolibrary.org/obo/dhba_10305>
+50	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paleocortex (semicortex)	<http://purl.obolibrary.org/obo/dhba_10306>
+51	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	olfactory bulb	<http://purl.obolibrary.org/obo/dhba_10307>
+52	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	piriform cortex	<http://purl.obolibrary.org/obo/dhba_10311>
+53	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	periallocortex	<http://purl.obolibrary.org/obo/dhba_10313>
+54	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parasubicular cortex (parasubiculum)	<http://purl.obolibrary.org/obo/dhba_10316>
+55	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retrosplenial cortex	<http://purl.obolibrary.org/obo/dhba_10324>
+56	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	agranular insular cortex (area iag)	<http://purl.obolibrary.org/obo/dhba_10328>
+57	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	basal nuclei (basal ganglia)	<http://purl.obolibrary.org/obo/dhba_10332>
+58	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	striatum	<http://purl.obolibrary.org/obo/dhba_10333>
+59	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	head of caudate	<http://purl.obolibrary.org/obo/dhba_10335>
+60	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	body of caudate	<http://purl.obolibrary.org/obo/dhba_10336>
+61	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	tail of caudate	<http://purl.obolibrary.org/obo/dhba_10337>
+62	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	core of nucleus accumbens	<http://purl.obolibrary.org/obo/dhba_10340>
+63	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	shell of nucleus accumbens	<http://purl.obolibrary.org/obo/dhba_10341>
+64	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	internal segment of globus pallidus	<http://purl.obolibrary.org/obo/dhba_10344>
+65	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral pallidus	<http://purl.obolibrary.org/obo/dhba_10345>
+66	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	claustrum	<http://purl.obolibrary.org/obo/dhba_10346>
+67	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral claustrum	<http://purl.obolibrary.org/obo/dhba_10348>
+68	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	basal forebrain	<http://purl.obolibrary.org/obo/dhba_10349>
+69	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	septal nuclei	<http://purl.obolibrary.org/obo/dhba_10350>
+70	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	major island of calleja	<http://purl.obolibrary.org/obo/dhba_10359>
+71	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdaloid complex	<http://purl.obolibrary.org/obo/dhba_10361>
+72	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior amygdaloid area	<http://purl.obolibrary.org/obo/dhba_10362>
+73	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	basolateral nuclear group	<http://purl.obolibrary.org/obo/dhba_10366>
+74	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	corticomedial nuclear group	<http://purl.obolibrary.org/obo/dhba_10372>
+75	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cortical amygdaloid nuclei	<http://purl.obolibrary.org/obo/dhba_10373>
+76	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdalohippocampal area	<http://purl.obolibrary.org/obo/dhba_10377>
+77	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdalohippocampal transition area	<http://purl.obolibrary.org/obo/dhba_10380>
+78	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	diencephalon	<http://purl.obolibrary.org/obo/dhba_10389>
+79	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	thalamus	<http://purl.obolibrary.org/obo/dhba_10390>
+80	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal thalamus	<http://purl.obolibrary.org/obo/dhba_10391>
+81	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	densocelllular (paralamellar) division of md	<http://purl.obolibrary.org/obo/dhba_10399>
+82	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	magnocellular (medial) division of md	<http://purl.obolibrary.org/obo/dhba_10400>
+83	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	magnocellular division of va	<http://purl.obolibrary.org/obo/dhba_10419>
+84	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	caudal division of vl	<http://purl.obolibrary.org/obo/dhba_10422>
+85	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral posterior inferior nucleus	<http://purl.obolibrary.org/obo/dhba_10426>
+86	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral medial nucleus of thalamus	<http://purl.obolibrary.org/obo/dhba_10427>
+87	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior nuclear complex of thalamus	<http://purl.obolibrary.org/obo/dhba_10428>
+88	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral geniculate nucleus	<http://purl.obolibrary.org/obo/dhba_10429>
+89	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal lateral geniculate nucleus	<http://purl.obolibrary.org/obo/dhba_10430>
+90	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial geniculate nuclei	<http://purl.obolibrary.org/obo/dhba_10434>
+91	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal medial geniculate nucleus	<http://purl.obolibrary.org/obo/dhba_10435>
+92	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral medial geniculate nucleus	<http://purl.obolibrary.org/obo/dhba_10438>
+93	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	magnocellular (medial) nucleus	<http://purl.obolibrary.org/obo/dhba_10439>
+94	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	epithalamus	<http://purl.obolibrary.org/obo/dhba_10451>
+95	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral habenular nucleus	<http://purl.obolibrary.org/obo/dhba_10453>
+96	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial habenular nucleus	<http://purl.obolibrary.org/obo/dhba_10456>
+97	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pineal body	<http://purl.obolibrary.org/obo/dhba_10460>
+98	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral thalamus	<http://purl.obolibrary.org/obo/dhba_10461>
+99	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hypothalamus	<http://purl.obolibrary.org/obo/dhba_10467>
+100	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	descending division of paraventricular nucleus	<http://purl.obolibrary.org/obo/dhba_10477>
+101	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	magnocellular division of paraventricular nucleus	<http://purl.obolibrary.org/obo/dhba_10478>
+102	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parvicellular division of paraventricular nucleus	<http://purl.obolibrary.org/obo/dhba_10479>
+103	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral part of medial mammillary nucleus	<http://purl.obolibrary.org/obo/dhba_10500>
+104	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial part of medial mammillary nucleus	<http://purl.obolibrary.org/obo/dhba_10501>
+105	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostral migratory stream	<http://purl.obolibrary.org/obo/dhba_10556>
+106	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	white matter of forebrain	<http://purl.obolibrary.org/obo/dhba_10557>
+107	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior commissure	<http://purl.obolibrary.org/obo/dhba_10559>
+108	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampal commissure	<http://purl.obolibrary.org/obo/dhba_10560>
+109	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	corpus callosum	<http://purl.obolibrary.org/obo/dhba_10561>
+110	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrum of corpus callosum	<http://purl.obolibrary.org/obo/dhba_10562>
+111	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	genu of corpus callosum	<http://purl.obolibrary.org/obo/dhba_10563>
+112	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	body of corpus callosum	<http://purl.obolibrary.org/obo/dhba_10564>
+113	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	splenium of corpus callosum	<http://purl.obolibrary.org/obo/dhba_10565>
+114	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	habenular commissure	<http://purl.obolibrary.org/obo/dhba_10566>
+115	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior commissure	<http://purl.obolibrary.org/obo/dhba_10567>
+116	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ansa lenticularis	<http://purl.obolibrary.org/obo/dhba_10571>
+117	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	external capsule	<http://purl.obolibrary.org/obo/dhba_10573>
+118	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	extreme capsule	<http://purl.obolibrary.org/obo/dhba_10574>
+119	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	internal capsule	<http://purl.obolibrary.org/obo/dhba_10581>
+120	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior limb of internal capsule	<http://purl.obolibrary.org/obo/dhba_10582>
+121	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior limb of internal capsule	<http://purl.obolibrary.org/obo/dhba_10584>
+122	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lenticular fasciculus	<http://purl.obolibrary.org/obo/dhba_10585>
+123	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	stria medullaris of thalamus	<http://purl.obolibrary.org/obo/dhba_10590>
+124	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	stria terminalis	<http://purl.obolibrary.org/obo/dhba_10591>
+125	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral ventricles	<http://purl.obolibrary.org/obo/dhba_10596>
+126	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior horn of lateral ventricle	<http://purl.obolibrary.org/obo/dhba_10597>
+127	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	body of lateral ventricle	<http://purl.obolibrary.org/obo/dhba_10598>
+128	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior horn of lateral ventricle	<http://purl.obolibrary.org/obo/dhba_10599>
+129	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	third ventricle	<http://purl.obolibrary.org/obo/dhba_10602>
+130	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	calcarine fissure	<http://purl.obolibrary.org/obo/dhba_10612>
+131	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	callosal sulcus	<http://purl.obolibrary.org/obo/dhba_10613>
+132	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central sulcus	<http://purl.obolibrary.org/obo/dhba_10614>
+133	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cingulate sulcus	<http://purl.obolibrary.org/obo/dhba_10615>
+134	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	collateral sulcus	<http://purl.obolibrary.org/obo/dhba_10618>
+135	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampal fissure	<http://purl.obolibrary.org/obo/dhba_10619>
+136	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intraparietal sulcus	<http://purl.obolibrary.org/obo/dhba_10620>
+137	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral (sylvian) fissure	<http://purl.obolibrary.org/obo/dhba_10621>
+138	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	occipitotemporal sulcus	<http://purl.obolibrary.org/obo/dhba_10623>
+139	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	olfactory sulcus	<http://purl.obolibrary.org/obo/dhba_10624>
+140	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	orbital sulcus	<http://purl.obolibrary.org/obo/dhba_10625>
+141	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parietooccipital fissure	<http://purl.obolibrary.org/obo/dhba_10626>
+142	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	postcentral sulcus	<http://purl.obolibrary.org/obo/dhba_10627>
+143	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	precentral sulcus	<http://purl.obolibrary.org/obo/dhba_10628>
+144	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior temporal sulcus	<http://purl.obolibrary.org/obo/dhba_10629>
+145	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior frontal sulcus	<http://purl.obolibrary.org/obo/dhba_10631>
+146	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior temporal sulcus	<http://purl.obolibrary.org/obo/dhba_10632>
+147	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paracentral sulcus	<http://purl.obolibrary.org/obo/dhba_10633>
+148	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhinal sulcus	<http://purl.obolibrary.org/obo/dhba_10636>
+149	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior frontal sulcus	<http://purl.obolibrary.org/obo/dhba_10639>
+150	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior perforated substance	<http://purl.obolibrary.org/obo/dhba_10642>
+151	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	infundibular stalk	<http://purl.obolibrary.org/obo/dhba_10643>
+152	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	tuber cinereum	<http://purl.obolibrary.org/obo/dhba_10647>
+153	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain (mesencephalon)	<http://purl.obolibrary.org/obo/dhba_10648>
+154	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	gray matter of midbrain	<http://purl.obolibrary.org/obo/dhba_10649>
+155	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	white matter of midbrain	<http://purl.obolibrary.org/obo/dhba_10650>
+156	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventricle of midbrain	<http://purl.obolibrary.org/obo/dhba_10651>
+157	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hindbrain (rhombencephalon)	<http://purl.obolibrary.org/obo/dhba_10653>
+158	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	gray matter of the hindbrain	<http://purl.obolibrary.org/obo/dhba_10654>
+159	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellum	<http://purl.obolibrary.org/obo/dhba_10656>
+160	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar cortex	<http://purl.obolibrary.org/obo/dhba_10657>
+161	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar vermis	<http://purl.obolibrary.org/obo/dhba_10658>
+162	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar hemisphere	<http://purl.obolibrary.org/obo/dhba_10659>
+163	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar deep nuclei	<http://purl.obolibrary.org/obo/dhba_10660>
+164	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pons	<http://purl.obolibrary.org/obo/dhba_10661>
+165	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	upper (rostral) rhombic lip	<http://purl.obolibrary.org/obo/dhba_10665>
+166	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lower (caudal) rhombic lip	<http://purl.obolibrary.org/obo/dhba_10666>
+167	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	white matter of hindbrain	<http://purl.obolibrary.org/obo/dhba_10668>
+168	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventricles of hindbrain	<http://purl.obolibrary.org/obo/dhba_10669>
+169	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostral ca1	<http://purl.obolibrary.org/obo/dhba_11275>
+170	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	caudal ca1	<http://purl.obolibrary.org/obo/dhba_11280>
+171	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostral ca2	<http://purl.obolibrary.org/obo/dhba_11285>
+172	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	caudal ca2	<http://purl.obolibrary.org/obo/dhba_11290>
+173	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostral ca3	<http://purl.obolibrary.org/obo/dhba_11295>
+174	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	caudal ca3	<http://purl.obolibrary.org/obo/dhba_11301>
+175	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	forceps minor (frontalis)	<http://purl.obolibrary.org/obo/dhba_12024>
+176	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	forceps major (occipitalis)	<http://purl.obolibrary.org/obo/dhba_12025>
+177	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	tapetum of corpus callosum	<http://purl.obolibrary.org/obo/dhba_12027>
+178	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	corona radiata	<http://purl.obolibrary.org/obo/dhba_12030>
+179	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior thalamic radiation	<http://purl.obolibrary.org/obo/dhba_12043>
+180	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retrolenticular portion	<http://purl.obolibrary.org/obo/dhba_12052>
+181	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior thalamic radiation	<http://purl.obolibrary.org/obo/dhba_12053>
+182	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior thalamic peduncle	<http://purl.obolibrary.org/obo/dhba_12059>
+183	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral longitudinal stria	<http://purl.obolibrary.org/obo/dhba_12064>
+184	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial longitudinal stria	<http://purl.obolibrary.org/obo/dhba_12066>
+185	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior occipitofrontal fasciculus	<http://purl.obolibrary.org/obo/dhba_12070>
+186	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior occipitofrontal fasciculus	<http://purl.obolibrary.org/obo/dhba_12071>
+187	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral olfactory stria	<http://purl.obolibrary.org/obo/dhba_12075>
+188	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial olfactory stria	<http://purl.obolibrary.org/obo/dhba_12076>
+189	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	stratum zonale of thalamus	<http://purl.obolibrary.org/obo/dhba_12085>
+190	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	calcar avis	<http://purl.obolibrary.org/obo/dhba_12095>
+191	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subcommissural organ	<http://purl.obolibrary.org/obo/dhba_12101>
+192	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subfornical organ	<http://purl.obolibrary.org/obo/dhba_12104>
+193	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	organum vasculosum laminae terminalis	<http://purl.obolibrary.org/obo/dhba_12106>
+194	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	transverse cerebral  fissure	<http://purl.obolibrary.org/obo/dhba_12110>
+195	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal operculum	<http://purl.obolibrary.org/obo/dhba_12127>
+196	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	orbital operculum	<http://purl.obolibrary.org/obo/dhba_12128>
+197	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior rostral gyrus	<http://purl.obolibrary.org/obo/dhba_12129>
+198	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior rostral gyrus	<http://purl.obolibrary.org/obo/dhba_12130>
+199	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	occipitotemporal (fusiform) gyrus, temporal part	<http://purl.obolibrary.org/obo/dhba_12143>
+200	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	planum temporale	<http://purl.obolibrary.org/obo/dhba_12145>
+201	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	temporal pole	<http://purl.obolibrary.org/obo/dhba_12146>
+202	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	occipital pole	<http://purl.obolibrary.org/obo/dhba_12149>
+203	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	occipitotemporal (fusiform) gyrus, occipital part	<http://purl.obolibrary.org/obo/dhba_12152>
+204	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior parahippocampal gyrus	<http://purl.obolibrary.org/obo/dhba_12163>
+205	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	uncus of parahippocampal gyrus	<http://purl.obolibrary.org/obo/dhba_12165>
+206	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ambiens gyrus	<http://purl.obolibrary.org/obo/dhba_12166>
+207	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	semilunar gyrus	<http://purl.obolibrary.org/obo/dhba_12169>
+208	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	insular lobe	<http://purl.obolibrary.org/obo/dhba_12176>
+209	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pretectal region	<http://purl.obolibrary.org/obo/dhba_12181>
+210	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial pretectal nucleus	<http://purl.obolibrary.org/obo/dhba_12184>
+211	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	olivary pretectal nucleus	<http://purl.obolibrary.org/obo/dhba_12186>
+212	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior (ventral /principal) pretectal nucleus	<http://purl.obolibrary.org/obo/dhba_12187>
+213	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain tegmentum	<http://purl.obolibrary.org/obo/dhba_12195>
+214	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	oculomotor nucleus	<http://purl.obolibrary.org/obo/dhba_12198>
+215	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	periaqueductal gray substance	<http://purl.obolibrary.org/obo/dhba_12209>
+216	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain raphe nuclei	<http://purl.obolibrary.org/obo/dhba_12222>
+217	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain reticular formation	<http://purl.obolibrary.org/obo/dhba_12239>
+218	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	red nucleus, magnocellular part	<http://purl.obolibrary.org/obo/dhba_12249>
+219	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	red nucleus, parvicellular part	<http://purl.obolibrary.org/obo/dhba_12250>
+220	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	substantia nigra, lateral part	<http://purl.obolibrary.org/obo/dhba_12257>
+221	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral tegmental area	<http://purl.obolibrary.org/obo/dhba_12261>
+222	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retrorubral field	<http://purl.obolibrary.org/obo/dhba_12289>
+223	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain tectum	<http://purl.obolibrary.org/obo/dhba_12291>
+224	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior colliculus	<http://purl.obolibrary.org/obo/dhba_12292>
+225	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial gray layer of superior colliculus	<http://purl.obolibrary.org/obo/dhba_12295>
+226	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial white layer of superior colliculus	<http://purl.obolibrary.org/obo/dhba_12296>
+227	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	zonal layer of superior colliculus	<http://purl.obolibrary.org/obo/dhba_12297>
+228	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate gray layer of superior colliculus	<http://purl.obolibrary.org/obo/dhba_12299>
+229	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate white layer of superior colliculus	<http://purl.obolibrary.org/obo/dhba_12300>
+230	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	deep gray layer of superior colliculus	<http://purl.obolibrary.org/obo/dhba_12302>
+231	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	deep white layer of superior colliculus	<http://purl.obolibrary.org/obo/dhba_12303>
+232	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior colliculus	<http://purl.obolibrary.org/obo/dhba_12305>
+233	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	basal plate of midbrain	<http://purl.obolibrary.org/obo/dhba_12322>
+234	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	floor plate of midbrain	<http://purl.obolibrary.org/obo/dhba_12325>
+235	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior cerebellar peduncle (brachium conjunctivum)	<http://purl.obolibrary.org/obo/dhba_12354>
+236	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebral aqueduct	<http://purl.obolibrary.org/obo/dhba_12369>
+237	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vermis, anterior lobe portion	<http://purl.obolibrary.org/obo/dhba_12379>
+238	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vermis, posterior lobe portion	<http://purl.obolibrary.org/obo/dhba_12380>
+239	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vermis, posterior lobe portion, superior part	<http://purl.obolibrary.org/obo/dhba_12381>
+240	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vermis, posterior lobe portion, inferior part	<http://purl.obolibrary.org/obo/dhba_12382>
+241	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vermis, flocculonodular lobe portion (nodulus)	<http://purl.obolibrary.org/obo/dhba_12383>
+242	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paravermis of cerebellum	<http://purl.obolibrary.org/obo/dhba_12384>
+243	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paravermis, anterior lobe portion	<http://purl.obolibrary.org/obo/dhba_12385>
+244	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paravermis, posterior lobe portion	<http://purl.obolibrary.org/obo/dhba_12386>
+245	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paravermis, posterior lobe portion, superior part	<http://purl.obolibrary.org/obo/dhba_12387>
+246	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paravermis, posterior lobe portion, inferior part	<http://purl.obolibrary.org/obo/dhba_12388>
+247	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paravermis, flocculonodular lobe portion	<http://purl.obolibrary.org/obo/dhba_12389>
+248	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral hemisphere of cerebellum	<http://purl.obolibrary.org/obo/dhba_12390>
+249	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral hemisphere, anterior lobe portion	<http://purl.obolibrary.org/obo/dhba_12391>
+250	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral hemisphere, posterior lobe portion	<http://purl.obolibrary.org/obo/dhba_12392>
+251	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral hemisphere, posterior lobe portion, superior part	<http://purl.obolibrary.org/obo/dhba_12393>
+252	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral hemisphere, posterior lobe portion, inferior part	<http://purl.obolibrary.org/obo/dhba_12394>
+253	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral hemisphere, flocculonodular lobe portion	<http://purl.obolibrary.org/obo/dhba_12395>
+254	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial interpositus (globose) nucleus	<http://purl.obolibrary.org/obo/dhba_12400>
+255	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral interpositus (emboliform) nucleus	<http://purl.obolibrary.org/obo/dhba_12401>
+256	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	basilar part of pons	<http://purl.obolibrary.org/obo/dhba_12405>
+257	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cochlear nuclei	<http://purl.obolibrary.org/obo/dhba_12437>
+258	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal nucleus of lateral lemniscus	<http://purl.obolibrary.org/obo/dhba_12455>
+259	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate nucleus of lateral lemniscus	<http://purl.obolibrary.org/obo/dhba_12456>
+260	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral nucleus of lateral lemniscus	<http://purl.obolibrary.org/obo/dhba_12457>
+261	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial nucleus of trapezoid body	<http://purl.obolibrary.org/obo/dhba_12460>
+262	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral nucleus of trapezoid body	<http://purl.obolibrary.org/obo/dhba_12461>
+263	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior olivary complex	<http://purl.obolibrary.org/obo/dhba_12462>
+264	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral periolivary nucleus	<http://purl.obolibrary.org/obo/dhba_12465>
+265	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior olivary nucleus	<http://purl.obolibrary.org/obo/dhba_12468>
+266	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pontine reticular formation	<http://purl.obolibrary.org/obo/dhba_12480>
+267	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral parabrachial nucleus	<http://purl.obolibrary.org/obo/dhba_12482>
+268	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial parabrachial nucleus	<http://purl.obolibrary.org/obo/dhba_12487>
+269	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subparabrachial nucleus	<http://purl.obolibrary.org/obo/dhba_12491>
+270	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	koelliker-fuse nucleus	<http://purl.obolibrary.org/obo/dhba_12518>
+271	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pyramidal part of medulla oblongata	<http://purl.obolibrary.org/obo/dhba_12535>
+272	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	solitary nucleus, ventrolateral part	<http://purl.obolibrary.org/obo/dhba_12569>
+273	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parasolitary nucleus	<http://purl.obolibrary.org/obo/dhba_12571>
+274	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	spinal trigeminal nucleus, caudal part	<http://purl.obolibrary.org/obo/dhba_12573>
+275	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	spinal trigeminal nucleus, interpolar part	<http://purl.obolibrary.org/obo/dhba_12578>
+276	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior olive	<http://purl.obolibrary.org/obo/dhba_12600>
+277	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medullary reticular formation	<http://purl.obolibrary.org/obo/dhba_12616>
+278	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parvicellular reticular nucleus	<http://purl.obolibrary.org/obo/dhba_12618>
+279	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal paragigantocellular nucleus	<http://purl.obolibrary.org/obo/dhba_12628>
+280	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral paragigantocellular nucleus	<http://purl.obolibrary.org/obo/dhba_12629>
+281	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus x (preaccessory cuneate nucleus)	<http://purl.obolibrary.org/obo/dhba_12653>
+282	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombomere 1	<http://purl.obolibrary.org/obo/dhba_12667>
+283	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombomere 2	<http://purl.obolibrary.org/obo/dhba_12668>
+284	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombomere 3	<http://purl.obolibrary.org/obo/dhba_12669>
+285	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombomere 4	<http://purl.obolibrary.org/obo/dhba_12671>
+286	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombomere 5	<http://purl.obolibrary.org/obo/dhba_12673>
+287	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombomere 6	<http://purl.obolibrary.org/obo/dhba_12674>
+288	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombomere 7	<http://purl.obolibrary.org/obo/dhba_12675>
+289	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombomere 8	<http://purl.obolibrary.org/obo/dhba_12677>
+290	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	marginal zone of cerebellum	<http://purl.obolibrary.org/obo/dhba_12695>
+291	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amiculum of the olive	<http://purl.obolibrary.org/obo/dhba_12728>
+292	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal acoustic stria	<http://purl.obolibrary.org/obo/dhba_12733>
+293	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal trigeminothalamic tract	<http://purl.obolibrary.org/obo/dhba_12736>
+294	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior cerebellar peduncle	<http://purl.obolibrary.org/obo/dhba_12741>
+295	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	juxtarestiform body	<http://purl.obolibrary.org/obo/dhba_12750>
+296	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate acoustic stria	<http://purl.obolibrary.org/obo/dhba_12755>
+297	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	middle cerebellar peduncle	<http://purl.obolibrary.org/obo/dhba_12768>
+298	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	trapezoid body	<http://purl.obolibrary.org/obo/dhba_12796>
+299	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral trigeminothalamic tract	<http://purl.obolibrary.org/obo/dhba_12803>
+300	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	fourth ventricle	<http://purl.obolibrary.org/obo/dhba_12805>
+301	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area postrema	<http://purl.obolibrary.org/obo/dhba_12807>
+302	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior lobe	<http://purl.obolibrary.org/obo/dhba_12838>
+303	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule i (lingula)	<http://purl.obolibrary.org/obo/dhba_12839>
+304	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule ii (central lobule and wing, anterior part)	<http://purl.obolibrary.org/obo/dhba_12840>
+305	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iii (central lobule and wing, posterior part)	<http://purl.obolibrary.org/obo/dhba_12841>
+306	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iv (culmen and quadrangular lobule, anterior part)	<http://purl.obolibrary.org/obo/dhba_12842>
+307	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule v (culmen and quadrangular lobule, posterior part)	<http://purl.obolibrary.org/obo/dhba_12843>
+308	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior lobe	<http://purl.obolibrary.org/obo/dhba_12844>
+309	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule vi (declive and simplex lobule)	<http://purl.obolibrary.org/obo/dhba_12845>
+310	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule viiaf/crus i (folium and superior semilunar lobule)	<http://purl.obolibrary.org/obo/dhba_12846>
+311	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule viiat/crus ii (tuber and inferior semilunar lobule)	<http://purl.obolibrary.org/obo/dhba_12847>
+312	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule viib (gracile lobule)	<http://purl.obolibrary.org/obo/dhba_12848>
+313	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule viiia (pyramis and biventral lobule, anterior part)	<http://purl.obolibrary.org/obo/dhba_12849>
+314	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule viiib (pyramis and biventral lobule, posterior part)	<http://purl.obolibrary.org/obo/dhba_12850>
+315	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule ix (uvula and tosil)	<http://purl.obolibrary.org/obo/dhba_12851>
+316	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	flocculonodular lobe	<http://purl.obolibrary.org/obo/dhba_12852>
+317	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule x (nodulus and flocculus)	<http://purl.obolibrary.org/obo/dhba_12853>
+318	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pontomesencephalic sulcus	<http://purl.obolibrary.org/obo/dhba_12860>
+319	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	motor root of facial nerve	<http://purl.obolibrary.org/obo/dhba_12863>
+320	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	root of intermediate nerve	<http://purl.obolibrary.org/obo/dhba_12864>
+321	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	motor root of trigeminal nerve	<http://purl.obolibrary.org/obo/dhba_12866>
+322	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	sensory root of trigeminal nerve	<http://purl.obolibrary.org/obo/dhba_12867>
+323	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	root of vestibulocochlear nerve	<http://purl.obolibrary.org/obo/dhba_12868>
+324	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterolateral medullary sulcus	<http://purl.obolibrary.org/obo/dhba_12873>
+325	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pregeniculate nucleus	<http://purl.obolibrary.org/obo/dhba_13042>
+326	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	limitans nucleus	<http://purl.obolibrary.org/obo/dhba_13043>
+327	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	suprageniculate nucleus of thalamus	<http://purl.obolibrary.org/obo/dhba_13044>
+328	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	transverse orbital sulcus	<http://purl.obolibrary.org/obo/dhba_13223>
+329	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central sulcus of insula	<http://purl.obolibrary.org/obo/dhba_13227>
+330	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	transverse occipital sulcus	<http://purl.obolibrary.org/obo/dhba_13228>
+331	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral olfactory gyrus	<http://purl.obolibrary.org/obo/dhba_13229>
+332	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parietal operculum	<http://purl.obolibrary.org/obo/dhba_13230>
+333	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of vea	<http://purl.obolibrary.org/obo/dhba_13237>
+334	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of vea	<http://purl.obolibrary.org/obo/dhba_13238>
+335	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of vea	<http://purl.obolibrary.org/obo/dhba_13239>
+336	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of veps	<http://purl.obolibrary.org/obo/dhba_13240>
+337	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of veps	<http://purl.obolibrary.org/obo/dhba_13241>
+338	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of veps	<http://purl.obolibrary.org/obo/dhba_13242>
+339	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of vepi	<http://purl.obolibrary.org/obo/dhba_13243>
+340	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of vepi	<http://purl.obolibrary.org/obo/dhba_13244>
+341	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of vepi	<http://purl.obolibrary.org/obo/dhba_13245>
+342	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of vef	<http://purl.obolibrary.org/obo/dhba_13246>
+343	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of vef	<http://purl.obolibrary.org/obo/dhba_13247>
+344	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of vef	<http://purl.obolibrary.org/obo/dhba_13248>
+345	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of pva	<http://purl.obolibrary.org/obo/dhba_13249>
+346	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of pva	<http://purl.obolibrary.org/obo/dhba_13250>
+347	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of pva	<http://purl.obolibrary.org/obo/dhba_13251>
+348	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of pvps	<http://purl.obolibrary.org/obo/dhba_13252>
+349	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of pvps	<http://purl.obolibrary.org/obo/dhba_13253>
+350	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of pvps	<http://purl.obolibrary.org/obo/dhba_13254>
+351	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of pvpi	<http://purl.obolibrary.org/obo/dhba_13255>
+352	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of pvpi	<http://purl.obolibrary.org/obo/dhba_13256>
+353	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of pvpi	<http://purl.obolibrary.org/obo/dhba_13257>
+354	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of pvf	<http://purl.obolibrary.org/obo/dhba_13258>
+355	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of pvf	<http://purl.obolibrary.org/obo/dhba_13259>
+356	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of pvf	<http://purl.obolibrary.org/obo/dhba_13260>
+357	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of cbla	<http://purl.obolibrary.org/obo/dhba_13261>
+358	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of cbla	<http://purl.obolibrary.org/obo/dhba_13262>
+359	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of cbla	<http://purl.obolibrary.org/obo/dhba_13263>
+360	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of cblps	<http://purl.obolibrary.org/obo/dhba_13264>
+361	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of cblps	<http://purl.obolibrary.org/obo/dhba_13265>
+362	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of cblps	<http://purl.obolibrary.org/obo/dhba_13266>
+363	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of cblpi	<http://purl.obolibrary.org/obo/dhba_13267>
+364	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of cblpi	<http://purl.obolibrary.org/obo/dhba_13268>
+365	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of cblpi	<http://purl.obolibrary.org/obo/dhba_13269>
+366	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of cblf	<http://purl.obolibrary.org/obo/dhba_13270>
+367	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of cblf	<http://purl.obolibrary.org/obo/dhba_13271>
+368	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular cell layer of cblf	<http://purl.obolibrary.org/obo/dhba_13272>
+369	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal hypothalamic area	<http://purl.obolibrary.org/obo/dhba_13335>
+370	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	median eminence	<http://purl.obolibrary.org/obo/dhba_13338>
+371	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parvocellular division of vpm	<http://purl.obolibrary.org/obo/dhba_146034766>
+372	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior occipital sulcus	<http://purl.obolibrary.org/obo/dhba_146034784>
+373	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior subcentral sulcus	<http://purl.obolibrary.org/obo/dhba_146034788>
+374	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontomarginal sulcus	<http://purl.obolibrary.org/obo/dhba_146034792>
+375	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lunate sulcus	<http://purl.obolibrary.org/obo/dhba_146034812>
+376	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial frontal sulcus	<http://purl.obolibrary.org/obo/dhba_146034816>
+377	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostral parolfactory sulcus	<http://purl.obolibrary.org/obo/dhba_146034824>
+378	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	caudal parolfactory sulcus	<http://purl.obolibrary.org/obo/dhba_146034828>
+379	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostral sulcus	<http://purl.obolibrary.org/obo/dhba_146034836>
+380	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior rostral sulcus	<http://purl.obolibrary.org/obo/dhba_146034840>
+381	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior rostral sulcus	<http://purl.obolibrary.org/obo/dhba_146034844>
+382	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	transverse temporal sulcus	<http://purl.obolibrary.org/obo/dhba_146034852>
+383	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paracingulate gyrus	<http://purl.obolibrary.org/obo/dhba_146034872>
+384	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal pole	<http://purl.obolibrary.org/obo/dhba_146034888>
+385	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central gray of pons	<http://purl.obolibrary.org/obo/dhba_146034964>
+386	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central gray of medulla oblongata	<http://purl.obolibrary.org/obo/dhba_146034986>
+387	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	gray matter of spinal cord	<http://purl.obolibrary.org/obo/dhba_146035048>
+388	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	white matter of spinal cord	<http://purl.obolibrary.org/obo/dhba_146035088>
+389	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cingulum bundle in cingulate cortex	<http://purl.obolibrary.org/obo/dhba_15539>
+390	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cingulum bundle in temporal cortex	<http://purl.obolibrary.org/obo/dhba_15540>
+391	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior portion of corona radiata	<http://purl.obolibrary.org/obo/dhba_15541>
+392	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior portion of corona radiata	<http://purl.obolibrary.org/obo/dhba_15542>
+393	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior portion of corona radiata	<http://purl.obolibrary.org/obo/dhba_15543>
+394	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	uncal ca1	<http://purl.obolibrary.org/obo/dhba_266441267>
+395	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	uncal ca2	<http://purl.obolibrary.org/obo/dhba_266441311>
+396	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	uncal ca3	<http://purl.obolibrary.org/obo/dhba_266441355>
+397	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lightly-stained cell islands of lateral olfactory area  	<http://purl.obolibrary.org/obo/dhba_266441439>
+398	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anteromedial large-celled island of md 	<http://purl.obolibrary.org/obo/dhba_266441507>
+399	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	caudal division of ventral posterior lateral nucleus	<http://purl.obolibrary.org/obo/dhba_266441515>
+400	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial division of central lateral nucleus 	<http://purl.obolibrary.org/obo/dhba_266441527>
+401	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial preoptic area	<http://purl.obolibrary.org/obo/dhba_266441547>
+402	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior hypothalamic area	<http://purl.obolibrary.org/obo/dhba_266441551>
+403	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subparaventricular zone	<http://purl.obolibrary.org/obo/dhba_266441555>
+404	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	body of cc, caudal portion 	<http://purl.obolibrary.org/obo/dhba_266441575>
+405	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	acoustic radiation	<http://purl.obolibrary.org/obo/dhba_266441583>
+406	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mammillary peduncle	<http://purl.obolibrary.org/obo/dhba_266441609>
+407	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	meyer's loop of optic radiation 	<http://purl.obolibrary.org/obo/dhba_266441617>
+408	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	optic radiation	<http://purl.obolibrary.org/obo/dhba_266441621>
+409	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostral thalamic peduncle	<http://purl.obolibrary.org/obo/dhba_266441633>
+410	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cingulate gyrus, retrospleninal part	<http://purl.obolibrary.org/obo/dhba_266441669>
+411	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prepiriform region	<http://purl.obolibrary.org/obo/dhba_266441677>
+412	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	trigeminal nuclei	<http://purl.obolibrary.org/obo/dhba_266441713>
+413	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intraculminate fissure	<http://purl.obolibrary.org/obo/dhba_266441729>
+414	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ansoparamedian fissure	<http://purl.obolibrary.org/obo/dhba_266441733>
+415	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral occipito-temporal area 	<http://purl.obolibrary.org/obo/dhba_267499067>
+416	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area v3b of peristriate cortex 	<http://purl.obolibrary.org/obo/dhba_267499095>
+417	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area v6 of peristriate cortex 	<http://purl.obolibrary.org/obo/dhba_267499123>
+418	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area v7 of peristriate cortex 	<http://purl.obolibrary.org/obo/dhba_267499179>
+419	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventricular zone of r7f	<http://purl.obolibrary.org/obo/dmba_112892383>
+420	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mantle zone of r7f	<http://purl.obolibrary.org/obo/dmba_112892385>
+421	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	periventricular stratum of r7f	<http://purl.obolibrary.org/obo/dmba_112892387>
+422	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate stratum of r7f	<http://purl.obolibrary.org/obo/dmba_112892389>
+423	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial stratum of r7f	<http://purl.obolibrary.org/obo/dmba_112892391>
+424	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventricular zone of r8f	<http://purl.obolibrary.org/obo/dmba_112892395>
+425	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mantle zone of r8f	<http://purl.obolibrary.org/obo/dmba_112892397>
+426	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	periventricular stratum of r8f	<http://purl.obolibrary.org/obo/dmba_112892399>
+427	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate stratum of r8f	<http://purl.obolibrary.org/obo/dmba_112892401>
+428	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial stratum of r8f	<http://purl.obolibrary.org/obo/dmba_112892403>
+429	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	forebrain	<http://purl.obolibrary.org/obo/dmba_15566>
+430	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	secondary prosencephalon	<http://purl.obolibrary.org/obo/dmba_15567>
+431	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	preoptic area	<http://purl.obolibrary.org/obo/dmba_15577>
+432	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vascular organ of the lamina terminalis	<http://purl.obolibrary.org/obo/dmba_15582>
+433	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	tuber cinereum area	<http://purl.obolibrary.org/obo/dmba_15665>
+434	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	median eminence	<http://purl.obolibrary.org/obo/dmba_15689>
+435	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	infundibulum	<http://purl.obolibrary.org/obo/dmba_15690>
+436	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	neurohypophysis	<http://purl.obolibrary.org/obo/dmba_15691>
+437	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subpallium	<http://purl.obolibrary.org/obo/dmba_15751>
+438	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	septofimbrial nucleus	<http://purl.obolibrary.org/obo/dmba_15780>
+439	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral pallidum	<http://purl.obolibrary.org/obo/dmba_15844>
+440	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pallium	<http://purl.obolibrary.org/obo/dmba_15903>
+441	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral pallium	<http://purl.obolibrary.org/obo/dmba_15904>
+442	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral pallium	<http://purl.obolibrary.org/obo/dmba_15956>
+443	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	accessory olfactory bulb	<http://purl.obolibrary.org/obo/dmba_15957>
+444	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cingulate cortex	<http://purl.obolibrary.org/obo/dmba_16072>
+445	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	perirhinal-ectorhinal cortex	<http://purl.obolibrary.org/obo/dmba_16086>
+446	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retrosplenial cortex	<http://purl.obolibrary.org/obo/dmba_16093>
+447	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dentate gyrus	<http://purl.obolibrary.org/obo/dmba_16115>
+448	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampus (cortex ammonis)	<http://purl.obolibrary.org/obo/dmba_16124>
+449	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	field ca1	<http://purl.obolibrary.org/obo/dmba_16131>
+450	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	field ca2	<http://purl.obolibrary.org/obo/dmba_16136>
+451	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	field ca3	<http://purl.obolibrary.org/obo/dmba_16141>
+452	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subiculum	<http://purl.obolibrary.org/obo/dmba_16163>
+453	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parasubiculum	<http://purl.obolibrary.org/obo/dmba_16186>
+454	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	septohippocampal nucleus	<http://purl.obolibrary.org/obo/dmba_16204>
+455	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior part of anterior hypothalamic nucleus	<http://purl.obolibrary.org/obo/dmba_16240>
+456	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	diencephalon	<http://purl.obolibrary.org/obo/dmba_16308>
+457	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prethalamus	<http://purl.obolibrary.org/obo/dmba_16310>
+458	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	thalamus	<http://purl.obolibrary.org/obo/dmba_16376>
+459	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal tier of thalamus	<http://purl.obolibrary.org/obo/dmba_16396>
+460	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior paraventricular nucleus of thalamus	<http://purl.obolibrary.org/obo/dmba_16400>
+461	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subcommissural organ	<http://purl.obolibrary.org/obo/dmba_16514>
+462	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain	<http://purl.obolibrary.org/obo/dmba_16649>
+463	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	colliculus superior	<http://purl.obolibrary.org/obo/dmba_16678>
+464	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior colliculus	<http://purl.obolibrary.org/obo/dmba_16692>
+465	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cuneiform nucleus	<http://purl.obolibrary.org/obo/dmba_16777>
+466	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subcuneiform nucleus	<http://purl.obolibrary.org/obo/dmba_16787>
+467	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hindbrain	<http://purl.obolibrary.org/obo/dmba_16808>
+468	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16814>
+469	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombic lip of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16815>
+470	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	external granular layer of cbv	<http://purl.obolibrary.org/obo/dmba_16816>
+471	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventricular zone of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16817>
+472	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mantle zone of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16818>
+473	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	periventricular stratum of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16819>
+474	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	white matter of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16820>
+475	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate stratum of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16821>
+476	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar nuclei of cbv	<http://purl.obolibrary.org/obo/dmba_16822>
+477	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial (fastigial) cerebellar nucleus	<http://purl.obolibrary.org/obo/dmba_16823>
+478	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial (main) part of med	<http://purl.obolibrary.org/obo/dmba_16824>
+479	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral part of med	<http://purl.obolibrary.org/obo/dmba_16825>
+480	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsolateral part of med	<http://purl.obolibrary.org/obo/dmba_16826>
+481	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	isthmic vestibulocerebellar nucleus	<http://purl.obolibrary.org/obo/dmba_16827>
+482	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial stratum of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16828>
+483	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cortex of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16829>
+484	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 1 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16830>
+485	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 2 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16831>
+486	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 3 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16832>
+487	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 4 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16833>
+488	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 5 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16834>
+489	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 6 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16835>
+490	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 7 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16836>
+491	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 8 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16837>
+492	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 9 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16838>
+493	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule 10 of cerebellar vermis	<http://purl.obolibrary.org/obo/dmba_16839>
+494	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of cbvcx	<http://purl.obolibrary.org/obo/dmba_16840>
+495	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of cbvcx	<http://purl.obolibrary.org/obo/dmba_16841>
+496	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	internal granular layer of cbvcx	<http://purl.obolibrary.org/obo/dmba_16842>
+497	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial parabrachial nucleus	<http://purl.obolibrary.org/obo/dmba_16850>
+498	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral parabrachial nucleus	<http://purl.obolibrary.org/obo/dmba_16852>
+499	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	koelliker-fuse nucleus	<http://purl.obolibrary.org/obo/dmba_16853>
+500	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal nucleus of the lateral lemniscus	<http://purl.obolibrary.org/obo/dmba_16860>
+501	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retrorubral field	<http://purl.obolibrary.org/obo/dmba_16884>
+502	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar hemisphere	<http://purl.obolibrary.org/obo/dmba_16920>
+503	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	external granular layer of cbh	<http://purl.obolibrary.org/obo/dmba_16921>
+504	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventricular zone of cbh	<http://purl.obolibrary.org/obo/dmba_16922>
+505	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhombic lip of cbh	<http://purl.obolibrary.org/obo/dmba_16923>
+506	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mantle zone of cbh	<http://purl.obolibrary.org/obo/dmba_16924>
+507	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	periventricular stratum of cbh	<http://purl.obolibrary.org/obo/dmba_16925>
+508	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar white matter	<http://purl.obolibrary.org/obo/dmba_16926>
+509	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate stratum of cbh	<http://purl.obolibrary.org/obo/dmba_16927>
+510	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar nuclei of cbh	<http://purl.obolibrary.org/obo/dmba_16928>
+511	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate (interpositus) cerebellar nucleus	<http://purl.obolibrary.org/obo/dmba_16929>
+512	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior part of int	<http://purl.obolibrary.org/obo/dmba_16930>
+513	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsolateral part of int	<http://purl.obolibrary.org/obo/dmba_16931>
+514	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior part of int	<http://purl.obolibrary.org/obo/dmba_16932>
+515	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral (dentate) cerebellar nucleus	<http://purl.obolibrary.org/obo/dmba_16933>
+516	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsolateral part of lat	<http://purl.obolibrary.org/obo/dmba_16934>
+517	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parvicellular part of lat	<http://purl.obolibrary.org/obo/dmba_16935>
+518	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	r1 part of vestibulocerebellar nucleus	<http://purl.obolibrary.org/obo/dmba_16936>
+519	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	a4 noradrenergic cell group	<http://purl.obolibrary.org/obo/dmba_16937>
+520	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial stratum of cerebellar hemisphere	<http://purl.obolibrary.org/obo/dmba_16938>
+521	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cortex of cerebellar hemisphere	<http://purl.obolibrary.org/obo/dmba_16939>
+522	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	simple lobule	<http://purl.obolibrary.org/obo/dmba_16940>
+523	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 1 of the ansiform lobule	<http://purl.obolibrary.org/obo/dmba_16941>
+524	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 2 of the ansiform lobule	<http://purl.obolibrary.org/obo/dmba_16942>
+525	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paramedian lobule	<http://purl.obolibrary.org/obo/dmba_16943>
+526	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	copula of the pyramis	<http://purl.obolibrary.org/obo/dmba_16944>
+527	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraflocculus	<http://purl.obolibrary.org/obo/dmba_16945>
+528	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	flocculus	<http://purl.obolibrary.org/obo/dmba_16946>
+529	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	molecular layer of cbhcx	<http://purl.obolibrary.org/obo/dmba_16947>
+530	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	purkinje cell layer of cbhcx	<http://purl.obolibrary.org/obo/dmba_16948>
+531	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	internal granular layer of cbhcx	<http://purl.obolibrary.org/obo/dmba_16949>
+532	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pedunculopontine tegmental nucleus	<http://purl.obolibrary.org/obo/dmba_16965>
+533	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	piriform cortex	<http://purl.obolibrary.org/obo/hba_10142>
+534	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central gray of the pons	<http://purl.obolibrary.org/obo/hba_10147>
+535	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	middle temporal sulcus	<http://purl.obolibrary.org/obo/hba_10150>
+536	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dentate gyrus	<http://purl.obolibrary.org/obo/hba_12891>
+537	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca1 field	<http://purl.obolibrary.org/obo/hba_12892>
+538	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca2 field	<http://purl.obolibrary.org/obo/hba_12893>
+539	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca3 field	<http://purl.obolibrary.org/obo/hba_12894>
+540	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca4 field	<http://purl.obolibrary.org/obo/hba_12895>
+541	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subiculum	<http://purl.obolibrary.org/obo/hba_12896>
+542	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	globus pallidus, external segment	<http://purl.obolibrary.org/obo/hba_12897>
+543	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	globus pallidus, internal segment	<http://purl.obolibrary.org/obo/hba_12898>
+544	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	body of the caudate nucleus	<http://purl.obolibrary.org/obo/hba_12899>
+545	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	head of the caudate nucleus	<http://purl.obolibrary.org/obo/hba_12900>
+546	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	tail of the caudate nucleus	<http://purl.obolibrary.org/obo/hba_12901>
+547	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior hypothalamic area	<http://purl.obolibrary.org/obo/hba_12902>
+548	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	periventricular nucleus of the hypothalamus, anterior part	<http://purl.obolibrary.org/obo/hba_12906>
+549	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	median eminence	<http://purl.obolibrary.org/obo/hba_12916>
+550	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial geniculate complex	<http://purl.obolibrary.org/obo/hba_12926>
+551	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar hemispheres	<http://purl.obolibrary.org/obo/hba_12930>
+552	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior lobe	<http://purl.obolibrary.org/obo/hba_12931>
+553	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	i-ii	<http://purl.obolibrary.org/obo/hba_12932>
+554	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iii	<http://purl.obolibrary.org/obo/hba_12933>
+555	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iv	<http://purl.obolibrary.org/obo/hba_12934>
+556	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	v	<http://purl.obolibrary.org/obo/hba_12935>
+557	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior lobe	<http://purl.obolibrary.org/obo/hba_12936>
+558	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vi	<http://purl.obolibrary.org/obo/hba_12937>
+559	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus i	<http://purl.obolibrary.org/obo/hba_12938>
+560	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus ii	<http://purl.obolibrary.org/obo/hba_12939>
+561	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viib	<http://purl.obolibrary.org/obo/hba_12940>
+562	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiia	<http://purl.obolibrary.org/obo/hba_12941>
+563	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiib	<http://purl.obolibrary.org/obo/hba_12942>
+564	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ix	<http://purl.obolibrary.org/obo/hba_12943>
+565	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	flocculonodular lobe	<http://purl.obolibrary.org/obo/hba_12944>
+566	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	x	<http://purl.obolibrary.org/obo/hba_12945>
+567	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	emboliform nucleus	<http://purl.obolibrary.org/obo/hba_12947>
+568	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	globose nucleus	<http://purl.obolibrary.org/obo/hba_12949>
+569	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	septal nuclei	<http://purl.obolibrary.org/obo/hba_13002>
+570	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	olfactory area	<http://purl.obolibrary.org/obo/hba_265504406>
+571	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	indusium griseum	<http://purl.obolibrary.org/obo/hba_265504424>
+572	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdalohippocampal area, left, magnocellular division	<http://purl.obolibrary.org/obo/hba_265504452>
+573	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdalohippocampal area, left, parvocellular division	<http://purl.obolibrary.org/obo/hba_265504456>
+574	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior amygdaloid area	<http://purl.obolibrary.org/obo/hba_265504476>
+575	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal nucelus of medial geniculate complex, left	<http://purl.obolibrary.org/obo/hba_265504828>
+576	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate nucleus of lateral lemniscus	<http://purl.obolibrary.org/obo/hba_265504888>
+577	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central gray of the medulla	<http://purl.obolibrary.org/obo/hba_265504914>
+578	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	tapetum of corpus callosum	<http://purl.obolibrary.org/obo/hba_265504966>
+579	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	acoustic radiation	<http://purl.obolibrary.org/obo/hba_265504974>
+580	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	corona radiata	<http://purl.obolibrary.org/obo/hba_265505046>
+581	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior thalamic peduncle	<http://purl.obolibrary.org/obo/hba_265505110>
+582	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral longitudinal stria	<http://purl.obolibrary.org/obo/hba_265505146>
+583	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lenticular fasciculus	<http://purl.obolibrary.org/obo/hba_265505158>
+584	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mammillary peduncle	<http://purl.obolibrary.org/obo/hba_265505166>
+585	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial longitudinal stria	<http://purl.obolibrary.org/obo/hba_265505202>
+586	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	meyer's loop of optic radiation 	<http://purl.obolibrary.org/obo/hba_265505214>
+587	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostral thalamic peduncle	<http://purl.obolibrary.org/obo/hba_265505274>
+588	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	stratum zonale of thalamus	<http://purl.obolibrary.org/obo/hba_265505326>
+589	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subcallosal fasciculus	<http://purl.obolibrary.org/obo/hba_265505338>
+590	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial presubicular path	<http://purl.obolibrary.org/obo/hba_265505362>
+591	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial presubicular path, left	<http://purl.obolibrary.org/obo/hba_265505366>
+592	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial presubicular path, right	<http://purl.obolibrary.org/obo/hba_265505370>
+593	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mesencephalic white matter	<http://purl.obolibrary.org/obo/hba_265505382>
+594	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pontine white matter tracts	<http://purl.obolibrary.org/obo/hba_265505486>
+595	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral olfactory tract, left	<http://purl.obolibrary.org/obo/hba_265505514>
+596	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial olfactory tract, left	<http://purl.obolibrary.org/obo/hba_265505518>
+597	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amiculum of the olive	<http://purl.obolibrary.org/obo/hba_265505538>
+598	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebral aquaduct	<http://purl.obolibrary.org/obo/hba_265505702>
+599	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	telencephalon	<http://purl.obolibrary.org/obo/hba_4007>
+600	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paracentral lobule, anterior part	<http://purl.obolibrary.org/obo/hba_4071>
+601	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal operculum	<http://purl.obolibrary.org/obo/hba_4078>
+602	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paracentral lobule, posterior part	<http://purl.obolibrary.org/obo/hba_4125>
+603	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	planum temporale	<http://purl.obolibrary.org/obo/hba_4171>
+604	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	temporal pole	<http://purl.obolibrary.org/obo/hba_4174>
+605	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	planum polare	<http://purl.obolibrary.org/obo/hba_4177>
+606	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	occipital pole	<http://purl.obolibrary.org/obo/hba_4181>
+607	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampal formation	<http://purl.obolibrary.org/obo/hba_4249>
+608	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parasubiculum, left	<http://purl.obolibrary.org/obo/hba_4253>
+609	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	insula	<http://purl.obolibrary.org/obo/hba_4268>
+610	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	striatum	<http://purl.obolibrary.org/obo/hba_4277>
+611	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	putamen, left	<http://purl.obolibrary.org/obo/hba_4288>
+612	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	putamen, right	<http://purl.obolibrary.org/obo/hba_4289>
+613	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	basal forebrain	<http://purl.obolibrary.org/obo/hba_4300>
+614	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the diagonal band, right 	<http://purl.obolibrary.org/obo/hba_4316>
+615	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	claustrum	<http://purl.obolibrary.org/obo/hba_4321>
+616	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdala	<http://purl.obolibrary.org/obo/hba_4327>
+617	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdalohippocampal area, left	<http://purl.obolibrary.org/obo/hba_4330>
+618	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	diencephalon	<http://purl.obolibrary.org/obo/hba_4391>
+619	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	thalamus	<http://purl.obolibrary.org/obo/hba_4392>
+620	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal thalamus	<http://purl.obolibrary.org/obo/hba_4393>
+621	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediodorsal nucleus of the thalamus, left, magnocellular division	<http://purl.obolibrary.org/obo/hba_4403>
+622	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediodorsal nucleus of the thalamus, left, densocelllular division	<http://purl.obolibrary.org/obo/hba_4404>
+623	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	submedial nucleus of the thalamus, left	<http://purl.obolibrary.org/obo/hba_4406>
+624	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral anterior nucleus of the thalamus, left, principal division	<http://purl.obolibrary.org/obo/hba_4419>
+625	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral anterior nucleus of the thalamus, left, magnocellular division	<http://purl.obolibrary.org/obo/hba_4420>
+626	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral medial nucleus of the thalamus, left	<http://purl.obolibrary.org/obo/hba_4421>
+627	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral lateral posterior nucleus of the thalamus, left	<http://purl.obolibrary.org/obo/hba_4423>
+628	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral posterior inferior nucleus of the thalamus, left	<http://purl.obolibrary.org/obo/hba_4426>
+629	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	limitans nucleus of the thalamus, left	<http://purl.obolibrary.org/obo/hba_4429>
+630	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	suprageniculate nucleus of the thalamus, left	<http://purl.obolibrary.org/obo/hba_4430>
+631	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal lateral geniculate nucleus, left	<http://purl.obolibrary.org/obo/hba_4440>
+632	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral nucleus of the medial geniculate complex, left	<http://purl.obolibrary.org/obo/hba_4445>
+633	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterodorsal nucleus of medial geniculate complex, left	<http://purl.obolibrary.org/obo/hba_4446>
+634	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterodorsal nucleus of medial geniculate complex, left	<http://purl.obolibrary.org/obo/hba_4447>
+635	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	magnocellular nucleus of the medial geniculate complex, left	<http://purl.obolibrary.org/obo/hba_4448>
+636	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral thalamus	<http://purl.obolibrary.org/obo/hba_4504>
+637	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	epithalamus	<http://purl.obolibrary.org/obo/hba_4520>
+638	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	habenular nuclei, left	<http://purl.obolibrary.org/obo/hba_4522>
+639	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial habenular nucleus, left	<http://purl.obolibrary.org/obo/hba_4523>
+640	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral habenular nucleus, left	<http://purl.obolibrary.org/obo/hba_4524>
+641	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pineal gland	<http://purl.obolibrary.org/obo/hba_4532>
+642	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior paraventricular nucleus of thalamus, left	<http://purl.obolibrary.org/obo/hba_4536>
+643	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hypothalamus	<http://purl.obolibrary.org/obo/hba_4540>
+644	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	preoptic region	<http://purl.obolibrary.org/obo/hba_4541>
+645	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial preoptic area, left	<http://purl.obolibrary.org/obo/hba_4543>
+646	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior hypothalamic region	<http://purl.obolibrary.org/obo/hba_4570>
+647	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subparaventricular zone, left	<http://purl.obolibrary.org/obo/hba_4574>
+648	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, descending division	<http://purl.obolibrary.org/obo/hba_4575>
+649	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, descending division, medial parvicellular part, ventral zone	<http://purl.obolibrary.org/obo/hba_4576>
+650	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, descending division, dorsal parvicellular part	<http://purl.obolibrary.org/obo/hba_4577>
+651	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, descending division, lateral parvicellular part	<http://purl.obolibrary.org/obo/hba_4578>
+652	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, descending division, forniceal part	<http://purl.obolibrary.org/obo/hba_4579>
+653	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, magnocellular division	<http://purl.obolibrary.org/obo/hba_4580>
+654	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, magnocellular division, anterior magnocellular part	<http://purl.obolibrary.org/obo/hba_4581>
+655	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, magnocellular division, medial magnocellular part	<http://purl.obolibrary.org/obo/hba_4582>
+656	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, magnocellular division, posterior magnocellular part	<http://purl.obolibrary.org/obo/hba_4583>
+657	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, magnocellular division, posterior magnocellular part, medial zone	<http://purl.obolibrary.org/obo/hba_4584>
+658	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, magnocellular division, posterior magnocellular part, lateral zone	<http://purl.obolibrary.org/obo/hba_4585>
+659	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular nucleus of the hypothalamus, left, parvicellular division	<http://purl.obolibrary.org/obo/hba_4586>
+660	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	suprachiasmatic nucleus, left, dorsomedial part	<http://purl.obolibrary.org/obo/hba_4591>
+661	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	suprachiasmatic nucleus, left, ventrolateral part	<http://purl.obolibrary.org/obo/hba_4592>
+662	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	supraoptic nucleus, left, dorsolateral part	<http://purl.obolibrary.org/obo/hba_4594>
+663	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	tuberal region	<http://purl.obolibrary.org/obo/hba_4633>
+664	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mammillary region	<http://purl.obolibrary.org/obo/hba_4665>
+665	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial mammillary nucleus, left, lateral part	<http://purl.obolibrary.org/obo/hba_4673>
+666	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	premammillary nucleus, left, dorsal part	<http://purl.obolibrary.org/obo/hba_4677>
+667	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	premammillary nucleus, left, ventral part	<http://purl.obolibrary.org/obo/hba_4678>
+668	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellum	<http://purl.obolibrary.org/obo/hba_4696>
+669	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar cortex	<http://purl.obolibrary.org/obo/hba_4697>
+670	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vermis	<http://purl.obolibrary.org/obo/hba_4698>
+671	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior lobe of the vermis	<http://purl.obolibrary.org/obo/hba_4699>
+672	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	i-ii	<http://purl.obolibrary.org/obo/hba_4700>
+673	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iii	<http://purl.obolibrary.org/obo/hba_4701>
+674	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iv	<http://purl.obolibrary.org/obo/hba_4702>
+675	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	v	<http://purl.obolibrary.org/obo/hba_4703>
+676	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior lobe of the vermis	<http://purl.obolibrary.org/obo/hba_4704>
+677	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vi	<http://purl.obolibrary.org/obo/hba_4705>
+678	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiaf	<http://purl.obolibrary.org/obo/hba_4706>
+679	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiat	<http://purl.obolibrary.org/obo/hba_4707>
+680	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viib	<http://purl.obolibrary.org/obo/hba_4708>
+681	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiia	<http://purl.obolibrary.org/obo/hba_4709>
+682	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiib	<http://purl.obolibrary.org/obo/hba_4710>
+683	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ix	<http://purl.obolibrary.org/obo/hba_4711>
+684	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	flocculonodular lobe of the vermis	<http://purl.obolibrary.org/obo/hba_4712>
+685	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	x	<http://purl.obolibrary.org/obo/hba_4713>
+686	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	i-ii, left, paravermis	<http://purl.obolibrary.org/obo/hba_4717>
+687	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iii, left, paravermis	<http://purl.obolibrary.org/obo/hba_4718>
+688	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iv, left, paravermis	<http://purl.obolibrary.org/obo/hba_4719>
+689	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	v, left, paravermis	<http://purl.obolibrary.org/obo/hba_4720>
+690	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vi, left, paravermis	<http://purl.obolibrary.org/obo/hba_4722>
+691	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus i, left, paravermis	<http://purl.obolibrary.org/obo/hba_4723>
+692	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus ii, left, paravermis	<http://purl.obolibrary.org/obo/hba_4724>
+693	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viib, left, paravermis	<http://purl.obolibrary.org/obo/hba_4725>
+694	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiia, left, paravermis	<http://purl.obolibrary.org/obo/hba_4726>
+695	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiib, left, paravermis	<http://purl.obolibrary.org/obo/hba_4727>
+696	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ix, left, paravermis	<http://purl.obolibrary.org/obo/hba_4728>
+697	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	x, left, paravermis	<http://purl.obolibrary.org/obo/hba_4730>
+698	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	i-ii, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4733>
+699	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iii, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4734>
+700	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iv, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4735>
+701	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	v, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4736>
+702	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vi, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4738>
+703	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus i, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4739>
+704	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus ii, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4740>
+705	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viib, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4741>
+706	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiia, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4742>
+707	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiib, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4743>
+708	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ix, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4744>
+709	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	x, left, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4746>
+710	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	i-ii, right, paravermis	<http://purl.obolibrary.org/obo/hba_4750>
+711	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iii, right, paravermis	<http://purl.obolibrary.org/obo/hba_4751>
+712	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iv, right, paravermis	<http://purl.obolibrary.org/obo/hba_4752>
+713	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	v, right, paravermis	<http://purl.obolibrary.org/obo/hba_4753>
+714	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vi, right, paravermis	<http://purl.obolibrary.org/obo/hba_4755>
+715	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus i, right, paravermis	<http://purl.obolibrary.org/obo/hba_4756>
+716	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus ii, right, paravermis	<http://purl.obolibrary.org/obo/hba_4757>
+717	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viib, right, paravermis	<http://purl.obolibrary.org/obo/hba_4758>
+718	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiia, right, paravermis	<http://purl.obolibrary.org/obo/hba_4759>
+719	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiib, right, paravermis	<http://purl.obolibrary.org/obo/hba_4760>
+720	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ix, right, paravermis	<http://purl.obolibrary.org/obo/hba_4761>
+721	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	x, right, paravermis	<http://purl.obolibrary.org/obo/hba_4763>
+722	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	i-ii, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4766>
+723	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iii, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4767>
+724	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	iv, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4768>
+725	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	v, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4769>
+726	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vi, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4771>
+727	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus i, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4772>
+728	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus ii, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4773>
+729	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viib, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4774>
+730	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiia, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4775>
+731	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	viiib, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4776>
+732	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ix, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4777>
+733	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	x, right, lateral hemisphere	<http://purl.obolibrary.org/obo/hba_4779>
+734	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar nuclei	<http://purl.obolibrary.org/obo/hba_4780>
+735	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal pole	<http://purl.obolibrary.org/obo/hba_4888>
+736	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior rostral gyrus	<http://purl.obolibrary.org/obo/hba_4897>
+737	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior rostral gyrus	<http://purl.obolibrary.org/obo/hba_4900>
+738	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mesencephalon	<http://purl.obolibrary.org/obo/hba_9001>
+739	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain tegmentum	<http://purl.obolibrary.org/obo/hba_9002>
+740	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central gray substance of midbrain	<http://purl.obolibrary.org/obo/hba_9003>
+741	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain reticular formation	<http://purl.obolibrary.org/obo/hba_9018>
+742	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	oculomotor nuclear complex	<http://purl.obolibrary.org/obo/hba_9030>
+743	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	magnocellular part of the red nucleus, left	<http://purl.obolibrary.org/obo/hba_9055>
+744	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parvocellular part of the red nucleus, left	<http://purl.obolibrary.org/obo/hba_9056>
+745	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral tegmental area	<http://purl.obolibrary.org/obo/hba_9066>
+746	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pretectal region	<http://purl.obolibrary.org/obo/hba_9079>
+747	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the optic tract	<http://purl.obolibrary.org/obo/hba_9080>
+748	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	olivary pretectal nucleus	<http://purl.obolibrary.org/obo/hba_9086>
+749	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	principal pretectal nucleus	<http://purl.obolibrary.org/obo/hba_9089>
+750	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	sublentiform nucleus	<http://purl.obolibrary.org/obo/hba_9092>
+751	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain tectum	<http://purl.obolibrary.org/obo/hba_9101>
+752	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior colliculus	<http://purl.obolibrary.org/obo/hba_9102>
+753	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior colliculus	<http://purl.obolibrary.org/obo/hba_9114>
+754	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	deep gray layer of the superior colliculus, left	<http://purl.obolibrary.org/obo/hba_9117>
+755	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	deep white layer of the superior colliculus, left	<http://purl.obolibrary.org/obo/hba_9118>
+756	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	middle gray layer of the superior colliculus, left	<http://purl.obolibrary.org/obo/hba_9119>
+757	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	middle white layer of the superior colliculus, left	<http://purl.obolibrary.org/obo/hba_9120>
+758	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial gray layer of the superior colliculus, left	<http://purl.obolibrary.org/obo/hba_9121>
+759	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superficial white layer of the superior colliculus, left	<http://purl.obolibrary.org/obo/hba_9122>
+760	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pons	<http://purl.obolibrary.org/obo/hba_9131>
+761	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	basal part of pons	<http://purl.obolibrary.org/obo/hba_9132>
+762	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal nucleus of lateral lemniscus	<http://purl.obolibrary.org/obo/hba_9139>
+763	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	facial motor nucleus	<http://purl.obolibrary.org/obo/hba_9142>
+764	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral parabrachial nucleus	<http://purl.obolibrary.org/obo/hba_9145>
+765	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial parabrachial nucleus,right	<http://purl.obolibrary.org/obo/hba_9153>
+766	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pontine reticular formation, left	<http://purl.obolibrary.org/obo/hba_9161>
+767	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior olivary complex	<http://purl.obolibrary.org/obo/hba_9177>
+768	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior olive, left	<http://purl.obolibrary.org/obo/hba_9182>
+769	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	trapezoid body	<http://purl.obolibrary.org/obo/hba_9197>
+770	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral nucleus of lateral lemniscus	<http://purl.obolibrary.org/obo/hba_9200>
+771	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	trigeminal nuclei	<http://purl.obolibrary.org/obo/hba_9203>
+772	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	telencephalic white matter	<http://purl.obolibrary.org/obo/hba_9219>
+773	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior commissure	<http://purl.obolibrary.org/obo/hba_9221>
+774	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	corpus callosum	<http://purl.obolibrary.org/obo/hba_9222>
+775	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	genu of the corpus callosum	<http://purl.obolibrary.org/obo/hba_9223>
+776	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	body of the corpus callosum	<http://purl.obolibrary.org/obo/hba_9224>
+777	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	splenium of the corpus callosum	<http://purl.obolibrary.org/obo/hba_9225>
+778	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrum of the corpus callosum	<http://purl.obolibrary.org/obo/hba_9226>
+779	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	habenular commissure	<http://purl.obolibrary.org/obo/hba_9227>
+780	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampal commissure	<http://purl.obolibrary.org/obo/hba_9228>
+781	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior commissure	<http://purl.obolibrary.org/obo/hba_9229>
+782	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	telencephalic white matter tracts	<http://purl.obolibrary.org/obo/hba_9230>
+783	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ansa lenticularis	<http://purl.obolibrary.org/obo/hba_9237>
+784	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	external capsule	<http://purl.obolibrary.org/obo/hba_9243>
+785	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	extreme capsule	<http://purl.obolibrary.org/obo/hba_9246>
+786	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior column of the fornix, left	<http://purl.obolibrary.org/obo/hba_9251>
+787	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	internal capsule	<http://purl.obolibrary.org/obo/hba_9263>
+788	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	stria medullaris	<http://purl.obolibrary.org/obo/hba_9275>
+789	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	stria terminalis	<http://purl.obolibrary.org/obo/hba_9278>
+790	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	uncinate fasciculus of the forebrain	<http://purl.obolibrary.org/obo/hba_9284>
+791	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	metencephalic white matter	<http://purl.obolibrary.org/obo/hba_9287>
+792	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar white matter tracts	<http://purl.obolibrary.org/obo/hba_9288>
+793	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior cerebellar peduncle, right	<http://purl.obolibrary.org/obo/hba_9291>
+794	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	middle cerebellar peduncle, right	<http://purl.obolibrary.org/obo/hba_9294>
+795	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior cerebellar peduncle, right	<http://purl.obolibrary.org/obo/hba_9297>
+796	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	myelencephalic white matter	<http://purl.obolibrary.org/obo/hba_9298>
+797	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	olfactory nerve	<http://purl.obolibrary.org/obo/hba_9300>
+798	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	olfactory bulb, left	<http://purl.obolibrary.org/obo/hba_9303>
+799	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	optic radiations, left	<http://purl.obolibrary.org/obo/hba_9311>
+800	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	occulomotor nerve	<http://purl.obolibrary.org/obo/hba_9316>
+801	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	trochlear nerve	<http://purl.obolibrary.org/obo/hba_9319>
+802	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	trigeminal nerve	<http://purl.obolibrary.org/obo/hba_9322>
+803	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	abducens nerve	<http://purl.obolibrary.org/obo/hba_9325>
+804	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	facial nerve	<http://purl.obolibrary.org/obo/hba_9328>
+805	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vestibulocochlear nerve	<http://purl.obolibrary.org/obo/hba_9331>
+806	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	glossopharyngeal nerve	<http://purl.obolibrary.org/obo/hba_9334>
+807	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vagus nerve	<http://purl.obolibrary.org/obo/hba_9337>
+808	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hypoglossal nerve	<http://purl.obolibrary.org/obo/hba_9343>
+809	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal lobe sulci	<http://purl.obolibrary.org/obo/hba_9354>
+810	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	precentral sulcus	<http://purl.obolibrary.org/obo/hba_9355>
+811	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior frontal sulcus	<http://purl.obolibrary.org/obo/hba_9356>
+812	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior frontal sulcus	<http://purl.obolibrary.org/obo/hba_9357>
+813	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate frontal sulcus	<http://purl.obolibrary.org/obo/hba_9358>
+814	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial frontal sulcus	<http://purl.obolibrary.org/obo/hba_9359>
+815	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	orbital sulcus	<http://purl.obolibrary.org/obo/hba_9360>
+816	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	olfactory sulcus	<http://purl.obolibrary.org/obo/hba_9361>
+817	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	fronto-orbital sulcus	<http://purl.obolibrary.org/obo/hba_9362>
+818	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontomarginal sulcus	<http://purl.obolibrary.org/obo/hba_9363>
+819	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cingulate sulcus	<http://purl.obolibrary.org/obo/hba_9364>
+820	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paracentral sulcus	<http://purl.obolibrary.org/obo/hba_9365>
+821	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior rostral sulcus	<http://purl.obolibrary.org/obo/hba_9366>
+822	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior rostral sulcus	<http://purl.obolibrary.org/obo/hba_9367>
+823	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior parolfactory sulcus	<http://purl.obolibrary.org/obo/hba_9369>
+824	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parietal lobe sulci	<http://purl.obolibrary.org/obo/hba_9370>
+825	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	postcentral sulcus	<http://purl.obolibrary.org/obo/hba_9371>
+826	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intraparietal sulcus	<http://purl.obolibrary.org/obo/hba_9372>
+827	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subparietal sulcus	<http://purl.obolibrary.org/obo/hba_9376>
+828	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	temporal lobe sulci	<http://purl.obolibrary.org/obo/hba_9377>
+829	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior temporal sulcus	<http://purl.obolibrary.org/obo/hba_9378>
+830	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior temporal sulcus	<http://purl.obolibrary.org/obo/hba_9379>
+831	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	collateral sulcus	<http://purl.obolibrary.org/obo/hba_9380>
+832	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rhinal sulcus	<http://purl.obolibrary.org/obo/hba_9383>
+833	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	angular sulcus	<http://purl.obolibrary.org/obo/hba_9384>
+834	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior occipital sulcus	<http://purl.obolibrary.org/obo/hba_9385>
+835	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	occipital lobe sulci	<http://purl.obolibrary.org/obo/hba_9386>
+836	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	transverse occipital sulcus	<http://purl.obolibrary.org/obo/hba_9388>
+837	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral occipital sulcus	<http://purl.obolibrary.org/obo/hba_9389>
+838	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lunate sulcus	<http://purl.obolibrary.org/obo/hba_9390>
+839	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	calcarine sulcus	<http://purl.obolibrary.org/obo/hba_9391>
+840	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parieto-occipital sulcus	<http://purl.obolibrary.org/obo/hba_9392>
+841	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	limbic lobe sulci	<http://purl.obolibrary.org/obo/hba_9393>
+842	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampal sulcus	<http://purl.obolibrary.org/obo/hba_9394>
+843	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	insular lobe sulci	<http://purl.obolibrary.org/obo/hba_9397>
+844	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	circular sulcus	<http://purl.obolibrary.org/obo/hba_9398>
+845	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central sulcus of insula	<http://purl.obolibrary.org/obo/hba_9399>
+846	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	sylvian fissure	<http://purl.obolibrary.org/obo/hba_9402>
+847	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central sulcus	<http://purl.obolibrary.org/obo/hba_9403>
+848	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	callosal sulcus	<http://purl.obolibrary.org/obo/hba_9404>
+849	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	precentral fissure	<http://purl.obolibrary.org/obo/hba_9407>
+850	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	preculminate fissure	<http://purl.obolibrary.org/obo/hba_9408>
+851	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intraculminate fissure	<http://purl.obolibrary.org/obo/hba_9409>
+852	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary fissure	<http://purl.obolibrary.org/obo/hba_9410>
+853	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior posterior fissure	<http://purl.obolibrary.org/obo/hba_9411>
+854	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	horizontal fissure	<http://purl.obolibrary.org/obo/hba_9412>
+855	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ansoparamedian fissure	<http://purl.obolibrary.org/obo/hba_9413>
+856	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	secondary fissure	<http://purl.obolibrary.org/obo/hba_9416>
+857	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterolateral fissure	<http://purl.obolibrary.org/obo/hba_9417>
+858	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral ventricle	<http://purl.obolibrary.org/obo/hba_9419>
+859	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	third ventricle	<http://purl.obolibrary.org/obo/hba_9420>
+860	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	fourth ventricle	<http://purl.obolibrary.org/obo/hba_9421>
+861	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain raphe nuclei	<http://purl.obolibrary.org/obo/hba_9455>
+862	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the brachium of the inferior colliculus	<http://purl.obolibrary.org/obo/hba_9483>
+863	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subcommissural organ	<http://purl.obolibrary.org/obo/hba_9489>
+864	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area postrema	<http://purl.obolibrary.org/obo/hba_9522>
+865	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cochlear nuclei	<http://purl.obolibrary.org/obo/hba_9528>
+866	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior olivary complex	<http://purl.obolibrary.org/obo/hba_9560>
+867	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medullary reticular formation	<http://purl.obolibrary.org/obo/hba_9587>
+868	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central medullary reticular group	<http://purl.obolibrary.org/obo/hba_9588>
+869	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal paragigantocellular nucleus, left	<http://purl.obolibrary.org/obo/hba_9600>
+870	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral paragigantocellular nucleus, left	<http://purl.obolibrary.org/obo/hba_9601>
+871	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate zone, left	<http://purl.obolibrary.org/obo/hba_9611>
+872	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral medullary reticular group	<http://purl.obolibrary.org/obo/hba_9613>
+873	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parvicellular reticular nucleus	<http://purl.obolibrary.org/obo/hba_9624>
+874	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	raphe nuclei of medulla	<http://purl.obolibrary.org/obo/hba_9642>
+875	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	solitary nucleus, left, meidal subnucleus	<http://purl.obolibrary.org/obo/hba_9661>
+876	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventrolateral subnucleus of solitary tract, left	<http://purl.obolibrary.org/obo/hba_9664>
+877	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpolar part of spinal trigeminal nucleus, left	<http://purl.obolibrary.org/obo/hba_9678>
+878	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	oral part of spinal trigeminal nucleus, left	<http://purl.obolibrary.org/obo/hba_9679>
+879	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vestibular nuclei	<http://purl.obolibrary.org/obo/hba_9697>
+880	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	tuberomammillary nucleus, ventral part	<http://purl.obolibrary.org/obo/mba_1>
+881	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	extrapyramidal fiber systems	<http://purl.obolibrary.org/obo/mba_1000>
+882	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule v	<http://purl.obolibrary.org/obo/mba_1001>
+883	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	simple lobule	<http://purl.obolibrary.org/obo/mba_1007>
+884	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal auditory area	<http://purl.obolibrary.org/obo/mba_1011>
+885	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ansiform lobule	<http://purl.obolibrary.org/obo/mba_1017>
+886	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paramedian lobule	<http://purl.obolibrary.org/obo/mba_1025>
+887	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part	<http://purl.obolibrary.org/obo/mba_103>
+888	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	copula pyramidis	<http://purl.obolibrary.org/obo/mba_1033>
+889	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	postsubiculum	<http://purl.obolibrary.org/obo/mba_1037>
+890	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	gracile nucleus	<http://purl.obolibrary.org/obo/mba_1039>
+891	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraflocculus	<http://purl.obolibrary.org/obo/mba_1041>
+892	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	flocculus	<http://purl.obolibrary.org/obo/mba_1049>
+893	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pedunculopontine nucleus	<http://purl.obolibrary.org/obo/mba_1052>
+894	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 1	<http://purl.obolibrary.org/obo/mba_1056>
+895	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 2	<http://purl.obolibrary.org/obo/mba_1064>
+896	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hindbrain	<http://purl.obolibrary.org/obo/mba_1065>
+897	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	median eminence	<http://purl.obolibrary.org/obo/mba_10671>
+898	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	simple lobule, granular layer	<http://purl.obolibrary.org/obo/mba_10672>
+899	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	simple lobule, purkinje layer	<http://purl.obolibrary.org/obo/mba_10673>
+900	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	simple lobule, molecular layer	<http://purl.obolibrary.org/obo/mba_10674>
+901	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 1, granular layer	<http://purl.obolibrary.org/obo/mba_10675>
+902	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 1, purkinje layer	<http://purl.obolibrary.org/obo/mba_10676>
+903	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 1, molecular layer	<http://purl.obolibrary.org/obo/mba_10677>
+904	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 2, granular layer	<http://purl.obolibrary.org/obo/mba_10678>
+905	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 2, purkinje layer	<http://purl.obolibrary.org/obo/mba_10679>
+906	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	crus 2, molecular layer	<http://purl.obolibrary.org/obo/mba_10680>
+907	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paramedian lobule, granular layer	<http://purl.obolibrary.org/obo/mba_10681>
+908	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paramedian lobule, purkinje layer	<http://purl.obolibrary.org/obo/mba_10682>
+909	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paramedian lobule, molecular layer	<http://purl.obolibrary.org/obo/mba_10683>
+910	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	copula pyramidis, granular layer	<http://purl.obolibrary.org/obo/mba_10684>
+911	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	copula pyramidis, purkinje layer	<http://purl.obolibrary.org/obo/mba_10685>
+912	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	copula pyramidis, molecular layer	<http://purl.obolibrary.org/obo/mba_10686>
+913	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraflocculus, granular layer	<http://purl.obolibrary.org/obo/mba_10687>
+914	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraflocculus, purkinje layer	<http://purl.obolibrary.org/obo/mba_10688>
+915	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraflocculus, molecular layer	<http://purl.obolibrary.org/obo/mba_10689>
+916	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	flocculus, granular layer	<http://purl.obolibrary.org/obo/mba_10690>
+917	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	flocculus, purkinje layer	<http://purl.obolibrary.org/obo/mba_10691>
+918	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	flocculus, molecular layer	<http://purl.obolibrary.org/obo/mba_10692>
+919	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lingula (i), granular layer	<http://purl.obolibrary.org/obo/mba_10705>
+920	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lingula (i), purkinje layer	<http://purl.obolibrary.org/obo/mba_10706>
+921	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lingula (i), molecular layer	<http://purl.obolibrary.org/obo/mba_10707>
+922	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule ii, granular layer	<http://purl.obolibrary.org/obo/mba_10708>
+923	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule ii, purkinje layer	<http://purl.obolibrary.org/obo/mba_10709>
+924	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule ii, molecular layer	<http://purl.obolibrary.org/obo/mba_10710>
+925	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iii, granular layer	<http://purl.obolibrary.org/obo/mba_10711>
+926	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iii, purkinje layer	<http://purl.obolibrary.org/obo/mba_10712>
+927	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iii, molecular layer	<http://purl.obolibrary.org/obo/mba_10713>
+928	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iv, granular layer	<http://purl.obolibrary.org/obo/mba_10714>
+929	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iv, purkinje layer	<http://purl.obolibrary.org/obo/mba_10715>
+930	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iv, molecular layer	<http://purl.obolibrary.org/obo/mba_10716>
+931	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule v, granular layer	<http://purl.obolibrary.org/obo/mba_10717>
+932	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule v, purkinje layer	<http://purl.obolibrary.org/obo/mba_10718>
+933	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule v, molecular layer	<http://purl.obolibrary.org/obo/mba_10719>
+934	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobules iv-v, granular layer	<http://purl.obolibrary.org/obo/mba_10720>
+935	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobules iv-v, purkinje layer	<http://purl.obolibrary.org/obo/mba_10721>
+936	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobules iv-v, molecular layer	<http://purl.obolibrary.org/obo/mba_10722>
+937	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	declive (vi), granular layer	<http://purl.obolibrary.org/obo/mba_10723>
+938	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	declive (vi), purkinje layer	<http://purl.obolibrary.org/obo/mba_10724>
+939	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	declive (vi), molecular layer	<http://purl.obolibrary.org/obo/mba_10725>
+940	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	folium-tuber vermis (vii), granular layer	<http://purl.obolibrary.org/obo/mba_10726>
+941	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	folium-tuber vermis (vii), purkinje layer	<http://purl.obolibrary.org/obo/mba_10727>
+942	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	folium-tuber vermis (vii), molecular layer	<http://purl.obolibrary.org/obo/mba_10728>
+943	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pyramus (viii), granular layer	<http://purl.obolibrary.org/obo/mba_10729>
+944	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hemispheric regions	<http://purl.obolibrary.org/obo/mba_1073>
+945	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pyramus (viii), purkinje layer	<http://purl.obolibrary.org/obo/mba_10730>
+946	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pyramus (viii), molecular layer	<http://purl.obolibrary.org/obo/mba_10731>
+947	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	uvula (ix), granular layer	<http://purl.obolibrary.org/obo/mba_10732>
+948	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	uvula (ix), purkinje layer	<http://purl.obolibrary.org/obo/mba_10733>
+949	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	uvula (ix), molecular layer	<http://purl.obolibrary.org/obo/mba_10734>
+950	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nodulus (x), granular layer	<http://purl.obolibrary.org/obo/mba_10735>
+951	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nodulus (x), purkinje layer	<http://purl.obolibrary.org/obo/mba_10736>
+952	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nodulus (x), molecular layer	<http://purl.obolibrary.org/obo/mba_10737>
+953	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	precentral fissure	<http://purl.obolibrary.org/obo/mba_1087>
+954	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampal formation	<http://purl.obolibrary.org/obo/mba_1089>
+955	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobules iv-v	<http://purl.obolibrary.org/obo/mba_1091>
+956	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pontine reticular nucleus, caudal part	<http://purl.obolibrary.org/obo/mba_1093>
+957	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hypothalamus	<http://purl.obolibrary.org/obo/mba_1097>
+958	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	genu of corpus callosum	<http://purl.obolibrary.org/obo/mba_1108>
+959	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interanterodorsal nucleus of the thalamus	<http://purl.obolibrary.org/obo/mba_1113>
+960	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	tuberomammillary nucleus, dorsal part	<http://purl.obolibrary.org/obo/mba_1126>
+961	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interbrain	<http://purl.obolibrary.org/obo/mba_1129>
+962	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate nerve	<http://purl.obolibrary.org/obo/mba_1131>
+963	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar cortex, granular layer	<http://purl.obolibrary.org/obo/mba_1143>
+964	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar cortex, molecular layer	<http://purl.obolibrary.org/obo/mba_1144>
+965	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar cortex, purkinje layer	<http://purl.obolibrary.org/obo/mba_1145>
+966	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pallidothalamic pathway	<http://purl.obolibrary.org/obo/mba_142>
+967	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	accessory olfactory bulb	<http://purl.obolibrary.org/obo/mba_151>
+968	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain raphe nuclei	<http://purl.obolibrary.org/obo/mba_165>
+969	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of reuniens	<http://purl.obolibrary.org/obo/mba_181>
+970	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal pole, cerebral cortex	<http://purl.obolibrary.org/obo/mba_184>
+971	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral hypothalamic area	<http://purl.obolibrary.org/obo/mba_194>
+972	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area postrema	<http://purl.obolibrary.org/obo/mba_207>
+973	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior parietal association areas	<http://purl.obolibrary.org/obo/mba_22>
+974	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	sensory root of the trigeminal nerve	<http://purl.obolibrary.org/obo/mba_229>
+975	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterolateral visual area, layer 5	<http://purl.obolibrary.org/obo/mba_233>
+976	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain reticular nucleus, retrorubral area	<http://purl.obolibrary.org/obo/mba_246>
+977	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	auditory areas	<http://purl.obolibrary.org/obo/mba_247>
+978	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retrosplenial area	<http://purl.obolibrary.org/obo/mba_254>
+979	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posteromedial visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_257>
+980	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intergeniculate leaflet of the lateral geniculate complex	<http://purl.obolibrary.org/obo/mba_27>
+981	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	periventricular hypothalamic nucleus, anterior part	<http://purl.obolibrary.org/obo/mba_30>
+982	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior cingulate area	<http://purl.obolibrary.org/obo/mba_31>
+983	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	septofimbrial nucleus	<http://purl.obolibrary.org/obo/mba_310>
+984	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral area, layer 5	<http://purl.obolibrary.org/obo/mba_312782616>
+985	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	postrhinal area	<http://purl.obolibrary.org/obo/mba_312782628>
+986	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	postrhinal area, layer 4	<http://purl.obolibrary.org/obo/mba_312782640>
+987	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	midbrain	<http://purl.obolibrary.org/obo/mba_313>
+988	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	isocortex	<http://purl.obolibrary.org/obo/mba_315>
+989	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary somatosensory area	<http://purl.obolibrary.org/obo/mba_322>
+990	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary somatosensory area, barrel field	<http://purl.obolibrary.org/obo/mba_329>
+991	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_33>
+992	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	septohippocampal nucleus	<http://purl.obolibrary.org/obo/mba_333>
+993	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subfornical organ	<http://purl.obolibrary.org/obo/mba_338>
+994	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	brain stem	<http://purl.obolibrary.org/obo/mba_343>
+995	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subparaventricular zone	<http://purl.obolibrary.org/obo/mba_347>
+996	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	bed nuclei of the stria terminalis, anterior division	<http://purl.obolibrary.org/obo/mba_359>
+997	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	bed nuclei of the stria terminalis, posterior division	<http://purl.obolibrary.org/obo/mba_367>
+998	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ammon's horn	<http://purl.obolibrary.org/obo/mba_375>
+999	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	supplemental somatosensory area	<http://purl.obolibrary.org/obo/mba_378>
+1000	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	field ca1	<http://purl.obolibrary.org/obo/mba_382>
+1001	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary visual area	<http://purl.obolibrary.org/obo/mba_385>
+1002	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anteromedial visual area	<http://purl.obolibrary.org/obo/mba_394>
+1003	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	inferior colliculus	<http://purl.obolibrary.org/obo/mba_4>
+1004	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterolateral visual area	<http://purl.obolibrary.org/obo/mba_402>
+1005	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial amygdalar nucleus	<http://purl.obolibrary.org/obo/mba_403>
+1006	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral visual area	<http://purl.obolibrary.org/obo/mba_409>
+1007	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral visual area	<http://purl.obolibrary.org/obo/mba_417>
+1008	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	field ca2	<http://purl.obolibrary.org/obo/mba_423>
+1009	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterolateral visual area	<http://purl.obolibrary.org/obo/mba_425>
+1010	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial corticohypothalamic tract	<http://purl.obolibrary.org/obo/mba_428>
+1011	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anteromedial visual area, layer 5	<http://purl.obolibrary.org/obo/mba_433>
+1012	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part	<http://purl.obolibrary.org/obo/mba_439>
+1013	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, descending division, forniceal part	<http://purl.obolibrary.org/obo/mba_447>
+1014	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	somatosensory areas	<http://purl.obolibrary.org/obo/mba_453>
+1015	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, descending division, lateral parvicellular part	<http://purl.obolibrary.org/obo/mba_455>
+1016	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	field ca3	<http://purl.obolibrary.org/obo/mba_463>
+1017	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone	<http://purl.obolibrary.org/obo/mba_464>
+1018	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part	<http://purl.obolibrary.org/obo/mba_47>
+1019	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area	<http://purl.obolibrary.org/obo/mba_480149202>
+1020	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149206>
+1021	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149210>
+1022	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149214>
+1023	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149218>
+1024	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149222>
+1025	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostrolateral lateral visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149226>
+1026	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area	<http://purl.obolibrary.org/obo/mba_480149230>
+1027	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149234>
+1028	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149238>
+1029	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149242>
+1030	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149246>
+1031	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149250>
+1032	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	laterolateral anterior visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149254>
+1033	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area	<http://purl.obolibrary.org/obo/mba_480149258>
+1034	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149262>
+1035	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149266>
+1036	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149270>
+1037	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149274>
+1038	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149278>
+1039	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial anterior visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149282>
+1040	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area	<http://purl.obolibrary.org/obo/mba_480149286>
+1041	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149290>
+1042	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149294>
+1043	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149298>
+1044	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149302>
+1045	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149306>
+1046	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mediomedial posterior visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149310>
+1047	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area	<http://purl.obolibrary.org/obo/mba_480149314>
+1048	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 1	<http://purl.obolibrary.org/obo/mba_480149318>
+1049	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_480149322>
+1050	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 4	<http://purl.obolibrary.org/obo/mba_480149326>
+1051	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area,layer 5	<http://purl.obolibrary.org/obo/mba_480149330>
+1052	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_480149334>
+1053	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial visual area, layer 6b	<http://purl.obolibrary.org/obo/mba_480149338>
+1054	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum	<http://purl.obolibrary.org/obo/mba_484682470>
+1055	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, dorsal part	<http://purl.obolibrary.org/obo/mba_484682475>
+1056	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, dorsal part, molecular layer	<http://purl.obolibrary.org/obo/mba_484682479>
+1057	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, dorsal part, pyramidal layer	<http://purl.obolibrary.org/obo/mba_484682483>
+1058	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, dorsal part, stratum radiatum	<http://purl.obolibrary.org/obo/mba_484682487>
+1059	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, ventral part	<http://purl.obolibrary.org/obo/mba_484682492>
+1060	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, ventral part, molecular layer	<http://purl.obolibrary.org/obo/mba_484682496>
+1061	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, ventral part, pyramidal layer	<http://purl.obolibrary.org/obo/mba_484682500>
+1062	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prosubiculum, ventral part, stratum radiatum	<http://purl.obolibrary.org/obo/mba_484682504>
+1063	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	area prostriata	<http://purl.obolibrary.org/obo/mba_484682508>
+1064	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	supra-callosal cerebral white matter	<http://purl.obolibrary.org/obo/mba_484682512>
+1065	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	corpus callosum, body	<http://purl.obolibrary.org/obo/mba_484682516>
+1066	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	optic radiation	<http://purl.obolibrary.org/obo/mba_484682520>
+1067	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	auditory radiation	<http://purl.obolibrary.org/obo/mba_484682524>
+1068	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	commissural branch of stria terminalis	<http://purl.obolibrary.org/obo/mba_484682528>
+1069	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	major island of calleja	<http://purl.obolibrary.org/obo/mba_489>
+1070	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal part of the lateral geniculate complex, shell	<http://purl.obolibrary.org/obo/mba_496345664>
+1071	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal part of the lateral geniculate complex, core	<http://purl.obolibrary.org/obo/mba_496345668>
+1072	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal part of the lateral geniculate complex, ipsilateral zone	<http://purl.obolibrary.org/obo/mba_496345672>
+1073	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posteromedial visual area, layer 4	<http://purl.obolibrary.org/obo/mba_501>
+1074	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subiculum	<http://purl.obolibrary.org/obo/mba_502>
+1075	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	main olfactory bulb	<http://purl.obolibrary.org/obo/mba_507>
+1076	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellum	<http://purl.obolibrary.org/obo/mba_512>
+1077	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial preoptic area	<http://purl.obolibrary.org/obo/mba_523>
+1078	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal pole, layer 5	<http://purl.obolibrary.org/obo/mba_526157192>
+1079	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal pole, layer 6a	<http://purl.obolibrary.org/obo/mba_526157196>
+1080	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	frontal pole, layer 6b	<http://purl.obolibrary.org/obo/mba_526322264>
+1081	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	orbital area, medial part, layer 6b	<http://purl.obolibrary.org/obo/mba_527696977>
+1082	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar cortex	<http://purl.obolibrary.org/obo/mba_528>
+1083	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posteromedial visual area	<http://purl.obolibrary.org/obo/mba_533>
+1084	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	temporal association areas	<http://purl.obolibrary.org/obo/mba_541>
+1085	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	thalamus	<http://purl.obolibrary.org/obo/mba_549>
+1086	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral strip of striatum	<http://purl.obolibrary.org/obo/mba_549009199>
+1087	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retroparafascicular nucleus	<http://purl.obolibrary.org/obo/mba_549009203>
+1088	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intercollicular nucleus	<http://purl.obolibrary.org/obo/mba_549009207>
+1089	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial accesory oculomotor nucleus	<http://purl.obolibrary.org/obo/mba_549009211>
+1090	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	peritrigeminal zone	<http://purl.obolibrary.org/obo/mba_549009215>
+1091	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	accessory trigeminal nucleus	<http://purl.obolibrary.org/obo/mba_549009219>
+1092	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parvicellular motor 5 nucleus	<http://purl.obolibrary.org/obo/mba_549009223>
+1093	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intertrigeminal nucleus	<http://purl.obolibrary.org/obo/mba_549009227>
+1094	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pontine reticular nucleus, ventral part	<http://purl.obolibrary.org/obo/mba_552>
+1095	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ethmoid nucleus of the thalamus	<http://purl.obolibrary.org/obo/mba_560581551>
+1096	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retroethmoid nucleus	<http://purl.obolibrary.org/obo/mba_560581555>
+1097	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	xiphoid thalamic nucleus	<http://purl.obolibrary.org/obo/mba_560581559>
+1098	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior intralaminar thalamic nucleus	<http://purl.obolibrary.org/obo/mba_560581563>
+1099	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterior triangular thalamic nucleus	<http://purl.obolibrary.org/obo/mba_563807435>
+1100	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate geniculate nucleus	<http://purl.obolibrary.org/obo/mba_563807439>
+1101	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebrum	<http://purl.obolibrary.org/obo/mba_567>
+1102	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	accessory abducens nucleus	<http://purl.obolibrary.org/obo/mba_568>
+1103	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral visual area, layer 4	<http://purl.obolibrary.org/obo/mba_573>
+1104	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventromedial preoptic nucleus	<http://purl.obolibrary.org/obo/mba_576073699>
+1105	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	perifornical nucleus	<http://purl.obolibrary.org/obo/mba_576073704>
+1106	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the brachium of the inferior colliculus	<http://purl.obolibrary.org/obo/mba_580>
+1107	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampo-amygdalar transition area	<http://purl.obolibrary.org/obo/mba_589508447>
+1108	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paratrigeminal nucleus	<http://purl.obolibrary.org/obo/mba_589508451>
+1109	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vestibulocerebellar nucleus	<http://purl.obolibrary.org/obo/mba_589508455>
+1110	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subcommissural organ	<http://purl.obolibrary.org/obo/mba_599626923>
+1111	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterodorsal tegmental nucleus	<http://purl.obolibrary.org/obo/mba_599626927>
+1112	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial mammillary nucleus, lateral part	<http://purl.obolibrary.org/obo/mba_606826647>
+1113	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial mammillary nucleus, medial part	<http://purl.obolibrary.org/obo/mba_606826651>
+1114	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial mammillary nucleus, posterior part	<http://purl.obolibrary.org/obo/mba_606826655>
+1115	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	medial mammillary nucleus, dorsal part	<http://purl.obolibrary.org/obo/mba_606826659>
+1116	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paratrochlear nucleus	<http://purl.obolibrary.org/obo/mba_606826663>
+1117	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paranigral nucleus	<http://purl.obolibrary.org/obo/mba_607344830>
+1118	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, rostral	<http://purl.obolibrary.org/obo/mba_607344834>
+1119	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, caudal	<http://purl.obolibrary.org/obo/mba_607344838>
+1120	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, apical	<http://purl.obolibrary.org/obo/mba_607344842>
+1121	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, lateral	<http://purl.obolibrary.org/obo/mba_607344846>
+1122	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, intermediate	<http://purl.obolibrary.org/obo/mba_607344850>
+1123	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, dorsomedial	<http://purl.obolibrary.org/obo/mba_607344854>
+1124	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, dorsolateral	<http://purl.obolibrary.org/obo/mba_607344858>
+1125	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	interpeduncular nucleus, rostrolateral	<http://purl.obolibrary.org/obo/mba_607344862>
+1126	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral visual area, layer 5	<http://purl.obolibrary.org/obo/mba_613>
+1127	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	supraoculomotor periaqueductal gray	<http://purl.obolibrary.org/obo/mba_614454277>
+1128	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	substantia nigra, lateral part	<http://purl.obolibrary.org/obo/mba_615>
+1129	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cuneiform nucleus	<http://purl.obolibrary.org/obo/mba_616>
+1130	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, descending division	<http://purl.obolibrary.org/obo/mba_63>
+1131	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vermal regions	<http://purl.obolibrary.org/obo/mba_645>
+1132	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	visual areas	<http://purl.obolibrary.org/obo/mba_669>
+1133	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the solitary tract, gelatinous part	<http://purl.obolibrary.org/obo/mba_674>
+1134	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal auditory area, layer 4	<http://purl.obolibrary.org/obo/mba_678>
+1135	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	superior central nucleus raphe	<http://purl.obolibrary.org/obo/mba_679>
+1136	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	mammillothalamic tract	<http://purl.obolibrary.org/obo/mba_690>
+1137	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the solitary tract, medial part	<http://purl.obolibrary.org/obo/mba_691>
+1138	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior hypothalamic nucleus, anterior part	<http://purl.obolibrary.org/obo/mba_700>
+1139	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior hypothalamic nucleus, central part	<http://purl.obolibrary.org/obo/mba_708>
+1140	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, magnocellular division	<http://purl.obolibrary.org/obo/mba_71>
+1141	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	abducens nerve	<http://purl.obolibrary.org/obo/mba_710>
+1142	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cuneate nucleus	<http://purl.obolibrary.org/obo/mba_711>
+1143	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior hypothalamic nucleus, dorsal part	<http://purl.obolibrary.org/obo/mba_716>
+1144	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary visual area, layer 4	<http://purl.obolibrary.org/obo/mba_721>
+1145	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	anterior hypothalamic nucleus, posterior part	<http://purl.obolibrary.org/obo/mba_724>
+1146	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dentate gyrus	<http://purl.obolibrary.org/obo/mba_726>
+1147	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pineal stalk	<http://purl.obolibrary.org/obo/mba_730>
+1148	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lateral visual area, layer 6a	<http://purl.obolibrary.org/obo/mba_74>
+1149	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ventral tegmental area	<http://purl.obolibrary.org/obo/mba_749>
+1150	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	cerebellar peduncles	<http://purl.obolibrary.org/obo/mba_752>
+1151	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vascular organ of the lamina terminalis	<http://purl.obolibrary.org/obo/mba_763>
+1152	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pons	<http://purl.obolibrary.org/obo/mba_771>
+1153	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary visual area, layer 5	<http://purl.obolibrary.org/obo/mba_778>
+1154	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part	<http://purl.obolibrary.org/obo/mba_79>
+1155	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dopaminergic a13 group	<http://purl.obolibrary.org/obo/mba_796>
+1156	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	facial nerve	<http://purl.obolibrary.org/obo/mba_798>
+1157	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	glossopharyngeal nerve	<http://purl.obolibrary.org/obo/mba_808>
+1158	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hypoglossal nerve	<http://purl.obolibrary.org/obo/mba_813>
+1159	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pallidum, dorsal region	<http://purl.obolibrary.org/obo/mba_818>
+1160	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the lateral lemniscus, dorsal part	<http://purl.obolibrary.org/obo/mba_82>
+1161	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary visual area, layer 2/3	<http://purl.obolibrary.org/obo/mba_821>
+1162	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retrohippocampal region	<http://purl.obolibrary.org/obo/mba_822>
+1163	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	oculomotor nerve	<http://purl.obolibrary.org/obo/mba_832>
+1164	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pallidum, ventral region	<http://purl.obolibrary.org/obo/mba_835>
+1165	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	olfactory nerve	<http://purl.obolibrary.org/obo/mba_840>
+1166	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parasubiculum	<http://purl.obolibrary.org/obo/mba_843>
+1167	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parvicellular reticular nucleus	<http://purl.obolibrary.org/obo/mba_852>
+1168	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	posterolateral visual area, layer 4	<http://purl.obolibrary.org/obo/mba_869>
+1169	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal nucleus raphe	<http://purl.obolibrary.org/obo/mba_872>
+1170	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parabrachial nucleus, lateral division	<http://purl.obolibrary.org/obo/mba_881>
+1171	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	terminal nerve	<http://purl.obolibrary.org/obo/mba_885>
+1172	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	retrosplenial area, ventral part	<http://purl.obolibrary.org/obo/mba_886>
+1173	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parabrachial nucleus, medial division	<http://purl.obolibrary.org/obo/mba_890>
+1174	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the lateral lemniscus, horizontal part	<http://purl.obolibrary.org/obo/mba_90>
+1175	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	trigeminal nerve	<http://purl.obolibrary.org/obo/mba_901>
+1176	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	trochlear nerve	<http://purl.obolibrary.org/obo/mba_911>
+1177	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lingula (i)	<http://purl.obolibrary.org/obo/mba_912>
+1178	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vagus nerve	<http://purl.obolibrary.org/obo/mba_917>
+1179	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	central lobule	<http://purl.obolibrary.org/obo/mba_920>
+1180	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	perirhinal area	<http://purl.obolibrary.org/obo/mba_922>
+1181	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	culmen	<http://purl.obolibrary.org/obo/mba_928>
+1182	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	motor root of the trigeminal nerve	<http://purl.obolibrary.org/obo/mba_93>
+1183	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vestibulocochlear nerve	<http://purl.obolibrary.org/obo/mba_933>
+1184	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	entorhinal area, medial part, ventral zone	<http://purl.obolibrary.org/obo/mba_934>
+1185	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	declive (vi)	<http://purl.obolibrary.org/obo/mba_936>
+1186	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paraventricular hypothalamic nucleus, parvicellular division	<http://purl.obolibrary.org/obo/mba_94>
+1187	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	folium-tuber vermis (vii)	<http://purl.obolibrary.org/obo/mba_944>
+1188	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	vomeronasal nerve	<http://purl.obolibrary.org/obo/mba_949>
+1189	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pyramus (viii)	<http://purl.obolibrary.org/obo/mba_951>
+1190	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	pineal body	<http://purl.obolibrary.org/obo/mba_953>
+1191	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	uvula (ix)	<http://purl.obolibrary.org/obo/mba_957>
+1192	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	epithalamus	<http://purl.obolibrary.org/obo/mba_958>
+1193	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	piriform area	<http://purl.obolibrary.org/obo/mba_961>
+1194	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nodulus (x)	<http://purl.obolibrary.org/obo/mba_968>
+1195	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paragigantocellular reticular nucleus, dorsal part	<http://purl.obolibrary.org/obo/mba_970>
+1196	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	prelimbic area	<http://purl.obolibrary.org/obo/mba_972>
+1197	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule ii	<http://purl.obolibrary.org/obo/mba_976>
+1198	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	paragigantocellular reticular nucleus, lateral part	<http://purl.obolibrary.org/obo/mba_978>
+1199	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iii	<http://purl.obolibrary.org/obo/mba_984>
+1200	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary motor area	<http://purl.obolibrary.org/obo/mba_985>
+1201	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	fastigial nucleus	<http://purl.obolibrary.org/obo/mba_989>
+1202	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	nucleus of the lateral lemniscus, ventral part	<http://purl.obolibrary.org/obo/mba_99>
+1203	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	lobule iv	<http://purl.obolibrary.org/obo/mba_992>
+1204	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	secondary motor area	<http://purl.obolibrary.org/obo/mba_993>
+1205	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	fundus of striatum	<http://purl.obolibrary.org/obo/mba_998>
+1206	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	primary visual cortex (v1, striate cortex, area 17)	<http://purl.obolibrary.org/obo/pba_10026>
+1207	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	parastriate cortex (v2, area 18)	<http://purl.obolibrary.org/obo/pba_10039>
+1208	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subiculum	<http://purl.obolibrary.org/obo/pba_10054>
+1209	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca1 region	<http://purl.obolibrary.org/obo/pba_10058>
+1210	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca2 region	<http://purl.obolibrary.org/obo/pba_10063>
+1211	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca3 region	<http://purl.obolibrary.org/obo/pba_10068>
+1212	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	ca4 region	<http://purl.obolibrary.org/obo/pba_10074>
+1213	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	core of nucleus accumbens	<http://purl.obolibrary.org/obo/pba_10093>
+1214	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	shell of nucleus accumbens	<http://purl.obolibrary.org/obo/pba_10094>
+1215	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	internal capsule	<http://purl.obolibrary.org/obo/pba_10102>
+1216	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdalohippocampal area, magnocellualr part	<http://purl.obolibrary.org/obo/pba_10136>
+1217	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdalohippocampal area, parvocelluar part	<http://purl.obolibrary.org/obo/pba_10137>
+1218	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	amygdalopiriform transition area	<http://purl.obolibrary.org/obo/pba_10140>
+1219	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	telencephalon	<http://purl.obolibrary.org/obo/pba_128011350>
+1220	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate zone of rostral cingulate cortex	<http://purl.obolibrary.org/obo/pba_128011650>
+1221	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate zone of s1	<http://purl.obolibrary.org/obo/pba_128011824>
+1222	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	perirhinal cortex	<http://purl.obolibrary.org/obo/pba_128012080>
+1223	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampal proper	<http://purl.obolibrary.org/obo/pba_128012244>
+1224	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	subicular cortex	<http://purl.obolibrary.org/obo/pba_128012354>
+1225	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate cell dense zone of v1	<http://purl.obolibrary.org/obo/pba_128012470>
+1226	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate zone of v1	<http://purl.obolibrary.org/obo/pba_128012474>
+1227	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	rostral migratory stream (rms)	<http://purl.obolibrary.org/obo/pba_128012584>
+1228	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	basal forebrain	<http://purl.obolibrary.org/obo/pba_128012976>
+1229	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	diencephalon	<http://purl.obolibrary.org/obo/pba_128013010>
+1230	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	thalamus	<http://purl.obolibrary.org/obo/pba_128013014>
+1231	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	dorsal thalamus	<http://purl.obolibrary.org/obo/pba_128013018>
+1232	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	epithalamus	<http://purl.obolibrary.org/obo/pba_128013147>
+1233	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	layer ii of dorsolateral prefrontal cortex	<http://purl.obolibrary.org/obo/pba_12986>
+1234	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	layer iii of dorsolateral prefrontal cortex	<http://purl.obolibrary.org/obo/pba_12987>
+1235	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	granular layer iv of dorsolateral prefrontal cortex	<http://purl.obolibrary.org/obo/pba_12988>
+1236	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	layer v of dorsolateral prefrontal cortex	<http://purl.obolibrary.org/obo/pba_12989>
+1237	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	layer vi of dorsolateral prefrontal cortex	<http://purl.obolibrary.org/obo/pba_12990>
+1238	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	neocortex	<http://purl.obolibrary.org/obo/pba_294021746>
+1239	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	intermediate zone	<http://purl.obolibrary.org/obo/pba_294021942>
+1240	regional part of brain	<http://purl.obolibrary.org/obo/uberon_0002616>	hippocampal cortex (hippocampal formation)	<http://purl.obolibrary.org/obo/pba_4003>
+1241	reuniens nucleus	<http://purl.obolibrary.org/obo/uberon_0001921>	nucleus of reuniens	<http://purl.obolibrary.org/obo/mba_181>
