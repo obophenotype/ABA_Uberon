@@ -1,5 +1,6 @@
 ID	Label	logical type	Subclass part of	Equivalent	Evquivalent part of	SuperClass Label	Status	Approved by
 ID	A IAO:0000589	CLASS_TYPE	C part_of some % and (part_of some NCBITaxon:10090)	C % and (part_of some NCBITaxon:10090)	C part_of some %	>A rdfs:label	A oboInOwl:status	>A oboInOwl:source
+http://purl.obolibrary.org/obo/MBA_ENTITY	MBA entity	equivalent		http://purl.obolibrary.org/obo/UBERON_0001062		anatomical entity	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1	"tuberomammillary nucleus, ventral part"	equivalent		http://purl.obolibrary.org/obo/UBERON_0014594		tuberomammillary nucleus ventral part	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_100	interpeduncular nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0002145		interpeduncular nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1000	extrapyramidal fiber systems	equivalent		http://purl.obolibrary.org/obo/UBERON_0035803		extrapyramidal tract system	Verified	https://ror.org/03cpe7c52
@@ -1240,116 +1241,80 @@ http://purl.obolibrary.org/obo/MBA_996	"agranular insular area, dorsal part, lay
 http://purl.obolibrary.org/obo/MBA_997	root	equivalent		http://purl.obolibrary.org/obo/UBERON_0000955		brain	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_998	fundus of striatum	equivalent		http://purl.obolibrary.org/obo/UBERON_0014605		fundus striati	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_999	"entorhinal area, lateral part, layer 2/3"	subclass	http://purl.obolibrary.org/obo/UBERON_0007225			lateral entorhinal cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_1001	lobule V	equivalent		http://purl.obolibrary.org/obo/UBERON_0004079		cerebellum vermis lobule V	Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_936	declive (VI)	equivalent		http://purl.obolibrary.org/obo/UBERON_0004080		cerebellum vermis lobule VI	Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_951	pyramus (VIII)	equivalent		http://purl.obolibrary.org/obo/UBERON_0004082		cerebellum vermis lobule VIII	Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_ENTITY	MBA entity	equivalent		http://purl.obolibrary.org/obo/UBERON_0001062		anatomical entity	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_1001	lobule V	equivalent		http://purl.obolibrary.org/obo/UBERON_0004079		cerebellum vermis lobule V	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_936	declive (VI)	equivalent		http://purl.obolibrary.org/obo/UBERON_0004080		cerebellum vermis lobule VI	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_951	pyramus (VIII)	equivalent		http://purl.obolibrary.org/obo/UBERON_0004082		cerebellum vermis lobule VIII	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_154	perihypoglossal nuclei	equivalent		http://purl.obolibrary.org/obo/UBERON_8440028		perihypoglossal nuclei	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_576	accessory facial motor nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440037		accessory facial motor nucleus	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_490	bulbocerebellar tract	equivalent		http://purl.obolibrary.org/obo/UBERON_8440034		bulbocerebellar tract	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_623	cerebral nuclei	equivalent		http://purl.obolibrary.org/obo/UBERON_8440012		cerebral nuclei	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_814	dorsal peduncular area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440040		dorsal peduncular area	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_640	efferent vestibular nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440038		efferent vestibular nucleus	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_982	fasciola cinerea	equivalent		http://purl.obolibrary.org/obo/UBERON_8440013		fasciola cinerea	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_44	infralimbic area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440033		infralimbic area	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_428	medial corticohypothalmic tract	equivalent		http://purl.obolibrary.org/obo/UBERON_8440031		medial corticohypothalmic tract	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1069	parapyramidal nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440025		parapyramidal nucleus	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_185	"parapyramidal nucleus, deep part"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440026		"parapyramidal nucleus, deep part"	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_193	"parapyramidal nucleus, superficial part"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440027		"parapyramidal nucleus, superficial part"	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_30	"periventricular hypothalamic nucleus, anterior part"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440007		"periventricular hypothalamic nucleus, anterior part"	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_118	"periventricular hypothalamic nucleus, intermediate part"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440008		"periventricular hypothalamic nucleus, intermediate part"	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_788	piriform-amygdalar area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440039		piriform-amygdalar area	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_972	prelimbic area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440032		prelimbic area	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_221	rubroreticular tract	equivalent		http://purl.obolibrary.org/obo/UBERON_8440029		rubroreticular tract	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_278	striatum-like amygdalar nuclei	equivalent		http://purl.obolibrary.org/obo/UBERON_8440030		striatum-like amygdalar nuclei	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_358	sublaterodorsal nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440035		sublaterodorsal nucleus	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_534	supratrigeminal nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440036		supratrigeminal nucleus	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_689	ventrolateral preoptic nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440014		ventrolateral preoptic nucleus	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_677	visceral area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440024		visceral area	Curated	https://orcid.org/0000-0001-7258-9596
 								
-http://purl.obolibrary.org/obo/MBA_10687	"paraflocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10690	"flocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0001063		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10691	"flocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0001063		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10692	"flocculus, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0001063		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10732	"uvula (IX), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004078		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10733	"uvula (IX), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004078		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10734	"uvula (IX), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004078		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10735	"nodulus (X), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004083		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10736	"nodulus (X), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004083		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10737	"nodulus (X), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004083		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10705	"lingula (I), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004074		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10706	"lingula (I), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004074		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10707	"lingula (I), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004074		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10708	"lobule II, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004075		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10709	"lobule II, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004075		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10710	"lobule II, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004075		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10711	"lobule III, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004076		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10712	"lobule III, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004076		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10713	"lobule III, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004076		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10714	"lobule IV, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004077		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10715	"lobule IV, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004077		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10716	"lobule IV, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004077		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10717	"lobule V, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004079		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10718	"lobule V, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004079		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10719	"lobule V, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004079		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10672	"simple lobule, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005350		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10673	"simple lobule, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005350		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10674	"simple lobule, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005350		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10675	"crus 1, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005976		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10676	"crus 1, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005976		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10677	"crus 1, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005976		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10678	"crus 2, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005977		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10679	"crus 2, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005977		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10680	"crus 2, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005977		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10681	"paramedian lobule, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005349		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10682	"paramedian lobule, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005349		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10683	"paramedian lobule, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005349		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10723	"declive (VI), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004080		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10724	"declive (VI), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004080		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10725	"declive (VI), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004080		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10726	"folium-tuber vermis (VII), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004081		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10727	"folium-tuber vermis (VII), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004081		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10728	"folium-tuber vermis (VII), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004081		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10729	"pyramus (VIII), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004082		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10730	"pyramus (VIII), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004082		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10731	"pyramus (VIII), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004082		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10684	"copula pyramidis, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005347		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10685	"copula pyramidis, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005347		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-http://purl.obolibrary.org/obo/MBA_10686	"copula pyramidis, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005347		Curated	"https://orcid.org/
-0000-0001-7258-9596"
-								
-								
-								
+http://purl.obolibrary.org/obo/MBA_10687	"paraflocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10690	"flocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0001063		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10691	"flocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0001063		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10692	"flocculus, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0001063		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10732	"uvula (IX), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004078		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10733	"uvula (IX), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004078		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10734	"uvula (IX), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004078		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10735	"nodulus (X), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004083		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10736	"nodulus (X), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004083		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10737	"nodulus (X), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004083		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10705	"lingula (I), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004074		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10706	"lingula (I), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004074		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10707	"lingula (I), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004074		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10708	"lobule II, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004075		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10709	"lobule II, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004075		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10710	"lobule II, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004075		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10711	"lobule III, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004076		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10712	"lobule III, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004076		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10713	"lobule III, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004076		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10714	"lobule IV, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004077		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10715	"lobule IV, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004077		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10716	"lobule IV, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004077		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10717	"lobule V, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004079		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10718	"lobule V, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004079		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10719	"lobule V, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004079		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10672	"simple lobule, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005350		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10673	"simple lobule, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005350		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10674	"simple lobule, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005350		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10675	"crus 1, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005976		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10676	"crus 1, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005976		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10677	"crus 1, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005976		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10678	"crus 2, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005977		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10679	"crus 2, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005977		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10680	"crus 2, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005977		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10681	"paramedian lobule, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005349		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10682	"paramedian lobule, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005349		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10683	"paramedian lobule, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005349		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10723	"declive (VI), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004080		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10724	"declive (VI), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004080		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10725	"declive (VI), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004080		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10726	"folium-tuber vermis (VII), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004081		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10727	"folium-tuber vermis (VII), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004081		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10728	"folium-tuber vermis (VII), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004081		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10729	"pyramus (VIII), granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0004082		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10730	"pyramus (VIII), Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0004082		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10731	"pyramus (VIII), molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0004082		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10684	"copula pyramidis, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005347		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10685	"copula pyramidis, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005347		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10686	"copula pyramidis, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005347		Curated	https://orcid.org/0000-0001-7258-9596
