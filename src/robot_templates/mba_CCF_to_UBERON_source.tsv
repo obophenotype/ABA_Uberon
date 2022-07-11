@@ -1,5 +1,6 @@
 ID	Source
 ID	>A oboInOwl:source
+http://purl.obolibrary.org/obo/MBA_ENTITY	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_1	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_100	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_1000	https://orcid.org/0000-0002-6601-2165
@@ -75,7 +76,6 @@ http://purl.obolibrary.org/obo/MBA_1145	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_115	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_116	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_117	https://orcid.org/0000-0002-6601-2165
-http://purl.obolibrary.org/obo/MBA_118	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_12	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_122	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_124	https://orcid.org/0000-0002-6601-2165
@@ -492,7 +492,6 @@ http://purl.obolibrary.org/obo/MBA_958	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_96	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_967	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_970	https://orcid.org/0000-0002-6601-2165
-http://purl.obolibrary.org/obo/MBA_972	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_975	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_978	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_979	https://orcid.org/0000-0002-6601-2165
@@ -510,4 +509,3 @@ http://purl.obolibrary.org/obo/MBA_998	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_1001	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_936	https://orcid.org/0000-0002-6601-2165
 http://purl.obolibrary.org/obo/MBA_951	https://orcid.org/0000-0002-6601-2165
-http://purl.obolibrary.org/obo/MBA_ENTITY	https://orcid.org/0000-0002-6601-2165
