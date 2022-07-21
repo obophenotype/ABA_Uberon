@@ -445,20 +445,20 @@ http://purl.obolibrary.org/obo/UBERON_0000930		stomodeum
 http://purl.obolibrary.org/obo/MBA_485	http://atlas.brain-map.org/atlas?atlas=602630314#structure=485	Striatum dorsal region  ( mouse )
 http://purl.obolibrary.org/obo/MBA_485	http://atlas.brain-map.org/atlas?atlas=1#structure=485	Striatum dorsal region  ( mouse )
 http://purl.obolibrary.org/obo/MBA_485	http://atlas.brain-map.org/atlas?atlas=2#structure=485	Striatum dorsal region  ( mouse )
-http://purl.obolibrary.org/obo/UBERON_0000931		proctodeum
 http://purl.obolibrary.org/obo/MBA_486	http://atlas.brain-map.org/atlas?atlas=602630314#structure=486	Field CA3, stratum oriens  ( mouse )
 http://purl.obolibrary.org/obo/MBA_486	http://atlas.brain-map.org/atlas?atlas=1#structure=486	Field CA3, stratum oriens  ( mouse )
 http://purl.obolibrary.org/obo/MBA_486	http://atlas.brain-map.org/atlas?atlas=2#structure=486	Field CA3, stratum oriens  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0000931		proctodeum
 http://purl.obolibrary.org/obo/MBA_483	http://atlas.brain-map.org/atlas?atlas=602630314#structure=483	Medial habenula  ( mouse )
 http://purl.obolibrary.org/obo/MBA_483	http://atlas.brain-map.org/atlas?atlas=1#structure=483	Medial habenula  ( mouse )
 http://purl.obolibrary.org/obo/MBA_483	http://atlas.brain-map.org/atlas?atlas=2#structure=483	Medial habenula  ( mouse )
+http://purl.obolibrary.org/obo/MBA_484	http://atlas.brain-map.org/atlas?atlas=602630314#structure=484	Orbital area, medial part, layer 1  ( mouse )
+http://purl.obolibrary.org/obo/MBA_484	http://atlas.brain-map.org/atlas?atlas=1#structure=484	Orbital area, medial part, layer 1  ( mouse )
+http://purl.obolibrary.org/obo/MBA_484	http://atlas.brain-map.org/atlas?atlas=2#structure=484	Orbital area, medial part, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_267499011	http://atlas.brain-map.org/atlas?atlas=138322605#structure=267499011	area 7ip, caudal part (A7ipc)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499011	http://atlas.brain-map.org/atlas?atlas=265297126#structure=267499011	area 7ip, caudal part (A7ipc)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499011	http://atlas.brain-map.org/atlas?atlas=3#structure=267499011	area 7ip, caudal part (A7ipc)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499011	http://atlas.brain-map.org/atlas?atlas=138322603#structure=267499011	area 7ip, caudal part (A7ipc)  ( human dev )
-http://purl.obolibrary.org/obo/MBA_484	http://atlas.brain-map.org/atlas?atlas=602630314#structure=484	Orbital area, medial part, layer 1  ( mouse )
-http://purl.obolibrary.org/obo/MBA_484	http://atlas.brain-map.org/atlas?atlas=1#structure=484	Orbital area, medial part, layer 1  ( mouse )
-http://purl.obolibrary.org/obo/MBA_484	http://atlas.brain-map.org/atlas?atlas=2#structure=484	Orbital area, medial part, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_267499019	http://atlas.brain-map.org/atlas?atlas=138322605#structure=267499019	layer II of area 7ipc  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499019	http://atlas.brain-map.org/atlas?atlas=265297126#structure=267499019	layer II of area 7ipc  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499019	http://atlas.brain-map.org/atlas?atlas=3#structure=267499019	layer II of area 7ipc  ( human dev )
@@ -502,10 +502,10 @@ http://purl.obolibrary.org/obo/MBA_497	http://atlas.brain-map.org/atlas?atlas=2#
 http://purl.obolibrary.org/obo/MBA_494	http://atlas.brain-map.org/atlas?atlas=602630314#structure=494	Superior colliculus, motor related, intermediate gray layer, sublayer a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_494	http://atlas.brain-map.org/atlas?atlas=1#structure=494	Superior colliculus, motor related, intermediate gray layer, sublayer a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_494	http://atlas.brain-map.org/atlas?atlas=2#structure=494	Superior colliculus, motor related, intermediate gray layer, sublayer a  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0000922		embryo
 http://purl.obolibrary.org/obo/MBA_495	http://atlas.brain-map.org/atlas?atlas=602630314#structure=495	Field CA3, pyramidal layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_495	http://atlas.brain-map.org/atlas?atlas=1#structure=495	Field CA3, pyramidal layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_495	http://atlas.brain-map.org/atlas?atlas=2#structure=495	Field CA3, pyramidal layer  ( mouse )
-http://purl.obolibrary.org/obo/UBERON_0000922		embryo
 http://purl.obolibrary.org/obo/DHBA_267499007	http://atlas.brain-map.org/atlas?atlas=138322605#structure=267499007	layer VI of area 7ipr  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499007	http://atlas.brain-map.org/atlas?atlas=265297126#structure=267499007	layer VI of area 7ipr  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499007	http://atlas.brain-map.org/atlas?atlas=3#structure=267499007	layer VI of area 7ipr  ( human dev )
@@ -567,13 +567,13 @@ http://purl.obolibrary.org/obo/MBA_466	http://atlas.brain-map.org/atlas?atlas=2#
 http://purl.obolibrary.org/obo/MBA_469	http://atlas.brain-map.org/atlas?atlas=602630314#structure=469	posteromedial visual area, layer 6b  ( mouse )
 http://purl.obolibrary.org/obo/MBA_469	http://atlas.brain-map.org/atlas?atlas=1#structure=469	posteromedial visual area, layer 6b  ( mouse )
 http://purl.obolibrary.org/obo/MBA_469	http://atlas.brain-map.org/atlas?atlas=2#structure=469	posteromedial visual area, layer 6b  ( mouse )
+http://purl.obolibrary.org/obo/MBA_470	http://atlas.brain-map.org/atlas?atlas=602630314#structure=470	Subthalamic nucleus  ( mouse )
+http://purl.obolibrary.org/obo/MBA_470	http://atlas.brain-map.org/atlas?atlas=1#structure=470	Subthalamic nucleus  ( mouse )
+http://purl.obolibrary.org/obo/MBA_470	http://atlas.brain-map.org/atlas?atlas=2#structure=470	Subthalamic nucleus  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_267499023	http://atlas.brain-map.org/atlas?atlas=138322605#structure=267499023	layer III of area 7ipc  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499023	http://atlas.brain-map.org/atlas?atlas=265297126#structure=267499023	layer III of area 7ipc  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499023	http://atlas.brain-map.org/atlas?atlas=3#structure=267499023	layer III of area 7ipc  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499023	http://atlas.brain-map.org/atlas?atlas=138322603#structure=267499023	layer III of area 7ipc  ( human dev )
-http://purl.obolibrary.org/obo/MBA_470	http://atlas.brain-map.org/atlas?atlas=602630314#structure=470	Subthalamic nucleus  ( mouse )
-http://purl.obolibrary.org/obo/MBA_470	http://atlas.brain-map.org/atlas?atlas=1#structure=470	Subthalamic nucleus  ( mouse )
-http://purl.obolibrary.org/obo/MBA_470	http://atlas.brain-map.org/atlas?atlas=2#structure=470	Subthalamic nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_471	http://atlas.brain-map.org/atlas?atlas=602630314#structure=471	Field CA3, stratum lacunosum-moleculare  ( mouse )
 http://purl.obolibrary.org/obo/MBA_471	http://atlas.brain-map.org/atlas?atlas=1#structure=471	Field CA3, stratum lacunosum-moleculare  ( mouse )
 http://purl.obolibrary.org/obo/MBA_471	http://atlas.brain-map.org/atlas?atlas=2#structure=471	Field CA3, stratum lacunosum-moleculare  ( mouse )
@@ -858,10 +858,10 @@ http://purl.obolibrary.org/obo/MBA_440	http://atlas.brain-map.org/atlas?atlas=60
 http://purl.obolibrary.org/obo/MBA_440	http://atlas.brain-map.org/atlas?atlas=1#structure=440	Orbital area, lateral part, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_440	http://atlas.brain-map.org/atlas?atlas=2#structure=440	Orbital area, lateral part, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0036925		wall of eyeball
-http://purl.obolibrary.org/obo/PBA_128011800		layer III of S1
 http://purl.obolibrary.org/obo/MBA_445	http://atlas.brain-map.org/atlas?atlas=602630314#structure=445	Spinal nucleus of the trigeminal, oral part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_445	http://atlas.brain-map.org/atlas?atlas=1#structure=445	Spinal nucleus of the trigeminal, oral part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_445	http://atlas.brain-map.org/atlas?atlas=2#structure=445	Spinal nucleus of the trigeminal, oral part  ( mouse )
+http://purl.obolibrary.org/obo/PBA_128011800		layer III of S1
 http://purl.obolibrary.org/obo/UBERON_0000982		skeletal joint
 http://purl.obolibrary.org/obo/MBA_446	http://atlas.brain-map.org/atlas?atlas=602630314#structure=446	Field CA2, pyramidal layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_446	http://atlas.brain-map.org/atlas?atlas=1#structure=446	Field CA2, pyramidal layer  ( mouse )
@@ -921,8 +921,8 @@ http://purl.obolibrary.org/obo/MBA_459	http://atlas.brain-map.org/atlas?atlas=2#
 http://purl.obolibrary.org/obo/UBERON_0000956		cerebral cortex
 http://purl.obolibrary.org/obo/UBERON_0022303		nervous system cell part layer
 http://purl.obolibrary.org/obo/UBERON_0000957		lamina
-http://purl.obolibrary.org/obo/PBA_128011816		layer VI of S1
 http://purl.obolibrary.org/obo/UBERON_0000959		optic chiasma
+http://purl.obolibrary.org/obo/PBA_128011816		layer VI of S1
 http://purl.obolibrary.org/obo/MBA_420	http://atlas.brain-map.org/atlas?atlas=602630314#structure=420	precommissural fornix diagonal band  ( mouse )
 http://purl.obolibrary.org/obo/MBA_420	http://atlas.brain-map.org/atlas?atlas=1#structure=420	precommissural fornix diagonal band  ( mouse )
 http://purl.obolibrary.org/obo/MBA_420	http://atlas.brain-map.org/atlas?atlas=2#structure=420	precommissural fornix diagonal band  ( mouse )
@@ -969,10 +969,10 @@ http://purl.obolibrary.org/obo/MBA_430	http://atlas.brain-map.org/atlas?atlas=60
 http://purl.obolibrary.org/obo/MBA_430	http://atlas.brain-map.org/atlas?atlas=1#structure=430	Retrosplenial area, ventral part, layer 2/3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_430	http://atlas.brain-map.org/atlas?atlas=2#structure=430	Retrosplenial area, ventral part, layer 2/3  ( mouse )
 http://purl.obolibrary.org/obo/PBA_128011804		granular layer IV of S1
-http://purl.obolibrary.org/obo/UBERON_0022318		olfactory cortex layer 2
 http://purl.obolibrary.org/obo/MBA_431	http://atlas.brain-map.org/atlas?atlas=602630314#structure=431	Field CA2, stratum lacunosum-moleculare  ( mouse )
 http://purl.obolibrary.org/obo/MBA_431	http://atlas.brain-map.org/atlas?atlas=1#structure=431	Field CA2, stratum lacunosum-moleculare  ( mouse )
 http://purl.obolibrary.org/obo/MBA_431	http://atlas.brain-map.org/atlas?atlas=2#structure=431	Field CA2, stratum lacunosum-moleculare  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0022318		olfactory cortex layer 2
 http://purl.obolibrary.org/obo/UBERON_0000949		endocrine system
 http://purl.obolibrary.org/obo/MBA_434	http://atlas.brain-map.org/atlas?atlas=602630314#structure=434	Retrosplenial area, dorsal part, layer 2/3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_434	http://atlas.brain-map.org/atlas?atlas=1#structure=434	Retrosplenial area, dorsal part, layer 2/3  ( mouse )
@@ -1094,8 +1094,8 @@ http://purl.obolibrary.org/obo/CL_0000006		neuronal receptor cell
 http://purl.obolibrary.org/obo/HBA_9058	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9058	magnocellular part of the red nucleus, right  ( human )
 http://purl.obolibrary.org/obo/HBA_9059	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9059	parvocellular part of thered nucleus, right  ( human )
 http://purl.obolibrary.org/obo/CL_0000007		early embryonic cell (metazoa)
-http://purl.obolibrary.org/obo/CL_0000008		migratory cranial neural crest cell
 http://purl.obolibrary.org/obo/HBA_9056	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9056	parvocellular part of the red nucleus, left  ( human )
+http://purl.obolibrary.org/obo/CL_0000008		migratory cranial neural crest cell
 http://purl.obolibrary.org/obo/HBA_9057	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9057	red nucleus, right  ( human )
 http://purl.obolibrary.org/obo/HBA_9061	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9061	rostral interstitial nucleus of the medial longitudinal fasciculus, left  ( human )
 http://purl.obolibrary.org/obo/HBA_9062	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9062	rostral interstitial nucleus of the medial longitudinal fasciculus, right  ( human )
@@ -1121,13 +1121,13 @@ http://purl.obolibrary.org/obo/HBA_9054	http://atlas.brain-map.org/atlas?atlas=2
 http://purl.obolibrary.org/obo/HBA_9055	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9055	magnocellular part of the red nucleus, left  ( human )
 http://purl.obolibrary.org/obo/HBA_9052	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9052	peripeduncular nucleus, right  ( human )
 http://purl.obolibrary.org/obo/HBA_9053	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9053	red nucleus  ( human )
+http://purl.obolibrary.org/obo/MBA_382	http://atlas.brain-map.org/atlas?atlas=602630314#structure=382	Field CA1  ( mouse )
+http://purl.obolibrary.org/obo/MBA_382	http://atlas.brain-map.org/atlas?atlas=1#structure=382	Field CA1  ( mouse )
+http://purl.obolibrary.org/obo/MBA_382	http://atlas.brain-map.org/atlas?atlas=2#structure=382	Field CA1  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_267499111	http://atlas.brain-map.org/atlas?atlas=138322605#structure=267499111	layer IV of area V3B  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499111	http://atlas.brain-map.org/atlas?atlas=265297126#structure=267499111	layer IV of area V3B  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499111	http://atlas.brain-map.org/atlas?atlas=3#structure=267499111	layer IV of area V3B  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499111	http://atlas.brain-map.org/atlas?atlas=138322603#structure=267499111	layer IV of area V3B  ( human dev )
-http://purl.obolibrary.org/obo/MBA_382	http://atlas.brain-map.org/atlas?atlas=602630314#structure=382	Field CA1  ( mouse )
-http://purl.obolibrary.org/obo/MBA_382	http://atlas.brain-map.org/atlas?atlas=1#structure=382	Field CA1  ( mouse )
-http://purl.obolibrary.org/obo/MBA_382	http://atlas.brain-map.org/atlas?atlas=2#structure=382	Field CA1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_383	http://atlas.brain-map.org/atlas?atlas=602630314#structure=383	Cortical amygdalar area, posterior part, medial zone, layers 1-3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_383	http://atlas.brain-map.org/atlas?atlas=1#structure=383	Cortical amygdalar area, posterior part, medial zone, layers 1-3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_383	http://atlas.brain-map.org/atlas?atlas=2#structure=383	Cortical amygdalar area, posterior part, medial zone, layers 1-3  ( mouse )
@@ -1251,10 +1251,10 @@ http://purl.obolibrary.org/obo/DHBA_267499131	http://atlas.brain-map.org/atlas?a
 http://purl.obolibrary.org/obo/DHBA_267499131	http://atlas.brain-map.org/atlas?atlas=265297126#structure=267499131	layer II of area V6  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499131	http://atlas.brain-map.org/atlas?atlas=3#structure=267499131	layer II of area V6  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499131	http://atlas.brain-map.org/atlas?atlas=138322603#structure=267499131	layer II of area V6  ( human dev )
+http://purl.obolibrary.org/obo/GO_0000003		reproduction
 http://purl.obolibrary.org/obo/MBA_363	http://atlas.brain-map.org/atlas?atlas=602630314#structure=363	Prelimbic area, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_363	http://atlas.brain-map.org/atlas?atlas=1#structure=363	Prelimbic area, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_363	http://atlas.brain-map.org/atlas?atlas=2#structure=363	Prelimbic area, layer 5  ( mouse )
-http://purl.obolibrary.org/obo/GO_0000003		reproduction
 http://purl.obolibrary.org/obo/DHBA_267499139	http://atlas.brain-map.org/atlas?atlas=138322605#structure=267499139	layer IV of area V6  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499139	http://atlas.brain-map.org/atlas?atlas=265297126#structure=267499139	layer IV of area V6  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499139	http://atlas.brain-map.org/atlas?atlas=3#structure=267499139	layer IV of area V6  ( human dev )
@@ -1323,13 +1323,13 @@ http://purl.obolibrary.org/obo/DHBA_267499155	http://atlas.brain-map.org/atlas?a
 http://purl.obolibrary.org/obo/DHBA_267499155	http://atlas.brain-map.org/atlas?atlas=265297126#structure=267499155	layer I of area V6A  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499155	http://atlas.brain-map.org/atlas?atlas=3#structure=267499155	layer I of area V6A  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499155	http://atlas.brain-map.org/atlas?atlas=138322603#structure=267499155	layer I of area V6A  ( human dev )
+http://purl.obolibrary.org/obo/MBA_342	http://atlas.brain-map.org/atlas?atlas=602630314#structure=342	Substantia innominata  ( mouse )
+http://purl.obolibrary.org/obo/MBA_342	http://atlas.brain-map.org/atlas?atlas=1#structure=342	Substantia innominata  ( mouse )
+http://purl.obolibrary.org/obo/MBA_342	http://atlas.brain-map.org/atlas?atlas=2#structure=342	Substantia innominata  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_267499151	http://atlas.brain-map.org/atlas?atlas=138322605#structure=267499151	area V6 of peristriate cortex (parieto-occipital area)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499151	http://atlas.brain-map.org/atlas?atlas=265297126#structure=267499151	area V6 of peristriate cortex (parieto-occipital area)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499151	http://atlas.brain-map.org/atlas?atlas=3#structure=267499151	area V6 of peristriate cortex (parieto-occipital area)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_267499151	http://atlas.brain-map.org/atlas?atlas=138322603#structure=267499151	area V6 of peristriate cortex (parieto-occipital area)  ( human dev )
-http://purl.obolibrary.org/obo/MBA_342	http://atlas.brain-map.org/atlas?atlas=602630314#structure=342	Substantia innominata  ( mouse )
-http://purl.obolibrary.org/obo/MBA_342	http://atlas.brain-map.org/atlas?atlas=1#structure=342	Substantia innominata  ( mouse )
-http://purl.obolibrary.org/obo/MBA_342	http://atlas.brain-map.org/atlas?atlas=2#structure=342	Substantia innominata  ( mouse )
 http://purl.obolibrary.org/obo/MBA_343	http://atlas.brain-map.org/atlas?atlas=602630314#structure=343	Brain stem  ( mouse )
 http://purl.obolibrary.org/obo/MBA_343	http://atlas.brain-map.org/atlas?atlas=1#structure=343	Brain stem  ( mouse )
 http://purl.obolibrary.org/obo/MBA_343	http://atlas.brain-map.org/atlas?atlas=2#structure=343	Brain stem  ( mouse )
@@ -1553,8 +1553,8 @@ http://purl.obolibrary.org/obo/DHBA_146034852	http://atlas.brain-map.org/atlas?a
 http://purl.obolibrary.org/obo/DHBA_146034852	http://atlas.brain-map.org/atlas?atlas=3#structure=146034852	transverse temporal sulcus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146034852	http://atlas.brain-map.org/atlas?atlas=138322603#structure=146034852	transverse temporal sulcus  ( human dev )
 http://purl.obolibrary.org/obo/HBA_9036	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9036	intermediate oculomotor nucleus, left  ( human )
-http://purl.obolibrary.org/obo/CL_0000029		neural crest derived neuron
 http://purl.obolibrary.org/obo/HBA_9037	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9037	medial oculomotor nucleus, left  ( human )
+http://purl.obolibrary.org/obo/CL_0000029		neural crest derived neuron
 http://purl.obolibrary.org/obo/HBA_9034	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9034	central oculomotor nucleus, left  ( human )
 http://purl.obolibrary.org/obo/HBA_9035	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9035	dorsal oculomotor nucleus, left  ( human )
 http://purl.obolibrary.org/obo/HBA_9038	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9038	ventral oculomotor nucleus, left  ( human )
@@ -1581,6 +1581,7 @@ http://purl.obolibrary.org/obo/HBA_9026	http://atlas.brain-map.org/atlas?atlas=2
 http://purl.obolibrary.org/obo/HBA_9023	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9023	midbrain reticular formation, right  ( human )
 http://purl.obolibrary.org/obo/HBA_9024	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9024	cuneiform nucleus, right  ( human )
 http://purl.obolibrary.org/obo/HBA_9029	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9029	nucleus of the posterior commissure, right  ( human )
+http://purl.obolibrary.org/obo/CL_0012001		neuron of the forebrain
 http://purl.obolibrary.org/obo/HBA_9027	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9027	nucleus of the posterior commissure  ( human )
 http://purl.obolibrary.org/obo/HBA_9028	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9028	nucleus of the posterior commissure, left  ( human )
 http://purl.obolibrary.org/obo/CL_0000031		neuroblast (sensu Vertebrata)
@@ -1768,9 +1769,6 @@ http://purl.obolibrary.org/obo/UBERON_0010047		oral gland
 http://purl.obolibrary.org/obo/UBERON_0010045		1st arch maxillary mesenchyme
 http://purl.obolibrary.org/obo/UBERON_0010046		entire pharyngeal arch associated mesenchyme
 http://purl.obolibrary.org/obo/UBERON_0010039		food storage organ
-http://purl.obolibrary.org/obo/MBA_ENTITY	http://atlas.brain-map.org/atlas?atlas=602630314#structure=ENTITY	MBA entity  ( mouse )
-http://purl.obolibrary.org/obo/MBA_ENTITY	http://atlas.brain-map.org/atlas?atlas=1#structure=ENTITY	MBA entity  ( mouse )
-http://purl.obolibrary.org/obo/MBA_ENTITY	http://atlas.brain-map.org/atlas?atlas=2#structure=ENTITY	MBA entity  ( mouse )
 http://purl.obolibrary.org/obo/HBA_265504696	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504696	medial nucleus, right, marginal layer  ( human )
 http://purl.obolibrary.org/obo/UBERON_0010032		anterior part of tongue
 http://purl.obolibrary.org/obo/UBERON_0011362		cranial blood vasculature
@@ -1813,10 +1811,10 @@ http://purl.obolibrary.org/obo/MBA_783	http://atlas.brain-map.org/atlas?atlas=60
 http://purl.obolibrary.org/obo/MBA_783	http://atlas.brain-map.org/atlas?atlas=1#structure=783	Agranular insular area, dorsal part, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_783	http://atlas.brain-map.org/atlas?atlas=2#structure=783	Agranular insular area, dorsal part, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0001923		central medial nucleus
-http://purl.obolibrary.org/obo/UBERON_8410043		bronchus submucosal gland
 http://purl.obolibrary.org/obo/MBA_780	http://atlas.brain-map.org/atlas?atlas=602630314#structure=780	Posterior amygdalar nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_780	http://atlas.brain-map.org/atlas?atlas=1#structure=780	Posterior amygdalar nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_780	http://atlas.brain-map.org/atlas?atlas=2#structure=780	Posterior amygdalar nucleus  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_8410043		bronchus submucosal gland
 http://purl.obolibrary.org/obo/UBERON_0001922		parafascicular nucleus
 http://purl.obolibrary.org/obo/MBA_781	http://atlas.brain-map.org/atlas?atlas=602630314#structure=781	Nucleus y  ( mouse )
 http://purl.obolibrary.org/obo/MBA_781	http://atlas.brain-map.org/atlas?atlas=1#structure=781	Nucleus y  ( mouse )
@@ -1830,10 +1828,10 @@ http://purl.obolibrary.org/obo/MBA_786	http://atlas.brain-map.org/atlas?atlas=2#
 http://purl.obolibrary.org/obo/MBA_787	http://atlas.brain-map.org/atlas?atlas=602630314#structure=787	propriohypothalamic pathways, ventral  ( mouse )
 http://purl.obolibrary.org/obo/MBA_787	http://atlas.brain-map.org/atlas?atlas=1#structure=787	propriohypothalamic pathways, ventral  ( mouse )
 http://purl.obolibrary.org/obo/MBA_787	http://atlas.brain-map.org/atlas?atlas=2#structure=787	propriohypothalamic pathways, ventral  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0001930		paraventricular nucleus of hypothalamus
 http://purl.obolibrary.org/obo/MBA_784	http://atlas.brain-map.org/atlas?atlas=602630314#structure=784	corticospinal tract  ( mouse )
 http://purl.obolibrary.org/obo/MBA_784	http://atlas.brain-map.org/atlas?atlas=1#structure=784	corticospinal tract  ( mouse )
 http://purl.obolibrary.org/obo/MBA_784	http://atlas.brain-map.org/atlas?atlas=2#structure=784	corticospinal tract  ( mouse )
-http://purl.obolibrary.org/obo/UBERON_0001930		paraventricular nucleus of hypothalamus
 http://purl.obolibrary.org/obo/MBA_785	http://atlas.brain-map.org/atlas?atlas=602630314#structure=785	Ventromedial hypothalamic nucleus, ventrolateral part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_785	http://atlas.brain-map.org/atlas?atlas=1#structure=785	Ventromedial hypothalamic nucleus, ventrolateral part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_785	http://atlas.brain-map.org/atlas?atlas=2#structure=785	Ventromedial hypothalamic nucleus, ventrolateral part  ( mouse )
@@ -1858,10 +1856,10 @@ http://purl.obolibrary.org/obo/MBA_794	http://atlas.brain-map.org/atlas?atlas=2#
 http://purl.obolibrary.org/obo/MBA_791	http://atlas.brain-map.org/atlas?atlas=602630314#structure=791	Posterior auditory area, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_791	http://atlas.brain-map.org/atlas?atlas=1#structure=791	Posterior auditory area, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_791	http://atlas.brain-map.org/atlas?atlas=2#structure=791	Posterior auditory area, layer 5  ( mouse )
+http://purl.obolibrary.org/obo/NCBITaxon_376913		Haplorrhini
 http://purl.obolibrary.org/obo/MBA_792	http://atlas.brain-map.org/atlas?atlas=602630314#structure=792	dorsal roots  ( mouse )
 http://purl.obolibrary.org/obo/MBA_792	http://atlas.brain-map.org/atlas?atlas=1#structure=792	dorsal roots  ( mouse )
 http://purl.obolibrary.org/obo/MBA_792	http://atlas.brain-map.org/atlas?atlas=2#structure=792	dorsal roots  ( mouse )
-http://purl.obolibrary.org/obo/NCBITaxon_376913		Haplorrhini
 http://purl.obolibrary.org/obo/UBERON_0001918		endothelium of venule
 http://purl.obolibrary.org/obo/CHEBI_25046		linear tetrapyrrole
 http://purl.obolibrary.org/obo/UBERON_0001917		endothelium of artery
@@ -1942,10 +1940,10 @@ http://purl.obolibrary.org/obo/UBERON_0001982		capillary
 http://purl.obolibrary.org/obo/MBA_776	http://atlas.brain-map.org/atlas?atlas=602630314#structure=776	corpus callosum  ( mouse )
 http://purl.obolibrary.org/obo/MBA_776	http://atlas.brain-map.org/atlas?atlas=1#structure=776	corpus callosum  ( mouse )
 http://purl.obolibrary.org/obo/MBA_776	http://atlas.brain-map.org/atlas?atlas=2#structure=776	corpus callosum  ( mouse )
-http://purl.obolibrary.org/obo/UBERON_0001985		corneal endothelium
 http://purl.obolibrary.org/obo/MBA_773	http://atlas.brain-map.org/atlas?atlas=602630314#structure=773	Hypoglossal nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_773	http://atlas.brain-map.org/atlas?atlas=1#structure=773	Hypoglossal nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_773	http://atlas.brain-map.org/atlas?atlas=2#structure=773	Hypoglossal nucleus  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0001985		corneal endothelium
 http://purl.obolibrary.org/obo/MBA_774	http://atlas.brain-map.org/atlas?atlas=602630314#structure=774	Retrosplenial area, lateral agranular part, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_774	http://atlas.brain-map.org/atlas?atlas=1#structure=774	Retrosplenial area, lateral agranular part, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_774	http://atlas.brain-map.org/atlas?atlas=2#structure=774	Retrosplenial area, lateral agranular part, layer 5  ( mouse )
@@ -1962,6 +1960,7 @@ http://purl.obolibrary.org/obo/MBA_778	http://atlas.brain-map.org/atlas?atlas=60
 http://purl.obolibrary.org/obo/MBA_778	http://atlas.brain-map.org/atlas?atlas=1#structure=778	Primary visual area, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_778	http://atlas.brain-map.org/atlas?atlas=2#structure=778	Primary visual area, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0001969		blood plasma
+http://purl.obolibrary.org/obo/UBERON_8410081		blood microvessel
 http://purl.obolibrary.org/obo/UBERON_0001965		substantia nigra pars compacta
 http://purl.obolibrary.org/obo/HBA_265504620	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504620	central nucleus, lateral division, right, central part  ( human )
 http://purl.obolibrary.org/obo/UBERON_0001966		substantia nigra pars reticulata
@@ -2010,6 +2009,7 @@ http://purl.obolibrary.org/obo/MBA_750	http://atlas.brain-map.org/atlas?atlas=2#
 http://purl.obolibrary.org/obo/UBERON_0001953		presubiculum
 http://purl.obolibrary.org/obo/UBERON_0001956		cartilage of bronchus
 http://purl.obolibrary.org/obo/HBA_265504612	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504612	central nucleus, lateral division, right, capsular part  ( human )
+http://purl.obolibrary.org/obo/UBERON_8410077		airway submucosal gland
 http://purl.obolibrary.org/obo/HBA_265504616	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504616	central nucleus, lateral division, right, paracapsular part  ( human )
 http://purl.obolibrary.org/obo/MBA_759	http://atlas.brain-map.org/atlas?atlas=602630314#structure=759	Posterior auditory area, layer 4  ( mouse )
 http://purl.obolibrary.org/obo/MBA_759	http://atlas.brain-map.org/atlas?atlas=1#structure=759	Posterior auditory area, layer 4  ( mouse )
@@ -2235,10 +2235,10 @@ http://purl.obolibrary.org/obo/MBA_618	http://atlas.brain-map.org/atlas?atlas=2#
 http://purl.obolibrary.org/obo/MBA_619	http://atlas.brain-map.org/atlas?atlas=602630314#structure=619	Nucleus of the lateral olfactory tract  ( mouse )
 http://purl.obolibrary.org/obo/MBA_619	http://atlas.brain-map.org/atlas?atlas=1#structure=619	Nucleus of the lateral olfactory tract  ( mouse )
 http://purl.obolibrary.org/obo/MBA_619	http://atlas.brain-map.org/atlas?atlas=2#structure=619	Nucleus of the lateral olfactory tract  ( mouse )
-http://purl.obolibrary.org/obo/UBERON_0010126		future nucleus ambiguus
 http://purl.obolibrary.org/obo/MBA_616	http://atlas.brain-map.org/atlas?atlas=602630314#structure=616	Cuneiform nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_616	http://atlas.brain-map.org/atlas?atlas=1#structure=616	Cuneiform nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_616	http://atlas.brain-map.org/atlas?atlas=2#structure=616	Cuneiform nucleus  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0010126		future nucleus ambiguus
 http://purl.obolibrary.org/obo/MBA_617	http://atlas.brain-map.org/atlas?atlas=602630314#structure=617	Mediodorsal nucleus of the thalamus, central part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_617	http://atlas.brain-map.org/atlas?atlas=1#structure=617	Mediodorsal nucleus of the thalamus, central part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_617	http://atlas.brain-map.org/atlas?atlas=2#structure=617	Mediodorsal nucleus of the thalamus, central part  ( mouse )
@@ -2714,6 +2714,7 @@ http://purl.obolibrary.org/obo/DHBA_146034614	http://atlas.brain-map.org/atlas?a
 http://purl.obolibrary.org/obo/DHBA_146034614	http://atlas.brain-map.org/atlas?atlas=265297126#structure=146034614	SG in agranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146034614	http://atlas.brain-map.org/atlas?atlas=3#structure=146034614	SG in agranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146034614	http://atlas.brain-map.org/atlas?atlas=138322603#structure=146034614	SG in agranular insular cortex  ( human dev )
+http://purl.obolibrary.org/obo/UBERON_3011048		genital system
 http://purl.obolibrary.org/obo/DHBA_146034618	http://atlas.brain-map.org/atlas?atlas=138322605#structure=146034618	MZ in agranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146034618	http://atlas.brain-map.org/atlas?atlas=265297126#structure=146034618	MZ in agranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146034618	http://atlas.brain-map.org/atlas?atlas=3#structure=146034618	MZ in agranular insular cortex  ( human dev )
@@ -2734,10 +2735,10 @@ http://purl.obolibrary.org/obo/HBA_265504888	http://atlas.brain-map.org/atlas?at
 http://purl.obolibrary.org/obo/UBERON_0011108		synovial joint of pectoral girdle
 http://purl.obolibrary.org/obo/UBERON_0011107		synovial joint of pelvic girdle
 http://purl.obolibrary.org/obo/CHEBI_36347		nuclear particle
+http://purl.obolibrary.org/obo/CHEBI_36344		hadron
 http://purl.obolibrary.org/obo/MBA_968	http://atlas.brain-map.org/atlas?atlas=602630314#structure=968	Nodulus (X)  ( mouse )
 http://purl.obolibrary.org/obo/MBA_968	http://atlas.brain-map.org/atlas?atlas=1#structure=968	Nodulus (X)  ( mouse )
 http://purl.obolibrary.org/obo/MBA_968	http://atlas.brain-map.org/atlas?atlas=2#structure=968	Nodulus (X)  ( mouse )
-http://purl.obolibrary.org/obo/CHEBI_36344		hadron
 http://purl.obolibrary.org/obo/MBA_969	http://atlas.brain-map.org/atlas?atlas=602630314#structure=969	Orbital area, ventrolateral part, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_969	http://atlas.brain-map.org/atlas?atlas=1#structure=969	Orbital area, ventrolateral part, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_969	http://atlas.brain-map.org/atlas?atlas=2#structure=969	Orbital area, ventrolateral part, layer 1  ( mouse )
@@ -2757,20 +2758,20 @@ http://purl.obolibrary.org/obo/MBA_960	http://atlas.brain-map.org/atlas?atlas=1#
 http://purl.obolibrary.org/obo/MBA_960	http://atlas.brain-map.org/atlas?atlas=2#structure=960	cerebellum related fiber tracts  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0000466		immaterial anatomical entity
 http://purl.obolibrary.org/obo/UBERON_0000467		anatomical system
-http://purl.obolibrary.org/obo/UBERON_0001797		vitreous humor
 http://purl.obolibrary.org/obo/MBA_961	http://atlas.brain-map.org/atlas?atlas=602630314#structure=961	Piriform area  ( mouse )
 http://purl.obolibrary.org/obo/MBA_961	http://atlas.brain-map.org/atlas?atlas=1#structure=961	Piriform area  ( mouse )
 http://purl.obolibrary.org/obo/MBA_961	http://atlas.brain-map.org/atlas?atlas=2#structure=961	Piriform area  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0001797		vitreous humor
 http://purl.obolibrary.org/obo/MBA_966	http://atlas.brain-map.org/atlas?atlas=602630314#structure=966	Endopiriform nucleus, ventral part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_966	http://atlas.brain-map.org/atlas?atlas=1#structure=966	Endopiriform nucleus, ventral part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_966	http://atlas.brain-map.org/atlas?atlas=2#structure=966	Endopiriform nucleus, ventral part  ( mouse )
 http://purl.obolibrary.org/obo/CHEBI_36342		subatomic particle
+http://purl.obolibrary.org/obo/CHEBI_36343		composite particle
 http://purl.obolibrary.org/obo/MBA_967	http://atlas.brain-map.org/atlas?atlas=602630314#structure=967	cranial nerves  ( mouse )
 http://purl.obolibrary.org/obo/MBA_967	http://atlas.brain-map.org/atlas?atlas=1#structure=967	cranial nerves  ( mouse )
 http://purl.obolibrary.org/obo/MBA_967	http://atlas.brain-map.org/atlas?atlas=2#structure=967	cranial nerves  ( mouse )
-http://purl.obolibrary.org/obo/CHEBI_36343		composite particle
-http://purl.obolibrary.org/obo/UBERON_0001794		inner limiting layer of retina
 http://purl.obolibrary.org/obo/CHEBI_36340		fermion
+http://purl.obolibrary.org/obo/UBERON_0001794		inner limiting layer of retina
 http://purl.obolibrary.org/obo/MBA_964	http://atlas.brain-map.org/atlas?atlas=602630314#structure=964	corpus callosum, extreme capsule  ( mouse )
 http://purl.obolibrary.org/obo/MBA_964	http://atlas.brain-map.org/atlas?atlas=1#structure=964	corpus callosum, extreme capsule  ( mouse )
 http://purl.obolibrary.org/obo/MBA_964	http://atlas.brain-map.org/atlas?atlas=2#structure=964	corpus callosum, extreme capsule  ( mouse )
@@ -2809,10 +2810,10 @@ http://purl.obolibrary.org/obo/MBA_974	http://atlas.brain-map.org/atlas?atlas=60
 http://purl.obolibrary.org/obo/MBA_974	http://atlas.brain-map.org/atlas?atlas=1#structure=974	Primary somatosensory area, mouth, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_974	http://atlas.brain-map.org/atlas?atlas=2#structure=974	Primary somatosensory area, mouth, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/GO_0001706		endoderm formation
-http://purl.obolibrary.org/obo/GO_0001707		mesoderm formation
 http://purl.obolibrary.org/obo/MBA_971	http://atlas.brain-map.org/atlas?atlas=602630314#structure=971	corpus callosum, posterior forceps  ( mouse )
 http://purl.obolibrary.org/obo/MBA_971	http://atlas.brain-map.org/atlas?atlas=1#structure=971	corpus callosum, posterior forceps  ( mouse )
 http://purl.obolibrary.org/obo/MBA_971	http://atlas.brain-map.org/atlas?atlas=2#structure=971	corpus callosum, posterior forceps  ( mouse )
+http://purl.obolibrary.org/obo/GO_0001707		mesoderm formation
 http://purl.obolibrary.org/obo/UBERON_0000456		secretion of exocrine gland
 http://purl.obolibrary.org/obo/MBA_972	http://atlas.brain-map.org/atlas?atlas=602630314#structure=972	Prelimbic area  ( mouse )
 http://purl.obolibrary.org/obo/MBA_972	http://atlas.brain-map.org/atlas?atlas=1#structure=972	Prelimbic area  ( mouse )
@@ -2821,10 +2822,10 @@ http://purl.obolibrary.org/obo/UBERON_0001781		layer of retina
 http://purl.obolibrary.org/obo/MBA_977	http://atlas.brain-map.org/atlas?atlas=602630314#structure=977	Ectorhinal area/Layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_977	http://atlas.brain-map.org/atlas?atlas=1#structure=977	Ectorhinal area/Layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_977	http://atlas.brain-map.org/atlas?atlas=2#structure=977	Ectorhinal area/Layer 6a  ( mouse )
-http://purl.obolibrary.org/obo/UBERON_0001780		spinal nerve
 http://purl.obolibrary.org/obo/MBA_978	http://atlas.brain-map.org/atlas?atlas=602630314#structure=978	Paragigantocellular reticular nucleus, lateral part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_978	http://atlas.brain-map.org/atlas?atlas=1#structure=978	Paragigantocellular reticular nucleus, lateral part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_978	http://atlas.brain-map.org/atlas?atlas=2#structure=978	Paragigantocellular reticular nucleus, lateral part  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0001780		spinal nerve
 http://purl.obolibrary.org/obo/UBERON_0000451		prefrontal cortex
 http://purl.obolibrary.org/obo/MBA_975	http://atlas.brain-map.org/atlas?atlas=602630314#structure=975	Edinger-Westphal nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_975	http://atlas.brain-map.org/atlas?atlas=1#structure=975	Edinger-Westphal nucleus  ( mouse )
@@ -2889,13 +2890,13 @@ http://purl.obolibrary.org/obo/MBA_940	http://atlas.brain-map.org/atlas?atlas=60
 http://purl.obolibrary.org/obo/MBA_940	http://atlas.brain-map.org/atlas?atlas=1#structure=940	cingulum bundle  ( mouse )
 http://purl.obolibrary.org/obo/MBA_940	http://atlas.brain-map.org/atlas?atlas=2#structure=940	cingulum bundle  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0001773		sclera
-http://purl.obolibrary.org/obo/MBA_941	http://atlas.brain-map.org/atlas?atlas=602630314#structure=941	vestibulospinal pathway  ( mouse )
-http://purl.obolibrary.org/obo/MBA_941	http://atlas.brain-map.org/atlas?atlas=1#structure=941	vestibulospinal pathway  ( mouse )
-http://purl.obolibrary.org/obo/MBA_941	http://atlas.brain-map.org/atlas?atlas=2#structure=941	vestibulospinal pathway  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_15500	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15500	MZ in dorsolateral temporal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15500	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15500	MZ in dorsolateral temporal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15500	http://atlas.brain-map.org/atlas?atlas=3#structure=15500	MZ in dorsolateral temporal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15500	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15500	MZ in dorsolateral temporal cortex  ( human dev )
+http://purl.obolibrary.org/obo/MBA_941	http://atlas.brain-map.org/atlas?atlas=602630314#structure=941	vestibulospinal pathway  ( mouse )
+http://purl.obolibrary.org/obo/MBA_941	http://atlas.brain-map.org/atlas?atlas=1#structure=941	vestibulospinal pathway  ( mouse )
+http://purl.obolibrary.org/obo/MBA_941	http://atlas.brain-map.org/atlas?atlas=2#structure=941	vestibulospinal pathway  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0001776		optic choroid
 http://purl.obolibrary.org/obo/DHBA_15501	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15501	MZ in ventrolateral temporal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15501	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15501	MZ in ventrolateral temporal cortex  ( human dev )
@@ -2927,10 +2928,10 @@ http://purl.obolibrary.org/obo/CHEBI_49637		hydrogen atom
 http://purl.obolibrary.org/obo/UBERON_0035113		central part of mediodorsal nucleus of the thalamus
 http://purl.obolibrary.org/obo/CHEBI_51958		organic polycyclic compound
 http://purl.obolibrary.org/obo/UBERON_0035114		lateral part of mediodorsal nucleus of the thalamus
-http://purl.obolibrary.org/obo/UBERON_0013738		parabrachial pigmental nucleus
 http://purl.obolibrary.org/obo/MBA_959	http://atlas.brain-map.org/atlas?atlas=602630314#structure=959	Ventral auditory area, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_959	http://atlas.brain-map.org/atlas?atlas=1#structure=959	Ventral auditory area, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_959	http://atlas.brain-map.org/atlas?atlas=2#structure=959	Ventral auditory area, layer 1  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0013738		parabrachial pigmental nucleus
 http://purl.obolibrary.org/obo/DHBA_15518	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15518	layer IV of caudal dysgranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15518	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15518	layer IV of caudal dysgranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15518	http://atlas.brain-map.org/atlas?atlas=3#structure=15518	layer IV of caudal dysgranular insular cortex  ( human dev )
@@ -2966,21 +2967,21 @@ http://purl.obolibrary.org/obo/DHBA_15517	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_15517	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15517	layer III of caudal dysgranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15517	http://atlas.brain-map.org/atlas?atlas=3#structure=15517	layer III of caudal dysgranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15517	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15517	layer III of caudal dysgranular insular cortex  ( human dev )
-http://purl.obolibrary.org/obo/MBA_951	http://atlas.brain-map.org/atlas?atlas=602630314#structure=951	Pyramus (VIII)  ( mouse )
-http://purl.obolibrary.org/obo/MBA_951	http://atlas.brain-map.org/atlas?atlas=1#structure=951	Pyramus (VIII)  ( mouse )
-http://purl.obolibrary.org/obo/MBA_951	http://atlas.brain-map.org/atlas?atlas=2#structure=951	Pyramus (VIII)  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_15510	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15510	SZ in septal region  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15510	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15510	SZ in septal region  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15510	http://atlas.brain-map.org/atlas?atlas=3#structure=15510	SZ in septal region  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15510	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15510	SZ in septal region  ( human dev )
+http://purl.obolibrary.org/obo/MBA_951	http://atlas.brain-map.org/atlas?atlas=602630314#structure=951	Pyramus (VIII)  ( mouse )
+http://purl.obolibrary.org/obo/MBA_951	http://atlas.brain-map.org/atlas?atlas=1#structure=951	Pyramus (VIII)  ( mouse )
+http://purl.obolibrary.org/obo/MBA_951	http://atlas.brain-map.org/atlas?atlas=2#structure=951	Pyramus (VIII)  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0000432		endopeduncular nucleus
+http://purl.obolibrary.org/obo/MBA_952	http://atlas.brain-map.org/atlas?atlas=602630314#structure=952	Endopiriform nucleus, dorsal part  ( mouse )
+http://purl.obolibrary.org/obo/MBA_952	http://atlas.brain-map.org/atlas?atlas=1#structure=952	Endopiriform nucleus, dorsal part  ( mouse )
+http://purl.obolibrary.org/obo/MBA_952	http://atlas.brain-map.org/atlas?atlas=2#structure=952	Endopiriform nucleus, dorsal part  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_15511	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15511	VZ in dorsolateral temporal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15511	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15511	VZ in dorsolateral temporal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15511	http://atlas.brain-map.org/atlas?atlas=3#structure=15511	VZ in dorsolateral temporal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15511	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15511	VZ in dorsolateral temporal cortex  ( human dev )
-http://purl.obolibrary.org/obo/MBA_952	http://atlas.brain-map.org/atlas?atlas=602630314#structure=952	Endopiriform nucleus, dorsal part  ( mouse )
-http://purl.obolibrary.org/obo/MBA_952	http://atlas.brain-map.org/atlas?atlas=1#structure=952	Endopiriform nucleus, dorsal part  ( mouse )
-http://purl.obolibrary.org/obo/MBA_952	http://atlas.brain-map.org/atlas?atlas=2#structure=952	Endopiriform nucleus, dorsal part  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0000433		posterior paraventricular nucleus of thalamus
 http://purl.obolibrary.org/obo/DHBA_15512	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15512	VZ in ventrolateral temporal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15512	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15512	VZ in ventrolateral temporal cortex  ( human dev )
@@ -2990,10 +2991,10 @@ http://purl.obolibrary.org/obo/DHBA_15513	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_15513	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15513	rostral dysgranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15513	http://atlas.brain-map.org/atlas?atlas=3#structure=15513	rostral dysgranular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15513	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15513	rostral dysgranular insular cortex  ( human dev )
-http://purl.obolibrary.org/obo/UBERON_0000434		anterior paraventricular nucleus of thalamus
 http://purl.obolibrary.org/obo/MBA_950	http://atlas.brain-map.org/atlas?atlas=602630314#structure=950	Primary somatosensory area, mouth, layer 4  ( mouse )
 http://purl.obolibrary.org/obo/MBA_950	http://atlas.brain-map.org/atlas?atlas=1#structure=950	Primary somatosensory area, mouth, layer 4  ( mouse )
 http://purl.obolibrary.org/obo/MBA_950	http://atlas.brain-map.org/atlas?atlas=2#structure=950	Primary somatosensory area, mouth, layer 4  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0000434		anterior paraventricular nucleus of thalamus
 http://purl.obolibrary.org/obo/MBA_955	http://atlas.brain-map.org/atlas?atlas=602630314#structure=955	Lateral reticular nucleus, magnocellular part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_955	http://atlas.brain-map.org/atlas?atlas=1#structure=955	Lateral reticular nucleus, magnocellular part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_955	http://atlas.brain-map.org/atlas?atlas=2#structure=955	Lateral reticular nucleus, magnocellular part  ( mouse )
@@ -3051,13 +3052,13 @@ http://purl.obolibrary.org/obo/DHBA_15526	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_15526	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15526	layer IV of caudal granular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15526	http://atlas.brain-map.org/atlas?atlas=3#structure=15526	layer IV of caudal granular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15526	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15526	layer IV of caudal granular insular cortex  ( human dev )
+http://purl.obolibrary.org/obo/MBA_928	http://atlas.brain-map.org/atlas?atlas=602630314#structure=928	Culmen  ( mouse )
+http://purl.obolibrary.org/obo/MBA_928	http://atlas.brain-map.org/atlas?atlas=1#structure=928	Culmen  ( mouse )
+http://purl.obolibrary.org/obo/MBA_928	http://atlas.brain-map.org/atlas?atlas=2#structure=928	Culmen  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_15527	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15527	layer V of caudal granular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15527	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15527	layer V of caudal granular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15527	http://atlas.brain-map.org/atlas?atlas=3#structure=15527	layer V of caudal granular insular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15527	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15527	layer V of caudal granular insular cortex  ( human dev )
-http://purl.obolibrary.org/obo/MBA_928	http://atlas.brain-map.org/atlas?atlas=602630314#structure=928	Culmen  ( mouse )
-http://purl.obolibrary.org/obo/MBA_928	http://atlas.brain-map.org/atlas?atlas=1#structure=928	Culmen  ( mouse )
-http://purl.obolibrary.org/obo/MBA_928	http://atlas.brain-map.org/atlas?atlas=2#structure=928	Culmen  ( mouse )
 http://purl.obolibrary.org/obo/MBA_929	http://atlas.brain-map.org/atlas?atlas=602630314#structure=929	Primary somatosensory area, nose, layer 6b  ( mouse )
 http://purl.obolibrary.org/obo/MBA_929	http://atlas.brain-map.org/atlas?atlas=1#structure=929	Primary somatosensory area, nose, layer 6b  ( mouse )
 http://purl.obolibrary.org/obo/MBA_929	http://atlas.brain-map.org/atlas?atlas=2#structure=929	Primary somatosensory area, nose, layer 6b  ( mouse )
@@ -3138,13 +3139,13 @@ http://purl.obolibrary.org/obo/DHBA_15537	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_15537	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15537	posteromedial hypothalamic nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15537	http://atlas.brain-map.org/atlas?atlas=3#structure=15537	posteromedial hypothalamic nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15537	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15537	posteromedial hypothalamic nucleus  ( human dev )
+http://purl.obolibrary.org/obo/MBA_939	http://atlas.brain-map.org/atlas?atlas=602630314#structure=939	Nucleus ambiguus, dorsal division  ( mouse )
+http://purl.obolibrary.org/obo/MBA_939	http://atlas.brain-map.org/atlas?atlas=1#structure=939	Nucleus ambiguus, dorsal division  ( mouse )
+http://purl.obolibrary.org/obo/MBA_939	http://atlas.brain-map.org/atlas?atlas=2#structure=939	Nucleus ambiguus, dorsal division  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_15538	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15538	bundle X  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15538	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15538	bundle X  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15538	http://atlas.brain-map.org/atlas?atlas=3#structure=15538	bundle X  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15538	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15538	bundle X  ( human dev )
-http://purl.obolibrary.org/obo/MBA_939	http://atlas.brain-map.org/atlas?atlas=602630314#structure=939	Nucleus ambiguus, dorsal division  ( mouse )
-http://purl.obolibrary.org/obo/MBA_939	http://atlas.brain-map.org/atlas?atlas=1#structure=939	Nucleus ambiguus, dorsal division  ( mouse )
-http://purl.obolibrary.org/obo/MBA_939	http://atlas.brain-map.org/atlas?atlas=2#structure=939	Nucleus ambiguus, dorsal division  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_15539	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15539	cingulum bundle in cingulate cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15539	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15539	cingulum bundle in cingulate cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15539	http://atlas.brain-map.org/atlas?atlas=3#structure=15539	cingulum bundle in cingulate cortex  ( human dev )
@@ -3225,13 +3226,13 @@ http://purl.obolibrary.org/obo/DHBA_15548	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_15548	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15548	lithoid nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15548	http://atlas.brain-map.org/atlas?atlas=3#structure=15548	lithoid nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15548	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15548	lithoid nucleus  ( human dev )
+http://purl.obolibrary.org/obo/MBA_906	http://atlas.brain-map.org/atlas?atlas=602630314#structure=906	Retrosplenial area, lateral agranular part, layer 6a  ( mouse )
+http://purl.obolibrary.org/obo/MBA_906	http://atlas.brain-map.org/atlas?atlas=1#structure=906	Retrosplenial area, lateral agranular part, layer 6a  ( mouse )
+http://purl.obolibrary.org/obo/MBA_906	http://atlas.brain-map.org/atlas?atlas=2#structure=906	Retrosplenial area, lateral agranular part, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_15549	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15549	central mesencephalic nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15549	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15549	central mesencephalic nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15549	http://atlas.brain-map.org/atlas?atlas=3#structure=15549	central mesencephalic nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15549	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15549	central mesencephalic nucleus  ( human dev )
-http://purl.obolibrary.org/obo/MBA_906	http://atlas.brain-map.org/atlas?atlas=602630314#structure=906	Retrosplenial area, lateral agranular part, layer 6a  ( mouse )
-http://purl.obolibrary.org/obo/MBA_906	http://atlas.brain-map.org/atlas?atlas=1#structure=906	Retrosplenial area, lateral agranular part, layer 6a  ( mouse )
-http://purl.obolibrary.org/obo/MBA_906	http://atlas.brain-map.org/atlas?atlas=2#structure=906	Retrosplenial area, lateral agranular part, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_907	http://atlas.brain-map.org/atlas?atlas=602630314#structure=907	Paracentral nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_907	http://atlas.brain-map.org/atlas?atlas=1#structure=907	Paracentral nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_907	http://atlas.brain-map.org/atlas?atlas=2#structure=907	Paracentral nucleus  ( mouse )
@@ -3350,13 +3351,13 @@ http://purl.obolibrary.org/obo/DHBA_15550	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_15550	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15550	central tegmental field  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15550	http://atlas.brain-map.org/atlas?atlas=3#structure=15550	central tegmental field  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15550	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15550	central tegmental field  ( human dev )
+http://purl.obolibrary.org/obo/MBA_912	http://atlas.brain-map.org/atlas?atlas=602630314#structure=912	Lingula (I)  ( mouse )
+http://purl.obolibrary.org/obo/MBA_912	http://atlas.brain-map.org/atlas?atlas=1#structure=912	Lingula (I)  ( mouse )
+http://purl.obolibrary.org/obo/MBA_912	http://atlas.brain-map.org/atlas?atlas=2#structure=912	Lingula (I)  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_15551	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15551	dopamine cells A8  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15551	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15551	dopamine cells A8  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15551	http://atlas.brain-map.org/atlas?atlas=3#structure=15551	dopamine cells A8  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15551	http://atlas.brain-map.org/atlas?atlas=138322603#structure=15551	dopamine cells A8  ( human dev )
-http://purl.obolibrary.org/obo/MBA_912	http://atlas.brain-map.org/atlas?atlas=602630314#structure=912	Lingula (I)  ( mouse )
-http://purl.obolibrary.org/obo/MBA_912	http://atlas.brain-map.org/atlas?atlas=1#structure=912	Lingula (I)  ( mouse )
-http://purl.obolibrary.org/obo/MBA_912	http://atlas.brain-map.org/atlas?atlas=2#structure=912	Lingula (I)  ( mouse )
 http://purl.obolibrary.org/obo/DHBA_15552	http://atlas.brain-map.org/atlas?atlas=138322605#structure=15552	p1 reticular formation  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15552	http://atlas.brain-map.org/atlas?atlas=265297126#structure=15552	p1 reticular formation  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_15552	http://atlas.brain-map.org/atlas?atlas=3#structure=15552	p1 reticular formation  ( human dev )
@@ -3395,8 +3396,8 @@ http://purl.obolibrary.org/obo/UBERON_0013733		caudal linear nucleus
 http://purl.obolibrary.org/obo/HBA_265504848	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504848	mediodorsal nucleus of thalamus, right, multiform (lateral) division  ( human )
 http://purl.obolibrary.org/obo/UBERON_0013727		notochordal fluid
 http://purl.obolibrary.org/obo/UBERON_0001737		larynx
-http://purl.obolibrary.org/obo/UBERON_0000409		serous gland
 http://purl.obolibrary.org/obo/UBERON_0001739		laryngeal cartilage
+http://purl.obolibrary.org/obo/UBERON_0000409		serous gland
 http://purl.obolibrary.org/obo/UBERON_0000402		nasal vestibule
 http://purl.obolibrary.org/obo/HBA_265504836	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504836	dorsal nucelus of medial geniculate complex, right  ( human )
 http://purl.obolibrary.org/obo/UBERON_0000410		bronchial mucosa
@@ -3467,10 +3468,10 @@ http://purl.obolibrary.org/obo/MBA_995	http://atlas.brain-map.org/atlas?atlas=2#
 http://purl.obolibrary.org/obo/MBA_996	http://atlas.brain-map.org/atlas?atlas=602630314#structure=996	Agranular insular area, dorsal part, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_996	http://atlas.brain-map.org/atlas?atlas=1#structure=996	Agranular insular area, dorsal part, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_996	http://atlas.brain-map.org/atlas?atlas=2#structure=996	Agranular insular area, dorsal part, layer 1  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0001721		inferior vestibular nucleus
 http://purl.obolibrary.org/obo/MBA_993	http://atlas.brain-map.org/atlas?atlas=602630314#structure=993	Secondary motor area  ( mouse )
 http://purl.obolibrary.org/obo/MBA_993	http://atlas.brain-map.org/atlas?atlas=1#structure=993	Secondary motor area  ( mouse )
 http://purl.obolibrary.org/obo/MBA_993	http://atlas.brain-map.org/atlas?atlas=2#structure=993	Secondary motor area  ( mouse )
-http://purl.obolibrary.org/obo/UBERON_0001721		inferior vestibular nucleus
 http://purl.obolibrary.org/obo/UBERON_0001720		cochlear nucleus
 http://purl.obolibrary.org/obo/MBA_994	http://atlas.brain-map.org/atlas?atlas=602630314#structure=994	corticobulbar tract  ( mouse )
 http://purl.obolibrary.org/obo/MBA_994	http://atlas.brain-map.org/atlas?atlas=1#structure=994	corticobulbar tract  ( mouse )
@@ -3710,10 +3711,10 @@ http://purl.obolibrary.org/obo/HBA_265504752	http://atlas.brain-map.org/atlas?at
 http://purl.obolibrary.org/obo/HBA_265504758	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504758	lateral nucleus, right, dorsal lateral division  ( human )
 http://purl.obolibrary.org/obo/CHEBI_25585		nonmetal atom
 http://purl.obolibrary.org/obo/UBERON_0011222		intra-ocular muscle
-http://purl.obolibrary.org/obo/UBERON_0011216		organ system subdivision
 http://purl.obolibrary.org/obo/MBA_858	http://atlas.brain-map.org/atlas?atlas=602630314#structure=858	ventral commissure of the spinal cord  ( mouse )
 http://purl.obolibrary.org/obo/MBA_858	http://atlas.brain-map.org/atlas?atlas=1#structure=858	ventral commissure of the spinal cord  ( mouse )
 http://purl.obolibrary.org/obo/MBA_858	http://atlas.brain-map.org/atlas?atlas=2#structure=858	ventral commissure of the spinal cord  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0011216		organ system subdivision
 http://purl.obolibrary.org/obo/MBA_859	http://atlas.brain-map.org/atlas?atlas=602630314#structure=859	Parasolitary nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_859	http://atlas.brain-map.org/atlas?atlas=1#structure=859	Parasolitary nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_859	http://atlas.brain-map.org/atlas?atlas=2#structure=859	Parasolitary nucleus  ( mouse )
@@ -3850,10 +3851,10 @@ http://purl.obolibrary.org/obo/MBA_832	http://atlas.brain-map.org/atlas?atlas=60
 http://purl.obolibrary.org/obo/MBA_832	http://atlas.brain-map.org/atlas?atlas=1#structure=832	oculomotor nerve  ( mouse )
 http://purl.obolibrary.org/obo/MBA_832	http://atlas.brain-map.org/atlas?atlas=2#structure=832	oculomotor nerve  ( mouse )
 http://purl.obolibrary.org/obo/HBA_265504780	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504780	lateral nucleus, right, glomerular division  ( human )
+http://purl.obolibrary.org/obo/UBERON_0001881		island of Calleja
 http://purl.obolibrary.org/obo/MBA_833	http://atlas.brain-map.org/atlas?atlas=602630314#structure=833	supraoptic commissures, ventral  ( mouse )
 http://purl.obolibrary.org/obo/MBA_833	http://atlas.brain-map.org/atlas?atlas=1#structure=833	supraoptic commissures, ventral  ( mouse )
 http://purl.obolibrary.org/obo/MBA_833	http://atlas.brain-map.org/atlas?atlas=2#structure=833	supraoptic commissures, ventral  ( mouse )
-http://purl.obolibrary.org/obo/UBERON_0001881		island of Calleja
 http://purl.obolibrary.org/obo/HBA_9539	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9539	conterminalis  ( human )
 http://purl.obolibrary.org/obo/HBA_9537	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9537	anteroventral cochlear nucleus, right  ( human )
 http://purl.obolibrary.org/obo/HBA_9538	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9538	posteroventral cochlear nucleus, right  ( human )
@@ -3869,10 +3870,10 @@ http://purl.obolibrary.org/obo/HBA_9534	http://atlas.brain-map.org/atlas?atlas=2
 http://purl.obolibrary.org/obo/MBA_805	http://atlas.brain-map.org/atlas?atlas=602630314#structure=805	posteromedial visual area, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_805	http://atlas.brain-map.org/atlas?atlas=1#structure=805	posteromedial visual area, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_805	http://atlas.brain-map.org/atlas?atlas=2#structure=805	posteromedial visual area, layer 1  ( mouse )
-http://purl.obolibrary.org/obo/CL_1000410		myocyte of atrioventricular node
 http://purl.obolibrary.org/obo/MBA_806	http://atlas.brain-map.org/atlas?atlas=602630314#structure=806	Supplemental somatosensory area, layer 2/3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_806	http://atlas.brain-map.org/atlas?atlas=1#structure=806	Supplemental somatosensory area, layer 2/3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_806	http://atlas.brain-map.org/atlas?atlas=2#structure=806	Supplemental somatosensory area, layer 2/3  ( mouse )
+http://purl.obolibrary.org/obo/CL_1000410		myocyte of atrioventricular node
 http://purl.obolibrary.org/obo/MBA_803	http://atlas.brain-map.org/atlas?atlas=602630314#structure=803	Pallidum  ( mouse )
 http://purl.obolibrary.org/obo/MBA_803	http://atlas.brain-map.org/atlas?atlas=1#structure=803	Pallidum  ( mouse )
 http://purl.obolibrary.org/obo/MBA_803	http://atlas.brain-map.org/atlas?atlas=2#structure=803	Pallidum  ( mouse )
@@ -4110,10 +4111,10 @@ http://purl.obolibrary.org/obo/UBERON_0001833		lip
 http://purl.obolibrary.org/obo/MBA_870	http://atlas.brain-map.org/atlas?atlas=602630314#structure=870	Subiculum, ventral part, pyramidal layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_870	http://atlas.brain-map.org/atlas?atlas=1#structure=870	Subiculum, ventral part, pyramidal layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_870	http://atlas.brain-map.org/atlas?atlas=2#structure=870	Subiculum, ventral part, pyramidal layer  ( mouse )
-http://purl.obolibrary.org/obo/HBA_265504730	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504730	lateral nucleus, left, intermediate division  ( human )
 http://purl.obolibrary.org/obo/MBA_871	http://atlas.brain-map.org/atlas?atlas=602630314#structure=871	spinothalamic tract  ( mouse )
 http://purl.obolibrary.org/obo/MBA_871	http://atlas.brain-map.org/atlas?atlas=1#structure=871	spinothalamic tract  ( mouse )
 http://purl.obolibrary.org/obo/MBA_871	http://atlas.brain-map.org/atlas?atlas=2#structure=871	spinothalamic tract  ( mouse )
+http://purl.obolibrary.org/obo/HBA_265504730	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504730	lateral nucleus, left, intermediate division  ( human )
 http://purl.obolibrary.org/obo/UBERON_0001835		lower lip
 http://purl.obolibrary.org/obo/UBERON_0001834		upper lip
 http://purl.obolibrary.org/obo/HBA_265504734	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504734	lateral nucleus, left, ventral division  ( human )
@@ -4432,11 +4433,11 @@ http://purl.obolibrary.org/obo/DHBA_13128	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_13128	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13128	IZ in area prostriata  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13128	http://atlas.brain-map.org/atlas?atlas=3#structure=13128	IZ in area prostriata  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13128	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13128	IZ in area prostriata  ( human dev )
+http://purl.obolibrary.org/obo/GO_0048609		multicellular organismal reproductive process
 http://purl.obolibrary.org/obo/DHBA_13127	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13127	IZ in extrastriate cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13127	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13127	IZ in extrastriate cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13127	http://atlas.brain-map.org/atlas?atlas=3#structure=13127	IZ in extrastriate cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13127	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13127	IZ in extrastriate cortex  ( human dev )
-http://purl.obolibrary.org/obo/GO_0048609		multicellular organismal reproductive process
 http://purl.obolibrary.org/obo/UBERON_0001576		intrinsic muscle of tongue
 http://purl.obolibrary.org/obo/DHBA_13122	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13122	SP in caudal presubicular cortex (postsubiculum)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13122	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13122	SP in caudal presubicular cortex (postsubiculum)  ( human dev )
@@ -4915,11 +4916,11 @@ http://purl.obolibrary.org/obo/DHBA_13080	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_13080	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13080	MZ in extrastriate cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13080	http://atlas.brain-map.org/atlas?atlas=3#structure=13080	MZ in extrastriate cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13080	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13080	MZ in extrastriate cortex  ( human dev )
+http://purl.obolibrary.org/obo/GO_0050877		nervous system process
 http://purl.obolibrary.org/obo/DHBA_13085	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13085	MZ in caudal midinferior temporal cortex (area TF)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13085	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13085	MZ in caudal midinferior temporal cortex (area TF)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13085	http://atlas.brain-map.org/atlas?atlas=3#structure=13085	MZ in caudal midinferior temporal cortex (area TF)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13085	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13085	MZ in caudal midinferior temporal cortex (area TF)  ( human dev )
-http://purl.obolibrary.org/obo/GO_0050877		nervous system process
 http://purl.obolibrary.org/obo/DHBA_13084	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13084	MZ in rostral midinferior temporal cortex (area 36)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13084	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13084	MZ in rostral midinferior temporal cortex (area 36)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13084	http://atlas.brain-map.org/atlas?atlas=3#structure=13084	MZ in rostral midinferior temporal cortex (area 36)  ( human dev )
@@ -4975,11 +4976,11 @@ http://purl.obolibrary.org/obo/DHBA_13092	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_13092	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13092	MZ in caudal presubicular cortex (postsubiculum)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13092	http://atlas.brain-map.org/atlas?atlas=3#structure=13092	MZ in caudal presubicular cortex (postsubiculum)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13092	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13092	MZ in caudal presubicular cortex (postsubiculum)  ( human dev )
+http://purl.obolibrary.org/obo/GO_0050885		neuromuscular process controlling balance
 http://purl.obolibrary.org/obo/DHBA_13091	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13091	MZ in rostral presubicular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13091	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13091	MZ in rostral presubicular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13091	http://atlas.brain-map.org/atlas?atlas=3#structure=13091	MZ in rostral presubicular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13091	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13091	MZ in rostral presubicular cortex  ( human dev )
-http://purl.obolibrary.org/obo/GO_0050885		neuromuscular process controlling balance
 http://purl.obolibrary.org/obo/DHBA_13090	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13090	MZ in caudal subicular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13090	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13090	MZ in caudal subicular cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13090	http://atlas.brain-map.org/atlas?atlas=3#structure=13090	MZ in caudal subicular cortex  ( human dev )
@@ -5277,8 +5278,8 @@ http://purl.obolibrary.org/obo/UBERON_0001616		maxillary artery
 http://purl.obolibrary.org/obo/UBERON_0001619		ophthalmic artery
 http://purl.obolibrary.org/obo/UBERON_0002949		tectospinal tract
 http://purl.obolibrary.org/obo/UBERON_0002943		lingual gyrus
-http://purl.obolibrary.org/obo/HBA_265504950	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504950	nucleus pararaphales  ( human )
 http://purl.obolibrary.org/obo/UBERON_0001612		facial artery
+http://purl.obolibrary.org/obo/HBA_265504950	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504950	nucleus pararaphales  ( human )
 http://purl.obolibrary.org/obo/UBERON_0002945		ventral posteromedial nucleus of thalamus
 http://purl.obolibrary.org/obo/UBERON_0014930		perivascular space
 http://purl.obolibrary.org/obo/HBA_265504954	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265504954	nucleus pararaphales, left  ( human )
@@ -5381,8 +5382,8 @@ http://purl.obolibrary.org/obo/HBA_9234	http://atlas.brain-map.org/atlas?atlas=2
 http://purl.obolibrary.org/obo/HBA_9235	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9235	alveus, left  ( human )
 http://purl.obolibrary.org/obo/HBA_9232	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9232	arcuate fasciculus, left  ( human )
 http://purl.obolibrary.org/obo/GO_0048646		anatomical structure formation involved in morphogenesis
-http://purl.obolibrary.org/obo/HBA_9233	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9233	arcuate fasciculus, right  ( human )
 http://purl.obolibrary.org/obo/GO_0050968		detection of chemical stimulus involved in sensory perception of pain
+http://purl.obolibrary.org/obo/HBA_9233	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9233	arcuate fasciculus, right  ( human )
 http://purl.obolibrary.org/obo/HBA_9238	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9238	ansa lenticularis, left  ( human )
 http://purl.obolibrary.org/obo/HBA_9239	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9239	ansa lenticularis, right  ( human )
 http://purl.obolibrary.org/obo/HBA_9236	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9236	alveus, right  ( human )
@@ -5435,10 +5436,8 @@ http://purl.obolibrary.org/obo/HBA_9246	http://atlas.brain-map.org/atlas?atlas=2
 http://purl.obolibrary.org/obo/UBERON_0035011		central gray substance
 http://purl.obolibrary.org/obo/HBA_9243	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9243	external capsule  ( human )
 http://purl.obolibrary.org/obo/UBERON_0035014		functional part of brain
-http://purl.obolibrary.org/obo/UBERON_0035013		temporal cortex association area
 http://purl.obolibrary.org/obo/HBA_9244	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9244	external capsule, left  ( human )
 http://purl.obolibrary.org/obo/HBA_9249	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9249	fornix  ( human )
-http://purl.obolibrary.org/obo/UBERON_0035015		association cortex
 http://purl.obolibrary.org/obo/HBA_9247	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9247	extreme capsule, left  ( human )
 http://purl.obolibrary.org/obo/HBA_9248	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9248	extreme capsule, right  ( human )
 http://purl.obolibrary.org/obo/HBA_9252	http://atlas.brain-map.org/atlas?atlas=265297125#structure=9252	body of the fornix, left  ( human )
@@ -5500,11 +5499,11 @@ http://purl.obolibrary.org/obo/DHBA_13305	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_13305	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13305	LGE-VZ border region  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13305	http://atlas.brain-map.org/atlas?atlas=3#structure=13305	LGE-VZ border region  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13305	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13305	LGE-VZ border region  ( human dev )
+http://purl.obolibrary.org/obo/GO_0090325		regulation of locomotion involved in locomotory behavior
 http://purl.obolibrary.org/obo/DHBA_13304	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13304	inner VZ in primary visual cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13304	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13304	inner VZ in primary visual cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13304	http://atlas.brain-map.org/atlas?atlas=3#structure=13304	inner VZ in primary visual cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13304	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13304	inner VZ in primary visual cortex  ( human dev )
-http://purl.obolibrary.org/obo/GO_0090325		regulation of locomotion involved in locomotory behavior
 http://purl.obolibrary.org/obo/GO_0090326		positive regulation of locomotion involved in locomotory behavior
 http://purl.obolibrary.org/obo/DHBA_13303	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13303	outer VZ in primary visual cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13303	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13303	outer VZ in primary visual cortex  ( human dev )
@@ -6035,8 +6034,8 @@ http://purl.obolibrary.org/obo/GO_0040011		locomotion
 http://purl.obolibrary.org/obo/GO_0040012		regulation of locomotion
 http://purl.obolibrary.org/obo/GO_0040013		negative regulation of locomotion
 http://purl.obolibrary.org/obo/UBERON_0006135		myelinated nerve fiber
-http://purl.obolibrary.org/obo/GO_0040019		positive regulation of embryonic development
 http://purl.obolibrary.org/obo/UBERON_0006134		nerve fiber
+http://purl.obolibrary.org/obo/GO_0040019		positive regulation of embryonic development
 http://purl.obolibrary.org/obo/UBERON_0006133		funiculus of neuraxis
 http://purl.obolibrary.org/obo/GO_0040016		embryonic cleavage
 http://purl.obolibrary.org/obo/CL_0000995		CD34-positive, CD38-positive common myeloid progenitor OR CD34-positive, CD38-positive common lymphoid progenitor
@@ -6318,11 +6317,11 @@ http://purl.obolibrary.org/obo/DHBA_13290	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_13290	http://atlas.brain-map.org/atlas?atlas=3#structure=13290	inner VZ in dorsolateral prefrontal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13290	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13290	inner VZ in dorsolateral prefrontal cortex  ( human dev )
 http://purl.obolibrary.org/obo/GO_0003019		central nervous system control of baroreceptor feedback
+http://purl.obolibrary.org/obo/GO_0003014		renal system process
 http://purl.obolibrary.org/obo/DHBA_13294	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13294	inner VZ in primary somatosensory cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13294	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13294	inner VZ in primary somatosensory cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13294	http://atlas.brain-map.org/atlas?atlas=3#structure=13294	inner VZ in primary somatosensory cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13294	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13294	inner VZ in primary somatosensory cortex  ( human dev )
-http://purl.obolibrary.org/obo/GO_0003014		renal system process
 http://purl.obolibrary.org/obo/GO_0003013		circulatory system process
 http://purl.obolibrary.org/obo/DHBA_13293	http://atlas.brain-map.org/atlas?atlas=138322605#structure=13293	outer VZ in primary somatosensory cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13293	http://atlas.brain-map.org/atlas?atlas=265297126#structure=13293	outer VZ in primary somatosensory cortex  ( human dev )
@@ -6396,6 +6395,7 @@ http://purl.obolibrary.org/obo/DHBA_13299	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_13299	http://atlas.brain-map.org/atlas?atlas=3#structure=13299	outer VZ in caudal midinferior temporal cortex (area TF)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13299	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13299	outer VZ in caudal midinferior temporal cortex (area TF)  ( human dev )
 http://purl.obolibrary.org/obo/UBERON_0008823		neural tube derived brain
+http://purl.obolibrary.org/obo/GO_0016301		kinase activity
 http://purl.obolibrary.org/obo/GO_0003006		developmental process involved in reproduction
 http://purl.obolibrary.org/obo/GO_0003008		system process
 http://purl.obolibrary.org/obo/UBERON_0008814		pharyngeal arch system
@@ -6688,14 +6688,13 @@ http://purl.obolibrary.org/obo/DHBA_13255	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_13255	http://atlas.brain-map.org/atlas?atlas=3#structure=13255	molecular layer of PVPi  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_13255	http://atlas.brain-map.org/atlas?atlas=138322603#structure=13255	molecular layer of PVPi  ( human dev )
 http://purl.obolibrary.org/obo/DMBA_112892391		superficial stratum of r7F
-http://purl.obolibrary.org/obo/UBERON_0018263		ventral zone of medial entorhinal cortex
 http://purl.obolibrary.org/obo/UBERON_0018261		muscular coat of digestive tract
 http://purl.obolibrary.org/obo/UBERON_0018262		dorsal zone of medial entorhinal cortex
 http://purl.obolibrary.org/obo/UBERON_0006284		early prosencephalic vesicle
 http://purl.obolibrary.org/obo/UBERON_0006283		future cardiac ventricle
 http://purl.obolibrary.org/obo/UBERON_0018260		layer of muscle tissue
-http://purl.obolibrary.org/obo/UBERON_0018257		submucosa of digestive tract
 http://purl.obolibrary.org/obo/NCBITaxon_39107		Murinae
+http://purl.obolibrary.org/obo/UBERON_0018257		submucosa of digestive tract
 http://purl.obolibrary.org/obo/UBERON_0018254		skeletal musculature
 http://purl.obolibrary.org/obo/UBERON_0018251		meningeal vein
 http://purl.obolibrary.org/obo/UBERON_0006273		otic pit
@@ -6742,7 +6741,7 @@ http://purl.obolibrary.org/obo/DMBA_15704		hypothalamic ventricular organ, termi
 http://purl.obolibrary.org/obo/DMBA_15705		mantle zone of THyB-V
 http://purl.obolibrary.org/obo/DMBA_15708		intermediate stratum of THyB-V
 http://purl.obolibrary.org/obo/DMBA_15709		ventral tuberomammillary nucleus, intermediate part (histaminergic)
-http://purl.obolibrary.org/obo/CL_0000853		olfactory epithelial support cell
+http://purl.obolibrary.org/obo/CL_0000853		olfactory epithelial supporting cell
 http://purl.obolibrary.org/obo/DMBA_112892339		intermediate stratum of r2F
 http://purl.obolibrary.org/obo/DMBA_112892337		periventricular stratum of r2F
 http://purl.obolibrary.org/obo/DMBA_112892331		superficial stratum of r1F
@@ -6766,10 +6765,10 @@ http://purl.obolibrary.org/obo/DMBA_112892313		superficial stratum of isADL
 http://purl.obolibrary.org/obo/UBERON_0006293		spleen primordium
 http://purl.obolibrary.org/obo/DMBA_112892311		intermediate stratum of isADL
 http://purl.obolibrary.org/obo/GO_0005737		cytoplasm
-http://purl.obolibrary.org/obo/DMBA_15759		intermediate stratum of DgSe
 http://purl.obolibrary.org/obo/MBA_182305709	http://atlas.brain-map.org/atlas?atlas=602630314#structure=182305709	Primary somatosensory area, unassigned, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_182305709	http://atlas.brain-map.org/atlas?atlas=1#structure=182305709	Primary somatosensory area, unassigned, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_182305709	http://atlas.brain-map.org/atlas?atlas=2#structure=182305709	Primary somatosensory area, unassigned, layer 6a  ( mouse )
+http://purl.obolibrary.org/obo/DMBA_15759		intermediate stratum of DgSe
 http://purl.obolibrary.org/obo/UBERON_0006321		superior oblique extraocular muscle
 http://purl.obolibrary.org/obo/UBERON_0007652		esophageal sphincter
 http://purl.obolibrary.org/obo/UBERON_0007651		anatomical junction
@@ -6798,11 +6797,11 @@ http://purl.obolibrary.org/obo/UBERON_0007640		hippocampus stratum lacunosum mol
 http://purl.obolibrary.org/obo/DMBA_15742		ventricular zone of CSCom
 http://purl.obolibrary.org/obo/DMBA_15743		subfornical organ, circumventricular ependymal specialization
 http://purl.obolibrary.org/obo/DMBA_15740		roof plate of evaginated telencephalic vesicle
-http://purl.obolibrary.org/obo/DMBA_15741		caudal septocommissural area
-http://purl.obolibrary.org/obo/UBERON_0007647		ectomeninx
 http://purl.obolibrary.org/obo/MBA_182305713	http://atlas.brain-map.org/atlas?atlas=602630314#structure=182305713	Primary somatosensory area, unassigned, layer 6b  ( mouse )
 http://purl.obolibrary.org/obo/MBA_182305713	http://atlas.brain-map.org/atlas?atlas=1#structure=182305713	Primary somatosensory area, unassigned, layer 6b  ( mouse )
 http://purl.obolibrary.org/obo/MBA_182305713	http://atlas.brain-map.org/atlas?atlas=2#structure=182305713	Primary somatosensory area, unassigned, layer 6b  ( mouse )
+http://purl.obolibrary.org/obo/DMBA_15741		caudal septocommissural area
+http://purl.obolibrary.org/obo/UBERON_0007647		ectomeninx
 http://purl.obolibrary.org/obo/UBERON_0007646		endomeninx
 http://purl.obolibrary.org/obo/DMBA_15746		subfornical organ, periventricular part
 http://purl.obolibrary.org/obo/UBERON_0007645		future meninx
@@ -7784,8 +7783,8 @@ http://purl.obolibrary.org/obo/DHBA_266441295	http://atlas.brain-map.org/atlas?a
 http://purl.obolibrary.org/obo/DHBA_266441295	http://atlas.brain-map.org/atlas?atlas=265297126#structure=266441295	stratum moleculare of rostral CA1  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_266441295	http://atlas.brain-map.org/atlas?atlas=3#structure=266441295	stratum moleculare of rostral CA1  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_266441295	http://atlas.brain-map.org/atlas?atlas=138322603#structure=266441295	stratum moleculare of rostral CA1  ( human dev )
-http://purl.obolibrary.org/obo/DMBA_16920		cerebellar hemisphere
 http://purl.obolibrary.org/obo/UBERON_0034829		stratum radiatum of rostral CA1
+http://purl.obolibrary.org/obo/DMBA_16920		cerebellar hemisphere
 http://purl.obolibrary.org/obo/UBERON_0019272		mesomere 1
 http://purl.obolibrary.org/obo/DMBA_16924		mantle zone of CbH
 http://purl.obolibrary.org/obo/DMBA_16923		rhombic lip of CbH
@@ -7795,16 +7794,16 @@ http://purl.obolibrary.org/obo/DMBA_16917		cerebellar choroid tela
 http://purl.obolibrary.org/obo/UBERON_0019269		gray matter of diencephalon
 http://purl.obolibrary.org/obo/DMBA_16916		r1 roof plate
 http://purl.obolibrary.org/obo/DMBA_16915		rhombomere 1
-http://purl.obolibrary.org/obo/UBERON_0019267		gray matter of midbrain
 http://purl.obolibrary.org/obo/DMBA_16914		ventral tegmental area, isthmic part
+http://purl.obolibrary.org/obo/UBERON_0019267		gray matter of midbrain
 http://purl.obolibrary.org/obo/UBERON_0019264		gray matter of forebrain
 http://purl.obolibrary.org/obo/UBERON_0019262		white matter of myelencephalon
 http://purl.obolibrary.org/obo/MBA_480149222	http://atlas.brain-map.org/atlas?atlas=602630314#structure=480149222	Rostrolateral lateral visual area, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_480149222	http://atlas.brain-map.org/atlas?atlas=1#structure=480149222	Rostrolateral lateral visual area, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_480149222	http://atlas.brain-map.org/atlas?atlas=2#structure=480149222	Rostrolateral lateral visual area, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/DMBA_16919		r1 alar plate
-http://purl.obolibrary.org/obo/UBERON_0019263		gray matter of hindbrain
 http://purl.obolibrary.org/obo/DMBA_16918		rhombic lip of r1R
+http://purl.obolibrary.org/obo/UBERON_0019263		gray matter of hindbrain
 http://purl.obolibrary.org/obo/UBERON_0007282		presumptive segmental plate
 http://purl.obolibrary.org/obo/UBERON_0007281		presumptive midbrain hindbrain boundary
 http://purl.obolibrary.org/obo/UBERON_0007280		presumptive endocardium
@@ -7963,8 +7962,8 @@ http://purl.obolibrary.org/obo/UBERON_0034905		gland lumen
 http://purl.obolibrary.org/obo/DMBA_16964		laterodorsal tegmental nucleus
 http://purl.obolibrary.org/obo/DMBA_15632		superficial stratum of TPaA
 http://purl.obolibrary.org/obo/UBERON_0034907		pineal parenchyma
-http://purl.obolibrary.org/obo/DMBA_16963		r1 liminal central gray
 http://purl.obolibrary.org/obo/DMBA_15633		supraoptic nucleus
+http://purl.obolibrary.org/obo/DMBA_16963		r1 liminal central gray
 http://purl.obolibrary.org/obo/HBA_265505062	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505062	corticobulbar tract, supracapsular part  ( human )
 http://purl.obolibrary.org/obo/DMBA_15630		lateral anterior hypothalamic nucleus
 http://purl.obolibrary.org/obo/DMBA_16962		r1 part of ventral parvicellular reticular formation
@@ -8012,8 +8011,8 @@ http://purl.obolibrary.org/obo/DMBA_15618		striohypothalamic nucleus
 http://purl.obolibrary.org/obo/HBA_265505078	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505078	corticobulbar tract, infracapsular part, left  ( human )
 http://purl.obolibrary.org/obo/DMBA_16949		internal granular layer of CbHCx
 http://purl.obolibrary.org/obo/DMBA_15619		preopto-hypothalamic area
-http://purl.obolibrary.org/obo/DMBA_15616		periventricular stratum of POH
 http://purl.obolibrary.org/obo/DMBA_16948		Purkinje cell layer of CbHCx
+http://purl.obolibrary.org/obo/DMBA_15616		periventricular stratum of POH
 http://purl.obolibrary.org/obo/DMBA_15617		intermediate stratum of POH
 http://purl.obolibrary.org/obo/DMBA_16947		molecular layer of CbHCx
 http://purl.obolibrary.org/obo/UBERON_0034921		multi organ part structure
@@ -8032,8 +8031,8 @@ http://purl.obolibrary.org/obo/DMBA_16940		simple lobule
 http://purl.obolibrary.org/obo/DMBA_16946		flocculus
 http://purl.obolibrary.org/obo/HBA_265505086	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505086	external medullary lamina of globus pallidus  ( human )
 http://purl.obolibrary.org/obo/DMBA_15614		ventricular zone of POH
-http://purl.obolibrary.org/obo/DMBA_15615		mantle zone of POH
 http://purl.obolibrary.org/obo/DMBA_16945		paraflocculus
+http://purl.obolibrary.org/obo/DMBA_15615		mantle zone of POH
 http://purl.obolibrary.org/obo/DMBA_16944		copula of the pyramis
 http://purl.obolibrary.org/obo/DMBA_15612		ventrolateral preoptic nucleus
 http://purl.obolibrary.org/obo/DMBA_16943		paramedian lobule
@@ -8093,12 +8092,12 @@ http://purl.obolibrary.org/obo/UBERON_0019303		occipital sulcus
 http://purl.obolibrary.org/obo/UBERON_0019304		sensory organ epithelium
 http://purl.obolibrary.org/obo/DMBA_15661		core of SCH
 http://purl.obolibrary.org/obo/DMBA_16993		superficial stratum of r1BI
-http://purl.obolibrary.org/obo/DMBA_15662		anterior hypothalamic nucleus
 http://purl.obolibrary.org/obo/DMBA_16992		nucleus subcoeruleus, r1 part
+http://purl.obolibrary.org/obo/DMBA_15662		anterior hypothalamic nucleus
 http://purl.obolibrary.org/obo/DMBA_16991		r1 part of basointermediate reticular formation
 http://purl.obolibrary.org/obo/DMBA_16990		intermediate stratum of r1BI
-http://purl.obolibrary.org/obo/HBA_265505090	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505090	external medullary lamina of globus pallidus, left  ( human )
 http://purl.obolibrary.org/obo/DMBA_15660		suprachiasmatic nucleus
+http://purl.obolibrary.org/obo/HBA_265505090	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505090	external medullary lamina of globus pallidus, left  ( human )
 http://purl.obolibrary.org/obo/DMBA_16997		periventricular stratum of r1BM
 http://purl.obolibrary.org/obo/DMBA_15665		tuber cinereum area
 http://purl.obolibrary.org/obo/DMBA_16996		mantle zone of r1BM
@@ -8124,8 +8123,8 @@ http://purl.obolibrary.org/obo/MBA_480149298	http://atlas.brain-map.org/atlas?at
 http://purl.obolibrary.org/obo/MBA_480149298	http://atlas.brain-map.org/atlas?atlas=1#structure=480149298	Mediomedial posterior visual area, layer 4  ( mouse )
 http://purl.obolibrary.org/obo/MBA_480149298	http://atlas.brain-map.org/atlas?atlas=2#structure=480149298	Mediomedial posterior visual area, layer 4  ( mouse )
 http://purl.obolibrary.org/obo/PBA_128012274		hippocampal subventricular zone of CA1
-http://purl.obolibrary.org/obo/DMBA_15650		ganglion cells
 http://purl.obolibrary.org/obo/DMBA_16982		r1 part of intermediate nucleus of the lateral lemniscus
+http://purl.obolibrary.org/obo/DMBA_15650		ganglion cells
 http://purl.obolibrary.org/obo/DMBA_15651		inverted amacrine cells
 http://purl.obolibrary.org/obo/DMBA_16981		superficial stratum of r1BL
 http://purl.obolibrary.org/obo/DMBA_16980		r1 part of lateral paralemniscal nucleus
@@ -8789,11 +8788,11 @@ http://purl.obolibrary.org/obo/DHBA_146035116	http://atlas.brain-map.org/atlas?a
 http://purl.obolibrary.org/obo/DHBA_146035116	http://atlas.brain-map.org/atlas?atlas=265297126#structure=146035116	surface structures of spinal cord  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146035116	http://atlas.brain-map.org/atlas?atlas=3#structure=146035116	surface structures of spinal cord  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146035116	http://atlas.brain-map.org/atlas?atlas=138322603#structure=146035116	surface structures of spinal cord  ( human dev )
+http://purl.obolibrary.org/obo/NCBITaxon_207598		Homininae
 http://purl.obolibrary.org/obo/DHBA_146035112	http://atlas.brain-map.org/atlas?atlas=138322605#structure=146035112	central canal and ependyma of spinal cord  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146035112	http://atlas.brain-map.org/atlas?atlas=265297126#structure=146035112	central canal and ependyma of spinal cord  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146035112	http://atlas.brain-map.org/atlas?atlas=3#structure=146035112	central canal and ependyma of spinal cord  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_146035112	http://atlas.brain-map.org/atlas?atlas=138322603#structure=146035112	central canal and ependyma of spinal cord  ( human dev )
-http://purl.obolibrary.org/obo/NCBITaxon_207598		Homininae
 http://purl.obolibrary.org/obo/DHBA_266441189	http://atlas.brain-map.org/atlas?atlas=138322605#structure=266441189	opercular subdivision of A45  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_266441189	http://atlas.brain-map.org/atlas?atlas=265297126#structure=266441189	opercular subdivision of A45  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_266441189	http://atlas.brain-map.org/atlas?atlas=3#structure=266441189	opercular subdivision of A45  ( human dev )
@@ -8945,8 +8944,8 @@ http://purl.obolibrary.org/obo/UBERON_0007414		nucleus of midbrain tegmentum
 http://purl.obolibrary.org/obo/DMBA_16846		mantle zone of the PBC
 http://purl.obolibrary.org/obo/DMBA_16845		ventricular zone of the PBC
 http://purl.obolibrary.org/obo/UBERON_0007413		nucleus of pontine reticular formation
-http://purl.obolibrary.org/obo/UBERON_0007412		midbrain raphe nuclei
 http://purl.obolibrary.org/obo/DMBA_16844		parabrachial complex
+http://purl.obolibrary.org/obo/UBERON_0007412		midbrain raphe nuclei
 http://purl.obolibrary.org/obo/DMBA_16839		lobule 10 of cerebellar vermis
 http://purl.obolibrary.org/obo/DMBA_16838		lobule 9 of cerebellar vermis
 http://purl.obolibrary.org/obo/DMBA_16837		lobule 8 of cerebellar vermis
@@ -9075,7 +9074,6 @@ http://purl.obolibrary.org/obo/DMBA_16862		parabigeminal nucleus
 http://purl.obolibrary.org/obo/UBERON_0006107		basolateral amygdaloid nuclear complex
 http://purl.obolibrary.org/obo/DMBA_16869		isthmic liminal part of the periaqueductal gray
 http://purl.obolibrary.org/obo/DMBA_16868		periventricular stratum of isLim
-http://purl.obolibrary.org/obo/UBERON_0006104		Brodmann (1909) area 36
 http://purl.obolibrary.org/obo/DMBA_16867		mantle zone of isLim
 http://purl.obolibrary.org/obo/DMBA_16866		ventricular zone of isLim
 http://purl.obolibrary.org/obo/DMBA_16859		intermediate stratum of Ist
@@ -9311,12 +9309,12 @@ http://purl.obolibrary.org/obo/DHBA_12088	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_12088	http://atlas.brain-map.org/atlas?atlas=3#structure=12088	striothalamic tract  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12088	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12088	striothalamic tract  ( human dev )
 http://purl.obolibrary.org/obo/DMBA_16898		ventricular zone of isBM
-http://purl.obolibrary.org/obo/DMBA_15567		secondary prosencephalon
 http://purl.obolibrary.org/obo/DMBA_16897		medial part of the isB
 http://purl.obolibrary.org/obo/DHBA_12087	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12087	strionigral tract  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12087	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12087	strionigral tract  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12087	http://atlas.brain-map.org/atlas?atlas=3#structure=12087	strionigral tract  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12087	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12087	strionigral tract  ( human dev )
+http://purl.obolibrary.org/obo/DMBA_15567		secondary prosencephalon
 http://purl.obolibrary.org/obo/DMBA_16896		substantia nigra reticulata, isthmic part
 http://purl.obolibrary.org/obo/DMBA_15564		Mus musculus
 http://purl.obolibrary.org/obo/DHBA_12086	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12086	striopallidal tract  ( human dev )
@@ -9363,8 +9361,8 @@ http://purl.obolibrary.org/obo/PBA_159658840		transitory migratory zone of V1
 http://purl.obolibrary.org/obo/GO_0002009		morphogenesis of an epithelium
 http://purl.obolibrary.org/obo/PBA_159658844		inner fiber (plexiform) zone of V1
 http://purl.obolibrary.org/obo/GO_2000294		positive regulation of defecation
-http://purl.obolibrary.org/obo/PBA_159658836		outer fiber (plexiform) zone of V1
 http://purl.obolibrary.org/obo/GO_2000292		regulation of defecation
+http://purl.obolibrary.org/obo/PBA_159658836		outer fiber (plexiform) zone of V1
 http://purl.obolibrary.org/obo/GO_2000293		negative regulation of defecation
 http://purl.obolibrary.org/obo/MBA_606826663	http://atlas.brain-map.org/atlas?atlas=602630314#structure=606826663	Paratrochlear nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_606826663	http://atlas.brain-map.org/atlas?atlas=1#structure=606826663	Paratrochlear nucleus  ( mouse )
@@ -10010,6 +10008,7 @@ http://purl.obolibrary.org/obo/MBA_607344838	http://atlas.brain-map.org/atlas?at
 http://purl.obolibrary.org/obo/MBA_607344838	http://atlas.brain-map.org/atlas?atlas=1#structure=607344838	Interpeduncular nucleus, caudal  ( mouse )
 http://purl.obolibrary.org/obo/MBA_607344838	http://atlas.brain-map.org/atlas?atlas=2#structure=607344838	Interpeduncular nucleus, caudal  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0009669		embryonic cloacal lumen
+http://purl.obolibrary.org/obo/UBERON_0008339		microvascular endothelium
 http://purl.obolibrary.org/obo/CL_0000530		primary neuron
 http://purl.obolibrary.org/obo/CL_0000531		primary sensory neuron
 http://purl.obolibrary.org/obo/MBA_607344834	http://atlas.brain-map.org/atlas?atlas=602630314#structure=607344834	Interpeduncular nucleus, rostral  ( mouse )
@@ -10389,10 +10388,10 @@ http://purl.obolibrary.org/obo/UBERON_0009708		dorsal pancreas
 http://purl.obolibrary.org/obo/MBA_10711	http://atlas.brain-map.org/atlas?atlas=602630314#structure=10711	Lobule III, granular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10711	http://atlas.brain-map.org/atlas?atlas=1#structure=10711	Lobule III, granular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10711	http://atlas.brain-map.org/atlas?atlas=2#structure=10711	Lobule III, granular layer  ( mouse )
+http://purl.obolibrary.org/obo/UBERON_0009709		ventral pancreas
 http://purl.obolibrary.org/obo/MBA_10710	http://atlas.brain-map.org/atlas?atlas=602630314#structure=10710	Lobule II, molecular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10710	http://atlas.brain-map.org/atlas?atlas=1#structure=10710	Lobule II, molecular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10710	http://atlas.brain-map.org/atlas?atlas=2#structure=10710	Lobule II, molecular layer  ( mouse )
-http://purl.obolibrary.org/obo/UBERON_0009709		ventral pancreas
 http://purl.obolibrary.org/obo/MBA_10713	http://atlas.brain-map.org/atlas?atlas=602630314#structure=10713	Lobule III, molecular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10713	http://atlas.brain-map.org/atlas?atlas=1#structure=10713	Lobule III, molecular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10713	http://atlas.brain-map.org/atlas?atlas=2#structure=10713	Lobule III, molecular layer  ( mouse )
@@ -10404,6 +10403,7 @@ http://purl.obolibrary.org/obo/UBERON_0009713		endocardium of left ventricle
 http://purl.obolibrary.org/obo/UBERON_0009714		intermaxillary process
 http://purl.obolibrary.org/obo/UBERON_0009715		stomodeal lumen
 http://purl.obolibrary.org/obo/NCBITaxon_1963758		Myomorpha
+http://purl.obolibrary.org/obo/GO_0016740		transferase activity
 http://purl.obolibrary.org/obo/MBA_10708	http://atlas.brain-map.org/atlas?atlas=602630314#structure=10708	Lobule II, granular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10708	http://atlas.brain-map.org/atlas?atlas=1#structure=10708	Lobule II, granular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10708	http://atlas.brain-map.org/atlas?atlas=2#structure=10708	Lobule II, granular layer  ( mouse )
@@ -10649,6 +10649,7 @@ http://purl.obolibrary.org/obo/MBA_10723	http://atlas.brain-map.org/atlas?atlas=
 http://purl.obolibrary.org/obo/MBA_10720	http://atlas.brain-map.org/atlas?atlas=602630314#structure=10720	Lobules IV-V, granular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10720	http://atlas.brain-map.org/atlas?atlas=1#structure=10720	Lobules IV-V, granular layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_10720	http://atlas.brain-map.org/atlas?atlas=2#structure=10720	Lobules IV-V, granular layer  ( mouse )
+http://purl.obolibrary.org/obo/GO_0016772		transferase activity, transferring phosphorus-containing groups
 http://purl.obolibrary.org/obo/HBA_265505270	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505270	pontine bundle, right  ( human )
 http://purl.obolibrary.org/obo/HBA_265505274	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505274	rostral thalamic peduncle  ( human )
 http://purl.obolibrary.org/obo/DHBA_12338	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12338	decussation of trochlear nerve fibers  ( human dev )
@@ -11423,7 +11424,6 @@ http://purl.obolibrary.org/obo/GO_0051234		establishment of localization
 http://purl.obolibrary.org/obo/GO_0051239		regulation of multicellular organismal process
 http://purl.obolibrary.org/obo/CL_0000402		CNS interneuron
 http://purl.obolibrary.org/obo/CL_0000404		electrically signaling cell
-http://purl.obolibrary.org/obo/UBERON_0034750		visual association cortex
 http://purl.obolibrary.org/obo/UBERON_0034751		primary auditory cortex
 http://purl.obolibrary.org/obo/UBERON_0034752		secondary auditory cortex
 http://purl.obolibrary.org/obo/UBERON_0034753		inferior occipitofrontal fasciculus
@@ -11466,6 +11466,7 @@ http://purl.obolibrary.org/obo/UBERON_0007100		primary circulatory organ
 http://purl.obolibrary.org/obo/UBERON_0008432		thoracic vertebral foramen
 http://purl.obolibrary.org/obo/GO_1904115		axon cytoplasm
 http://purl.obolibrary.org/obo/UBERON_0034710		spinal cord ventricular layer
+http://purl.obolibrary.org/obo/UBERON_8480002		thoracic aorta smooth muscle tissue
 http://purl.obolibrary.org/obo/UBERON_0007177		lamina propria of mucosa of colon
 http://purl.obolibrary.org/obo/UBERON_0034705		developing neuroepithelium
 http://purl.obolibrary.org/obo/UBERON_0034706		proliferating neuroepithelium
@@ -11475,6 +11476,7 @@ http://purl.obolibrary.org/obo/GO_0051272		positive regulation of cellular compo
 http://purl.obolibrary.org/obo/UBERON_0034709		hindbrain marginal layer
 http://purl.obolibrary.org/obo/GO_0051270		regulation of cellular component movement
 http://purl.obolibrary.org/obo/GO_0051271		negative regulation of cellular component movement
+http://purl.obolibrary.org/obo/UBERON_8480001		capillary of brain
 http://purl.obolibrary.org/obo/UBERON_0019143		intramuscular adipose tissue
 http://purl.obolibrary.org/obo/UBERON_0034720		head taste bud
 http://purl.obolibrary.org/obo/UBERON_0034721		pharyngeal taste bud
@@ -11562,11 +11564,11 @@ http://purl.obolibrary.org/obo/DHBA_12318	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_12318	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12318	ventricular (matrix) zone of midbrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12318	http://atlas.brain-map.org/atlas?atlas=3#structure=12318	ventricular (matrix) zone of midbrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12318	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12318	ventricular (matrix) zone of midbrain  ( human dev )
+http://purl.obolibrary.org/obo/UBERON_0034729		sympathetic nerve
 http://purl.obolibrary.org/obo/DHBA_12317	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12317	mesomere 2  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12317	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12317	mesomere 2  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12317	http://atlas.brain-map.org/atlas?atlas=3#structure=12317	mesomere 2  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12317	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12317	mesomere 2  ( human dev )
-http://purl.obolibrary.org/obo/UBERON_0034729		sympathetic nerve
 http://purl.obolibrary.org/obo/DHBA_12312	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12312	parabigeminal nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12312	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12312	parabigeminal nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12312	http://atlas.brain-map.org/atlas?atlas=3#structure=12312	parabigeminal nucleus  ( human dev )
@@ -11636,12 +11638,12 @@ http://purl.obolibrary.org/obo/DHBA_12321	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_12321	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12321	alar plate (tectal zone) of midbrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12321	http://atlas.brain-map.org/atlas?atlas=3#structure=12321	alar plate (tectal zone) of midbrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12321	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12321	alar plate (tectal zone) of midbrain  ( human dev )
+http://purl.obolibrary.org/obo/NCBITaxon_1		root
 http://purl.obolibrary.org/obo/DHBA_12320	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12320	roof plate of midbrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12320	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12320	roof plate of midbrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12320	http://atlas.brain-map.org/atlas?atlas=3#structure=12320	roof plate of midbrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12320	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12320	roof plate of midbrain  ( human dev )
 http://purl.obolibrary.org/obo/UBERON_0007148		lumen of hindgut
-http://purl.obolibrary.org/obo/NCBITaxon_1		root
 http://purl.obolibrary.org/obo/GO_0004888		transmembrane signaling receptor activity
 http://purl.obolibrary.org/obo/HBA_265505178	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505178	mammillotegmental tract  ( human )
 http://purl.obolibrary.org/obo/PR_000015557		spondin-1
@@ -11678,6 +11680,8 @@ http://purl.obolibrary.org/obo/CL_0000440		melanocyte stimulating hormone secret
 http://purl.obolibrary.org/obo/UBERON_0009870		zone of stomach
 http://purl.obolibrary.org/obo/UBERON_0007214		mesenchyme derived from trunk neural crest
 http://purl.obolibrary.org/obo/PBA_294022044		white matter
+http://purl.obolibrary.org/obo/CL_0000457		biogenic amine secreting cell
+http://purl.obolibrary.org/obo/CL_0000459		noradrenergic cell
 http://purl.obolibrary.org/obo/CL_0000451		dendritic cell
 http://purl.obolibrary.org/obo/UBERON_0007204		brachiocephalic vasculature
 http://purl.obolibrary.org/obo/GO_0051216		cartilage development
@@ -13435,11 +13439,11 @@ http://purl.obolibrary.org/obo/DHBA_12524	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_12524	http://atlas.brain-map.org/atlas?atlas=3#structure=12524	paraabducens nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12524	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12524	paraabducens nucleus  ( human dev )
 http://purl.obolibrary.org/obo/UBERON_0009526		maxillary process mesenchyme
+http://purl.obolibrary.org/obo/GO_0062149		detection of stimulus involved in sensory perception of pain
 http://purl.obolibrary.org/obo/DHBA_12523	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12523	nucleus L  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12523	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12523	nucleus L  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12523	http://atlas.brain-map.org/atlas?atlas=3#structure=12523	nucleus L  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12523	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12523	nucleus L  ( human dev )
-http://purl.obolibrary.org/obo/GO_0062149		detection of stimulus involved in sensory perception of pain
 http://purl.obolibrary.org/obo/DHBA_12522	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12522	nucleus K  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12522	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12522	nucleus K  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12522	http://atlas.brain-map.org/atlas?atlas=3#structure=12522	nucleus K  ( human dev )
@@ -13470,6 +13474,7 @@ http://purl.obolibrary.org/obo/DHBA_12520	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_12520	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12520	laterodorsal tegmental nucleus, dorsal part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12520	http://atlas.brain-map.org/atlas?atlas=3#structure=12520	laterodorsal tegmental nucleus, dorsal part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12520	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12520	laterodorsal tegmental nucleus, dorsal part  ( human dev )
+http://purl.obolibrary.org/obo/GO_0003824		catalytic activity
 http://purl.obolibrary.org/obo/UBERON_0009522		lateral lingual swelling epithelium
 http://purl.obolibrary.org/obo/DMBA_15959		mantle zone of AOB
 http://purl.obolibrary.org/obo/DMBA_15957		accessory olfactory bulb
@@ -13523,11 +13528,11 @@ http://purl.obolibrary.org/obo/DHBA_12531	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_12531	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12531	retrotrapezoid nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12531	http://atlas.brain-map.org/atlas?atlas=3#structure=12531	retrotrapezoid nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12531	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12531	retrotrapezoid nucleus  ( human dev )
+http://purl.obolibrary.org/obo/DMBA_15956		lateral pallium
 http://purl.obolibrary.org/obo/DHBA_11201	http://atlas.brain-map.org/atlas?atlas=138322605#structure=11201	layer III of area V4  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11201	http://atlas.brain-map.org/atlas?atlas=265297126#structure=11201	layer III of area V4  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11201	http://atlas.brain-map.org/atlas?atlas=3#structure=11201	layer III of area V4  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11201	http://atlas.brain-map.org/atlas?atlas=138322603#structure=11201	layer III of area V4  ( human dev )
-http://purl.obolibrary.org/obo/DMBA_15956		lateral pallium
 http://purl.obolibrary.org/obo/DMBA_15953		layer 2 of LOT
 http://purl.obolibrary.org/obo/DHBA_12530	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12530	retrofacial nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12530	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12530	retrofacial nucleus  ( human dev )
@@ -13603,20 +13608,20 @@ http://purl.obolibrary.org/obo/UBERON_0035809		serous cavity
 http://purl.obolibrary.org/obo/UBERON_0009583		spinal cord mantle layer
 http://purl.obolibrary.org/obo/DMBA_15941		ventricular zone of the VAP
 http://purl.obolibrary.org/obo/UBERON_0009584		1st arch mandibular mesenchyme
-http://purl.obolibrary.org/obo/DMBA_15944		lateral amygdaloid nucleus
 http://purl.obolibrary.org/obo/DHBA_12543	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12543	ambiguus nucleus, semicompact part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12543	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12543	ambiguus nucleus, semicompact part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12543	http://atlas.brain-map.org/atlas?atlas=3#structure=12543	ambiguus nucleus, semicompact part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12543	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12543	ambiguus nucleus, semicompact part  ( human dev )
+http://purl.obolibrary.org/obo/DMBA_15944		lateral amygdaloid nucleus
 http://purl.obolibrary.org/obo/DHBA_12542	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12542	ambiguus nucleus, loose part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12542	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12542	ambiguus nucleus, loose part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12542	http://atlas.brain-map.org/atlas?atlas=3#structure=12542	ambiguus nucleus, loose part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12542	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12542	ambiguus nucleus, loose part  ( human dev )
-http://purl.obolibrary.org/obo/DMBA_15945		amygdalohippocampal area
 http://purl.obolibrary.org/obo/DHBA_11212	http://atlas.brain-map.org/atlas?atlas=138322605#structure=11212	layer I of area 24  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11212	http://atlas.brain-map.org/atlas?atlas=265297126#structure=11212	layer I of area 24  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11212	http://atlas.brain-map.org/atlas?atlas=3#structure=11212	layer I of area 24  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11212	http://atlas.brain-map.org/atlas?atlas=138322603#structure=11212	layer I of area 24  ( human dev )
+http://purl.obolibrary.org/obo/DMBA_15945		amygdalohippocampal area
 http://purl.obolibrary.org/obo/DHBA_12541	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12541	ambiguus nucleus, compact part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12541	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12541	ambiguus nucleus, compact part  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12541	http://atlas.brain-map.org/atlas?atlas=3#structure=12541	ambiguus nucleus, compact part  ( human dev )
@@ -13865,8 +13870,8 @@ http://purl.obolibrary.org/obo/CL_0010021		cardiac myoblast
 http://purl.obolibrary.org/obo/UBERON_0035900		posteromedial visual area
 http://purl.obolibrary.org/obo/UBERON_0035904		primary visual area, layer 4
 http://purl.obolibrary.org/obo/UBERON_0035906		primary visual area, layer 5
-http://purl.obolibrary.org/obo/DMBA_15962		AOB, internal plexiform layer
 http://purl.obolibrary.org/obo/UBERON_0035908		anterolateral visual area, layer 5
+http://purl.obolibrary.org/obo/DMBA_15962		AOB, internal plexiform layer
 http://purl.obolibrary.org/obo/UBERON_0035907		primary visual area, layer 2/3
 http://purl.obolibrary.org/obo/DMBA_15963		intermediate stratum of AOB
 http://purl.obolibrary.org/obo/DMBA_15960		periventricular stratum of AOB
@@ -13926,11 +13931,11 @@ http://purl.obolibrary.org/obo/DHBA_266441645	http://atlas.brain-map.org/atlas?a
 http://purl.obolibrary.org/obo/DHBA_266441645	http://atlas.brain-map.org/atlas?atlas=265297126#structure=266441645	superior longitudinal fasciculus, intermediate portion  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_266441645	http://atlas.brain-map.org/atlas?atlas=3#structure=266441645	superior longitudinal fasciculus, intermediate portion  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_266441645	http://atlas.brain-map.org/atlas?atlas=138322603#structure=266441645	superior longitudinal fasciculus, intermediate portion  ( human dev )
+http://purl.obolibrary.org/obo/BFO_0000040		material entity
 http://purl.obolibrary.org/obo/DHBA_266441641	http://atlas.brain-map.org/atlas?atlas=138322605#structure=266441641	superior longitudinal fasciculus, medial portion  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_266441641	http://atlas.brain-map.org/atlas?atlas=265297126#structure=266441641	superior longitudinal fasciculus, medial portion  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_266441641	http://atlas.brain-map.org/atlas?atlas=3#structure=266441641	superior longitudinal fasciculus, medial portion  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_266441641	http://atlas.brain-map.org/atlas?atlas=138322603#structure=266441641	superior longitudinal fasciculus, medial portion  ( human dev )
-http://purl.obolibrary.org/obo/BFO_0000040		material entity
 http://purl.obolibrary.org/obo/HBA_265505330	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505330	stratum zonale of thalamus, left  ( human )
 http://purl.obolibrary.org/obo/HBA_265505354	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505354	subthalamic fasciculus, left  ( human )
 http://purl.obolibrary.org/obo/HBA_265505358	http://atlas.brain-map.org/atlas?atlas=265297125#structure=265505358	subthalamic fasciculus, right  ( human )
@@ -14155,8 +14160,8 @@ http://purl.obolibrary.org/obo/DMBA_16267		shell of P-DMH
 http://purl.obolibrary.org/obo/GO_0019438		aromatic compound biosynthetic process
 http://purl.obolibrary.org/obo/DMBA_16266		core of P-DMH
 http://purl.obolibrary.org/obo/DMBA_17597		r11 roof plate
-http://purl.obolibrary.org/obo/DMBA_16265		peduncular part of dorsomedial hypothalamic nucleus
 http://purl.obolibrary.org/obo/DMBA_17596		rhombomere 11
+http://purl.obolibrary.org/obo/DMBA_16265		peduncular part of dorsomedial hypothalamic nucleus
 http://purl.obolibrary.org/obo/GO_0045778		positive regulation of ossification
 http://purl.obolibrary.org/obo/DMBA_17595		r10 floor plate
 http://purl.obolibrary.org/obo/DMBA_16264		intermediate stratum of PHyB-I
@@ -15466,8 +15471,8 @@ http://purl.obolibrary.org/obo/DMBA_16302		retromammillary area, lateral part
 http://purl.obolibrary.org/obo/DMBA_17632		periventricular stratum of r11BI
 http://purl.obolibrary.org/obo/DMBA_16301		intermediate stratum of RMa
 http://purl.obolibrary.org/obo/UBERON_0005732		paired limb/fin field
-http://purl.obolibrary.org/obo/DMBA_17639		ventricular zone of r11BM
 http://purl.obolibrary.org/obo/DMBA_16308		diencephalon
+http://purl.obolibrary.org/obo/DMBA_17639		ventricular zone of r11BM
 http://purl.obolibrary.org/obo/DMBA_16307		retromammillary floor
 http://purl.obolibrary.org/obo/DMBA_17638		medial part of r11B
 http://purl.obolibrary.org/obo/UBERON_0005730		pelvic appendage field
@@ -15610,8 +15615,8 @@ http://purl.obolibrary.org/obo/DMBA_16334		ventricular zone of p3ZL
 http://purl.obolibrary.org/obo/UBERON_0003102		surface structure
 http://purl.obolibrary.org/obo/UBERON_0003103		compound organ
 http://purl.obolibrary.org/obo/UBERON_0005764		acellular membrane
-http://purl.obolibrary.org/obo/DMBA_16339		intercalate nucleus
 http://purl.obolibrary.org/obo/UBERON_0003100		female organism
+http://purl.obolibrary.org/obo/DMBA_16339		intercalate nucleus
 http://purl.obolibrary.org/obo/DMBA_16338		intermediate stratum of p3ZL
 http://purl.obolibrary.org/obo/DMBA_17669		mantle zone of the SpAL
 http://purl.obolibrary.org/obo/HBA_4289	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4289	putamen, right  ( human )
@@ -15641,11 +15646,11 @@ http://purl.obolibrary.org/obo/DHBA_11488	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_11488	http://atlas.brain-map.org/atlas?atlas=3#structure=11488	layer III of area Iag  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11488	http://atlas.brain-map.org/atlas?atlas=138322603#structure=11488	layer III of area Iag  ( human dev )
 http://purl.obolibrary.org/obo/DMBA_17493		r9 part of dorsal parvicellular reticular formation
+http://purl.obolibrary.org/obo/DMBA_16162		pyramidal layer of taenia tecta
 http://purl.obolibrary.org/obo/DHBA_10157	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10157	gray matter of forebrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10157	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10157	gray matter of forebrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10157	http://atlas.brain-map.org/atlas?atlas=3#structure=10157	gray matter of forebrain  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10157	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10157	gray matter of forebrain  ( human dev )
-http://purl.obolibrary.org/obo/DMBA_16162		pyramidal layer of taenia tecta
 http://purl.obolibrary.org/obo/PBA_10029		layer III of V1
 http://purl.obolibrary.org/obo/DMBA_16161		superficial stratum of TTe
 http://purl.obolibrary.org/obo/DHBA_10158	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10158	telencephalon  ( human dev )
@@ -15711,7 +15716,6 @@ http://purl.obolibrary.org/obo/DHBA_11484	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_11484	http://atlas.brain-map.org/atlas?atlas=265297126#structure=11484	layer V of area 30  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11484	http://atlas.brain-map.org/atlas?atlas=3#structure=11484	layer V of area 30  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11484	http://atlas.brain-map.org/atlas?atlas=138322603#structure=11484	layer V of area 30  ( human dev )
-http://purl.obolibrary.org/obo/PBA_10026		primary visual cortex (V1, striate cortex, area 17)
 http://purl.obolibrary.org/obo/DHBA_10154	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10154	neural tube  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10154	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10154	neural tube  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10154	http://atlas.brain-map.org/atlas?atlas=3#structure=10154	neural tube  ( human dev )
@@ -15720,6 +15724,7 @@ http://purl.obolibrary.org/obo/DHBA_11485	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_11485	http://atlas.brain-map.org/atlas?atlas=265297126#structure=11485	layer VI of area 30  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11485	http://atlas.brain-map.org/atlas?atlas=3#structure=11485	layer VI of area 30  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11485	http://atlas.brain-map.org/atlas?atlas=138322603#structure=11485	layer VI of area 30  ( human dev )
+http://purl.obolibrary.org/obo/PBA_10026		primary visual cortex (V1, striate cortex, area 17)
 http://purl.obolibrary.org/obo/HBA_4278	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4278	caudate nucleus  ( human )
 http://purl.obolibrary.org/obo/HBA_4277	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4277	striatum  ( human )
 http://purl.obolibrary.org/obo/HBA_4276	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4276	basal ganglia  ( human )
@@ -15766,9 +15771,9 @@ http://purl.obolibrary.org/obo/GO_0043226		organelle
 http://purl.obolibrary.org/obo/GO_0043229		intracellular organelle
 http://purl.obolibrary.org/obo/DMBA_17486		ventricular zone of r9Tr
 http://purl.obolibrary.org/obo/DMBA_16155		ventricular zone of TTe
+http://purl.obolibrary.org/obo/DMBA_16154		taenia tecta
 http://purl.obolibrary.org/obo/DMBA_17485		r9 part of the trigeminal column
 http://purl.obolibrary.org/obo/GO_0043228		non-membrane-bounded organelle
-http://purl.obolibrary.org/obo/DMBA_16154		taenia tecta
 http://purl.obolibrary.org/obo/DHBA_11493	http://atlas.brain-map.org/atlas?atlas=138322605#structure=11493	layer III of area FI  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11493	http://atlas.brain-map.org/atlas?atlas=265297126#structure=11493	layer III of area FI  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11493	http://atlas.brain-map.org/atlas?atlas=3#structure=11493	layer III of area FI  ( human dev )
@@ -15859,10 +15864,11 @@ http://purl.obolibrary.org/obo/DMBA_17480		ventricular zone of r9Ve
 http://purl.obolibrary.org/obo/GO_0043232		intracellular non-membrane-bounded organelle
 http://purl.obolibrary.org/obo/GO_0043231		intracellular membrane-bounded organelle
 http://purl.obolibrary.org/obo/DMBA_17473		r8 raphe pallidus cell population
-http://purl.obolibrary.org/obo/DMBA_16142		Field CA3, stratum oriens
 http://purl.obolibrary.org/obo/PBA_10009		layer I of medial orbitofrontal cortex
+http://purl.obolibrary.org/obo/DMBA_16142		Field CA3, stratum oriens
 http://purl.obolibrary.org/obo/DMBA_17472		superficial stratum of r8BM
 http://purl.obolibrary.org/obo/DMBA_16141		Field CA3
+http://purl.obolibrary.org/obo/DMBA_16140		Field CA2, stratum radiatum
 http://purl.obolibrary.org/obo/DMBA_17471		r8 part of ventral gigangocellular reticular area
 http://purl.obolibrary.org/obo/GO_0070859		positive regulation of bile acid biosynthetic process
 http://purl.obolibrary.org/obo/PBA_10007		white matter of rostral cingulate cortex
@@ -15870,7 +15876,6 @@ http://purl.obolibrary.org/obo/DHBA_10179	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_10179	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10179	lateral subdivision of area 9  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10179	http://atlas.brain-map.org/atlas?atlas=3#structure=10179	lateral subdivision of area 9  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10179	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10179	lateral subdivision of area 9  ( human dev )
-http://purl.obolibrary.org/obo/DMBA_16140		Field CA2, stratum radiatum
 http://purl.obolibrary.org/obo/PBA_10008		medial orbital frontal cortex (area 14)
 http://purl.obolibrary.org/obo/DMBA_17470		r8 part of gigantocellular reticular area
 http://purl.obolibrary.org/obo/DMBA_16146		Field CA3, stratum lacunosum-moleculare
@@ -15900,9 +15905,9 @@ http://purl.obolibrary.org/obo/DHBA_10171	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_10171	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10171	medial subdivision of area 6 (area MII)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10171	http://atlas.brain-map.org/atlas?atlas=3#structure=10171	medial subdivision of area 6 (area MII)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10171	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10171	medial subdivision of area 6 (area MII)  ( human dev )
-http://purl.obolibrary.org/obo/DMBA_16147		induseum griseum
 http://purl.obolibrary.org/obo/PBA_10000		layer I of rostral cingulate cortex
 http://purl.obolibrary.org/obo/DMBA_17478		r9 alar plate
+http://purl.obolibrary.org/obo/DMBA_16147		induseum griseum
 http://purl.obolibrary.org/obo/DHBA_10172	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10172	prefrontal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10172	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10172	prefrontal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10172	http://atlas.brain-map.org/atlas?atlas=3#structure=10172	prefrontal cortex  ( human dev )
@@ -15912,11 +15917,11 @@ http://purl.obolibrary.org/obo/DHBA_10177	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_10177	http://atlas.brain-map.org/atlas?atlas=3#structure=10177	medial subdivision of area 8  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10177	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10177	medial subdivision of area 8  ( human dev )
 http://purl.obolibrary.org/obo/PBA_10005		layer VI of rostral cingulate cortex
+http://purl.obolibrary.org/obo/NCBITaxon_8287		Sarcopterygii
 http://purl.obolibrary.org/obo/DHBA_10178	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10178	rostrodorsal portion of DFC (area 9)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10178	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10178	rostrodorsal portion of DFC (area 9)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10178	http://atlas.brain-map.org/atlas?atlas=3#structure=10178	rostrodorsal portion of DFC (area 9)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10178	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10178	rostrodorsal portion of DFC (area 9)  ( human dev )
-http://purl.obolibrary.org/obo/NCBITaxon_8287		Sarcopterygii
 http://purl.obolibrary.org/obo/DHBA_10175	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10175	laterodorsal subdivision of area 8  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10175	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10175	laterodorsal subdivision of area 8  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10175	http://atlas.brain-map.org/atlas?atlas=3#structure=10175	laterodorsal subdivision of area 8  ( human dev )
@@ -15961,8 +15966,8 @@ http://purl.obolibrary.org/obo/DMBA_17465		r8 portion of the hypoglossal motor n
 http://purl.obolibrary.org/obo/DMBA_16134		Field CA1, stratum radiatum
 http://purl.obolibrary.org/obo/DMBA_16133		Field CA1, stratum pyramidale
 http://purl.obolibrary.org/obo/DMBA_17464		r8 part of nucleus prepositus
-http://purl.obolibrary.org/obo/DMBA_16132		Field CA1, stratum oriens
 http://purl.obolibrary.org/obo/DMBA_17463		periventricular stratum of r8BM
+http://purl.obolibrary.org/obo/DMBA_16132		Field CA1, stratum oriens
 http://purl.obolibrary.org/obo/DHBA_10184	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10184	rostroventral portion of DFC (area 46)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10184	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10184	rostroventral portion of DFC (area 46)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10184	http://atlas.brain-map.org/atlas?atlas=3#structure=10184	rostroventral portion of DFC (area 46)  ( human dev )
@@ -15983,13 +15988,13 @@ http://purl.obolibrary.org/obo/DHBA_10182	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_10182	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10182	dorsal subdivision of A9/46  ( human dev )
 http://purl.obolibrary.org/obo/DMBA_16137		Field CA2, stratum lacunosum-moleculare
 http://purl.obolibrary.org/obo/PBA_10010		layer II of medial orbitofrontal cortex
+http://purl.obolibrary.org/obo/DMBA_16136		Field CA2
 http://purl.obolibrary.org/obo/PBA_10011		layer III of medial orbitofrontal cortex
 http://purl.obolibrary.org/obo/DHBA_10183	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10183	ventral subdivision of A9/46  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10183	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10183	ventral subdivision of A9/46  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10183	http://atlas.brain-map.org/atlas?atlas=3#structure=10183	ventral subdivision of A9/46  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10183	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10183	ventral subdivision of A9/46  ( human dev )
 http://purl.obolibrary.org/obo/DMBA_17467		intermediate stratum of r8BM
-http://purl.obolibrary.org/obo/DMBA_16136		Field CA2
 http://purl.obolibrary.org/obo/DHBA_10188	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10188	rostral subdivision of A45  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10188	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10188	rostral subdivision of A45  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10188	http://atlas.brain-map.org/atlas?atlas=3#structure=10188	rostral subdivision of A45  ( human dev )
@@ -16538,11 +16543,13 @@ http://purl.obolibrary.org/obo/DHBA_11441	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_11441	http://atlas.brain-map.org/atlas?atlas=265297126#structure=11441	lamina dissecans of caudal limiting entorhinal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11441	http://atlas.brain-map.org/atlas?atlas=3#structure=11441	lamina dissecans of caudal limiting entorhinal cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11441	http://atlas.brain-map.org/atlas?atlas=138322603#structure=11441	lamina dissecans of caudal limiting entorhinal cortex  ( human dev )
+http://purl.obolibrary.org/obo/UBERON_0039175		subarachnoid space of brain
 http://purl.obolibrary.org/obo/HBA_4234	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4234	cingulate gyrus, parietal part, right, inferior bank of gyrus  ( human )
 http://purl.obolibrary.org/obo/HBA_4233	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4233	cingulate gyrus, parietal part, right, superior bank of gyrus  ( human )
 http://purl.obolibrary.org/obo/HBA_4232	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4232	cingulate gyrus, parietal part, right  ( human )
 http://purl.obolibrary.org/obo/HBA_4231	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4231	cingulate gyrus, parietal part, left, inferior bank of gyrus  ( human )
 http://purl.obolibrary.org/obo/HBA_4230	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4230	cingulate gyrus, parietal part, left, superior bank of gyrus  ( human )
+http://purl.obolibrary.org/obo/UBERON_0039176		subarachnoid space of spinal cord
 http://purl.obolibrary.org/obo/HBA_4239	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4239	cingulate gyrus, retrosplenial part, right  ( human )
 http://purl.obolibrary.org/obo/HBA_4238	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4238	cingulate gyrus, retrosplenial part, left, inferior bank of gyrus  ( human )
 http://purl.obolibrary.org/obo/HBA_4237	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4237	cingulate gyrus, retrosplenial part, left, superior bank of gyrus  ( human )
@@ -16820,16 +16827,16 @@ http://purl.obolibrary.org/obo/DHBA_12719	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_12719	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12719	pontine flexures  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12719	http://atlas.brain-map.org/atlas?atlas=3#structure=12719	pontine flexures  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12719	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12719	pontine flexures  ( human dev )
+http://purl.obolibrary.org/obo/NCBITaxon_9604		Hominidae
 http://purl.obolibrary.org/obo/DHBA_12718	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12718	external cerebellar swelling  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12718	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12718	external cerebellar swelling  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12718	http://atlas.brain-map.org/atlas?atlas=3#structure=12718	external cerebellar swelling  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12718	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12718	external cerebellar swelling  ( human dev )
-http://purl.obolibrary.org/obo/NCBITaxon_9604		Hominidae
+http://purl.obolibrary.org/obo/NCBITaxon_9605		Homo
 http://purl.obolibrary.org/obo/DHBA_12717	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12717	internal cerebellar swelling  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12717	http://atlas.brain-map.org/atlas?atlas=265297126#structure=12717	internal cerebellar swelling  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12717	http://atlas.brain-map.org/atlas?atlas=3#structure=12717	internal cerebellar swelling  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_12717	http://atlas.brain-map.org/atlas?atlas=138322603#structure=12717	internal cerebellar swelling  ( human dev )
-http://purl.obolibrary.org/obo/NCBITaxon_9605		Homo
 http://purl.obolibrary.org/obo/NCBITaxon_9606		Homo sapiens
 http://purl.obolibrary.org/obo/UBERON_0039228		sigmoid vein
 http://purl.obolibrary.org/obo/DHBA_12712	http://atlas.brain-map.org/atlas?atlas=138322605#structure=12712	cluster E of Purkinje cells  ( human dev )
@@ -16968,8 +16975,8 @@ http://purl.obolibrary.org/obo/DMBA_17512		intermediate part of r9B
 http://purl.obolibrary.org/obo/DMBA_17511		r9 part of linear nucleus
 http://purl.obolibrary.org/obo/UBERON_0004521		vasculature of muscle organ
 http://purl.obolibrary.org/obo/DMBA_17518		intermediate stratum of r9BI
-http://purl.obolibrary.org/obo/UBERON_0004522		vasculature of musculoskeletal system
 http://purl.obolibrary.org/obo/DMBA_17517		r9 part of nucleus intercalatus Staderini
+http://purl.obolibrary.org/obo/UBERON_0004522		vasculature of musculoskeletal system
 http://purl.obolibrary.org/obo/DMBA_17516		r9 part of basointermediate intermediate zone
 http://purl.obolibrary.org/obo/DMBA_17515		periventricular stratum of r9BI
 http://purl.obolibrary.org/obo/CHEBI_46883		carboxy group
@@ -16978,8 +16985,8 @@ http://purl.obolibrary.org/obo/DMBA_17508		superficial stratum of r9BL
 http://purl.obolibrary.org/obo/UBERON_0005838		fasciculus of brain
 http://purl.obolibrary.org/obo/UBERON_0005837		fasciculus of spinal cord
 http://purl.obolibrary.org/obo/DMBA_17503		mantle zone of r9BL
-http://purl.obolibrary.org/obo/UBERON_0005845		caudal segment of spinal cord
 http://purl.obolibrary.org/obo/UBERON_0004515		smooth muscle tissue of bronchiole
+http://purl.obolibrary.org/obo/UBERON_0005845		caudal segment of spinal cord
 http://purl.obolibrary.org/obo/DMBA_17502		ventricular zone of r9BL
 http://purl.obolibrary.org/obo/UBERON_0005844		spinal cord segment
 http://purl.obolibrary.org/obo/DMBA_17501		lateral part of r9B
@@ -16997,8 +17004,8 @@ http://purl.obolibrary.org/obo/UBERON_0015233		nucleus of dorsal thalamus
 http://purl.obolibrary.org/obo/UBERON_0016566		pit
 http://purl.obolibrary.org/obo/DMBA_17572		ventricular zone of r10BI
 http://purl.obolibrary.org/obo/DMBA_16241		stigmoid nucleus
-http://purl.obolibrary.org/obo/DMBA_16240		posterior part of anterior hypothalamic nucleus
 http://purl.obolibrary.org/obo/DMBA_17571		intermediate part of r10B
+http://purl.obolibrary.org/obo/DMBA_16240		posterior part of anterior hypothalamic nucleus
 http://purl.obolibrary.org/obo/UBERON_0004581		systemic venous system
 http://purl.obolibrary.org/obo/DMBA_17570		superficial stratum of r10BL
 http://purl.obolibrary.org/obo/UBERON_0004582		venous system
@@ -17063,8 +17070,8 @@ http://purl.obolibrary.org/obo/PATO_0002009		branchiness
 http://purl.obolibrary.org/obo/DMBA_17550		r10 part of spinal trigeminal nucleus, caudal part
 http://purl.obolibrary.org/obo/DMBA_16223		medial parvicellular part of PPa
 http://purl.obolibrary.org/obo/DMBA_17554		r10 part of nucleus cuneatus
-http://purl.obolibrary.org/obo/DMBA_16222		medial magnocellular part of PPa
 http://purl.obolibrary.org/obo/DMBA_17553		r10 part of nucleus gracilis
+http://purl.obolibrary.org/obo/DMBA_16222		medial magnocellular part of PPa
 http://purl.obolibrary.org/obo/DMBA_16221		lateral magnocellular part of PPa
 http://purl.obolibrary.org/obo/DMBA_17552		r10 part of solitary complex
 http://purl.obolibrary.org/obo/DMBA_16220		cap part of PPa
@@ -17179,8 +17186,8 @@ http://purl.obolibrary.org/obo/DMBA_17356		r7 part of cochlear column
 http://purl.obolibrary.org/obo/DMBA_16025		layer 4 of PCx
 http://purl.obolibrary.org/obo/DMBA_16024		layer 3 of PCx
 http://purl.obolibrary.org/obo/DMBA_17355		r7 alar plate
-http://purl.obolibrary.org/obo/DMBA_16023		layer 2 of PCx
 http://purl.obolibrary.org/obo/DMBA_17354		r7 roof plate
+http://purl.obolibrary.org/obo/DMBA_16023		layer 2 of PCx
 http://purl.obolibrary.org/obo/DMBA_17353		rhombomere 7
 http://purl.obolibrary.org/obo/DMBA_16022		layer 1 of PCx
 http://purl.obolibrary.org/obo/DMBA_16029		sublayer 6b of PCx
@@ -18347,10 +18354,10 @@ http://purl.obolibrary.org/obo/MBA_16	http://atlas.brain-map.org/atlas?atlas=602
 http://purl.obolibrary.org/obo/MBA_16	http://atlas.brain-map.org/atlas?atlas=1#structure=16	Layer 6b, isocortex  ( mouse )
 http://purl.obolibrary.org/obo/MBA_16	http://atlas.brain-map.org/atlas?atlas=2#structure=16	Layer 6b, isocortex  ( mouse )
 http://purl.obolibrary.org/obo/GO_0007611		learning or memory
+http://purl.obolibrary.org/obo/GO_0007610		behavior
 http://purl.obolibrary.org/obo/MBA_15	http://atlas.brain-map.org/atlas?atlas=602630314#structure=15	Parataenial nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_15	http://atlas.brain-map.org/atlas?atlas=1#structure=15	Parataenial nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_15	http://atlas.brain-map.org/atlas?atlas=2#structure=15	Parataenial nucleus  ( mouse )
-http://purl.obolibrary.org/obo/GO_0007610		behavior
 http://purl.obolibrary.org/obo/MBA_14	http://atlas.brain-map.org/atlas?atlas=602630314#structure=14	internal medullary lamina of the thalamus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_14	http://atlas.brain-map.org/atlas?atlas=1#structure=14	internal medullary lamina of the thalamus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_14	http://atlas.brain-map.org/atlas?atlas=2#structure=14	internal medullary lamina of the thalamus  ( mouse )
@@ -18378,10 +18385,10 @@ http://purl.obolibrary.org/obo/MBA_38	http://atlas.brain-map.org/atlas?atlas=2#s
 http://purl.obolibrary.org/obo/MBA_37	http://atlas.brain-map.org/atlas?atlas=602630314#structure=37	longitudinal association bundle  ( mouse )
 http://purl.obolibrary.org/obo/MBA_37	http://atlas.brain-map.org/atlas?atlas=1#structure=37	longitudinal association bundle  ( mouse )
 http://purl.obolibrary.org/obo/MBA_37	http://atlas.brain-map.org/atlas?atlas=2#structure=37	longitudinal association bundle  ( mouse )
+http://purl.obolibrary.org/obo/PATO_0001018		physical quality
 http://purl.obolibrary.org/obo/MBA_36	http://atlas.brain-map.org/atlas?atlas=602630314#structure=36	Gustatory areas, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_36	http://atlas.brain-map.org/atlas?atlas=1#structure=36	Gustatory areas, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_36	http://atlas.brain-map.org/atlas?atlas=2#structure=36	Gustatory areas, layer 1  ( mouse )
-http://purl.obolibrary.org/obo/PATO_0001018		physical quality
 http://purl.obolibrary.org/obo/MBA_35	http://atlas.brain-map.org/atlas?atlas=602630314#structure=35	Oculomotor nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_35	http://atlas.brain-map.org/atlas?atlas=1#structure=35	Oculomotor nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_35	http://atlas.brain-map.org/atlas?atlas=2#structure=35	Oculomotor nucleus  ( mouse )
@@ -18431,10 +18438,10 @@ http://purl.obolibrary.org/obo/GO_0007601		visual perception
 http://purl.obolibrary.org/obo/MBA_28	http://atlas.brain-map.org/atlas?atlas=602630314#structure=28	Entorhinal area, lateral part, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_28	http://atlas.brain-map.org/atlas?atlas=1#structure=28	Entorhinal area, lateral part, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_28	http://atlas.brain-map.org/atlas?atlas=2#structure=28	Entorhinal area, lateral part, layer 6a  ( mouse )
+http://purl.obolibrary.org/obo/GO_0007600		sensory perception
 http://purl.obolibrary.org/obo/MBA_27	http://atlas.brain-map.org/atlas?atlas=602630314#structure=27	Intergeniculate leaflet of the lateral geniculate complex  ( mouse )
 http://purl.obolibrary.org/obo/MBA_27	http://atlas.brain-map.org/atlas?atlas=1#structure=27	Intergeniculate leaflet of the lateral geniculate complex  ( mouse )
 http://purl.obolibrary.org/obo/MBA_27	http://atlas.brain-map.org/atlas?atlas=2#structure=27	Intergeniculate leaflet of the lateral geniculate complex  ( mouse )
-http://purl.obolibrary.org/obo/GO_0007600		sensory perception
 http://purl.obolibrary.org/obo/MBA_26	http://atlas.brain-map.org/atlas?atlas=602630314#structure=26	Superior colliculus, motor related, deep gray layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_26	http://atlas.brain-map.org/atlas?atlas=1#structure=26	Superior colliculus, motor related, deep gray layer  ( mouse )
 http://purl.obolibrary.org/obo/MBA_26	http://atlas.brain-map.org/atlas?atlas=2#structure=26	Superior colliculus, motor related, deep gray layer  ( mouse )
@@ -18507,10 +18514,10 @@ http://purl.obolibrary.org/obo/MBA_53	http://atlas.brain-map.org/atlas?atlas=2#s
 http://purl.obolibrary.org/obo/MBA_52	http://atlas.brain-map.org/atlas?atlas=602630314#structure=52	Entorhinal area, lateral part, layer 3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_52	http://atlas.brain-map.org/atlas?atlas=1#structure=52	Entorhinal area, lateral part, layer 3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_52	http://atlas.brain-map.org/atlas?atlas=2#structure=52	Entorhinal area, lateral part, layer 3  ( mouse )
+http://purl.obolibrary.org/obo/PATO_0001031		elasticity
 http://purl.obolibrary.org/obo/MBA_62	http://atlas.brain-map.org/atlas?atlas=602630314#structure=62	medial longitudinal fascicle  ( mouse )
 http://purl.obolibrary.org/obo/MBA_62	http://atlas.brain-map.org/atlas?atlas=1#structure=62	medial longitudinal fascicle  ( mouse )
 http://purl.obolibrary.org/obo/MBA_62	http://atlas.brain-map.org/atlas?atlas=2#structure=62	medial longitudinal fascicle  ( mouse )
-http://purl.obolibrary.org/obo/PATO_0001031		elasticity
 http://purl.obolibrary.org/obo/MBA_61	http://atlas.brain-map.org/atlas?atlas=602630314#structure=61	Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, ventral zone  ( mouse )
 http://purl.obolibrary.org/obo/MBA_61	http://atlas.brain-map.org/atlas?atlas=1#structure=61	Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, ventral zone  ( mouse )
 http://purl.obolibrary.org/obo/MBA_61	http://atlas.brain-map.org/atlas?atlas=2#structure=61	Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, ventral zone  ( mouse )
@@ -19385,11 +19392,11 @@ http://purl.obolibrary.org/obo/DHBA_10375	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_10375	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10375	posterior cortical nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10375	http://atlas.brain-map.org/atlas?atlas=3#structure=10375	posterior cortical nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10375	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10375	posterior cortical nucleus  ( human dev )
+http://purl.obolibrary.org/obo/NBO_0000361		gait
 http://purl.obolibrary.org/obo/DHBA_10376	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10376	medial nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10376	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10376	medial nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10376	http://atlas.brain-map.org/atlas?atlas=3#structure=10376	medial nucleus  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10376	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10376	medial nucleus  ( human dev )
-http://purl.obolibrary.org/obo/NBO_0000361		gait
 http://purl.obolibrary.org/obo/DHBA_10373	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10373	cortical amygdaloid nuclei  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10373	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10373	cortical amygdaloid nuclei  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10373	http://atlas.brain-map.org/atlas?atlas=3#structure=10373	cortical amygdaloid nuclei  ( human dev )
@@ -19495,8 +19502,8 @@ http://purl.obolibrary.org/obo/UBERON_0003025		brachium of inferior colliculus
 http://purl.obolibrary.org/obo/UBERON_0004356		apical ectodermal ridge
 http://purl.obolibrary.org/obo/UBERON_0005688		lens vesicle cavity
 http://purl.obolibrary.org/obo/UBERON_0005687		orbitosphenoid cartilage element
-http://purl.obolibrary.org/obo/UBERON_0004357		paired limb/fin bud
 http://purl.obolibrary.org/obo/UBERON_0003026		limitans nucleus
+http://purl.obolibrary.org/obo/UBERON_0004357		paired limb/fin bud
 http://purl.obolibrary.org/obo/UBERON_0003023		pontine tegmentum
 http://purl.obolibrary.org/obo/UBERON_0005685		midgut dorsal mesentery
 http://purl.obolibrary.org/obo/DHBA_11608	http://atlas.brain-map.org/atlas?atlas=138322605#structure=11608	MZ in orbital frontal cortex  ( human dev )
@@ -19788,9 +19795,9 @@ http://purl.obolibrary.org/obo/DMBA_17338		medial part of r6B
 http://purl.obolibrary.org/obo/DMBA_16007		superficial stratum of FCx (cortical plate/marginal zone)
 http://purl.obolibrary.org/obo/DMBA_16006		intermediate stratum of FCx (white matter/subplate)
 http://purl.obolibrary.org/obo/DMBA_17337		r6 part of rostral ventromedial reticular area
+http://purl.obolibrary.org/obo/DMBA_17336		r6 part of paragigantocellular nucleus
 http://purl.obolibrary.org/obo/UBERON_0003016		postcommissural fornix of brain
 http://purl.obolibrary.org/obo/DMBA_16005		periventricular stratum of FCx (subventricular zone)
-http://purl.obolibrary.org/obo/DMBA_17336		r6 part of paragigantocellular nucleus
 http://purl.obolibrary.org/obo/UBERON_0003017		substantia innominata
 http://purl.obolibrary.org/obo/UBERON_0004348		optic eminence
 http://purl.obolibrary.org/obo/DMBA_16004		mantle zone of FCx
@@ -19807,8 +19814,8 @@ http://purl.obolibrary.org/obo/DMBA_17323		r6 part of basolateral intermediate z
 http://purl.obolibrary.org/obo/DMBA_17322		periventricular stratum of r6BL
 http://purl.obolibrary.org/obo/DMBA_17321		mantle zone of r6BL
 http://purl.obolibrary.org/obo/DMBA_17320		ventricular zone of r6BL
-http://purl.obolibrary.org/obo/DMBA_17327		retrotrapezoid nucleus
 http://purl.obolibrary.org/obo/UBERON_0003007		lateral parabrachial nucleus
+http://purl.obolibrary.org/obo/DMBA_17327		retrotrapezoid nucleus
 http://purl.obolibrary.org/obo/UBERON_0005669		peritoneal cavity mesothelium
 http://purl.obolibrary.org/obo/DMBA_17326		superficial stratum of r6BL
 http://purl.obolibrary.org/obo/DMBA_17325		r6 part of the basolateral reticular formation
@@ -19842,8 +19849,8 @@ http://purl.obolibrary.org/obo/CHEBI_33300		pnictogen
 http://purl.obolibrary.org/obo/DMBA_17301		r6 part of spinal vestibular nucleus
 http://purl.obolibrary.org/obo/CHEBI_33302		pnictogen molecular entity
 http://purl.obolibrary.org/obo/DMBA_17300		mantle zone of r6Ve
-http://purl.obolibrary.org/obo/PATO_0002254		flattened
 http://purl.obolibrary.org/obo/CHEBI_33303		chalcogen
+http://purl.obolibrary.org/obo/PATO_0002254		flattened
 http://purl.obolibrary.org/obo/PATO_0002255		grooved
 http://purl.obolibrary.org/obo/CHEBI_33304		chalcogen molecular entity
 http://purl.obolibrary.org/obo/DMBA_17305		ventricular zone of r6Tr
@@ -20486,11 +20493,11 @@ http://purl.obolibrary.org/obo/DHBA_10647	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_10647	http://atlas.brain-map.org/atlas?atlas=3#structure=10647	tuber cinereum  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10647	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10647	tuber cinereum  ( human dev )
 http://purl.obolibrary.org/obo/DMBA_16751		mesomere 2 (preisthmus or caudal midbrain)
+http://purl.obolibrary.org/obo/UBERON_0005382		dorsal striatum
 http://purl.obolibrary.org/obo/DHBA_10648	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10648	midbrain (mesencephalon)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10648	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10648	midbrain (mesencephalon)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10648	http://atlas.brain-map.org/atlas?atlas=3#structure=10648	midbrain (mesencephalon)  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10648	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10648	midbrain (mesencephalon)  ( human dev )
-http://purl.obolibrary.org/obo/UBERON_0005382		dorsal striatum
 http://purl.obolibrary.org/obo/DHBA_11979	http://atlas.brain-map.org/atlas?atlas=138322605#structure=11979	outer SZ in lateral temporal-occipital cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11979	http://atlas.brain-map.org/atlas?atlas=265297126#structure=11979	outer SZ in lateral temporal-occipital cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11979	http://atlas.brain-map.org/atlas?atlas=3#structure=11979	outer SZ in lateral temporal-occipital cortex  ( human dev )
@@ -20809,6 +20816,10 @@ http://purl.obolibrary.org/obo/UBERON_0005317		pulmonary artery endothelium
 http://purl.obolibrary.org/obo/UBERON_0005316		endocardial endothelium
 http://purl.obolibrary.org/obo/DMBA_124372424		r1 part of vestibular nucleus Y
 http://purl.obolibrary.org/obo/DMBA_124372428		r1 part of basolateral intermediate zone
+http://purl.obolibrary.org/obo/UBERON_8440011		cortical visual area
+http://purl.obolibrary.org/obo/UBERON_8440012		cerebral nuclei
+http://purl.obolibrary.org/obo/UBERON_8440010		Brodmann (1909) area 17
+http://purl.obolibrary.org/obo/UBERON_8440015		noradrenergic cell groups
 http://purl.obolibrary.org/obo/DHBA_11905	http://atlas.brain-map.org/atlas?atlas=138322605#structure=11905	SZ in frontal polar cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11905	http://atlas.brain-map.org/atlas?atlas=265297126#structure=11905	SZ in frontal polar cortex  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_11905	http://atlas.brain-map.org/atlas?atlas=3#structure=11905	SZ in frontal polar cortex  ( human dev )
@@ -21248,8 +21259,8 @@ http://purl.obolibrary.org/obo/DHBA_10594	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DMBA_111220662		periventricular stratum of r2Tr
 http://purl.obolibrary.org/obo/DMBA_111220678		ventricular zone of r3A
 http://purl.obolibrary.org/obo/CL_0007009		prechondroblast
-http://purl.obolibrary.org/obo/CL_0007001		skeletogenic cell
 http://purl.obolibrary.org/obo/DMBA_111220672		superficial stratum of r2Lim
+http://purl.obolibrary.org/obo/CL_0007001		skeletogenic cell
 http://purl.obolibrary.org/obo/DMBA_111220670		intermediate stratum of r2Lim
 http://purl.obolibrary.org/obo/CL_0007004		premigratory neural crest cell
 http://purl.obolibrary.org/obo/DMBA_111220676		mantle zone of r2B
@@ -21301,8 +21312,8 @@ http://purl.obolibrary.org/obo/DMBA_16600		superficial stratum of CoPL
 http://purl.obolibrary.org/obo/DMBA_16605		periventricular stratum of CoPV
 http://purl.obolibrary.org/obo/DMBA_111220742		ventricular zone of r5A
 http://purl.obolibrary.org/obo/DMBA_16604		mantle zone of CoPV
-http://purl.obolibrary.org/obo/UBERON_0004148		cardiac vein
 http://purl.obolibrary.org/obo/UBERON_0005478		sulcus limitans of neural tube
+http://purl.obolibrary.org/obo/UBERON_0004148		cardiac vein
 http://purl.obolibrary.org/obo/UBERON_0004145		outflow tract
 http://purl.obolibrary.org/obo/DMBA_111220740		mantle zone of r4B
 http://purl.obolibrary.org/obo/DMBA_16603		ventricular zone of CoPV
@@ -22014,14 +22025,14 @@ http://purl.obolibrary.org/obo/MBA_1093	http://atlas.brain-map.org/atlas?atlas=6
 http://purl.obolibrary.org/obo/MBA_1093	http://atlas.brain-map.org/atlas?atlas=1#structure=1093	Pontine reticular nucleus, caudal part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1093	http://atlas.brain-map.org/atlas?atlas=2#structure=1093	Pontine reticular nucleus, caudal part  ( mouse )
 http://purl.obolibrary.org/obo/DMBA_16494		rostral interstitial nucleus
-http://purl.obolibrary.org/obo/DMBA_16493		p2 part of the zona limitans core population
 http://purl.obolibrary.org/obo/MBA_1094	http://atlas.brain-map.org/atlas?atlas=602630314#structure=1094	Primary somatosensory area, lower limb, layer 4  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1094	http://atlas.brain-map.org/atlas?atlas=1#structure=1094	Primary somatosensory area, lower limb, layer 4  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1094	http://atlas.brain-map.org/atlas?atlas=2#structure=1094	Primary somatosensory area, lower limb, layer 4  ( mouse )
-http://purl.obolibrary.org/obo/DMBA_16492		intermediate stratum of p2B
+http://purl.obolibrary.org/obo/DMBA_16493		p2 part of the zona limitans core population
 http://purl.obolibrary.org/obo/MBA_1095	http://atlas.brain-map.org/atlas?atlas=602630314#structure=1095	preculminate fissure  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1095	http://atlas.brain-map.org/atlas?atlas=1#structure=1095	preculminate fissure  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1095	http://atlas.brain-map.org/atlas?atlas=2#structure=1095	preculminate fissure  ( mouse )
+http://purl.obolibrary.org/obo/DMBA_16492		intermediate stratum of p2B
 http://purl.obolibrary.org/obo/MBA_1096	http://atlas.brain-map.org/atlas?atlas=602630314#structure=1096	Anteromedial nucleus, dorsal part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1096	http://atlas.brain-map.org/atlas?atlas=1#structure=1096	Anteromedial nucleus, dorsal part  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1096	http://atlas.brain-map.org/atlas?atlas=2#structure=1096	Anteromedial nucleus, dorsal part  ( mouse )
@@ -22100,10 +22111,10 @@ http://purl.obolibrary.org/obo/MBA_1022	http://atlas.brain-map.org/atlas?atlas=6
 http://purl.obolibrary.org/obo/MBA_1022	http://atlas.brain-map.org/atlas?atlas=1#structure=1022	Globus pallidus, external segment  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1022	http://atlas.brain-map.org/atlas?atlas=2#structure=1022	Globus pallidus, external segment  ( mouse )
 http://purl.obolibrary.org/obo/PATO_0001547		quality of a gas
-http://purl.obolibrary.org/obo/PATO_0001548		quality of a liquid
 http://purl.obolibrary.org/obo/MBA_1023	http://atlas.brain-map.org/atlas?atlas=602630314#structure=1023	Ventral auditory area, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1023	http://atlas.brain-map.org/atlas?atlas=1#structure=1023	Ventral auditory area, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1023	http://atlas.brain-map.org/atlas?atlas=2#structure=1023	Ventral auditory area, layer 5  ( mouse )
+http://purl.obolibrary.org/obo/PATO_0001548		quality of a liquid
 http://purl.obolibrary.org/obo/DMBA_112892297		dorsal paracommissural tectal nucleus, m2 part
 http://purl.obolibrary.org/obo/DMBA_112892295		ventral paracommissural tectal nucleus, m2 part
 http://purl.obolibrary.org/obo/MBA_1030	http://atlas.brain-map.org/atlas?atlas=602630314#structure=1030	Primary somatosensory area, lower limb, layer 1  ( mouse )
@@ -22300,8 +22311,8 @@ http://purl.obolibrary.org/obo/HBA_4375	http://atlas.brain-map.org/atlas?atlas=2
 http://purl.obolibrary.org/obo/HBA_4374	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4374	medial nucleus, right  ( human )
 http://purl.obolibrary.org/obo/HBA_4373	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4373	posterior cortical nucleus, right  ( human )
 http://purl.obolibrary.org/obo/HBA_4372	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4372	anterior cortical nucleus, right  ( human )
-http://purl.obolibrary.org/obo/HBA_4371	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4371	cortico-medial group, right  ( human )
 http://purl.obolibrary.org/obo/NCBITaxon_7711		Chordata
+http://purl.obolibrary.org/obo/HBA_4371	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4371	cortico-medial group, right  ( human )
 http://purl.obolibrary.org/obo/HBA_4370	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4370	medial nucleus, left  ( human )
 http://purl.obolibrary.org/obo/UBERON_0005082		tube lumen
 http://purl.obolibrary.org/obo/HBA_4379	http://atlas.brain-map.org/atlas?atlas=265297125#structure=4379	lateral nucleus, left  ( human )
@@ -23469,11 +23480,11 @@ http://purl.obolibrary.org/obo/DMBA_111220906		periventricular stratum of r10Lim
 http://purl.obolibrary.org/obo/UBERON_0007808		adipose tissue of abdominal region
 http://purl.obolibrary.org/obo/DMBA_17770		internal capsule
 http://purl.obolibrary.org/obo/UBERON_0007811		craniocervical region
+http://purl.obolibrary.org/obo/DMBA_17774		lateral lemniscus
 http://purl.obolibrary.org/obo/UBERON_0007812		post-anal tail
 http://purl.obolibrary.org/obo/DMBA_16443		intermediate stratum of ITTh
-http://purl.obolibrary.org/obo/DMBA_17774		lateral lemniscus
-http://purl.obolibrary.org/obo/DMBA_16442		parafascicular nucleus
 http://purl.obolibrary.org/obo/DMBA_17773		lateral olfactory tract
+http://purl.obolibrary.org/obo/DMBA_16442		parafascicular nucleus
 http://purl.obolibrary.org/obo/DMBA_17772		inferior cerebellar peduncle
 http://purl.obolibrary.org/obo/DMBA_16441		posterior paraventricular nucleus
 http://purl.obolibrary.org/obo/DMBA_16440		periventricular stratum of ITTh
@@ -23482,8 +23493,8 @@ http://purl.obolibrary.org/obo/DMBA_17778		medial longitudinal fascicle (tract)
 http://purl.obolibrary.org/obo/DMBA_16447		subethmoid nucleus
 http://purl.obolibrary.org/obo/DMBA_17777		decussation of medial lemniscus
 http://purl.obolibrary.org/obo/DMBA_16446		ethmoid nucleus
-http://purl.obolibrary.org/obo/DMBA_16445		scaphoid nucleus
 http://purl.obolibrary.org/obo/DMBA_17776		medial lemniscus
+http://purl.obolibrary.org/obo/DMBA_16445		scaphoid nucleus
 http://purl.obolibrary.org/obo/DMBA_17775		middle (pontine) cerebellar peduncle
 http://purl.obolibrary.org/obo/DMBA_16444		lithoid nucleus
 http://purl.obolibrary.org/obo/DMBA_16449		posterior triangular nucleus
@@ -23508,10 +23519,10 @@ http://purl.obolibrary.org/obo/DMBA_111220912		ventricular zone of r10B
 http://purl.obolibrary.org/obo/MBA_1108	http://atlas.brain-map.org/atlas?atlas=602630314#structure=1108	genu of corpus callosum  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1108	http://atlas.brain-map.org/atlas?atlas=1#structure=1108	genu of corpus callosum  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1108	http://atlas.brain-map.org/atlas?atlas=2#structure=1108	genu of corpus callosum  ( mouse )
-http://purl.obolibrary.org/obo/GO_0005585		collagen type II trimer
 http://purl.obolibrary.org/obo/MBA_1101	http://atlas.brain-map.org/atlas?atlas=602630314#structure=1101	Agranular insular area, dorsal part, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1101	http://atlas.brain-map.org/atlas?atlas=1#structure=1101	Agranular insular area, dorsal part, layer 5  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1101	http://atlas.brain-map.org/atlas?atlas=2#structure=1101	Agranular insular area, dorsal part, layer 5  ( mouse )
+http://purl.obolibrary.org/obo/GO_0005585		collagen type II trimer
 http://purl.obolibrary.org/obo/DMBA_111220918		mantle zone of r11A
 http://purl.obolibrary.org/obo/MBA_1102	http://atlas.brain-map.org/atlas?atlas=602630314#structure=1102	Primary somatosensory area, mouth, layer 6a  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1102	http://atlas.brain-map.org/atlas?atlas=1#structure=1102	Primary somatosensory area, mouth, layer 6a  ( mouse )
@@ -23587,8 +23598,8 @@ http://purl.obolibrary.org/obo/DMBA_17755		corpus callosum (neocortical commissu
 http://purl.obolibrary.org/obo/DMBA_16424		ventromedial nucleus
 http://purl.obolibrary.org/obo/DMBA_16423		ventral nuclei
 http://purl.obolibrary.org/obo/DMBA_17754		cerebellar commissure
-http://purl.obolibrary.org/obo/DMBA_17753		brachium of inferior colliculus
 http://purl.obolibrary.org/obo/DMBA_16422		anteromedial nucleus
+http://purl.obolibrary.org/obo/DMBA_17753		brachium of inferior colliculus
 http://purl.obolibrary.org/obo/DMBA_16429		ventral posteromedial nucleus
 http://purl.obolibrary.org/obo/DMBA_16428		ventral lateral nucleus
 http://purl.obolibrary.org/obo/DMBA_17759		dorsal column tracts
@@ -23624,8 +23635,8 @@ http://purl.obolibrary.org/obo/MBA_1120	http://atlas.brain-map.org/atlas?atlas=2
 http://purl.obolibrary.org/obo/MBA_1121	http://atlas.brain-map.org/atlas?atlas=602630314#structure=1121	Entorhinal area, lateral part, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1121	http://atlas.brain-map.org/atlas?atlas=1#structure=1121	Entorhinal area, lateral part, layer 1  ( mouse )
 http://purl.obolibrary.org/obo/MBA_1121	http://atlas.brain-map.org/atlas?atlas=2#structure=1121	Entorhinal area, lateral part, layer 1  ( mouse )
-http://purl.obolibrary.org/obo/DMBA_17741		abducens nerve root
 http://purl.obolibrary.org/obo/DMBA_16410		paratenial nucleus
+http://purl.obolibrary.org/obo/DMBA_17741		abducens nerve root
 http://purl.obolibrary.org/obo/DMBA_17740		mesencephalic trigeminal tract (across m1, m2 and prepontine hindbrain)
 http://purl.obolibrary.org/obo/DMBA_16414		central part of MD
 http://purl.obolibrary.org/obo/DMBA_17745		genu of facial nerve (r5)
@@ -23635,12 +23646,12 @@ http://purl.obolibrary.org/obo/DMBA_17743		ascending course of facial nerve (r6)
 http://purl.obolibrary.org/obo/DMBA_16412		medial (magnocellular) part of MD
 http://purl.obolibrary.org/obo/DMBA_17742		facial nerve root
 http://purl.obolibrary.org/obo/DMBA_16411		mediodorsal nucleus
-http://purl.obolibrary.org/obo/DMBA_16418		central lateral nucleus
 http://purl.obolibrary.org/obo/DMBA_17749		accessory nerve root
+http://purl.obolibrary.org/obo/DMBA_16418		central lateral nucleus
 http://purl.obolibrary.org/obo/DMBA_17748		vagal nerve root
 http://purl.obolibrary.org/obo/DMBA_16417		oval paracentral nucleus
-http://purl.obolibrary.org/obo/DMBA_16416		paracentral nucleus
 http://purl.obolibrary.org/obo/DMBA_17747		glossopharyngeal nerve root
+http://purl.obolibrary.org/obo/DMBA_16416		paracentral nucleus
 http://purl.obolibrary.org/obo/DMBA_17746		vestibulocochlear nerve root
 http://purl.obolibrary.org/obo/DMBA_16415		intralaminar nuclei
 http://purl.obolibrary.org/obo/GO_0006869		lipid transport
@@ -23661,8 +23672,8 @@ http://purl.obolibrary.org/obo/DMBA_16472		intermediate stratum of p2ZL
 http://purl.obolibrary.org/obo/UBERON_0007842		membrane bone
 http://purl.obolibrary.org/obo/DMBA_16471		shell of p2ZL
 http://purl.obolibrary.org/obo/DMBA_16470		periventricular stratum of p2ZL
-http://purl.obolibrary.org/obo/UBERON_0007844		cartilage element
 http://purl.obolibrary.org/obo/PATO_0000052		shape
+http://purl.obolibrary.org/obo/UBERON_0007844		cartilage element
 http://purl.obolibrary.org/obo/UBERON_0007845		regular connective tissue
 http://purl.obolibrary.org/obo/DMBA_16476		liminal part of alar p2
 http://purl.obolibrary.org/obo/UBERON_0007846		dense regular connective tissue
@@ -23678,8 +23689,8 @@ http://purl.obolibrary.org/obo/UBERON_0007827		external nose
 http://purl.obolibrary.org/obo/UBERON_0007828		girdle bone/zone
 http://purl.obolibrary.org/obo/UBERON_0007829		pectoral girdle bone
 http://purl.obolibrary.org/obo/UBERON_0007830		pelvic girdle bone/zone
-http://purl.obolibrary.org/obo/DMBA_17792		rubrospinal tract
 http://purl.obolibrary.org/obo/DMBA_16461		superficial stratum of VTTh
+http://purl.obolibrary.org/obo/DMBA_17792		rubrospinal tract
 http://purl.obolibrary.org/obo/UBERON_0007831		pectoral girdle skeleton
 http://purl.obolibrary.org/obo/DMBA_17791		retromammillary commissure
 http://purl.obolibrary.org/obo/DMBA_16460		posterior intralaminar nucleus
@@ -23692,9 +23703,9 @@ http://purl.obolibrary.org/obo/DMBA_17795		supraoptic commissure
 http://purl.obolibrary.org/obo/UBERON_0007836		cervical spinal cord ventral commissure
 http://purl.obolibrary.org/obo/DMBA_17794		stria medullaris
 http://purl.obolibrary.org/obo/DMBA_16463		ventral subnucleus of MG
-http://purl.obolibrary.org/obo/DMBA_17793		superior cerebellar peduncle
 http://purl.obolibrary.org/obo/DMBA_16462		medial geniculate nucleus
 http://purl.obolibrary.org/obo/UBERON_0007837		thoracic spinal cord ventral commissure
+http://purl.obolibrary.org/obo/DMBA_17793		superior cerebellar peduncle
 http://purl.obolibrary.org/obo/DMBA_16469		mantle zone of p2ZL
 http://purl.obolibrary.org/obo/DMBA_17799		tectal commissure
 http://purl.obolibrary.org/obo/DMBA_16468		ventricular zone of p2ZL
@@ -23787,6 +23798,7 @@ http://purl.obolibrary.org/obo/UBERON_0003941		cerebellum anterior vermis
 http://purl.obolibrary.org/obo/UBERON_0000017		exocrine pancreas
 http://purl.obolibrary.org/obo/UBERON_0002679		anterodorsal nucleus of thalamus
 http://purl.obolibrary.org/obo/UBERON_0000019		camera-type eye
+http://purl.obolibrary.org/obo/UBERON_0014667		periventricular nucleus of hypothalamus
 http://purl.obolibrary.org/obo/UBERON_0002681		anteromedial nucleus of thalamus
 http://purl.obolibrary.org/obo/UBERON_0002687		area X of ventral lateral nucleus
 http://purl.obolibrary.org/obo/UBERON_0002686		angular gyrus
@@ -23930,8 +23942,8 @@ http://purl.obolibrary.org/obo/UBERON_0036043		paravermic lobule X
 http://purl.obolibrary.org/obo/GO_0048770		pigment granule
 http://purl.obolibrary.org/obo/UBERON_0002690		anteroventral periventricular nucleus
 http://purl.obolibrary.org/obo/UBERON_0002692		medullary raphe nuclear complex
-http://purl.obolibrary.org/obo/UBERON_0000030		lamina propria
 http://purl.obolibrary.org/obo/UBERON_0002691		ventral tegmental area
+http://purl.obolibrary.org/obo/UBERON_0000030		lamina propria
 http://purl.obolibrary.org/obo/CHEBI_36735		biladienes
 http://purl.obolibrary.org/obo/UBERON_0002698		preoccipital notch
 http://purl.obolibrary.org/obo/GO_0060405		regulation of penile erection
@@ -24508,11 +24520,11 @@ http://purl.obolibrary.org/obo/DHBA_10933	http://atlas.brain-map.org/atlas?atlas
 http://purl.obolibrary.org/obo/DHBA_10933	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10933	layer III of area S1lm  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10933	http://atlas.brain-map.org/atlas?atlas=3#structure=10933	layer III of area S1lm  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10933	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10933	layer III of area S1lm  ( human dev )
+http://purl.obolibrary.org/obo/NCBITaxon_1338369		Dipnotetrapodomorpha
 http://purl.obolibrary.org/obo/DHBA_10934	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10934	layer IV of area S1lm  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10934	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10934	layer IV of area S1lm  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10934	http://atlas.brain-map.org/atlas?atlas=3#structure=10934	layer IV of area S1lm  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10934	http://atlas.brain-map.org/atlas?atlas=138322603#structure=10934	layer IV of area S1lm  ( human dev )
-http://purl.obolibrary.org/obo/NCBITaxon_1338369		Dipnotetrapodomorpha
 http://purl.obolibrary.org/obo/DHBA_10931	http://atlas.brain-map.org/atlas?atlas=138322605#structure=10931	layer I of area S1lm  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10931	http://atlas.brain-map.org/atlas?atlas=265297126#structure=10931	layer I of area S1lm  ( human dev )
 http://purl.obolibrary.org/obo/DHBA_10931	http://atlas.brain-map.org/atlas?atlas=3#structure=10931	layer I of area S1lm  ( human dev )
@@ -24959,10 +24971,10 @@ http://purl.obolibrary.org/obo/UBERON_0002546		cranial placode
 http://purl.obolibrary.org/obo/UBERON_0001215		inferior mesenteric vein
 http://purl.obolibrary.org/obo/UBERON_0002540		lateral line system
 http://purl.obolibrary.org/obo/CHEBI_24433		group
+http://purl.obolibrary.org/obo/CHEBI_24432		biological role
 http://purl.obolibrary.org/obo/MBA_312782546	http://atlas.brain-map.org/atlas?atlas=602630314#structure=312782546	Anterior area  ( mouse )
 http://purl.obolibrary.org/obo/MBA_312782546	http://atlas.brain-map.org/atlas?atlas=1#structure=312782546	Anterior area  ( mouse )
 http://purl.obolibrary.org/obo/MBA_312782546	http://atlas.brain-map.org/atlas?atlas=2#structure=312782546	Anterior area  ( mouse )
-http://purl.obolibrary.org/obo/CHEBI_24432		biological role
 http://purl.obolibrary.org/obo/CHEBI_24431		chemical entity
 http://purl.obolibrary.org/obo/UBERON_0002533		post-anal tail bud
 http://purl.obolibrary.org/obo/UBERON_0001202		pyloric sphincter
@@ -25071,6 +25083,8 @@ http://purl.obolibrary.org/obo/UBERON_0002572		principal pretectal nucleus
 http://purl.obolibrary.org/obo/UBERON_0002575		posterior orbital gyrus
 http://purl.obolibrary.org/obo/UBERON_0001243		serosa of intestine
 http://purl.obolibrary.org/obo/GO_0046483		heterocycle metabolic process
+http://purl.obolibrary.org/obo/UBERON_0039857		left ovarian vein
+http://purl.obolibrary.org/obo/UBERON_0039856		right ovarian vein
 http://purl.obolibrary.org/obo/CHEBI_25704		organic sulfate
 http://purl.obolibrary.org/obo/UBERON_4200230		surface of bone
 http://purl.obolibrary.org/obo/UBERON_0014591		anterior nucleus of hypothalamus posterior part
@@ -25174,14 +25188,14 @@ http://purl.obolibrary.org/obo/DMBA_17174		r4 part of trigeminal transition zone
 http://purl.obolibrary.org/obo/DMBA_17173		r4 part of descending trigeminal sensory nucleus, oral part
 http://purl.obolibrary.org/obo/DMBA_17179		r4 liminal central gray
 http://purl.obolibrary.org/obo/DMBA_17178		mantle zone of r4Lim
-http://purl.obolibrary.org/obo/DMBA_17177		ventricular zone of r4Lim
 http://purl.obolibrary.org/obo/GO_0009612		response to mechanical stimulus
+http://purl.obolibrary.org/obo/DMBA_17177		ventricular zone of r4Lim
 http://purl.obolibrary.org/obo/UBERON_0002203		vasculature of eye
+http://purl.obolibrary.org/obo/UBERON_0002202		submucosa of trachea
 http://purl.obolibrary.org/obo/MBA_496345672	http://atlas.brain-map.org/atlas?atlas=602630314#structure=496345672	Dorsal part of the lateral geniculate complex, ipsilateral zone  ( mouse )
 http://purl.obolibrary.org/obo/MBA_496345672	http://atlas.brain-map.org/atlas?atlas=1#structure=496345672	Dorsal part of the lateral geniculate complex, ipsilateral zone  ( mouse )
 http://purl.obolibrary.org/obo/MBA_496345672	http://atlas.brain-map.org/atlas?atlas=2#structure=496345672	Dorsal part of the lateral geniculate complex, ipsilateral zone  ( mouse )
 http://purl.obolibrary.org/obo/UBERON_0004867		orbital cavity
-http://purl.obolibrary.org/obo/UBERON_0002202		submucosa of trachea
 http://purl.obolibrary.org/obo/UBERON_0004864		vasculature of retina
 http://purl.obolibrary.org/obo/UBERON_0002204		musculoskeletal system
 http://purl.obolibrary.org/obo/UBERON_0003534		tail skin
@@ -25219,8 +25233,8 @@ http://purl.obolibrary.org/obo/DMBA_17166		mantle zone of r4Ve
 http://purl.obolibrary.org/obo/UBERON_0003524		tail blood vessel
 http://purl.obolibrary.org/obo/UBERON_0004854		gastrointestinal system mesentery
 http://purl.obolibrary.org/obo/UBERON_0003520		pelvis blood vessel
-http://purl.obolibrary.org/obo/UBERON_0004851		aorta endothelium
 http://purl.obolibrary.org/obo/GO_0009628		response to abiotic stimulus
+http://purl.obolibrary.org/obo/UBERON_0004851		aorta endothelium
 http://purl.obolibrary.org/obo/UBERON_0004852		cardiovascular system endothelium
 http://purl.obolibrary.org/obo/CHEBI_33284		nutrient
 http://purl.obolibrary.org/obo/CHEBI_33285		heteroorganic entity
@@ -25234,17 +25248,17 @@ http://purl.obolibrary.org/obo/UBERON_0016824		lateral paragigantocellular nucle
 http://purl.obolibrary.org/obo/UBERON_2001431		primitive olfactory epithelium
 http://purl.obolibrary.org/obo/DMBA_17161		mantle zone of r4Co
 http://purl.obolibrary.org/obo/DMBA_17160		ventricular zone of r4Co
-http://purl.obolibrary.org/obo/DMBA_17154		r3 part of medial pontine nuclei
 http://purl.obolibrary.org/obo/CHEBI_33253		nucleon
+http://purl.obolibrary.org/obo/DMBA_17154		r3 part of medial pontine nuclei
 http://purl.obolibrary.org/obo/DMBA_17153		superficial stratum of r3BM
 http://purl.obolibrary.org/obo/DMBA_17152		r3 part of basomedial reticular formation
 http://purl.obolibrary.org/obo/CHEBI_33256		primary amide
 http://purl.obolibrary.org/obo/DMBA_17151		r3 part of reticulotegmental nucleus, core portion
 http://purl.obolibrary.org/obo/DMBA_17158		r4 alar plate
 http://purl.obolibrary.org/obo/DMBA_17157		r4 roof plate
+http://purl.obolibrary.org/obo/DMBA_17156		rhombomere 4
 http://purl.obolibrary.org/obo/GO_0071626		mastication
 http://purl.obolibrary.org/obo/CHEBI_33259		elemental molecular entity
-http://purl.obolibrary.org/obo/DMBA_17156		rhombomere 4
 http://purl.obolibrary.org/obo/DMBA_17155		r3 floor plate
 http://purl.obolibrary.org/obo/UBERON_0003513		trunk blood vessel
 http://purl.obolibrary.org/obo/UBERON_0003511		iris blood vessel
@@ -25516,8 +25530,8 @@ http://purl.obolibrary.org/obo/UBERON_0004932		submucosa of sigmoid colon
 http://purl.obolibrary.org/obo/UBERON_0028921		paravermic lobule IX
 http://purl.obolibrary.org/obo/UBERON_0003601		neck cartilage
 http://purl.obolibrary.org/obo/DMBA_17008		anterior tegmental nucleus
-http://purl.obolibrary.org/obo/UBERON_0028922		paravermic lobule V
 http://purl.obolibrary.org/obo/DMBA_17007		ventral tegmental nucleus
+http://purl.obolibrary.org/obo/UBERON_0028922		paravermic lobule V
 http://purl.obolibrary.org/obo/UBERON_0028923		paravermic lobule VI
 http://purl.obolibrary.org/obo/DMBA_17006		rhabdoid interpeduncular nucleus
 http://purl.obolibrary.org/obo/DMBA_17005		apical interpeduncular nucleus
@@ -25696,9 +25710,9 @@ http://purl.obolibrary.org/obo/UBERON_0002361		pia mater
 http://purl.obolibrary.org/obo/UBERON_0003691		epidural space
 http://purl.obolibrary.org/obo/UBERON_0002368		endocrine gland
 http://purl.obolibrary.org/obo/UBERON_0001033		gustatory system
+http://purl.obolibrary.org/obo/UBERON_0003697		abdominal wall
 http://purl.obolibrary.org/obo/UBERON_0001032		sensory system
 http://purl.obolibrary.org/obo/UBERON_0002363		dura mater
-http://purl.obolibrary.org/obo/UBERON_0003697		abdominal wall
 http://purl.obolibrary.org/obo/UBERON_0003694		atlanto-axial joint
 http://purl.obolibrary.org/obo/DMBA_126651850		ventricles, pontine hindbrain
 http://purl.obolibrary.org/obo/UBERON_0002365		exocrine gland
@@ -26487,7 +26501,6 @@ http://purl.obolibrary.org/obo/GO_0019318		hexose metabolic process
 http://purl.obolibrary.org/obo/GO_0071944		cell periphery
 http://purl.obolibrary.org/obo/GO_0043005		neuron projection
 http://purl.obolibrary.org/obo/GO_0043009		chordate embryonic development
-http://purl.obolibrary.org/obo/DMBA_ENTITY		DMBA entity
 http://purl.obolibrary.org/obo/UBERON_0003409		gland of tongue
 http://purl.obolibrary.org/obo/GO_0033605		positive regulation of catecholamine secretion
 http://purl.obolibrary.org/obo/UBERON_0003407		cartilage of nasal septum
@@ -26608,10 +26621,10 @@ http://purl.obolibrary.org/obo/GO_0031012		extracellular matrix
 http://purl.obolibrary.org/obo/GO_0046942		carboxylic acid transport
 http://purl.obolibrary.org/obo/PATO_0000998		viscous
 http://purl.obolibrary.org/obo/PATO_0000992		viscosity
-http://purl.obolibrary.org/obo/DMBA_126651698		ventricles, pretectum
 http://purl.obolibrary.org/obo/MBA_162	http://atlas.brain-map.org/atlas?atlas=602630314#structure=162	Laterodorsal tegmental nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_162	http://atlas.brain-map.org/atlas?atlas=1#structure=162	Laterodorsal tegmental nucleus  ( mouse )
 http://purl.obolibrary.org/obo/MBA_162	http://atlas.brain-map.org/atlas?atlas=2#structure=162	Laterodorsal tegmental nucleus  ( mouse )
+http://purl.obolibrary.org/obo/DMBA_126651698		ventricles, pretectum
 http://purl.obolibrary.org/obo/MBA_163	http://atlas.brain-map.org/atlas?atlas=602630314#structure=163	Agranular insular area, posterior part, layer 2/3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_163	http://atlas.brain-map.org/atlas?atlas=1#structure=163	Agranular insular area, posterior part, layer 2/3  ( mouse )
 http://purl.obolibrary.org/obo/MBA_163	http://atlas.brain-map.org/atlas?atlas=2#structure=163	Agranular insular area, posterior part, layer 2/3  ( mouse )
@@ -26896,8 +26909,8 @@ http://purl.obolibrary.org/obo/UBERON_0002108		small intestine
 http://purl.obolibrary.org/obo/UBERON_0002107		liver
 http://purl.obolibrary.org/obo/DMBA_126651602		ventricles, caudal secondary prosencephalon
 http://purl.obolibrary.org/obo/UBERON_0003438		iris nerve
-http://purl.obolibrary.org/obo/UBERON_0002109		pair of nares
 http://purl.obolibrary.org/obo/UBERON_0003439		nerve of trunk region
+http://purl.obolibrary.org/obo/UBERON_0002109		pair of nares
 http://purl.obolibrary.org/obo/DMBA_126651606		ventricles, telencephalic vesicle
 http://purl.obolibrary.org/obo/GO_0008610		lipid biosynthetic process
 http://purl.obolibrary.org/obo/GO_0044275		cellular carbohydrate catabolic process
@@ -26914,13 +26927,17 @@ http://purl.obolibrary.org/obo/UBERON_0003444		pelvis nerve
 http://purl.obolibrary.org/obo/UBERON_0002112		smooth muscle of esophagus
 http://purl.obolibrary.org/obo/GO_0044283		small molecule biosynthetic process
 http://purl.obolibrary.org/obo/GO_0010907		positive regulation of glucose metabolic process
+http://purl.obolibrary.org/obo/CL_0017502		acidophilic cytoplasm
 http://purl.obolibrary.org/obo/DMBA_126651634		ventricles, diencephalon
 http://purl.obolibrary.org/obo/GO_0044281		small molecule metabolic process
 http://purl.obolibrary.org/obo/GO_0010906		regulation of glucose metabolic process
 http://purl.obolibrary.org/obo/UBERON_0003429		abdomen nerve
+http://purl.obolibrary.org/obo/CL_0017505		increased nucleus size
 http://purl.obolibrary.org/obo/CHEBI_24867		monoatomic ion
 http://purl.obolibrary.org/obo/CHEBI_24866		salt
+http://purl.obolibrary.org/obo/CL_0017503		basophilic cytoplasm
 http://purl.obolibrary.org/obo/DMBA_126651638		ventricles, prosomere 3
+http://purl.obolibrary.org/obo/CL_0017504		polychromatophilic cytoplasm
 http://purl.obolibrary.org/obo/UBERON_0015410		heart plus pericardium
 http://purl.obolibrary.org/obo/UBERON_0004760		gland of anal canal
 http://purl.obolibrary.org/obo/UBERON_0002104		visual system
