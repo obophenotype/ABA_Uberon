@@ -1267,6 +1267,8 @@ http://purl.obolibrary.org/obo/MBA_534	supratrigeminal nucleus	equivalent		http:
 http://purl.obolibrary.org/obo/MBA_689	ventrolateral preoptic nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440014		ventrolateral preoptic nucleus	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_677	visceral area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440024		visceral area	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_89	rhinocele	subclass	http://purl.obolibrary.org/obo/UBERON_0002285			telencephalic ventricle	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_957	uvula (IX)	equivalent		http://purl.obolibrary.org/obo/UBERON_0004078		cerebellum vermis lobule IX	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_968	nodulus (X)	equivalent		http://purl.obolibrary.org/obo/UBERON_0004083		cerebellum vermis lobule X	Curated	https://orcid.org/0000-0001-7258-9596
 								
 http://purl.obolibrary.org/obo/MBA_10687	"paraflocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
@@ -1319,3 +1321,5 @@ http://purl.obolibrary.org/obo/MBA_10731	"pyramus (VIII), molecular layer"	equiv
 http://purl.obolibrary.org/obo/MBA_10684	"copula pyramidis, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005347		Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10685	"copula pyramidis, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005347		Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10686	"copula pyramidis, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005347		Curated	https://orcid.org/0000-0001-7258-9596
+								
+								
