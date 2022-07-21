@@ -8,11 +8,11 @@
 "Barrington's nucleus"	<http://purl.obolibrary.org/obo/UBERON_0007632>	"nucleus of Barrington"	<http://purl.obolibrary.org/obo/DMBA_16973>
 "Barrington's nucleus"	<http://purl.obolibrary.org/obo/UBERON_0007632>	"Barrington's nucleus"	<http://purl.obolibrary.org/obo/MBA_280>
 "Brodmann (1909) area 10"	<http://purl.obolibrary.org/obo/UBERON_0013541>	"rostral sulcus"	<http://purl.obolibrary.org/obo/DHBA_146034836>
+"Brodmann (1909) area 17"	<http://purl.obolibrary.org/obo/UBERON_8440010>	"primary visual cortex (V1, striate cortex, area 17)"	<http://purl.obolibrary.org/obo/PBA_10026>
 "Brodmann (1909) area 18"	<http://purl.obolibrary.org/obo/UBERON_0006473>	"parastriate cortex (area V2, area 18)"	<http://purl.obolibrary.org/obo/DHBA_10271>
 "Brodmann (1909) area 18"	<http://purl.obolibrary.org/obo/UBERON_0006473>	"parastriate cortex (V2, area 18)"	<http://purl.obolibrary.org/obo/PBA_10039>
 "Brodmann (1909) area 24"	<http://purl.obolibrary.org/obo/UBERON_0006101>	"Anterior cingulate area"	<http://purl.obolibrary.org/obo/MBA_31>
 "Brodmann (1909) area 32"	<http://purl.obolibrary.org/obo/UBERON_0013560>	"Prelimbic area"	<http://purl.obolibrary.org/obo/MBA_972>
-"Brodmann (1909) area 36"	<http://purl.obolibrary.org/obo/UBERON_0006104>	"perirhinal-ectorhinal cortex"	<http://purl.obolibrary.org/obo/DMBA_16086>
 "CA1 field of hippocampus"	<http://purl.obolibrary.org/obo/UBERON_0003881>	"CA1 region of Hipp"	<http://purl.obolibrary.org/obo/DHBA_10297>
 "CA1 field of hippocampus"	<http://purl.obolibrary.org/obo/UBERON_0003881>	"Field CA1"	<http://purl.obolibrary.org/obo/DMBA_16131>
 "CA1 field of hippocampus"	<http://purl.obolibrary.org/obo/UBERON_0003881>	"CA1 field"	<http://purl.obolibrary.org/obo/HBA_12892>
@@ -86,10 +86,12 @@
 "accessory olfactory bulb granule cell layer"	<http://purl.obolibrary.org/obo/UBERON_0015244>	"AOB, granular layer"	<http://purl.obolibrary.org/obo/DMBA_15961>
 "accessory olfactory bulb granule cell layer"	<http://purl.obolibrary.org/obo/UBERON_0015244>	"Accessory olfactory bulb, granular layer"	<http://purl.obolibrary.org/obo/MBA_196>
 "accessory olfactory bulb internal plexiform layer"	<http://purl.obolibrary.org/obo/UBERON_0019290>	"AOB, internal plexiform layer"	<http://purl.obolibrary.org/obo/DMBA_15962>
+"accessory olfactory bulb mitral cell layer"	<http://purl.obolibrary.org/obo/UBERON_0015432>	"AOB, mitral cell layer"	<http://purl.obolibrary.org/obo/DMBA_15964>
 "accessory olfactory bulb mitral cell layer"	<http://purl.obolibrary.org/obo/UBERON_0015432>	"Accessory olfactory bulb, mitral layer"	<http://purl.obolibrary.org/obo/MBA_204>
 "accessory optic tract"	<http://purl.obolibrary.org/obo/UBERON_0035595>	"accessory optic tract"	<http://purl.obolibrary.org/obo/MBA_876>
 "agranular insular cortex"	<http://purl.obolibrary.org/obo/UBERON_0034893>	"dysgranular insular cortex"	<http://purl.obolibrary.org/obo/DHBA_10289>
 "agranular insular cortex"	<http://purl.obolibrary.org/obo/UBERON_0034893>	"agranular insular cortex (area Iag)"	<http://purl.obolibrary.org/obo/DHBA_10328>
+"agranular insular cortex"	<http://purl.obolibrary.org/obo/UBERON_0034893>	"Agranular insular area"	<http://purl.obolibrary.org/obo/MBA_95>
 "allocortex"	<http://purl.obolibrary.org/obo/UBERON_0014734>	"allocortex"	<http://purl.obolibrary.org/obo/DHBA_10292>
 "ambient gyrus"	<http://purl.obolibrary.org/obo/UBERON_0036164>	"ambiens gyrus"	<http://purl.obolibrary.org/obo/DHBA_12166>
 "amiculum of inferior olive"	<http://purl.obolibrary.org/obo/UBERON_0035938>	"amiculum of the olive"	<http://purl.obolibrary.org/obo/DHBA_12728>
@@ -106,12 +108,11 @@
 "amygdalohippocampal area, parvocellular division"	<http://purl.obolibrary.org/obo/UBERON_0035028>	"amygdalohippocampal area, left, parvocellular division"	<http://purl.obolibrary.org/obo/HBA_265504456>
 "amygdalohippocampal area, parvocellular division"	<http://purl.obolibrary.org/obo/UBERON_0035028>	"amygdalohippocampal area, parvocelluar part"	<http://purl.obolibrary.org/obo/PBA_10137>
 "amygdalohippocampal transition area"	<http://purl.obolibrary.org/obo/UBERON_0035026>	"amygdalohippocampal transition area"	<http://purl.obolibrary.org/obo/DHBA_10380>
+"amygdalopiriform transition area"	<http://purl.obolibrary.org/obo/UBERON_0034989>	"amygdalopiriform area"	<http://purl.obolibrary.org/obo/DMBA_15998>
 "amygdalopiriform transition area"	<http://purl.obolibrary.org/obo/UBERON_0034989>	"amygdalopiriform transition area"	<http://purl.obolibrary.org/obo/PBA_10140>
 "anatomical entity"	<http://purl.obolibrary.org/obo/UBERON_0001062>	"ABA entity"	<http://purl.obolibrary.org/obo/ABA_ENTITY>
 "anatomical entity"	<http://purl.obolibrary.org/obo/UBERON_0001062>	"DHBA entity"	<http://purl.obolibrary.org/obo/DHBA_ENTITY>
-"anatomical entity"	<http://purl.obolibrary.org/obo/UBERON_0001062>	"DMBA entity"	<http://purl.obolibrary.org/obo/DMBA_ENTITY>
 "anatomical entity"	<http://purl.obolibrary.org/obo/UBERON_0001062>	"HBA entity"	<http://purl.obolibrary.org/obo/HBA_ENTITY>
-"anatomical entity"	<http://purl.obolibrary.org/obo/UBERON_0001062>	"MBA entity"	<http://purl.obolibrary.org/obo/MBA_ENTITY>
 "anatomical entity"	<http://purl.obolibrary.org/obo/UBERON_0001062>	"PBA entity"	<http://purl.obolibrary.org/obo/PBA_ENTITY>
 "angular gyrus"	<http://purl.obolibrary.org/obo/UBERON_0002686>	"angular gyrus"	<http://purl.obolibrary.org/obo/DHBA_12136>
 "angular gyrus"	<http://purl.obolibrary.org/obo/UBERON_0002686>	"angular gyrus"	<http://purl.obolibrary.org/obo/HBA_4111>
@@ -121,15 +122,16 @@
 "ansa peduncularis"	<http://purl.obolibrary.org/obo/UBERON_0034896>	"ansa peduncularis"	<http://purl.obolibrary.org/obo/DHBA_266441591>
 "ansa peduncularis"	<http://purl.obolibrary.org/obo/UBERON_0034896>	"ansa peduncularis"	<http://purl.obolibrary.org/obo/MBA_892>
 "ansiform lobule"	<http://purl.obolibrary.org/obo/UBERON_0005348>	"Ansiform lobule"	<http://purl.obolibrary.org/obo/MBA_1017>
+"ansiform lobule crus I"	<http://purl.obolibrary.org/obo/UBERON_0005976>	"crus 1 of the ansiform lobule"	<http://purl.obolibrary.org/obo/DMBA_16941>
 "ansiform lobule crus I"	<http://purl.obolibrary.org/obo/UBERON_0005976>	"crus I"	<http://purl.obolibrary.org/obo/HBA_12938>
 "ansiform lobule crus I"	<http://purl.obolibrary.org/obo/UBERON_0005976>	"Crus 1"	<http://purl.obolibrary.org/obo/MBA_1056>
+"ansiform lobule crus II"	<http://purl.obolibrary.org/obo/UBERON_0005977>	"crus 2 of the ansiform lobule"	<http://purl.obolibrary.org/obo/DMBA_16942>
 "ansiform lobule crus II"	<http://purl.obolibrary.org/obo/UBERON_0005977>	"crus II"	<http://purl.obolibrary.org/obo/HBA_12939>
 "ansiform lobule crus II"	<http://purl.obolibrary.org/obo/UBERON_0005977>	"Crus 2"	<http://purl.obolibrary.org/obo/MBA_1064>
 "ansoparamedian fissure of cerebellum"	<http://purl.obolibrary.org/obo/UBERON_0014468>	"ansoparamedian fissure"	<http://purl.obolibrary.org/obo/DHBA_266441733>
 "ansoparamedian fissure of cerebellum"	<http://purl.obolibrary.org/obo/UBERON_0014468>	"ansoparamedian fissure"	<http://purl.obolibrary.org/obo/HBA_9413>
 "ansoparamedian fissure of cerebellum"	<http://purl.obolibrary.org/obo/UBERON_0014468>	"ansoparamedian fissure"	<http://purl.obolibrary.org/obo/MBA_43>
 "anterior amygdaloid area"	<http://purl.obolibrary.org/obo/UBERON_0002890>	"anterior amygdaloid area"	<http://purl.obolibrary.org/obo/DHBA_10362>
-"anterior amygdaloid area"	<http://purl.obolibrary.org/obo/UBERON_0002890>	"basolateral amygdaloid nucleus, anterior part"	<http://purl.obolibrary.org/obo/DMBA_15994>
 "anterior amygdaloid area"	<http://purl.obolibrary.org/obo/UBERON_0002890>	"anterior amygdaloid area"	<http://purl.obolibrary.org/obo/HBA_265504476>
 "anterior amygdaloid area"	<http://purl.obolibrary.org/obo/UBERON_0002890>	"Anterior amygdalar area"	<http://purl.obolibrary.org/obo/MBA_23>
 "anterior amygdaloid area"	<http://purl.obolibrary.org/obo/UBERON_0002890>	"anterior amygdaloid area"	<http://purl.obolibrary.org/obo/PBA_10103>
@@ -170,7 +172,6 @@
 "anterior parahippocampal gyrus"	<http://purl.obolibrary.org/obo/UBERON_0022383>	"anterior parahippocampal gyrus"	<http://purl.obolibrary.org/obo/DHBA_12163>
 "anterior paraventricular nucleus of thalamus"	<http://purl.obolibrary.org/obo/UBERON_0000434>	"anterior paraventricular nucleus of thalamus"	<http://purl.obolibrary.org/obo/DMBA_16400>
 "anterior paraventricular nucleus of thalamus"	<http://purl.obolibrary.org/obo/UBERON_0000434>	"periventricular nucleus of the hypothalamus, anterior part"	<http://purl.obolibrary.org/obo/HBA_12906>
-"anterior paraventricular nucleus of thalamus"	<http://purl.obolibrary.org/obo/UBERON_0000434>	"Periventricular hypothalamic nucleus, anterior part"	<http://purl.obolibrary.org/obo/MBA_30>
 "anterior parolfactory sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002919>	"rostral parolfactory sulcus"	<http://purl.obolibrary.org/obo/DHBA_146034824>
 "anterior perforated substance"	<http://purl.obolibrary.org/obo/UBERON_0018141>	"anterior perforated substance"	<http://purl.obolibrary.org/obo/DHBA_10642>
 "anterior pretectal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0034918>	"anterior (ventral /principal) pretectal nucleus"	<http://purl.obolibrary.org/obo/DHBA_12187>
@@ -351,7 +352,6 @@
 "cerebellar nuclear complex"	<http://purl.obolibrary.org/obo/UBERON_0002130>	"cerebellar nuclei"	<http://purl.obolibrary.org/obo/HBA_4780>
 "cerebellar nuclear complex"	<http://purl.obolibrary.org/obo/UBERON_0002130>	"Cerebellar nuclei"	<http://purl.obolibrary.org/obo/MBA_519>
 "cerebellar peduncle"	<http://purl.obolibrary.org/obo/UBERON_0007416>	"cerebellar peduncles"	<http://purl.obolibrary.org/obo/MBA_752>
-"cerebellar peduncular complex"	<http://purl.obolibrary.org/obo/UBERON_0002474>	"cerebellar peduncles"	<http://purl.obolibrary.org/obo/MBA_752>
 "cerebellar plate"	<http://purl.obolibrary.org/obo/UBERON_0004008>	"cerebellar plate"	<http://purl.obolibrary.org/obo/DHBA_12698>
 "cerebellar vermis"	<http://purl.obolibrary.org/obo/UBERON_0004720>	"cerebellar vermis"	<http://purl.obolibrary.org/obo/DHBA_10658>
 "cerebellar vermis"	<http://purl.obolibrary.org/obo/UBERON_0004720>	"cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16814>
@@ -375,23 +375,25 @@
 "cerebellum marginal layer"	<http://purl.obolibrary.org/obo/UBERON_0034708>	"marginal zone of cerebellum"	<http://purl.obolibrary.org/obo/DHBA_12695>
 "cerebellum posterior vermis"	<http://purl.obolibrary.org/obo/UBERON_0004009>	"posterior lobe of the vermis"	<http://purl.obolibrary.org/obo/HBA_4704>
 "cerebellum vermis culmen"	<http://purl.obolibrary.org/obo/UBERON_0007763>	"Culmen"	<http://purl.obolibrary.org/obo/MBA_928>
+"cerebellum vermis lobule I"	<http://purl.obolibrary.org/obo/UBERON_0004074>	"lobule 1 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16830>
 "cerebellum vermis lobule I"	<http://purl.obolibrary.org/obo/UBERON_0004074>	"Lingula (I)"	<http://purl.obolibrary.org/obo/MBA_912>
-"cerebellum vermis lobule II"	<http://purl.obolibrary.org/obo/UBERON_0004075>	"Lobule II"	<http://purl.obolibrary.org/obo/MBA_976>
+"cerebellum vermis lobule II"	<http://purl.obolibrary.org/obo/UBERON_0004075>	"lobule 2 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16831>
 "cerebellum vermis lobule III"	<http://purl.obolibrary.org/obo/UBERON_0004076>	"lobule III (central lobule and wing, posterior part)"	<http://purl.obolibrary.org/obo/DHBA_12841>
+"cerebellum vermis lobule III"	<http://purl.obolibrary.org/obo/UBERON_0004076>	"lobule 3 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16832>
 "cerebellum vermis lobule III"	<http://purl.obolibrary.org/obo/UBERON_0004076>	"III"	<http://purl.obolibrary.org/obo/HBA_12933>
-"cerebellum vermis lobule III"	<http://purl.obolibrary.org/obo/UBERON_0004076>	"Lobule III"	<http://purl.obolibrary.org/obo/MBA_984>
 "cerebellum vermis lobule IV"	<http://purl.obolibrary.org/obo/UBERON_0004077>	"lobule IV (culmen and quadrangular lobule, anterior part)"	<http://purl.obolibrary.org/obo/DHBA_12842>
+"cerebellum vermis lobule IV"	<http://purl.obolibrary.org/obo/UBERON_0004077>	"lobule 4 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16833>
 "cerebellum vermis lobule IV"	<http://purl.obolibrary.org/obo/UBERON_0004077>	"IV"	<http://purl.obolibrary.org/obo/HBA_12934>
-"cerebellum vermis lobule IV"	<http://purl.obolibrary.org/obo/UBERON_0004077>	"Lobule IV"	<http://purl.obolibrary.org/obo/MBA_992>
 "cerebellum vermis lobule IX"	<http://purl.obolibrary.org/obo/UBERON_0004078>	"lobule IX (uvula and tosil)"	<http://purl.obolibrary.org/obo/DHBA_12851>
+"cerebellum vermis lobule IX"	<http://purl.obolibrary.org/obo/UBERON_0004078>	"lobule 9 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16838>
 "cerebellum vermis lobule IX"	<http://purl.obolibrary.org/obo/UBERON_0004078>	"IX"	<http://purl.obolibrary.org/obo/HBA_12943>
-"cerebellum vermis lobule IX"	<http://purl.obolibrary.org/obo/UBERON_0004078>	"Uvula (IX)"	<http://purl.obolibrary.org/obo/MBA_957>
 "cerebellum vermis lobule V"	<http://purl.obolibrary.org/obo/UBERON_0004079>	"lobule V (culmen and quadrangular lobule, posterior part)"	<http://purl.obolibrary.org/obo/DHBA_12843>
+"cerebellum vermis lobule V"	<http://purl.obolibrary.org/obo/UBERON_0004079>	"lobule 5 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16834>
 "cerebellum vermis lobule V"	<http://purl.obolibrary.org/obo/UBERON_0004079>	"V"	<http://purl.obolibrary.org/obo/HBA_12935>
-"cerebellum vermis lobule V"	<http://purl.obolibrary.org/obo/UBERON_0004079>	"Lobule V"	<http://purl.obolibrary.org/obo/MBA_1001>
 "cerebellum vermis lobule VI"	<http://purl.obolibrary.org/obo/UBERON_0004080>	"lobule VI (declive and simplex lobule)"	<http://purl.obolibrary.org/obo/DHBA_12845>
+"cerebellum vermis lobule VI"	<http://purl.obolibrary.org/obo/UBERON_0004080>	"lobule 6 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16835>
 "cerebellum vermis lobule VI"	<http://purl.obolibrary.org/obo/UBERON_0004080>	"VI"	<http://purl.obolibrary.org/obo/HBA_12937>
-"cerebellum vermis lobule VI"	<http://purl.obolibrary.org/obo/UBERON_0004080>	"Declive (VI)"	<http://purl.obolibrary.org/obo/MBA_936>
+"cerebellum vermis lobule VII"	<http://purl.obolibrary.org/obo/UBERON_0004081>	"lobule 7 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16836>
 "cerebellum vermis lobule VII"	<http://purl.obolibrary.org/obo/UBERON_0004081>	"Folium-tuber vermis (VII)"	<http://purl.obolibrary.org/obo/MBA_944>
 "cerebellum vermis lobule VIIAf"	<http://purl.obolibrary.org/obo/UBERON_0036044>	"lobule VIIAf/crus I (folium and superior semilunar lobule)"	<http://purl.obolibrary.org/obo/DHBA_12846>
 "cerebellum vermis lobule VIIAf"	<http://purl.obolibrary.org/obo/UBERON_0036044>	"VIIAf"	<http://purl.obolibrary.org/obo/HBA_4706>
@@ -400,17 +402,18 @@
 "cerebellum vermis lobule VIIB"	<http://purl.obolibrary.org/obo/UBERON_0005346>	"lobule VIIB (gracile lobule)"	<http://purl.obolibrary.org/obo/DHBA_12848>
 "cerebellum vermis lobule VIIB"	<http://purl.obolibrary.org/obo/UBERON_0005346>	"VIIB"	<http://purl.obolibrary.org/obo/HBA_12940>
 "cerebellum vermis lobule VIIB"	<http://purl.obolibrary.org/obo/UBERON_0005346>	"VIIB"	<http://purl.obolibrary.org/obo/HBA_4708>
-"cerebellum vermis lobule VIII"	<http://purl.obolibrary.org/obo/UBERON_0004082>	"Pyramus (VIII)"	<http://purl.obolibrary.org/obo/MBA_951>
+"cerebellum vermis lobule VIII"	<http://purl.obolibrary.org/obo/UBERON_0004082>	"lobule 8 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16837>
+"cerebellum vermis lobule X"	<http://purl.obolibrary.org/obo/UBERON_0004083>	"lobule 10 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16839>
 "cerebellum vermis lobule X"	<http://purl.obolibrary.org/obo/UBERON_0004083>	"X"	<http://purl.obolibrary.org/obo/HBA_4713>
-"cerebellum vermis lobule X"	<http://purl.obolibrary.org/obo/UBERON_0004083>	"Nodulus (X)"	<http://purl.obolibrary.org/obo/MBA_968>
 "cerebral cortex"	<http://purl.obolibrary.org/obo/UBERON_0000956>	"cerebral cortex"	<http://purl.obolibrary.org/obo/DHBA_10159>
 "cerebral cortex"	<http://purl.obolibrary.org/obo/UBERON_0000956>	"cerebral cortex"	<http://purl.obolibrary.org/obo/HBA_4008>
 "cerebral cortex"	<http://purl.obolibrary.org/obo/UBERON_0000956>	"Cerebral cortex"	<http://purl.obolibrary.org/obo/MBA_688>
 "cerebral cortex"	<http://purl.obolibrary.org/obo/UBERON_0000956>	"cerebral cortex"	<http://purl.obolibrary.org/obo/PBA_128011354>
 "cerebral cortex marginal layer"	<http://purl.obolibrary.org/obo/UBERON_0014935>	"marginal zone"	<http://purl.obolibrary.org/obo/PBA_294021774>
 "cerebral cortex subventricular zone"	<http://purl.obolibrary.org/obo/UBERON_0014940>	"subventricular zone"	<http://purl.obolibrary.org/obo/PBA_294021970>
-"cerebral hemisphere"	<http://purl.obolibrary.org/obo/UBERON_0001869>	"telencephalic vesicle"	<http://purl.obolibrary.org/obo/DMBA_15739>
-"cerebral hemisphere"	<http://purl.obolibrary.org/obo/UBERON_0001869>	"Medial amygdalar nucleus"	<http://purl.obolibrary.org/obo/MBA_403>
+"cerebral nuclei"	<http://purl.obolibrary.org/obo/UBERON_8440012>	"cerebral nuclei"	<http://purl.obolibrary.org/obo/DHBA_10331>
+"cerebral nuclei"	<http://purl.obolibrary.org/obo/UBERON_8440012>	"cerebral nuclei"	<http://purl.obolibrary.org/obo/HBA_4275>
+"cerebral nuclei"	<http://purl.obolibrary.org/obo/UBERON_8440012>	"cerebral nuclei"	<http://purl.obolibrary.org/obo/PBA_128012596>
 "cerebral peduncle"	<http://purl.obolibrary.org/obo/UBERON_0002623>	"cerebal peduncle"	<http://purl.obolibrary.org/obo/MBA_924>
 "cerebrocerebellum"	<http://purl.obolibrary.org/obo/UBERON_0014644>	"lateral hemisphere of cerebellum"	<http://purl.obolibrary.org/obo/DHBA_12390>
 "choroid plexus"	<http://purl.obolibrary.org/obo/UBERON_0001886>	"choroid plexus"	<http://purl.obolibrary.org/obo/MBA_108>
@@ -446,7 +449,6 @@
 "collection of basal ganglia"	<http://purl.obolibrary.org/obo/UBERON_0010011>	"cerebral nuclei"	<http://purl.obolibrary.org/obo/DHBA_10331>
 "collection of basal ganglia"	<http://purl.obolibrary.org/obo/UBERON_0010011>	"cerebral nuclei"	<http://purl.obolibrary.org/obo/HBA_4275>
 "collection of basal ganglia"	<http://purl.obolibrary.org/obo/UBERON_0010011>	"basal ganglia"	<http://purl.obolibrary.org/obo/HBA_4276>
-"collection of basal ganglia"	<http://purl.obolibrary.org/obo/UBERON_0010011>	"Cerebral nuclei"	<http://purl.obolibrary.org/obo/MBA_623>
 "collection of basal ganglia"	<http://purl.obolibrary.org/obo/UBERON_0010011>	"cerebral nuclei"	<http://purl.obolibrary.org/obo/PBA_128012596>
 "collection of basal ganglia"	<http://purl.obolibrary.org/obo/UBERON_0010011>	"basal nuclei (basal ganglia)"	<http://purl.obolibrary.org/obo/PBA_4001>
 "commissure of inferior colliculus"	<http://purl.obolibrary.org/obo/UBERON_0003028>	"commissure of inferior colliculus"	<http://purl.obolibrary.org/obo/DHBA_12333>
@@ -456,6 +458,7 @@
 "commissure of telencephalon"	<http://purl.obolibrary.org/obo/UBERON_0019294>	"telencephalic commissures"	<http://purl.obolibrary.org/obo/HBA_9220>
 "copula pyramidis"	<http://purl.obolibrary.org/obo/UBERON_0005347>	"Copula pyramidis"	<http://purl.obolibrary.org/obo/MBA_1033>
 "core of nucleus accumbens"	<http://purl.obolibrary.org/obo/UBERON_0012170>	"core of nucleus accumbens"	<http://purl.obolibrary.org/obo/DHBA_10340>
+"core of nucleus accumbens"	<http://purl.obolibrary.org/obo/UBERON_0012170>	"accumbens nucleus, core domain"	<http://purl.obolibrary.org/obo/DMBA_15813>
 "core of nucleus accumbens"	<http://purl.obolibrary.org/obo/UBERON_0012170>	"core of nucleus accumbens"	<http://purl.obolibrary.org/obo/PBA_10093>
 "corona radiata of neuraxis"	<http://purl.obolibrary.org/obo/UBERON_0004682>	"corona radiata"	<http://purl.obolibrary.org/obo/DHBA_12030>
 "corona radiata of neuraxis"	<http://purl.obolibrary.org/obo/UBERON_0004682>	"corona radiata"	<http://purl.obolibrary.org/obo/HBA_265505046>
@@ -474,6 +477,7 @@
 "cortical plate"	<http://purl.obolibrary.org/obo/UBERON_0005343>	"Cortical plate"	<http://purl.obolibrary.org/obo/MBA_695>
 "cortical plate"	<http://purl.obolibrary.org/obo/UBERON_0005343>	"cortical plate"	<http://purl.obolibrary.org/obo/PBA_294021914>
 "cortical subplate"	<http://purl.obolibrary.org/obo/UBERON_0004035>	"subplate zone"	<http://purl.obolibrary.org/obo/DHBA_10522>
+"cortical subplate"	<http://purl.obolibrary.org/obo/UBERON_0004035>	"Cortical subplate"	<http://purl.obolibrary.org/obo/MBA_703>
 "cortical subplate"	<http://purl.obolibrary.org/obo/UBERON_0004035>	"subplate"	<http://purl.obolibrary.org/obo/PBA_294021932>
 "corticobulbar tract"	<http://purl.obolibrary.org/obo/UBERON_0022272>	"corticobulbar tract"	<http://purl.obolibrary.org/obo/DHBA_12774>
 "corticobulbar tract"	<http://purl.obolibrary.org/obo/UBERON_0022272>	"corticobulbar tract"	<http://purl.obolibrary.org/obo/HBA_265505058>
@@ -524,7 +528,12 @@
 "densocellular part of medial dorsal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002645>	"mediodorsal nucleus of the thalamus, left, densocelllular division"	<http://purl.obolibrary.org/obo/HBA_4404>
 "dentate gyrus granule cell layer"	<http://purl.obolibrary.org/obo/UBERON_0005381>	"granule cell layer of the DG"	<http://purl.obolibrary.org/obo/DMBA_16122>
 "dentate gyrus granule cell layer"	<http://purl.obolibrary.org/obo/UBERON_0005381>	"Dentate gyrus, granule cell layer"	<http://purl.obolibrary.org/obo/MBA_632>
+"dentate gyrus granule cell layer"	<http://purl.obolibrary.org/obo/UBERON_0005381>	"Dentate gyrus crest, granule cell layer"	<http://purl.obolibrary.org/obo/MBA_758>
+"dentate gyrus granule cell layer"	<http://purl.obolibrary.org/obo/UBERON_0005381>	"Dentate gyrus lateral blade, granule cell layer"	<http://purl.obolibrary.org/obo/MBA_790>
+"dentate gyrus granule cell layer"	<http://purl.obolibrary.org/obo/UBERON_0005381>	"Dentate gyrus medial blade, granule cell layer"	<http://purl.obolibrary.org/obo/MBA_823>
+"dentate gyrus molecular layer"	<http://purl.obolibrary.org/obo/UBERON_0004679>	"molecular layer of the DG"	<http://purl.obolibrary.org/obo/DMBA_16123>
 "dentate gyrus molecular layer"	<http://purl.obolibrary.org/obo/UBERON_0004679>	"Dentate gyrus, molecular layer"	<http://purl.obolibrary.org/obo/MBA_10703>
+"dentate gyrus molecular layer"	<http://purl.obolibrary.org/obo/UBERON_0004679>	"Dentate gyrus crest, molecular layer"	<http://purl.obolibrary.org/obo/MBA_742>
 "dentate gyrus of hippocampal formation"	<http://purl.obolibrary.org/obo/UBERON_0001885>	"dentate area (dentate gyrus)"	<http://purl.obolibrary.org/obo/DHBA_10295>
 "dentate gyrus of hippocampal formation"	<http://purl.obolibrary.org/obo/UBERON_0001885>	"dentate gyrus"	<http://purl.obolibrary.org/obo/DMBA_16115>
 "dentate gyrus of hippocampal formation"	<http://purl.obolibrary.org/obo/UBERON_0001885>	"dentate gyrus"	<http://purl.obolibrary.org/obo/HBA_12891>
@@ -555,7 +564,6 @@
 "dorsal cochlear nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002829>	"dorsal cochlear nucleus, left"	<http://purl.obolibrary.org/obo/HBA_9530>
 "dorsal cochlear nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002829>	"Dorsal cochlear nucleus"	<http://purl.obolibrary.org/obo/MBA_96>
 "dorsal column nucleus"	<http://purl.obolibrary.org/obo/UBERON_0018238>	"Dorsal column nuclei"	<http://purl.obolibrary.org/obo/MBA_720>
-"dorsal column-medial lemniscus pathway"	<http://purl.obolibrary.org/obo/UBERON_0018237>	"dorsal column tracts"	<http://purl.obolibrary.org/obo/DMBA_17759>
 "dorsal external arcuate fiber bundle"	<http://purl.obolibrary.org/obo/UBERON_0006089>	"external arcuate fibers"	<http://purl.obolibrary.org/obo/DHBA_12737>
 "dorsal hypothalamic area"	<http://purl.obolibrary.org/obo/UBERON_0002954>	"dorsal hypothalamic area"	<http://purl.obolibrary.org/obo/DHBA_13335>
 "dorsal lateral geniculate nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002479>	"dorsal lateral geniculate nucleus"	<http://purl.obolibrary.org/obo/DHBA_10430>
@@ -622,7 +630,6 @@
 "dorsomedial nucleus of hypothalamus"	<http://purl.obolibrary.org/obo/UBERON_0001934>	"Dorsomedial nucleus of the hypothalamus"	<http://purl.obolibrary.org/obo/MBA_830>
 "early prosencephalic vesicle"	<http://purl.obolibrary.org/obo/UBERON_0006284>	"ventricles of forebrain"	<http://purl.obolibrary.org/obo/DHBA_10595>
 "emboliform nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002602>	"lateral interpositus (emboliform) nucleus"	<http://purl.obolibrary.org/obo/DHBA_12401>
-"emboliform nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002602>	"anterior part of Int"	<http://purl.obolibrary.org/obo/DMBA_16930>
 "emboliform nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002602>	"emboliform nucleus"	<http://purl.obolibrary.org/obo/HBA_12947>
 "endolemniscal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0022258>	"endolemniscal nucleus"	<http://purl.obolibrary.org/obo/DHBA_12648>
 "endolemniscal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0022258>	"endolemniscal nucleus"	<http://purl.obolibrary.org/obo/HBA_9548>
@@ -662,8 +669,6 @@
 "facial nerve root"	<http://purl.obolibrary.org/obo/UBERON_0004674>	"facial nerve root"	<http://purl.obolibrary.org/obo/DMBA_17742>
 "facial nucleus"	<http://purl.obolibrary.org/obo/UBERON_0000127>	"facial nucleus"	<http://purl.obolibrary.org/obo/DHBA_12420>
 "fasciolar gyrus"	<http://purl.obolibrary.org/obo/UBERON_0002601>	"fasciolar gyrus"	<http://purl.obolibrary.org/obo/DHBA_12175>
-"fasciolar gyrus"	<http://purl.obolibrary.org/obo/UBERON_0002601>	"fasciola cinerea"	<http://purl.obolibrary.org/obo/DMBA_112892265>
-"fasciolar gyrus"	<http://purl.obolibrary.org/obo/UBERON_0002601>	"Fasciola cinerea"	<http://purl.obolibrary.org/obo/MBA_982>
 "fastigial nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002153>	"fastigial (medial) nucleus"	<http://purl.obolibrary.org/obo/DHBA_12402>
 "fastigial nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002153>	"medial (fastigial) cerebellar nucleus"	<http://purl.obolibrary.org/obo/DMBA_16823>
 "fastigial nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002153>	"fastigial nucleus"	<http://purl.obolibrary.org/obo/HBA_12948>
@@ -819,6 +824,7 @@
 "inferior rostral sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002767>	"inferior rostral sulcus"	<http://purl.obolibrary.org/obo/DHBA_146034844>
 "inferior rostral sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002767>	"inferior rostral sulcus"	<http://purl.obolibrary.org/obo/HBA_9367>
 "inferior salivatory nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002872>	"inferior salivatory nucleus"	<http://purl.obolibrary.org/obo/DHBA_12544>
+"inferior salivatory nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002872>	"inferior salivatory parasympathetic nucleus"	<http://purl.obolibrary.org/obo/DMBA_17316>
 "inferior salivatory nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002872>	"inferior salivatory nucleus"	<http://purl.obolibrary.org/obo/HBA_9569>
 "inferior salivatory nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002872>	"Inferior salivatory nucleus"	<http://purl.obolibrary.org/obo/MBA_106>
 "inferior temporal gyrus"	<http://purl.obolibrary.org/obo/UBERON_0002751>	"inferior temporal gyrus"	<http://purl.obolibrary.org/obo/DHBA_12142>
@@ -885,6 +891,7 @@
 "intraparietal sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002913>	"intraparietal sulcus"	<http://purl.obolibrary.org/obo/DHBA_10620>
 "intraparietal sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002913>	"intraparietal sulcus"	<http://purl.obolibrary.org/obo/HBA_9372>
 "isla magna of Calleja"	<http://purl.obolibrary.org/obo/UBERON_0023868>	"major island of Calleja"	<http://purl.obolibrary.org/obo/DHBA_10359>
+"isla magna of Calleja"	<http://purl.obolibrary.org/obo/UBERON_0023868>	"island of Calleja major"	<http://purl.obolibrary.org/obo/DMBA_15808>
 "isla magna of Calleja"	<http://purl.obolibrary.org/obo/UBERON_0023868>	"Major island of Calleja"	<http://purl.obolibrary.org/obo/MBA_489>
 "island of Calleja"	<http://purl.obolibrary.org/obo/UBERON_0001881>	"islands of Calleja"	<http://purl.obolibrary.org/obo/DHBA_10358>
 "island of Calleja"	<http://purl.obolibrary.org/obo/UBERON_0001881>	"islands of calleja, left"	<http://purl.obolibrary.org/obo/HBA_265504792>
@@ -987,7 +994,6 @@
 "lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0000435>	"lateral tuberal nuclei"	<http://purl.obolibrary.org/obo/DHBA_10493>
 "lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0000435>	"lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/DMBA_16271>
 "lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0000435>	"lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/HBA_12915>
-"lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0000435>	"Tuberal nucleus"	<http://purl.obolibrary.org/obo/MBA_614>
 "lateral vestibular nucleus"	<http://purl.obolibrary.org/obo/UBERON_0007230>	"lateral vestibular nucleus"	<http://purl.obolibrary.org/obo/DHBA_12449>
 "lateral vestibular nucleus"	<http://purl.obolibrary.org/obo/UBERON_0007230>	"lateral vestibular nucleus, left"	<http://purl.obolibrary.org/obo/HBA_9699>
 "lateral vestibular nucleus"	<http://purl.obolibrary.org/obo/UBERON_0007230>	"Lateral vestibular nucleus"	<http://purl.obolibrary.org/obo/MBA_209>
@@ -1099,6 +1105,7 @@
 "medial nucleus of solitary tract"	<http://purl.obolibrary.org/obo/UBERON_0009052>	"Nucleus of the solitary tract, medial part"	<http://purl.obolibrary.org/obo/MBA_691>
 "medial nucleus of stria terminalis"	<http://purl.obolibrary.org/obo/UBERON_0034895>	"medial subdivision of BNST"	<http://purl.obolibrary.org/obo/DHBA_10385>
 "medial nucleus of trapezoid body"	<http://purl.obolibrary.org/obo/UBERON_0002833>	"medial nucleus of trapezoid body"	<http://purl.obolibrary.org/obo/DHBA_12460>
+"medial nucleus of trapezoid body"	<http://purl.obolibrary.org/obo/UBERON_0002833>	"medial trapezoid nucleus"	<http://purl.obolibrary.org/obo/DMBA_17287>
 "medial oculomotor nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002975>	"medial oculomotor nucleus"	<http://purl.obolibrary.org/obo/DHBA_12204>
 "medial oculomotor nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002975>	"medial oculomotor nucleus, left"	<http://purl.obolibrary.org/obo/HBA_9037>
 "medial olfactory stria"	<http://purl.obolibrary.org/obo/UBERON_0034734>	"medial olfactory stria"	<http://purl.obolibrary.org/obo/DHBA_12076>
@@ -1193,7 +1200,6 @@
 "midbrain tectum"	<http://purl.obolibrary.org/obo/UBERON_0002314>	"midbrain tectum"	<http://purl.obolibrary.org/obo/HBA_9101>
 "midbrain tegmentum"	<http://purl.obolibrary.org/obo/UBERON_0001943>	"midbrain tegmentum"	<http://purl.obolibrary.org/obo/DHBA_12195>
 "midbrain tegmentum"	<http://purl.obolibrary.org/obo/UBERON_0001943>	"midbrain tegmentum"	<http://purl.obolibrary.org/obo/HBA_9002>
-"midbrain-hindbrain boundary"	<http://purl.obolibrary.org/obo/UBERON_0003052>	"isthmus"	<http://purl.obolibrary.org/obo/DMBA_16810>
 "middle cerebellar peduncle"	<http://purl.obolibrary.org/obo/UBERON_0002152>	"middle cerebellar peduncle"	<http://purl.obolibrary.org/obo/DHBA_12768>
 "middle cerebellar peduncle"	<http://purl.obolibrary.org/obo/UBERON_0002152>	"middle cerebellar peduncle, Right"	<http://purl.obolibrary.org/obo/HBA_9294>
 "middle cerebellar peduncle"	<http://purl.obolibrary.org/obo/UBERON_0002152>	"middle cerebellar peduncle"	<http://purl.obolibrary.org/obo/MBA_78>
@@ -1238,7 +1244,6 @@
 "nucleus incertus"	<http://purl.obolibrary.org/obo/UBERON_0035973>	"nucleus incertus"	<http://purl.obolibrary.org/obo/DMBA_17084>
 "nucleus incertus"	<http://purl.obolibrary.org/obo/UBERON_0035973>	"Nucleus incertus"	<http://purl.obolibrary.org/obo/MBA_604>
 "nucleus intercalatus"	<http://purl.obolibrary.org/obo/UBERON_0002876>	"intercalated nucleus of medulla"	<http://purl.obolibrary.org/obo/DHBA_12612>
-"nucleus intercalatus"	<http://purl.obolibrary.org/obo/UBERON_0002876>	"intercalate nucleus"	<http://purl.obolibrary.org/obo/DMBA_16339>
 "nucleus intercalatus"	<http://purl.obolibrary.org/obo/UBERON_0002876>	"intercalated nucleus"	<http://purl.obolibrary.org/obo/HBA_9572>
 "nucleus intercalatus"	<http://purl.obolibrary.org/obo/UBERON_0002876>	"Nucleus intercalatus"	<http://purl.obolibrary.org/obo/MBA_161>
 "nucleus of anterior commissure"	<http://purl.obolibrary.org/obo/UBERON_0002933>	"bed nucleus of the anterior commissure"	<http://purl.obolibrary.org/obo/DMBA_15794>
@@ -1297,7 +1302,6 @@
 "oculomotor nerve"	<http://purl.obolibrary.org/obo/UBERON_0001643>	"occulomotor nerve"	<http://purl.obolibrary.org/obo/HBA_9316>
 "oculomotor nerve"	<http://purl.obolibrary.org/obo/UBERON_0001643>	"oculomotor nerve"	<http://purl.obolibrary.org/obo/MBA_832>
 "oculomotor nerve root"	<http://purl.obolibrary.org/obo/UBERON_0002668>	"root of oculomotor nerve"	<http://purl.obolibrary.org/obo/DHBA_12376>
-"oculomotor nerve root"	<http://purl.obolibrary.org/obo/UBERON_0002668>	"oculomotor nerve root"	<http://purl.obolibrary.org/obo/DMBA_17736>
 "oculomotor nuclear complex"	<http://purl.obolibrary.org/obo/UBERON_0001715>	"oculomotor nucleus"	<http://purl.obolibrary.org/obo/DHBA_12198>
 "oculomotor nuclear complex"	<http://purl.obolibrary.org/obo/UBERON_0001715>	"oculomotor nuclear complex"	<http://purl.obolibrary.org/obo/HBA_9030>
 "oculomotor nuclear complex"	<http://purl.obolibrary.org/obo/UBERON_0001715>	"Oculomotor nucleus"	<http://purl.obolibrary.org/obo/MBA_35>
@@ -1313,9 +1317,11 @@
 "olfactory bulb internal plexiform layer"	<http://purl.obolibrary.org/obo/UBERON_0005379>	"Main olfactory bulb, inner plexiform layer"	<http://purl.obolibrary.org/obo/MBA_228>
 "olfactory bulb mitral cell layer"	<http://purl.obolibrary.org/obo/UBERON_0004186>	"mitral cell layer of olfactory bulb"	<http://purl.obolibrary.org/obo/DHBA_11329>
 "olfactory bulb mitral cell layer"	<http://purl.obolibrary.org/obo/UBERON_0004186>	"OB mitral cell layer"	<http://purl.obolibrary.org/obo/DMBA_15912>
+"olfactory bulb mitral cell layer"	<http://purl.obolibrary.org/obo/UBERON_0004186>	"Main olfactory bulb, mitral layer"	<http://purl.obolibrary.org/obo/MBA_236>
 "olfactory bulb outer nerve layer"	<http://purl.obolibrary.org/obo/UBERON_0005978>	"olfactory nerve layer of olfactory bulb"	<http://purl.obolibrary.org/obo/DHBA_11326>
 "olfactory bulb outer nerve layer"	<http://purl.obolibrary.org/obo/UBERON_0005978>	"olfactory nerve layer of main olfactory bulb"	<http://purl.obolibrary.org/obo/MBA_1016>
 "olfactory cortex"	<http://purl.obolibrary.org/obo/UBERON_0002894>	"olfactory area"	<http://purl.obolibrary.org/obo/HBA_265504406>
+"olfactory cortex"	<http://purl.obolibrary.org/obo/UBERON_0002894>	"Olfactory areas"	<http://purl.obolibrary.org/obo/MBA_698>
 "olfactory nerve"	<http://purl.obolibrary.org/obo/UBERON_0001579>	"olfactory nerve"	<http://purl.obolibrary.org/obo/HBA_9300>
 "olfactory nerve"	<http://purl.obolibrary.org/obo/UBERON_0001579>	"olfactory nerve"	<http://purl.obolibrary.org/obo/MBA_840>
 "olfactory sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002772>	"olfactory sulcus"	<http://purl.obolibrary.org/obo/DHBA_10624>
@@ -1363,6 +1369,7 @@
 "paleocortex"	<http://purl.obolibrary.org/obo/UBERON_0014735>	"paleocortex (semicortex)"	<http://purl.obolibrary.org/obo/DHBA_10306>
 "pallidotegmental fasciculus"	<http://purl.obolibrary.org/obo/UBERON_0002671>	"pallidotegmental tract"	<http://purl.obolibrary.org/obo/DHBA_12078>
 "pallidotegmental fasciculus"	<http://purl.obolibrary.org/obo/UBERON_0002671>	"pallidotegmental fascicle"	<http://purl.obolibrary.org/obo/MBA_134>
+"pallidum"	<http://purl.obolibrary.org/obo/UBERON_0006514>	"pallidum (globus pallidus complex)"	<http://purl.obolibrary.org/obo/DMBA_15834>
 "pallidum"	<http://purl.obolibrary.org/obo/UBERON_0006514>	"Pallidum"	<http://purl.obolibrary.org/obo/MBA_803>
 "pallium"	<http://purl.obolibrary.org/obo/UBERON_0000203>	"pallium"	<http://purl.obolibrary.org/obo/DMBA_15903>
 "parabigeminal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002140>	"parabigeminal nucleus"	<http://purl.obolibrary.org/obo/DHBA_12312>
@@ -1462,9 +1469,7 @@
 "parietal operculum"	<http://purl.obolibrary.org/obo/UBERON_0002911>	"parietal operculum"	<http://purl.obolibrary.org/obo/DHBA_13230>
 "parieto-occipital sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002695>	"parietooccipital fissure"	<http://purl.obolibrary.org/obo/DHBA_10626>
 "parieto-occipital sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002695>	"parieto-occipital sulcus"	<http://purl.obolibrary.org/obo/HBA_9392>
-"pars postrema of ventral lateral nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002617>	"ventrolateral preoptic nucleus"	<http://purl.obolibrary.org/obo/DMBA_15612>
 "pars postrema of ventral lateral nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002617>	"ventral lateral posterior nucleus of the thalamus, left"	<http://purl.obolibrary.org/obo/HBA_4423>
-"pars postrema of ventral lateral nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002617>	"Ventrolateral preoptic nucleus"	<http://purl.obolibrary.org/obo/MBA_689>
 "parvocellular layer of dorsal nucleus of lateral geniculate body"	<http://purl.obolibrary.org/obo/UBERON_0013607>	"dorsal lateral geniculate nucleus, parvocellular layers"	<http://purl.obolibrary.org/obo/PBA_128013091>
 "parvocellular oculomotor nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002141>	"parvicellular oculomotor nucleus"	<http://purl.obolibrary.org/obo/DHBA_12219>
 "parvocellular oculomotor nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002141>	"Edinger-Westphal nucleus"	<http://purl.obolibrary.org/obo/HBA_9449>
@@ -1491,7 +1496,6 @@
 "periamygdaloid area"	<http://purl.obolibrary.org/obo/UBERON_0002656>	"semilunar gyrus"	<http://purl.obolibrary.org/obo/DHBA_12169>
 "pericentral nucleus of inferior colliculus"	<http://purl.obolibrary.org/obo/UBERON_0002577>	"cortex of inferior colliculus"	<http://purl.obolibrary.org/obo/DHBA_12306>
 "pericentral nucleus of inferior colliculus"	<http://purl.obolibrary.org/obo/UBERON_0002577>	"pericentral nucleus of the inferior colliculus, left"	<http://purl.obolibrary.org/obo/HBA_9106>
-"pericentral nucleus of inferior colliculus"	<http://purl.obolibrary.org/obo/UBERON_0002577>	"Inferior colliculus, dorsal nucleus"	<http://purl.obolibrary.org/obo/MBA_820>
 "perifornical nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002274>	"perifornical nucleus"	<http://purl.obolibrary.org/obo/DHBA_11578>
 "perifornical nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002274>	"perifornical nucleus"	<http://purl.obolibrary.org/obo/HBA_12917>
 "periolivary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002971>	"periolivary nuclei"	<http://purl.obolibrary.org/obo/DHBA_12464>
@@ -1575,7 +1579,6 @@
 "posterior parietal cortex"	<http://purl.obolibrary.org/obo/UBERON_0034889>	"posterior parietal cortex"	<http://purl.obolibrary.org/obo/DHBA_10214>
 "posterior parolfactory sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002923>	"caudal parolfactory sulcus"	<http://purl.obolibrary.org/obo/DHBA_146034828>
 "posterior parolfactory sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002923>	"posterior parolfactory sulcus"	<http://purl.obolibrary.org/obo/HBA_9369>
-"posterior part of anterior commissure"	<http://purl.obolibrary.org/obo/UBERON_0003043>	"anterior commissure, temporal limb"	<http://purl.obolibrary.org/obo/MBA_908>
 "posterior periventricular nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002708>	"posterior paraventricular nucleus"	<http://purl.obolibrary.org/obo/DMBA_16441>
 "posterior periventricular nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002708>	"Periventricular hypothalamic nucleus, posterior part"	<http://purl.obolibrary.org/obo/MBA_126>
 "posterior pretectal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0006848>	"Posterior pretectal nucleus"	<http://purl.obolibrary.org/obo/MBA_1061>
@@ -1599,7 +1602,6 @@
 "posteroventral cochlear nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002831>	"ventral cochlear nucleus, caudal part"	<http://purl.obolibrary.org/obo/DHBA_12441>
 "posteroventral cochlear nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002831>	"posteroventral cochlear nucleus, left"	<http://purl.obolibrary.org/obo/HBA_9533>
 "postnatal subventricular zone"	<http://purl.obolibrary.org/obo/UBERON_0004922>	"subventricular zone"	<http://purl.obolibrary.org/obo/DHBA_10536>
-"postnatal subventricular zone"	<http://purl.obolibrary.org/obo/UBERON_0004922>	"subependymal zone"	<http://purl.obolibrary.org/obo/MBA_98>
 "postnatal subventricular zone"	<http://purl.obolibrary.org/obo/UBERON_0004922>	"subventricular zone"	<http://purl.obolibrary.org/obo/PBA_294021970>
 "postoptic commissure"	<http://purl.obolibrary.org/obo/UBERON_0003936>	"postcentral sulcus"	<http://purl.obolibrary.org/obo/HBA_9371>
 "postoptic commissure"	<http://purl.obolibrary.org/obo/UBERON_0003936>	"preoptic commissure"	<http://purl.obolibrary.org/obo/MBA_174>
@@ -1632,7 +1634,6 @@
 "prepyramidal fissure of cerebellum"	<http://purl.obolibrary.org/obo/UBERON_0002816>	"prepyramidal fissure"	<http://purl.obolibrary.org/obo/MBA_1119>
 "prepyriform area"	<http://purl.obolibrary.org/obo/UBERON_0002590>	"lateral olfactory gyrus"	<http://purl.obolibrary.org/obo/DHBA_13229>
 "prepyriform area"	<http://purl.obolibrary.org/obo/UBERON_0002590>	"prepiriform region"	<http://purl.obolibrary.org/obo/DHBA_266441677>
-"prepyriform area"	<http://purl.obolibrary.org/obo/UBERON_0002590>	"Piriform area"	<http://purl.obolibrary.org/obo/MBA_961>
 "presubiculum"	<http://purl.obolibrary.org/obo/UBERON_0001953>	"presubicular cortex (presubiculum)"	<http://purl.obolibrary.org/obo/DHBA_10315>
 "presubiculum"	<http://purl.obolibrary.org/obo/UBERON_0001953>	"presubiculum"	<http://purl.obolibrary.org/obo/DMBA_16172>
 "presubiculum"	<http://purl.obolibrary.org/obo/UBERON_0001953>	"presubiculum, left"	<http://purl.obolibrary.org/obo/HBA_4252>
@@ -1663,7 +1664,6 @@
 "primary visual area, layer 5"	<http://purl.obolibrary.org/obo/UBERON_0035906>	"Primary visual area, layer 5"	<http://purl.obolibrary.org/obo/MBA_778>
 "primary visual area, layer 6a"	<http://purl.obolibrary.org/obo/UBERON_0035892>	"Primary visual area, layer 6a"	<http://purl.obolibrary.org/obo/MBA_33>
 "primary visual cortex"	<http://purl.obolibrary.org/obo/UBERON_0002436>	"Primary visual area"	<http://purl.obolibrary.org/obo/MBA_385>
-"primary visual cortex"	<http://purl.obolibrary.org/obo/UBERON_0002436>	"primary visual cortex (V1, striate cortex, area 17)"	<http://purl.obolibrary.org/obo/PBA_10026>
 "principal inferior olivary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002158>	"inferior olive, principal nucleus"	<http://purl.obolibrary.org/obo/DHBA_12610>
 "principal inferior olivary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002158>	"principal inferior olivary nucleus, left"	<http://purl.obolibrary.org/obo/HBA_9564>
 "principal nucleus of stria terminalis"	<http://purl.obolibrary.org/obo/UBERON_0011178>	"Bed nuclei of the stria terminalis, posterior division, principal nucleus"	<http://purl.obolibrary.org/obo/MBA_578>
@@ -1685,8 +1685,10 @@
 "pyramidal layer of CA1"	<http://purl.obolibrary.org/obo/UBERON_0014548>	"Field CA1, stratum pyramidale"	<http://purl.obolibrary.org/obo/DMBA_16133>
 "pyramidal layer of CA1"	<http://purl.obolibrary.org/obo/UBERON_0014548>	"Field CA1, pyramidal layer"	<http://purl.obolibrary.org/obo/MBA_407>
 "pyramidal layer of CA1"	<http://purl.obolibrary.org/obo/UBERON_0014548>	"stratum pyramidale of CA1"	<http://purl.obolibrary.org/obo/PBA_10060>
+"pyramidal layer of CA2"	<http://purl.obolibrary.org/obo/UBERON_0014549>	"Field CA2, stratum pyramidale"	<http://purl.obolibrary.org/obo/DMBA_16139>
 "pyramidal layer of CA2"	<http://purl.obolibrary.org/obo/UBERON_0014549>	"Field CA2, pyramidal layer"	<http://purl.obolibrary.org/obo/MBA_446>
 "pyramidal layer of CA2"	<http://purl.obolibrary.org/obo/UBERON_0014549>	"stratum pyramidale of CA2"	<http://purl.obolibrary.org/obo/PBA_10065>
+"pyramidal layer of CA3"	<http://purl.obolibrary.org/obo/UBERON_0014550>	"Field CA3, stratum pyramidale"	<http://purl.obolibrary.org/obo/DMBA_16143>
 "pyramidal layer of CA3"	<http://purl.obolibrary.org/obo/UBERON_0014550>	"Field CA3, pyramidal layer"	<http://purl.obolibrary.org/obo/MBA_495>
 "pyramidal layer of CA3"	<http://purl.obolibrary.org/obo/UBERON_0014550>	"stratum pyramidale of CA3"	<http://purl.obolibrary.org/obo/PBA_10070>
 "radiation of corpus callosum"	<http://purl.obolibrary.org/obo/UBERON_0035924>	"radiations of corpus callosum"	<http://purl.obolibrary.org/obo/DHBA_12026>
@@ -11142,7 +11144,6 @@
 "retrorubral area of midbrain reticular nucleus"	<http://purl.obolibrary.org/obo/UBERON_0011172>	"retrorubral field"	<http://purl.obolibrary.org/obo/DHBA_12289>
 "retrorubral area of midbrain reticular nucleus"	<http://purl.obolibrary.org/obo/UBERON_0011172>	"retrorubral field"	<http://purl.obolibrary.org/obo/DMBA_16884>
 "retrorubral area of midbrain reticular nucleus"	<http://purl.obolibrary.org/obo/UBERON_0011172>	"Midbrain reticular nucleus, retrorubral area"	<http://purl.obolibrary.org/obo/MBA_246>
-"retrosplenial granular cortex"	<http://purl.obolibrary.org/obo/UBERON_0014918>	"Retrosplenial area, ventral part"	<http://purl.obolibrary.org/obo/MBA_886>
 "retrosplenial region"	<http://purl.obolibrary.org/obo/UBERON_0013531>	"retrosplenial cortex"	<http://purl.obolibrary.org/obo/DHBA_10324>
 "retrosplenial region"	<http://purl.obolibrary.org/obo/UBERON_0013531>	"cingulate gyrus, retrospleninal part"	<http://purl.obolibrary.org/obo/DHBA_266441669>
 "retrosplenial region"	<http://purl.obolibrary.org/obo/UBERON_0013531>	"retrosplenial cortex"	<http://purl.obolibrary.org/obo/DMBA_16093>
@@ -11202,6 +11203,7 @@
 "root of abducens nerve"	<http://purl.obolibrary.org/obo/UBERON_0002786>	"abducens nerve root"	<http://purl.obolibrary.org/obo/DMBA_17741>
 "root of trochlear nerve"	<http://purl.obolibrary.org/obo/UBERON_0002618>	"root of trochlear nerve"	<http://purl.obolibrary.org/obo/DHBA_12377>
 "root of trochlear nerve"	<http://purl.obolibrary.org/obo/UBERON_0002618>	"trochlear nerve root"	<http://purl.obolibrary.org/obo/DMBA_17737>
+"root of trochlear nerve"	<http://purl.obolibrary.org/obo/UBERON_0002618>	"trochlear nerve"	<http://purl.obolibrary.org/obo/MBA_911>
 "root of vagus nerve"	<http://purl.obolibrary.org/obo/UBERON_0011213>	"root of vagus nerve"	<http://purl.obolibrary.org/obo/DHBA_12888>
 "root of vagus nerve"	<http://purl.obolibrary.org/obo/UBERON_0011213>	"vagal nerve root"	<http://purl.obolibrary.org/obo/DMBA_17748>
 "rostral CA1"	<http://purl.obolibrary.org/obo/UBERON_0034777>	"rostral CA1"	<http://purl.obolibrary.org/obo/DHBA_11275>
@@ -11209,7 +11211,6 @@
 "rostral CA3"	<http://purl.obolibrary.org/obo/UBERON_0034779>	"rostral CA3"	<http://purl.obolibrary.org/obo/DHBA_11295>
 "rostral gyrus"	<http://purl.obolibrary.org/obo/UBERON_0019280>	"rostral gyrus"	<http://purl.obolibrary.org/obo/DHBA_146034876>
 "rostral interstitial nucleus of medial longitudinal fasciculus"	<http://purl.obolibrary.org/obo/UBERON_0002717>	"rostral interstitial nucleus of the medial longitudinal fasciculus"	<http://purl.obolibrary.org/obo/HBA_9060>
-"rostral interstitial nucleus of medial longitudinal fasciculus"	<http://purl.obolibrary.org/obo/UBERON_0002717>	"rhinal incisure"	<http://purl.obolibrary.org/obo/MBA_1078>
 "rostral intralaminar nuclear group"	<http://purl.obolibrary.org/obo/UBERON_0002965>	"anterior group of intralaminar nuclei"	<http://purl.obolibrary.org/obo/DHBA_10443>
 "rostral intralaminar nuclear group"	<http://purl.obolibrary.org/obo/UBERON_0002965>	"rostral group of intralaminar nuclei"	<http://purl.obolibrary.org/obo/HBA_12929>
 "rostral linear nucleus"	<http://purl.obolibrary.org/obo/UBERON_0013734>	"rostral linear nucleus of the raphe"	<http://purl.obolibrary.org/obo/DHBA_12234>
@@ -11250,6 +11251,7 @@
 "septohypothalamic nucleus"	<http://purl.obolibrary.org/obo/UBERON_0019308>	"septohypothalamic nucleus"	<http://purl.obolibrary.org/obo/DMBA_15761>
 "septum pellucidum"	<http://purl.obolibrary.org/obo/UBERON_0004714>	"septum pellucidum"	<http://purl.obolibrary.org/obo/DHBA_12098>
 "shell of nucleus accumbens"	<http://purl.obolibrary.org/obo/UBERON_0012171>	"shell of nucleus accumbens"	<http://purl.obolibrary.org/obo/DHBA_10341>
+"shell of nucleus accumbens"	<http://purl.obolibrary.org/obo/UBERON_0012171>	"accumbens nucleus, shell domain"	<http://purl.obolibrary.org/obo/DMBA_15815>
 "shell of nucleus accumbens"	<http://purl.obolibrary.org/obo/UBERON_0012171>	"shell of nucleus accumbens"	<http://purl.obolibrary.org/obo/PBA_10094>
 "solitary tract"	<http://purl.obolibrary.org/obo/UBERON_0002718>	"solitary tract"	<http://purl.obolibrary.org/obo/DHBA_12783>
 "solitary tract"	<http://purl.obolibrary.org/obo/UBERON_0002718>	"solitary tract"	<http://purl.obolibrary.org/obo/DMBA_17796>
@@ -11258,6 +11260,7 @@
 "somatosensory cortex"	<http://purl.obolibrary.org/obo/UBERON_0008930>	"Somatosensory areas"	<http://purl.obolibrary.org/obo/MBA_453>
 "spinal cord"	<http://purl.obolibrary.org/obo/UBERON_0002240>	"spinal cord"	<http://purl.obolibrary.org/obo/DHBA_12890>
 "spinal cord"	<http://purl.obolibrary.org/obo/UBERON_0002240>	"spinal cord"	<http://purl.obolibrary.org/obo/DMBA_17651>
+"spinal cord dorsal column"	<http://purl.obolibrary.org/obo/UBERON_0005373>	"dorsal column tracts"	<http://purl.obolibrary.org/obo/DMBA_17759>
 "spinal cord dorsal column"	<http://purl.obolibrary.org/obo/UBERON_0005373>	"dorsal column"	<http://purl.obolibrary.org/obo/MBA_514>
 "spinal cord gray commissure"	<http://purl.obolibrary.org/obo/UBERON_0004677>	"central glial substance"	<http://purl.obolibrary.org/obo/DHBA_12647>
 "spinal cord gray commissure"	<http://purl.obolibrary.org/obo/UBERON_0004677>	"central glial substance"	<http://purl.obolibrary.org/obo/HBA_9525>
@@ -11482,7 +11485,6 @@
 "telencephalon"	<http://purl.obolibrary.org/obo/UBERON_0001893>	"telencephalon"	<http://purl.obolibrary.org/obo/PBA_128011350>
 "temporal cortex"	<http://purl.obolibrary.org/obo/UBERON_0016538>	"temporal neocortex"	<http://purl.obolibrary.org/obo/DHBA_10235>
 "temporal cortex"	<http://purl.obolibrary.org/obo/UBERON_0016538>	"temporal cortex"	<http://purl.obolibrary.org/obo/DMBA_16044>
-"temporal cortex association area"	<http://purl.obolibrary.org/obo/UBERON_0035013>	"Temporal association areas"	<http://purl.obolibrary.org/obo/MBA_541>
 "temporal cortex cingulum"	<http://purl.obolibrary.org/obo/UBERON_0022429>	"cingulum bundle in temporal cortex"	<http://purl.obolibrary.org/obo/DHBA_15540>
 "temporal fusiform gyrus"	<http://purl.obolibrary.org/obo/UBERON_0022395>	"occipitotemporal (fusiform) gyrus, temporal part"	<http://purl.obolibrary.org/obo/DHBA_12143>
 "temporal lobe"	<http://purl.obolibrary.org/obo/UBERON_0001871>	"temporal lobe"	<http://purl.obolibrary.org/obo/DHBA_12139>
@@ -11519,7 +11521,6 @@
 "trigeminal nuclear complex"	<http://purl.obolibrary.org/obo/UBERON_0007641>	"trigeminal nuclei"	<http://purl.obolibrary.org/obo/HBA_9203>
 "trigeminothalamic tract"	<http://purl.obolibrary.org/obo/UBERON_0004171>	"trigeminothalamic tract"	<http://purl.obolibrary.org/obo/DHBA_12797>
 "trochlear nerve"	<http://purl.obolibrary.org/obo/UBERON_0001644>	"trochlear nerve"	<http://purl.obolibrary.org/obo/HBA_9319>
-"trochlear nerve"	<http://purl.obolibrary.org/obo/UBERON_0001644>	"trochlear nerve"	<http://purl.obolibrary.org/obo/MBA_911>
 "trochlear nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002722>	"trochlear nucleus"	<http://purl.obolibrary.org/obo/DHBA_12206>
 "trochlear nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002722>	"trochlear nucleus"	<http://purl.obolibrary.org/obo/DMBA_16903>
 "trochlear nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002722>	"trochlear nucleus"	<http://purl.obolibrary.org/obo/HBA_9063>
@@ -11527,6 +11528,7 @@
 "tuber cinereum"	<http://purl.obolibrary.org/obo/UBERON_0002620>	"tuber cinereum"	<http://purl.obolibrary.org/obo/DHBA_10647>
 "tuber cinereum"	<http://purl.obolibrary.org/obo/UBERON_0002620>	"tuber cinereum area"	<http://purl.obolibrary.org/obo/DMBA_15665>
 "tuber cinereum"	<http://purl.obolibrary.org/obo/UBERON_0002620>	"tuberal region"	<http://purl.obolibrary.org/obo/HBA_4633>
+"tuber cinereum"	<http://purl.obolibrary.org/obo/UBERON_0002620>	"Tuberal nucleus"	<http://purl.obolibrary.org/obo/MBA_614>
 "tuberomammillary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0001936>	"tuberomammillary nucleus"	<http://purl.obolibrary.org/obo/DHBA_10496>
 "tuberomammillary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0001936>	"tuberomammillary nucleus"	<http://purl.obolibrary.org/obo/HBA_12912>
 "tuberomammillary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0001936>	"Tuberomammillary nucleus"	<http://purl.obolibrary.org/obo/MBA_557>
@@ -11608,10 +11610,8 @@
 "ventral thalamic fasciculus"	<http://purl.obolibrary.org/obo/UBERON_0022254>	"thalamic fasciculus"	<http://purl.obolibrary.org/obo/DHBA_10593>
 "ventral thalamic fasciculus"	<http://purl.obolibrary.org/obo/UBERON_0022254>	"thalamic fasciculus"	<http://purl.obolibrary.org/obo/HBA_265505374>
 "ventral thalamus"	<http://purl.obolibrary.org/obo/UBERON_0001900>	"ventral thalamus"	<http://purl.obolibrary.org/obo/DHBA_10461>
-"ventral thalamus"	<http://purl.obolibrary.org/obo/UBERON_0001900>	"prethalamus"	<http://purl.obolibrary.org/obo/DMBA_16310>
 "ventral thalamus"	<http://purl.obolibrary.org/obo/UBERON_0001900>	"ventral thalamus"	<http://purl.obolibrary.org/obo/HBA_4504>
 "ventral trigeminal tract"	<http://purl.obolibrary.org/obo/UBERON_0002549>	"ventral trigeminothalamic tract"	<http://purl.obolibrary.org/obo/DHBA_12803>
-"ventral zone of medial entorhinal cortex"	<http://purl.obolibrary.org/obo/UBERON_0018263>	"Entorhinal area, medial part, ventral zone"	<http://purl.obolibrary.org/obo/MBA_934>
 "ventricular system choroidal fissure"	<http://purl.obolibrary.org/obo/UBERON_0002192>	"choroid fissure"	<http://purl.obolibrary.org/obo/DHBA_12094>
 "ventricular system choroidal fissure"	<http://purl.obolibrary.org/obo/UBERON_0002192>	"choroid fissure"	<http://purl.obolibrary.org/obo/MBA_116>
 "ventricular system of central nervous system"	<http://purl.obolibrary.org/obo/UBERON_0005281>	"ventricular systems"	<http://purl.obolibrary.org/obo/MBA_73>
@@ -11635,7 +11635,6 @@
 "vestibulocochlear nerve root"	<http://purl.obolibrary.org/obo/UBERON_0002731>	"vestibulocochlear nerve root"	<http://purl.obolibrary.org/obo/DMBA_17746>
 "vestibulospinal tract"	<http://purl.obolibrary.org/obo/UBERON_0002768>	"vestibulospinal pathway"	<http://purl.obolibrary.org/obo/MBA_941>
 "visual cortex"	<http://purl.obolibrary.org/obo/UBERON_0000411>	"Visual areas"	<http://purl.obolibrary.org/obo/MBA_669>
-"vomeronasal nerve"	<http://purl.obolibrary.org/obo/UBERON_0009121>	"vomeronasal nerve"	<http://purl.obolibrary.org/obo/MBA_949>
 "white matter"	<http://purl.obolibrary.org/obo/UBERON_0002316>	"white matter"	<http://purl.obolibrary.org/obo/HBA_9218>
 "white matter"	<http://purl.obolibrary.org/obo/UBERON_0002316>	"white matter"	<http://purl.obolibrary.org/obo/PBA_294022044>
 "white matter of cerebellum"	<http://purl.obolibrary.org/obo/UBERON_0002317>	"cerebellar white matter"	<http://purl.obolibrary.org/obo/DMBA_16926>
