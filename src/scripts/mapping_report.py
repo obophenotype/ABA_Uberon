@@ -80,7 +80,7 @@ def get_old_mapped_terms():
     headers, records = read_csv_to_dict(OLD_MAPPING_FILE, delimiter="\t", generated_ids=True)
     legacy_terms = set()
     for row_num in records:
-        legacy_terms.add(str(records[row_num]["subclass_iri"]).replace("<", "").replace(">", "").strip())
+        legacy_terms.add(str(records[row_num]["subclass_iri"]).strip().lstrip("<").rstrip(">"))
     return legacy_terms
 
 
