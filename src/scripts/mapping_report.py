@@ -91,7 +91,7 @@ if __name__ == '__main__':
     terms_not_in_new = old_terms.difference(new_terms)
 
     print("=======================================================")
-    print("Terms exists in the old mapping but not in the new one:")
+    print("Terms that exist in the old mapping but not in the new one:")
     counter = 1
     for entity in terms_not_in_new:
         print(str(counter) + "- " + entity)
