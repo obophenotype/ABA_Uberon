@@ -87,7 +87,6 @@ def get_old_mapped_terms():
 if __name__ == '__main__':
     new_terms = get_new_mapped_terms()
     old_terms = get_old_mapped_terms()
-    # terms_not_in_new = [x for x in old_terms if x not in new_terms]
     terms_not_in_new = old_terms.difference(new_terms)
 
     print("=======================================================")
