@@ -75,4 +75,5 @@ def read_csv_to_dict(csv_path, id_column=0, id_column_name="", delimiter=",", id
     return headers, records
 
 
-add_labels_to_report(REL_REPORT_PATH, ALL_LABELS_PATH, REL_REPORT_LBL_PATH)
+if __name__ == '__main__':
+    add_labels_to_report(REL_REPORT_PATH, ALL_LABELS_PATH, REL_REPORT_LBL_PATH)

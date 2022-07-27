@@ -2,3 +2,5 @@ pandas
 openpyxl
 linkml-owl
 ruamel.yaml
+rdflib
+funowl
