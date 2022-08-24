@@ -7706,9 +7706,31 @@
                 </intersectionOf>
             </Class>
         </equivalentClass>
+        <rdfs:subClassOf>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_0036224"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </rdfs:subClassOf>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pyramid</obo:IAO_0000589>
         <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pyramid</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
         <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</oboInOwl:status>
     </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_190"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
     <Axiom>
         <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_190"/>
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
@@ -10032,6 +10054,32 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_283 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_283">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440072"/>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lateral tegmental nucleus</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_283"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_284 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_284">
@@ -10274,6 +10322,35 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_298 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_298">
+        <rdfs:subClassOf>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_0010010"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </rdfs:subClassOf>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magnocellular nucleus</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_298"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -14190,6 +14267,32 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_44 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_44">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440033"/>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">infralimbic area</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_44"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_440 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_440">
@@ -16792,20 +16895,17 @@
     <!-- http://purl.obolibrary.org/obo/MBA_541 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_541">
-        <rdfs:subClassOf>
+        <equivalentClass>
             <Class>
                 <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035013"/>
                     <Restriction>
                         <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
                         <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
                     </Restriction>
-                    <Restriction>
-                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
-                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_0035013"/>
-                    </Restriction>
                 </intersectionOf>
             </Class>
-        </rdfs:subClassOf>
+        </equivalentClass>
         <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal association areas</obo:IAO_0000589>
         <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
     </Class>
@@ -23664,20 +23764,17 @@
     <!-- http://purl.obolibrary.org/obo/MBA_820 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_820">
-        <rdfs:subClassOf>
+        <equivalentClass>
             <Class>
                 <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002577"/>
                     <Restriction>
                         <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
                         <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
                     </Restriction>
-                    <Restriction>
-                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
-                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002563"/>
-                    </Restriction>
                 </intersectionOf>
             </Class>
-        </rdfs:subClassOf>
+        </equivalentClass>
         <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">inferior colliculus, dorsal nucleus</obo:IAO_0000589>
         <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</oboInOwl:status>
     </Class>
@@ -25293,6 +25390,35 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_887 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_887">
+        <rdfs:subClassOf>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_0002775"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </rdfs:subClassOf>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">efferent cochlear group</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_887"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_888 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_888">
@@ -25945,7 +26071,14 @@
             </Class>
         </equivalentClass>
         <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">interposed nucleus</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
     </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_91"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
     
 
 
@@ -29197,6 +29330,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/UBERON_0002577 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0002577"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/UBERON_0002580 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0002580"/>
@@ -29590,6 +29729,12 @@
     <!-- http://purl.obolibrary.org/obo/UBERON_0002768 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0002768"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UBERON_0002775 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0002775"/>
     
 
 
@@ -30733,6 +30878,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/UBERON_0010010 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0010010"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/UBERON_0010036 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0010036"/>
@@ -31537,6 +31688,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/UBERON_0036224 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0036224"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/UBERON_8440000 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_8440000"/>
@@ -31633,6 +31790,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/UBERON_8440033 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_8440033"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/UBERON_8440034 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_8440034"/>
@@ -31672,6 +31835,12 @@
     <!-- http://purl.obolibrary.org/obo/UBERON_8440040 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_8440040"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UBERON_8440072 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_8440072"/>
     
 
 
