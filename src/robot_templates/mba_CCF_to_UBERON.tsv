@@ -1015,8 +1015,7 @@ http://purl.obolibrary.org/obo/MBA_815	"dentate gyrus medial blade, polymorph la
 http://purl.obolibrary.org/obo/MBA_816	"primary auditory area, layer 4"	subclass	http://purl.obolibrary.org/obo/UBERON_0034751			primary auditory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_818	"pallidum, dorsal region"	equivalent		http://purl.obolibrary.org/obo/UBERON_0006516		dorsal pallidum	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_82	"nucleus of the lateral lemniscus, dorsal part"	equivalent		http://purl.obolibrary.org/obo/UBERON_0003006		dorsal nucleus of lateral lemniscus	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_820	"inferior colliculus, dorsal nucleus"	subclass	http://purl.obolibrary.org/obo/UBERON_0002563			central nucleus of inferior colliculus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_820	"inferior colliculus, dorsal nucleus"	subclass	http://purl.obolibrary.org/obo/UBERON_0002563			central nucleus of inferior colliculus 	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_820	"inferior colliculus, dorsal nucleus"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002577		pericentral nucleus of inferior colliculus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_821	"primary visual area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035907		"primary visual area, layer 2/3"	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_822	retrohippocampal region	equivalent		http://purl.obolibrary.org/obo/UBERON_0022230		retrohippocampal region	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_823	"dentate gyrus medial blade, granule cell layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005381		dentate gyrus granule cell layer 	Verified	https://ror.org/03cpe7c52
@@ -1256,9 +1255,13 @@ http://purl.obolibrary.org/obo/MBA_566	postpiriform transition area	equivalent		
 http://purl.obolibrary.org/obo/MBA_307	magnocellular reticular nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440073		magnocellular reticular nucleus	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_1091	lobules IV-V	subclass	http://purl.obolibrary.org/obo/UBERON_0007763			cerebellum vermis culmen	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_560	"cochlear nucleus, subpedunclular granular region"	subclass	http://purl.obolibrary.org/obo/UBERON_0001720			cochlear nucleus	Curated	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_541	temporal association areas	subclass	http://purl.obolibrary.org/obo/UBERON_0035013			temporal cortex association area	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_541	temporal association areas	equivalent		http://purl.obolibrary.org/obo/UBERON_0035013		temporal cortex association area	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_91	interposed nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0004073		cerebellum interpositus nucleus	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_283	lateral tegmental nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440072		lateral tegmental nucleus	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_44	infralimbic area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440033		infralimbic area	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_298	Magnocellular nucleus	subclass	http://purl.obolibrary.org/obo/UBERON_0010010			basal nucleus of telencephalon	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_887	efferent cochlear group	subclass	http://purl.obolibrary.org/obo/UBERON_0002775			olivocochlear bundle	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_190	Pyramid	subclass	http://purl.obolibrary.org/obo/UBERON_0036224 			corticobulbar and corticospinal tracts	Curated	https://orcid.org/0000-0001-7258-9596
 								
 http://purl.obolibrary.org/obo/MBA_10687	"paraflocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
