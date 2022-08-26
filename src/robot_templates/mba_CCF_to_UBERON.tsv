@@ -196,12 +196,6 @@ http://purl.obolibrary.org/obo/MBA_127	anteromedial nucleus	equivalent		http://p
 http://purl.obolibrary.org/obo/MBA_127	anteromedial nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0002681		anteromedial nucleus of thalamus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_128	midbrain reticular nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0007415		nucleus of midbrain reticular formation	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_129	third ventricle	equivalent		http://purl.obolibrary.org/obo/UBERON_0002286		third ventricle	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_12993	"somatosensory areas, layer 1"	subclass	http://purl.obolibrary.org/obo/UBERON_0008930			somatosensory cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_12994	"somatosensory areas, layer 2/3"	subclass	http://purl.obolibrary.org/obo/UBERON_0008930			somatosensory cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_12995	"somatosensory areas, layer 4"	subclass	http://purl.obolibrary.org/obo/UBERON_0008930			somatosensory cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_12996	"somatosensory areas, layer 5"	subclass	http://purl.obolibrary.org/obo/UBERON_0008930			somatosensory cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_12997	"somatosensory areas, layer 6a"	subclass	http://purl.obolibrary.org/obo/UBERON_0008930			somatosensory cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_12998	"somatosensory areas, layer 6b"	subclass	http://purl.obolibrary.org/obo/UBERON_0008930			somatosensory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_130	"superior central nucleus raphe, medial part"	subclass	http://purl.obolibrary.org/obo/UBERON_0003004			median raphe nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_131	lateral amygdalar nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0002886		lateral amygdaloid nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_131	lateral amygdalar nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0002886		lateral amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
@@ -413,19 +407,6 @@ http://purl.obolibrary.org/obo/MBA_31	anterior cingulate area	equivalent		http:/
 http://purl.obolibrary.org/obo/MBA_310	septofimbrial nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0001878		septofimbrial nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_311	"basolateral amygdalar nucleus, posterior part"	subclass	http://purl.obolibrary.org/obo/UBERON_0002887			basal amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_312	"entorhinal area, lateral part, layer 4/5"	subclass	http://purl.obolibrary.org/obo/UBERON_0007225			lateral entorhinal cortex 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782604	"rostrolateral area, layer 1"	subclass	http://purl.obolibrary.org/obo/UBERON_0035912			rostrolateral visual area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782608	"rostrolateral area, layer 2/3"	subclass	http://purl.obolibrary.org/obo/UBERON_0035912			rostrolateral visual area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782612	"rostrolateral area, layer 4"	subclass	http://purl.obolibrary.org/obo/UBERON_0035912			rostrolateral visual area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782616	"rostrolateral area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035920		"rostrolateral area, layer 5"	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782620	"rostrolateral area, layer 6a"	subclass	http://purl.obolibrary.org/obo/UBERON_0035912			rostrolateral visual area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782624	"rostrolateral area, layer 6b"	subclass	http://purl.obolibrary.org/obo/UBERON_0035912			rostrolateral visual area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782628	postrhinal area	equivalent		http://purl.obolibrary.org/obo/UBERON_0035890		postrhinal area	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782632	"postrhinal area, layer 1"	subclass	http://purl.obolibrary.org/obo/UBERON_0035890			postrhinal area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782636	"postrhinal area, layer 2/3"	subclass	http://purl.obolibrary.org/obo/UBERON_0035890			postrhinal area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782640	"postrhinal area, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035911		"postrhinal area, layer 4"	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782644	"postrhinal area, layer 5"	subclass	http://purl.obolibrary.org/obo/UBERON_0035890			postrhinal area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782648	"postrhinal area, layer 6a"	subclass	http://purl.obolibrary.org/obo/UBERON_0035890			postrhinal area 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782652	"postrhinal area, layer 6b"	subclass	http://purl.obolibrary.org/obo/UBERON_0035890			postrhinal area 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_313	midbrain	equivalent		http://purl.obolibrary.org/obo/UBERON_0001891		midbrain	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_314	"agranular insular area, posterior part, layer 6a"	subclass	http://purl.obolibrary.org/obo/UBERON_0034893			agranular insular cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_315	isocortex	equivalent		http://purl.obolibrary.org/obo/UBERON_0001950		neocortex	Verified	https://ror.org/03cpe7c52
@@ -1262,6 +1243,8 @@ http://purl.obolibrary.org/obo/MBA_44	infralimbic area	equivalent		http://purl.o
 http://purl.obolibrary.org/obo/MBA_298	Magnocellular nucleus	subclass	http://purl.obolibrary.org/obo/UBERON_0010010			basal nucleus of telencephalon	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_887	efferent cochlear group	subclass	http://purl.obolibrary.org/obo/UBERON_0002775			olivocochlear bundle	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_190	Pyramid	subclass	http://purl.obolibrary.org/obo/UBERON_0036224 			corticobulbar and corticospinal tracts	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_312782574	laterointermediate area	subclass	http://purl.obolibrary.org/obo/UBERON_0000411			visual cortex	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_312782546	anterior area	subclass	http://purl.obolibrary.org/obo/UBERON_0000411			visual cortex	Curated	https://orcid.org/0000-0001-7258-9596
 								
 http://purl.obolibrary.org/obo/MBA_10687	"paraflocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
@@ -1343,9 +1326,22 @@ http://purl.obolibrary.org/obo/MBA_401	"anteromedial visual area, layer 4"	equiv
 http://purl.obolibrary.org/obo/MBA_1046	"anteromedial visual area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0035893		Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_441	"anteromedial visual area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0035893		Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_593	"primary visual area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0002436		Curated	https://orcid.org/0000-0001-7258-9596
-								
-								
-								
-								
-								
-				 				
+http://purl.obolibrary.org/obo/MBA_12993	"somatosensory areas, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0008930		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_12994	"somatosensory areas, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0008930		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_12995	"somatosensory areas, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035917	http://purl.obolibrary.org/obo/UBERON_0008930		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_12996	"somatosensory areas, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_0008930		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_12997	"somatosensory areas, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0008930		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_12998	"somatosensory areas, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0008930		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_312782604	"rostrolateral area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782608	"rostrolateral area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782612	"rostrolateral area, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035917	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782616	"rostrolateral area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035920		"rostrolateral area, layer 5"	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782620	"rostrolateral area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782624	"rostrolateral area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782628	postrhinal area	equivalent		http://purl.obolibrary.org/obo/UBERON_0035890		postrhinal area	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782632	"postrhinal area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0035890		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782636	"postrhinal area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0035890		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782640	"postrhinal area, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035911		"postrhinal area, layer 4"	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782644	"postrhinal area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_0035890		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782648	"postrhinal area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0035890		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782652	"postrhinal area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0035890		Verified	https://ror.org/03cpe7c52
