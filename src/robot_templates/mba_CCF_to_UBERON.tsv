@@ -1245,6 +1245,9 @@ http://purl.obolibrary.org/obo/MBA_887	efferent cochlear group	subclass	http://p
 http://purl.obolibrary.org/obo/MBA_190	Pyramid	subclass	http://purl.obolibrary.org/obo/UBERON_0036224 			corticobulbar and corticospinal tracts	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_312782574	laterointermediate area	subclass	http://purl.obolibrary.org/obo/UBERON_0000411			visual cortex	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_312782546	anterior area	subclass	http://purl.obolibrary.org/obo/UBERON_0000411			visual cortex	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_500	somatomotor area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440076		somatomotor area	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1057	gustatory cortex	equivalent		http://purl.obolibrary.org/obo/UBERON_8440075		gustatory cortex	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1079	rhinal incisure	equivalent		http://purl.obolibrary.org/obo/UBERON_8440077		rhinal incisure	Curated	https://orcid.org/0000-0001-7258-9596
 								
 http://purl.obolibrary.org/obo/MBA_10687	"paraflocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
