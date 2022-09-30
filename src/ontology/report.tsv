@@ -754,6 +754,7 @@
 "gray matter of hindbrain"	<http://purl.obolibrary.org/obo/UBERON_0019263>	"gray matter of the hindbrain"	<http://purl.obolibrary.org/obo/DHBA_10654>
 "gray matter of midbrain"	<http://purl.obolibrary.org/obo/UBERON_0019267>	"gray matter of midbrain"	<http://purl.obolibrary.org/obo/DHBA_10649>
 "gray matter of spinal cord"	<http://purl.obolibrary.org/obo/UBERON_0002315>	"gray matter of spinal cord"	<http://purl.obolibrary.org/obo/DHBA_146035048>
+"gustatory cortex"	<http://purl.obolibrary.org/obo/UBERON_8440075>	"Gustatory areas"	<http://purl.obolibrary.org/obo/MBA_1057>
 "gyrus rectus"	<http://purl.obolibrary.org/obo/UBERON_0004671>	"gyrus rectus"	<http://purl.obolibrary.org/obo/HBA_4047>
 "habenula"	<http://purl.obolibrary.org/obo/UBERON_0001904>	"habenular nuclei, left"	<http://purl.obolibrary.org/obo/HBA_4522>
 "habenular commissure"	<http://purl.obolibrary.org/obo/UBERON_0001909>	"habenular commissure"	<http://purl.obolibrary.org/obo/DHBA_10566>
@@ -1006,6 +1007,7 @@
 "lateral superior olivary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002779>	"lateral superior olive"	<http://purl.obolibrary.org/obo/DMBA_17261>
 "lateral superior olivary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002779>	"lateral superior olivary nucleus, left"	<http://purl.obolibrary.org/obo/HBA_9183>
 "lateral superior olivary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002779>	"Superior olivary complex, lateral part"	<http://purl.obolibrary.org/obo/MBA_114>
+"lateral tegmental nucleus"	<http://purl.obolibrary.org/obo/UBERON_8440072>	"Lateral tegmental nucleus"	<http://purl.obolibrary.org/obo/MBA_283>
 "lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0000435>	"lateral tuberal nuclei"	<http://purl.obolibrary.org/obo/DHBA_10493>
 "lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0000435>	"lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/DMBA_16271>
 "lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/UBERON_0000435>	"lateral tuberal nucleus"	<http://purl.obolibrary.org/obo/HBA_12915>
@@ -1058,6 +1060,7 @@
 "magnocellular part of red nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002936>	"magnocellular part of the red nucleus, left"	<http://purl.obolibrary.org/obo/HBA_9055>
 "magnocellular part of ventral anterior nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002935>	"magnocellular division of VA"	<http://purl.obolibrary.org/obo/DHBA_10419>
 "magnocellular part of ventral anterior nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002935>	"ventral anterior nucleus of the thalamus, left, magnocellular division"	<http://purl.obolibrary.org/obo/HBA_4420>
+"magnocellular reticular nucleus"	<http://purl.obolibrary.org/obo/UBERON_8440073>	"Magnocellular reticular nucleus"	<http://purl.obolibrary.org/obo/MBA_307>
 "main olfactory bulb"	<http://purl.obolibrary.org/obo/UBERON_0009951>	"Main olfactory bulb"	<http://purl.obolibrary.org/obo/MBA_507>
 "mammillary body"	<http://purl.obolibrary.org/obo/UBERON_0002206>	"mammillary body"	<http://purl.obolibrary.org/obo/DHBA_15546>
 "mammillary body"	<http://purl.obolibrary.org/obo/UBERON_0002206>	"mammillary area"	<http://purl.obolibrary.org/obo/DMBA_15723>
@@ -11177,6 +11180,7 @@
 "retrotrapezoid nucleus"	<http://purl.obolibrary.org/obo/UBERON_0009918>	"retrotrapezoid nucleus"	<http://purl.obolibrary.org/obo/DMBA_17327>
 "reuniens nucleus"	<http://purl.obolibrary.org/obo/UBERON_0001921>	"reuniens nucleus (medioventral nucleus) of thalamus"	<http://purl.obolibrary.org/obo/DHBA_10403>
 "reuniens nucleus"	<http://purl.obolibrary.org/obo/UBERON_0001921>	"Nucleus of reuniens"	<http://purl.obolibrary.org/obo/MBA_181>
+"rhinal incisure"	<http://purl.obolibrary.org/obo/UBERON_8440077>	"Medial geniculate complex, ventral part"	<http://purl.obolibrary.org/obo/MBA_1079>
 "rhinal sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002683>	"rhinal sulcus"	<http://purl.obolibrary.org/obo/DHBA_10636>
 "rhinal sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002683>	"rhinal sulcus"	<http://purl.obolibrary.org/obo/HBA_9383>
 "rhinal sulcus"	<http://purl.obolibrary.org/obo/UBERON_0002683>	"rhinal fissure"	<http://purl.obolibrary.org/obo/MBA_1071>
@@ -11283,6 +11287,7 @@
 "solitary tract"	<http://purl.obolibrary.org/obo/UBERON_0002718>	"solitary tract"	<http://purl.obolibrary.org/obo/DMBA_17796>
 "solitary tract"	<http://purl.obolibrary.org/obo/UBERON_0002718>	"solitary tract"	<http://purl.obolibrary.org/obo/HBA_265505626>
 "solitary tract"	<http://purl.obolibrary.org/obo/UBERON_0002718>	"solitary tract"	<http://purl.obolibrary.org/obo/MBA_237>
+"somatomotor area"	<http://purl.obolibrary.org/obo/UBERON_8440076>	"Somatomotor areas"	<http://purl.obolibrary.org/obo/MBA_500>
 "somatosensory cortex"	<http://purl.obolibrary.org/obo/UBERON_0008930>	"Somatosensory areas"	<http://purl.obolibrary.org/obo/MBA_453>
 "spinal cord"	<http://purl.obolibrary.org/obo/UBERON_0002240>	"spinal cord"	<http://purl.obolibrary.org/obo/DHBA_12890>
 "spinal cord"	<http://purl.obolibrary.org/obo/UBERON_0002240>	"spinal cord"	<http://purl.obolibrary.org/obo/DMBA_17651>

@@ -262,6 +262,7 @@ http://purl.obolibrary.org/obo/CL_0000187		muscle cell
 http://purl.obolibrary.org/obo/CL_0000188		cell of skeletal muscle
 http://purl.obolibrary.org/obo/CL_0000192		smooth muscle cell
 http://purl.obolibrary.org/obo/CL_0000197		sensory receptor cell
+http://purl.obolibrary.org/obo/CL_0000199		mechanoreceptor cell
 http://purl.obolibrary.org/obo/CL_0000206		chemoreceptor cell
 http://purl.obolibrary.org/obo/CL_0000207		olfactory receptor cell
 http://purl.obolibrary.org/obo/CL_0000209		taste receptor cell
@@ -374,6 +375,8 @@ http://purl.obolibrary.org/obo/CL_0000837		hematopoietic multipotent progenitor 
 http://purl.obolibrary.org/obo/CL_0000839		myeloid lineage restricted progenitor cell
 http://purl.obolibrary.org/obo/CL_0000842		mononuclear cell
 http://purl.obolibrary.org/obo/CL_0000853		olfactory epithelial supporting cell
+http://purl.obolibrary.org/obo/CL_0000855		sensory hair cell
+http://purl.obolibrary.org/obo/CL_0000856		neuromast hair cell
 http://purl.obolibrary.org/obo/CL_0000988		hematopoietic cell
 http://purl.obolibrary.org/obo/CL_0000995		CD34-positive, CD38-positive common myeloid progenitor OR CD34-positive, CD38-positive common lymphoid progenitor
 http://purl.obolibrary.org/obo/CL_0001012		CD7-negative lymphoid progenitor OR granulocyte monocyte progenitor
@@ -16468,6 +16471,8 @@ http://purl.obolibrary.org/obo/GO_0002009		morphogenesis of an epithelium
 http://purl.obolibrary.org/obo/GO_0002027		regulation of heart rate
 http://purl.obolibrary.org/obo/GO_0002053		positive regulation of mesenchymal cell proliferation
 http://purl.obolibrary.org/obo/GO_0002087		regulation of respiratory gaseous exchange by nervous system process
+http://purl.obolibrary.org/obo/GO_0002119		nematode larval development
+http://purl.obolibrary.org/obo/GO_0002164		larval development
 http://purl.obolibrary.org/obo/GO_0002251		organ or tissue specific immune response
 http://purl.obolibrary.org/obo/GO_0002376		immune system process
 http://purl.obolibrary.org/obo/GO_0002384		hepatic immune response
@@ -16664,6 +16669,7 @@ http://purl.obolibrary.org/obo/GO_0014832		urinary bladder smooth muscle contrac
 http://purl.obolibrary.org/obo/GO_0014848		urinary tract smooth muscle contraction
 http://purl.obolibrary.org/obo/GO_0015031		protein transport
 http://purl.obolibrary.org/obo/GO_0015629		actin cytoskeleton
+http://purl.obolibrary.org/obo/GO_0015695		organic cation transport
 http://purl.obolibrary.org/obo/GO_0015711		organic anion transport
 http://purl.obolibrary.org/obo/GO_0015718		monocarboxylic acid transport
 http://purl.obolibrary.org/obo/GO_0015721		bile acid and bile salt transport
@@ -16939,7 +16945,6 @@ http://purl.obolibrary.org/obo/GO_0048585		negative regulation of response to st
 http://purl.obolibrary.org/obo/GO_0048598		embryonic morphogenesis
 http://purl.obolibrary.org/obo/GO_0048609		multicellular organismal reproductive process
 http://purl.obolibrary.org/obo/GO_0048646		anatomical structure formation involved in morphogenesis
-http://purl.obolibrary.org/obo/GO_0048699		generation of neurons
 http://purl.obolibrary.org/obo/GO_0048729		tissue morphogenesis
 http://purl.obolibrary.org/obo/GO_0048731		system development
 http://purl.obolibrary.org/obo/GO_0048754		branching morphogenesis of an epithelial tube
@@ -16983,16 +16988,22 @@ http://purl.obolibrary.org/obo/GO_0050909		sensory perception of taste
 http://purl.obolibrary.org/obo/GO_0050910		detection of mechanical stimulus involved in sensory perception of sound
 http://purl.obolibrary.org/obo/GO_0050911		detection of chemical stimulus involved in sensory perception of smell
 http://purl.obolibrary.org/obo/GO_0050912		detection of chemical stimulus involved in sensory perception of taste
+http://purl.obolibrary.org/obo/GO_0050952		sensory perception of electrical stimulus
 http://purl.obolibrary.org/obo/GO_0050953		sensory perception of light stimulus
 http://purl.obolibrary.org/obo/GO_0050954		sensory perception of mechanical stimulus
+http://purl.obolibrary.org/obo/GO_0050956		electroception
 http://purl.obolibrary.org/obo/GO_0050957		equilibrioception
 http://purl.obolibrary.org/obo/GO_0050962		detection of light stimulus involved in sensory perception
+http://purl.obolibrary.org/obo/GO_0050963		detection of electrical stimulus involved in sensory perception
+http://purl.obolibrary.org/obo/GO_0050964		detection of electrical stimulus involved in electroception
 http://purl.obolibrary.org/obo/GO_0050966		detection of mechanical stimulus involved in sensory perception of pain
+http://purl.obolibrary.org/obo/GO_0050967		detection of electrical stimulus involved in sensory perception of pain
 http://purl.obolibrary.org/obo/GO_0050968		detection of chemical stimulus involved in sensory perception of pain
 http://purl.obolibrary.org/obo/GO_0050973		detection of mechanical stimulus involved in equilibrioception
 http://purl.obolibrary.org/obo/GO_0050974		detection of mechanical stimulus involved in sensory perception
 http://purl.obolibrary.org/obo/GO_0050975		sensory perception of touch
 http://purl.obolibrary.org/obo/GO_0050976		detection of mechanical stimulus involved in sensory perception of touch
+http://purl.obolibrary.org/obo/GO_0050981		detection of electrical stimulus
 http://purl.obolibrary.org/obo/GO_0050982		detection of mechanical stimulus
 http://purl.obolibrary.org/obo/GO_0051046		regulation of secretion
 http://purl.obolibrary.org/obo/GO_0051047		positive regulation of secretion
@@ -17015,14 +17026,13 @@ http://purl.obolibrary.org/obo/GO_0051234		establishment of localization
 http://purl.obolibrary.org/obo/GO_0051239		regulation of multicellular organismal process
 http://purl.obolibrary.org/obo/GO_0051240		positive regulation of multicellular organismal process
 http://purl.obolibrary.org/obo/GO_0051241		negative regulation of multicellular organismal process
-http://purl.obolibrary.org/obo/GO_0051270		regulation of cellular component movement
-http://purl.obolibrary.org/obo/GO_0051271		negative regulation of cellular component movement
-http://purl.obolibrary.org/obo/GO_0051272		positive regulation of cellular component movement
 http://purl.obolibrary.org/obo/GO_0051301		cell division
 http://purl.obolibrary.org/obo/GO_0051302		regulation of cell division
 http://purl.obolibrary.org/obo/GO_0051355		proprioception involved in equilibrioception
 http://purl.obolibrary.org/obo/GO_0051356		visual perception involved in equilibrioception
+http://purl.obolibrary.org/obo/GO_0051602		response to electrical stimulus
 http://purl.obolibrary.org/obo/GO_0051606		detection of stimulus
+http://purl.obolibrary.org/obo/GO_0051641		cellular localization
 http://purl.obolibrary.org/obo/GO_0051674		localization of cell
 http://purl.obolibrary.org/obo/GO_0051704		multi-organism process
 http://purl.obolibrary.org/obo/GO_0051716		cellular response to stimulus
@@ -17046,6 +17056,7 @@ http://purl.obolibrary.org/obo/GO_0060089		molecular transducer activity
 http://purl.obolibrary.org/obo/GO_0060255		regulation of macromolecule metabolic process
 http://purl.obolibrary.org/obo/GO_0060259		regulation of feeding behavior
 http://purl.obolibrary.org/obo/GO_0060284		regulation of cell development
+http://purl.obolibrary.org/obo/GO_0060341		regulation of cellular localization
 http://purl.obolibrary.org/obo/GO_0060405		regulation of penile erection
 http://purl.obolibrary.org/obo/GO_0060406		positive regulation of penile erection
 http://purl.obolibrary.org/obo/GO_0060407		negative regulation of penile erection
@@ -17058,11 +17069,13 @@ http://purl.obolibrary.org/obo/GO_0060457		negative regulation of digestive syst
 http://purl.obolibrary.org/obo/GO_0060562		epithelial tube morphogenesis
 http://purl.obolibrary.org/obo/GO_0060606		tube closure
 http://purl.obolibrary.org/obo/GO_0060688		regulation of morphogenesis of a branching structure
-http://purl.obolibrary.org/obo/GO_0060986		endocrine hormone secretion
 http://purl.obolibrary.org/obo/GO_0061007		hepaticobiliary system process
 http://purl.obolibrary.org/obo/GO_0061035		regulation of cartilage development
 http://purl.obolibrary.org/obo/GO_0061036		positive regulation of cartilage development
 http://purl.obolibrary.org/obo/GO_0061037		negative regulation of cartilage development
+http://purl.obolibrary.org/obo/GO_0061062		regulation of nematode larval development
+http://purl.obolibrary.org/obo/GO_0061063		positive regulation of nematode larval development
+http://purl.obolibrary.org/obo/GO_0061064		negative regulation of nematode larval development
 http://purl.obolibrary.org/obo/GO_0061138		morphogenesis of a branching epithelium
 http://purl.obolibrary.org/obo/GO_0061448		connective tissue development
 http://purl.obolibrary.org/obo/GO_0062012		regulation of small molecule metabolic process
@@ -17085,6 +17098,7 @@ http://purl.obolibrary.org/obo/GO_0070254		mucus secretion
 http://purl.obolibrary.org/obo/GO_0070255		regulation of mucus secretion
 http://purl.obolibrary.org/obo/GO_0070256		negative regulation of mucus secretion
 http://purl.obolibrary.org/obo/GO_0070257		positive regulation of mucus secretion
+http://purl.obolibrary.org/obo/GO_0070727		cellular macromolecule localization
 http://purl.obolibrary.org/obo/GO_0070857		regulation of bile acid biosynthetic process
 http://purl.obolibrary.org/obo/GO_0070858		negative regulation of bile acid biosynthetic process
 http://purl.obolibrary.org/obo/GO_0070859		positive regulation of bile acid biosynthetic process
@@ -17115,6 +17129,7 @@ http://purl.obolibrary.org/obo/GO_0090278		negative regulation of peptide hormon
 http://purl.obolibrary.org/obo/GO_0090325		regulation of locomotion involved in locomotory behavior
 http://purl.obolibrary.org/obo/GO_0090326		positive regulation of locomotion involved in locomotory behavior
 http://purl.obolibrary.org/obo/GO_0090327		negative regulation of locomotion involved in locomotory behavior
+http://purl.obolibrary.org/obo/GO_0097254		renal tubular secretion
 http://purl.obolibrary.org/obo/GO_0097386		glial cell projection
 http://purl.obolibrary.org/obo/GO_0097447		dendritic tree
 http://purl.obolibrary.org/obo/GO_0097457		hippocampal mossy fiber
@@ -17164,6 +17179,8 @@ http://purl.obolibrary.org/obo/GO_1903707		negative regulation of hemopoiesis
 http://purl.obolibrary.org/obo/GO_1903708		positive regulation of hemopoiesis
 http://purl.obolibrary.org/obo/GO_1903792		negative regulation of anion transport
 http://purl.obolibrary.org/obo/GO_1903793		positive regulation of anion transport
+http://purl.obolibrary.org/obo/GO_1903828		negative regulation of protein localization
+http://purl.obolibrary.org/obo/GO_1903829		positive regulation of protein localization
 http://purl.obolibrary.org/obo/GO_1903941		negative regulation of respiratory gaseous exchange
 http://purl.obolibrary.org/obo/GO_1903942		positive regulation of respiratory gaseous exchange
 http://purl.obolibrary.org/obo/GO_1904018		positive regulation of vasculature development
@@ -23068,39 +23085,176 @@ http://purl.obolibrary.org/obo/NCBITaxon_1		root
 http://purl.obolibrary.org/obo/NCBITaxon_10066		Muridae
 http://purl.obolibrary.org/obo/NCBITaxon_10088		Mus <genus>
 http://purl.obolibrary.org/obo/NCBITaxon_10090		Mus musculus
+http://purl.obolibrary.org/obo/NCBITaxon_10114		Rattus
 http://purl.obolibrary.org/obo/NCBITaxon_10239		Viruses
+http://purl.obolibrary.org/obo/NCBITaxon_105389		Sedentaria
+http://purl.obolibrary.org/obo/NCBITaxon_105391		Canalipalpata
+http://purl.obolibrary.org/obo/NCBITaxon_117565		Myxini
+http://purl.obolibrary.org/obo/NCBITaxon_117569		Hyperoartia
 http://purl.obolibrary.org/obo/NCBITaxon_117570		Teleostomi
 http://purl.obolibrary.org/obo/NCBITaxon_117571		Euteleostomi
+http://purl.obolibrary.org/obo/NCBITaxon_119089		Chromadorea
+http://purl.obolibrary.org/obo/NCBITaxon_1206794		Ecdysozoa
+http://purl.obolibrary.org/obo/NCBITaxon_1206795		Lophotrochozoa
+http://purl.obolibrary.org/obo/NCBITaxon_123365		Neoteleostei
+http://purl.obolibrary.org/obo/NCBITaxon_123366		Eurypterygia
+http://purl.obolibrary.org/obo/NCBITaxon_123367		Ctenosquamata
+http://purl.obolibrary.org/obo/NCBITaxon_123368		Acanthomorphata
+http://purl.obolibrary.org/obo/NCBITaxon_123369		Euacanthomorphacea
+http://purl.obolibrary.org/obo/NCBITaxon_124129		Acipenserinae
+http://purl.obolibrary.org/obo/NCBITaxon_124130		Acipenserini
 http://purl.obolibrary.org/obo/NCBITaxon_131567		cellular organisms
+http://purl.obolibrary.org/obo/NCBITaxon_1329799		Archelosauria
+http://purl.obolibrary.org/obo/NCBITaxon_1329911		Toxicofera
+http://purl.obolibrary.org/obo/NCBITaxon_1329912		Episquamata
+http://purl.obolibrary.org/obo/NCBITaxon_1329950		Unidentata
+http://purl.obolibrary.org/obo/NCBITaxon_1329961		Bifurcata
 http://purl.obolibrary.org/obo/NCBITaxon_1338369		Dipnotetrapodomorpha
 http://purl.obolibrary.org/obo/NCBITaxon_1437010		Boreoeutheria
+http://purl.obolibrary.org/obo/NCBITaxon_1476529		Cyclostomata
+http://purl.obolibrary.org/obo/NCBITaxon_1489341		Osteoglossocephalai
+http://purl.obolibrary.org/obo/NCBITaxon_1489388		Euteleosteomorpha
+http://purl.obolibrary.org/obo/NCBITaxon_1489872		Percomorphaceae
+http://purl.obolibrary.org/obo/NCBITaxon_1489922		Eupercaria
+http://purl.obolibrary.org/obo/NCBITaxon_186622		Acipenseroidei
+http://purl.obolibrary.org/obo/NCBITaxon_186623		Actinopteri
+http://purl.obolibrary.org/obo/NCBITaxon_186625		Clupeocephala
+http://purl.obolibrary.org/obo/NCBITaxon_186626		Otophysi
+http://purl.obolibrary.org/obo/NCBITaxon_186627		Cypriniphysae
+http://purl.obolibrary.org/obo/NCBITaxon_186634		Otomorpha
 http://purl.obolibrary.org/obo/NCBITaxon_1963758		Myomorpha
+http://purl.obolibrary.org/obo/NCBITaxon_197562		Pancrustacea
+http://purl.obolibrary.org/obo/NCBITaxon_197563		Mandibulata
 http://purl.obolibrary.org/obo/NCBITaxon_2		Bacteria
 http://purl.obolibrary.org/obo/NCBITaxon_207598		Homininae
 http://purl.obolibrary.org/obo/NCBITaxon_2157		Archaea
+http://purl.obolibrary.org/obo/NCBITaxon_2301116		Rhabditina
+http://purl.obolibrary.org/obo/NCBITaxon_2301119		Rhabditomorpha
+http://purl.obolibrary.org/obo/NCBITaxon_262014		Xenopus <subgenus>
+http://purl.obolibrary.org/obo/NCBITaxon_2697495		Spiralia
+http://purl.obolibrary.org/obo/NCBITaxon_2743709		Danionidae
+http://purl.obolibrary.org/obo/NCBITaxon_2743711		Danioninae
 http://purl.obolibrary.org/obo/NCBITaxon_2759		Eukaryota
+http://purl.obolibrary.org/obo/NCBITaxon_30319		Pipoidea
+http://purl.obolibrary.org/obo/NCBITaxon_30727		Cyprinoidei
+http://purl.obolibrary.org/obo/NCBITaxon_31022		Tetraodontiformes
+http://purl.obolibrary.org/obo/NCBITaxon_31028		Tetraodontoidei
+http://purl.obolibrary.org/obo/NCBITaxon_31031		Tetraodontidae
+http://purl.obolibrary.org/obo/NCBITaxon_31032		Takifugu
+http://purl.obolibrary.org/obo/NCBITaxon_31033		Takifugu rubripes
 http://purl.obolibrary.org/obo/NCBITaxon_314146		Euarchontoglires
 http://purl.obolibrary.org/obo/NCBITaxon_314147		Glires
 http://purl.obolibrary.org/obo/NCBITaxon_314293		Simiiformes
 http://purl.obolibrary.org/obo/NCBITaxon_314295		Hominoidea
+http://purl.obolibrary.org/obo/NCBITaxon_32341		Sophophora
+http://purl.obolibrary.org/obo/NCBITaxon_32346		melanogaster group
+http://purl.obolibrary.org/obo/NCBITaxon_32351		melanogaster subgroup
+http://purl.obolibrary.org/obo/NCBITaxon_32440		Chondrostei
+http://purl.obolibrary.org/obo/NCBITaxon_32443		Teleostei
+http://purl.obolibrary.org/obo/NCBITaxon_32517		Tetradontoidea
+http://purl.obolibrary.org/obo/NCBITaxon_32519		Ostariophysi
 http://purl.obolibrary.org/obo/NCBITaxon_32523		Tetrapoda
 http://purl.obolibrary.org/obo/NCBITaxon_32524		Amniota
 http://purl.obolibrary.org/obo/NCBITaxon_32525		Theria <mammals>
+http://purl.obolibrary.org/obo/NCBITaxon_32561		Sauria
 http://purl.obolibrary.org/obo/NCBITaxon_33154		Opisthokonta
 http://purl.obolibrary.org/obo/NCBITaxon_33208		Metazoa
 http://purl.obolibrary.org/obo/NCBITaxon_33213		Bilateria
+http://purl.obolibrary.org/obo/NCBITaxon_33317		Protostomia
+http://purl.obolibrary.org/obo/NCBITaxon_33340		Neoptera
+http://purl.obolibrary.org/obo/NCBITaxon_33392		Endopterygota
 http://purl.obolibrary.org/obo/NCBITaxon_33511		Deuterostomia
 http://purl.obolibrary.org/obo/NCBITaxon_337687		Muroidea
 http://purl.obolibrary.org/obo/NCBITaxon_376913		Haplorrhini
 http://purl.obolibrary.org/obo/NCBITaxon_39107		Murinae
 http://purl.obolibrary.org/obo/NCBITaxon_40674		Mammalia
+http://purl.obolibrary.org/obo/NCBITaxon_41324		Siboglinidae
+http://purl.obolibrary.org/obo/NCBITaxon_41665		Neopterygii
+http://purl.obolibrary.org/obo/NCBITaxon_41666		Batrachia
+http://purl.obolibrary.org/obo/NCBITaxon_436486		Dinosauria
+http://purl.obolibrary.org/obo/NCBITaxon_436489		Saurischia
+http://purl.obolibrary.org/obo/NCBITaxon_436491		Theropoda
+http://purl.obolibrary.org/obo/NCBITaxon_436492		Coelurosauria
+http://purl.obolibrary.org/obo/NCBITaxon_43733		Muscomorpha
+http://purl.obolibrary.org/obo/NCBITaxon_43738		Schizophora
+http://purl.obolibrary.org/obo/NCBITaxon_43741		Acalyptratae
+http://purl.obolibrary.org/obo/NCBITaxon_43746		Ephydroidea
+http://purl.obolibrary.org/obo/NCBITaxon_43845		Drosophilinae
+http://purl.obolibrary.org/obo/NCBITaxon_46877		Drosophilini
+http://purl.obolibrary.org/obo/NCBITaxon_480117		Cyclorrhapha
+http://purl.obolibrary.org/obo/NCBITaxon_480118		Eremoneura
+http://purl.obolibrary.org/obo/NCBITaxon_50557		Insecta
+http://purl.obolibrary.org/obo/NCBITaxon_55879		Rhabditoidea
+http://purl.obolibrary.org/obo/NCBITaxon_55885		Peloderinae
+http://purl.obolibrary.org/obo/NCBITaxon_6040		Porifera
 http://purl.obolibrary.org/obo/NCBITaxon_6072		Eumetazoa
+http://purl.obolibrary.org/obo/NCBITaxon_6073		Cnidaria
+http://purl.obolibrary.org/obo/NCBITaxon_6157		Platyhelminthes
+http://purl.obolibrary.org/obo/NCBITaxon_6231		Nematoda
+http://purl.obolibrary.org/obo/NCBITaxon_6236		Rhabditida
+http://purl.obolibrary.org/obo/NCBITaxon_6237		Caenorhabditis
+http://purl.obolibrary.org/obo/NCBITaxon_6239		Caenorhabditis elegans
+http://purl.obolibrary.org/obo/NCBITaxon_6243		Rhabditidae
+http://purl.obolibrary.org/obo/NCBITaxon_6340		Annelida
+http://purl.obolibrary.org/obo/NCBITaxon_6341		Polychaeta
+http://purl.obolibrary.org/obo/NCBITaxon_6362		Sabellida
+http://purl.obolibrary.org/obo/NCBITaxon_6656		Arthropoda
+http://purl.obolibrary.org/obo/NCBITaxon_6960		Hexapoda
+http://purl.obolibrary.org/obo/NCBITaxon_7147		Diptera
+http://purl.obolibrary.org/obo/NCBITaxon_7203		Brachycera
+http://purl.obolibrary.org/obo/NCBITaxon_7214		Drosophilidae
+http://purl.obolibrary.org/obo/NCBITaxon_7215		Drosophila <flies,genus>
+http://purl.obolibrary.org/obo/NCBITaxon_7227		Drosophila melanogaster
+http://purl.obolibrary.org/obo/NCBITaxon_7496		Pterygota <insects>
 http://purl.obolibrary.org/obo/NCBITaxon_7711		Chordata
+http://purl.obolibrary.org/obo/NCBITaxon_7712		Tunicata
 http://purl.obolibrary.org/obo/NCBITaxon_7742		Vertebrata <vertebrates>
+http://purl.obolibrary.org/obo/NCBITaxon_7745		Petromyzontiformes
+http://purl.obolibrary.org/obo/NCBITaxon_7761		Myxiniformes
+http://purl.obolibrary.org/obo/NCBITaxon_7762		Myxinidae
 http://purl.obolibrary.org/obo/NCBITaxon_7776		Gnathostomata <vertebrates>
+http://purl.obolibrary.org/obo/NCBITaxon_7777		Chondrichthyes
+http://purl.obolibrary.org/obo/NCBITaxon_7863		Holocephali
+http://purl.obolibrary.org/obo/NCBITaxon_7864		Chimaeriformes
+http://purl.obolibrary.org/obo/NCBITaxon_7878		Dipnomorpha
+http://purl.obolibrary.org/obo/NCBITaxon_7898		Actinopterygii
+http://purl.obolibrary.org/obo/NCBITaxon_7899		Acipenseriformes
+http://purl.obolibrary.org/obo/NCBITaxon_7900		Acipenseridae
+http://purl.obolibrary.org/obo/NCBITaxon_7901		Acipenser
+http://purl.obolibrary.org/obo/NCBITaxon_7952		Cypriniformes
+http://purl.obolibrary.org/obo/NCBITaxon_7954		Danio
+http://purl.obolibrary.org/obo/NCBITaxon_7955		Danio rerio
 http://purl.obolibrary.org/obo/NCBITaxon_8287		Sarcopterygii
+http://purl.obolibrary.org/obo/NCBITaxon_8292		Amphibia
+http://purl.obolibrary.org/obo/NCBITaxon_8342		Anura
+http://purl.obolibrary.org/obo/NCBITaxon_8352		Pipidae
+http://purl.obolibrary.org/obo/NCBITaxon_8353		Xenopus <genus>
+http://purl.obolibrary.org/obo/NCBITaxon_8355		Xenopus laevis
+http://purl.obolibrary.org/obo/NCBITaxon_8360		Xenopodinae
+http://purl.obolibrary.org/obo/NCBITaxon_8457		Sauropsida
+http://purl.obolibrary.org/obo/NCBITaxon_8492		Archosauria
+http://purl.obolibrary.org/obo/NCBITaxon_8504		Lepidosauria
+http://purl.obolibrary.org/obo/NCBITaxon_8505		Sphenodontia
+http://purl.obolibrary.org/obo/NCBITaxon_8506		Sphenodontidae
+http://purl.obolibrary.org/obo/NCBITaxon_8507		Sphenodon
+http://purl.obolibrary.org/obo/NCBITaxon_8509		Squamata
+http://purl.obolibrary.org/obo/NCBITaxon_85512		Dicondylia
+http://purl.obolibrary.org/obo/NCBITaxon_8570		Serpentes
 http://purl.obolibrary.org/obo/NCBITaxon_862507		Mus <subgenus>
+http://purl.obolibrary.org/obo/NCBITaxon_8782		Aves
+http://purl.obolibrary.org/obo/NCBITaxon_8783		Palaeognathae
+http://purl.obolibrary.org/obo/NCBITaxon_8798		Struthioniformes
+http://purl.obolibrary.org/obo/NCBITaxon_8799		Struthionidae
+http://purl.obolibrary.org/obo/NCBITaxon_8800		Struthio
+http://purl.obolibrary.org/obo/NCBITaxon_8801		Struthio camelus
+http://purl.obolibrary.org/obo/NCBITaxon_8825		Neognathae
+http://purl.obolibrary.org/obo/NCBITaxon_88770		Panarthropoda
+http://purl.obolibrary.org/obo/NCBITaxon_8929		Columbiformes
+http://purl.obolibrary.org/obo/NCBITaxon_8930		Columbidae
 http://purl.obolibrary.org/obo/NCBITaxon_89593		Craniata <chordates>
+http://purl.obolibrary.org/obo/NCBITaxon_9254		Prototheria
+http://purl.obolibrary.org/obo/NCBITaxon_9255		Monotremata
+http://purl.obolibrary.org/obo/NCBITaxon_9259		Tachyglossidae
 http://purl.obolibrary.org/obo/NCBITaxon_9347		Eutheria
 http://purl.obolibrary.org/obo/NCBITaxon_9443		Primates
 http://purl.obolibrary.org/obo/NCBITaxon_9526		Catarrhini
@@ -23116,9 +23270,11 @@ http://purl.obolibrary.org/obo/PATO_0000052		shape
 http://purl.obolibrary.org/obo/PATO_0000136		closure
 http://purl.obolibrary.org/obo/PATO_0000141		structure
 http://purl.obolibrary.org/obo/PATO_0000150		texture
+http://purl.obolibrary.org/obo/PATO_0000261		maturity
 http://purl.obolibrary.org/obo/PATO_0000402		branched
 http://purl.obolibrary.org/obo/PATO_0000404		coiled
 http://purl.obolibrary.org/obo/PATO_0000407		flat
+http://purl.obolibrary.org/obo/PATO_0000415		uncoiled
 http://purl.obolibrary.org/obo/PATO_0000588		vestigial
 http://purl.obolibrary.org/obo/PATO_0000608		closed
 http://purl.obolibrary.org/obo/PATO_0000610		open
@@ -23130,15 +23286,18 @@ http://purl.obolibrary.org/obo/PATO_0000998		viscous
 http://purl.obolibrary.org/obo/PATO_0001018		physical quality
 http://purl.obolibrary.org/obo/PATO_0001031		elasticity
 http://purl.obolibrary.org/obo/PATO_0001171		elastic
+http://purl.obolibrary.org/obo/PATO_0001185		larval
 http://purl.obolibrary.org/obo/PATO_0001241		physical object quality
 http://purl.obolibrary.org/obo/PATO_0001291		electromagnetic (EM) radiation quality
 http://purl.obolibrary.org/obo/PATO_0001300		optical quality
+http://purl.obolibrary.org/obo/PATO_0001546		quality of a solid
 http://purl.obolibrary.org/obo/PATO_0001547		quality of a gas
 http://purl.obolibrary.org/obo/PATO_0001548		quality of a liquid
 http://purl.obolibrary.org/obo/PATO_0001579		contractility
 http://purl.obolibrary.org/obo/PATO_0001591		curvature
 http://purl.obolibrary.org/obo/PATO_0001690		contractile
 http://purl.obolibrary.org/obo/PATO_0001735		liquid configuration
+http://purl.obolibrary.org/obo/PATO_0001736		solid configuration
 http://purl.obolibrary.org/obo/PATO_0001739		radiation quality
 http://purl.obolibrary.org/obo/PATO_0001748		invaginated
 http://purl.obolibrary.org/obo/PATO_0001794		coiling
@@ -23463,6 +23622,7 @@ http://purl.obolibrary.org/obo/UBERON_0000014		zone of skin
 http://purl.obolibrary.org/obo/UBERON_0000015		non-material anatomical boundary
 http://purl.obolibrary.org/obo/UBERON_0000016		endocrine pancreas
 http://purl.obolibrary.org/obo/UBERON_0000017		exocrine pancreas
+http://purl.obolibrary.org/obo/UBERON_0000018		compound eye
 http://purl.obolibrary.org/obo/UBERON_0000019		camera-type eye
 http://purl.obolibrary.org/obo/UBERON_0000020		sense organ
 http://purl.obolibrary.org/obo/UBERON_0000025		tube
@@ -23486,6 +23646,7 @@ http://purl.obolibrary.org/obo/UBERON_0000064		organ part
 http://purl.obolibrary.org/obo/UBERON_0000065		respiratory tract
 http://purl.obolibrary.org/obo/UBERON_0000066		fully formed stage
 http://purl.obolibrary.org/obo/UBERON_0000068		embryo stage
+http://purl.obolibrary.org/obo/UBERON_0000069		larval stage
 http://purl.obolibrary.org/obo/UBERON_0000071		death stage
 http://purl.obolibrary.org/obo/UBERON_0000072		proximo-distal subdivision of respiratory tract
 http://purl.obolibrary.org/obo/UBERON_0000073		regional part of nervous system
@@ -23637,10 +23798,12 @@ http://purl.obolibrary.org/obo/UBERON_0000956		cerebral cortex
 http://purl.obolibrary.org/obo/UBERON_0000957		lamina
 http://purl.obolibrary.org/obo/UBERON_0000959		optic chiasma
 http://purl.obolibrary.org/obo/UBERON_0000962		nerve of cervical vertebra
+http://purl.obolibrary.org/obo/UBERON_0000963		head sensillum
 http://purl.obolibrary.org/obo/UBERON_0000964		cornea
 http://purl.obolibrary.org/obo/UBERON_0000965		lens of camera-type eye
 http://purl.obolibrary.org/obo/UBERON_0000966		retina
 http://purl.obolibrary.org/obo/UBERON_0000970		eye
+http://purl.obolibrary.org/obo/UBERON_0000971		ommatidium
 http://purl.obolibrary.org/obo/UBERON_0000974		neck
 http://purl.obolibrary.org/obo/UBERON_0000977		pleura
 http://purl.obolibrary.org/obo/UBERON_0000982		skeletal joint
@@ -24062,7 +24225,7 @@ http://purl.obolibrary.org/obo/UBERON_0002106		spleen
 http://purl.obolibrary.org/obo/UBERON_0002107		liver
 http://purl.obolibrary.org/obo/UBERON_0002108		small intestine
 http://purl.obolibrary.org/obo/UBERON_0002109		pair of nares
-http://purl.obolibrary.org/obo/UBERON_0002110		gall bladder
+http://purl.obolibrary.org/obo/UBERON_0002110		gallbladder
 http://purl.obolibrary.org/obo/UBERON_0002111		artery smooth muscle tissue
 http://purl.obolibrary.org/obo/UBERON_0002112		smooth muscle of esophagus
 http://purl.obolibrary.org/obo/UBERON_0002114		duodenum
@@ -24259,9 +24422,11 @@ http://purl.obolibrary.org/obo/UBERON_0002523		tunica intima
 http://purl.obolibrary.org/obo/UBERON_0002530		gland
 http://purl.obolibrary.org/obo/UBERON_0002532		epiblast (generic)
 http://purl.obolibrary.org/obo/UBERON_0002533		post-anal tail bud
+http://purl.obolibrary.org/obo/UBERON_0002536		arthropod sensillum
 http://purl.obolibrary.org/obo/UBERON_0002539		pharyngeal arch
 http://purl.obolibrary.org/obo/UBERON_0002540		lateral line system
 http://purl.obolibrary.org/obo/UBERON_0002546		cranial placode
+http://purl.obolibrary.org/obo/UBERON_0002548		larva
 http://purl.obolibrary.org/obo/UBERON_0002549		ventral trigeminal tract
 http://purl.obolibrary.org/obo/UBERON_0002550		anterior hypothalamic region
 http://purl.obolibrary.org/obo/UBERON_0002551		interstitial nucleus of Cajal
@@ -24931,7 +25096,7 @@ http://purl.obolibrary.org/obo/UBERON_0003936		postoptic commissure
 http://purl.obolibrary.org/obo/UBERON_0003937		reproductive gland
 http://purl.obolibrary.org/obo/UBERON_0003939		transverse gyrus of Heschl
 http://purl.obolibrary.org/obo/UBERON_0003941		cerebellum anterior vermis
-http://purl.obolibrary.org/obo/UBERON_0003942		somatic sensory system
+http://purl.obolibrary.org/obo/UBERON_0003942		somatosensory system
 http://purl.obolibrary.org/obo/UBERON_0003947		brain ventricle/choroid plexus
 http://purl.obolibrary.org/obo/UBERON_0003952		anterior stroma of cornea
 http://purl.obolibrary.org/obo/UBERON_0003953		posterior stroma of cornea
@@ -25027,7 +25192,7 @@ http://purl.obolibrary.org/obo/UBERON_0004236		arteriole smooth muscle
 http://purl.obolibrary.org/obo/UBERON_0004237		blood vessel smooth muscle
 http://purl.obolibrary.org/obo/UBERON_0004238		spleen smooth muscle
 http://purl.obolibrary.org/obo/UBERON_0004239		small intestine smooth muscle
-http://purl.obolibrary.org/obo/UBERON_0004240		gall bladder smooth muscle
+http://purl.obolibrary.org/obo/UBERON_0004240		gallbladder smooth muscle
 http://purl.obolibrary.org/obo/UBERON_0004242		bronchus smooth muscle
 http://purl.obolibrary.org/obo/UBERON_0004246		outflow tract smooth muscle
 http://purl.obolibrary.org/obo/UBERON_0004247		bone of dorsum
@@ -25138,6 +25303,7 @@ http://purl.obolibrary.org/obo/UBERON_0004716		conceptus
 http://purl.obolibrary.org/obo/UBERON_0004720		cerebellar vermis
 http://purl.obolibrary.org/obo/UBERON_0004725		piriform cortex
 http://purl.obolibrary.org/obo/UBERON_0004727		cochlear nerve
+http://purl.obolibrary.org/obo/UBERON_0004729		nematode larval stage
 http://purl.obolibrary.org/obo/UBERON_0004731		neuromere
 http://purl.obolibrary.org/obo/UBERON_0004732		segmental subdivision of nervous system
 http://purl.obolibrary.org/obo/UBERON_0004733		segmental subdivision of hindbrain
@@ -25156,9 +25322,9 @@ http://purl.obolibrary.org/obo/UBERON_0004777		respiratory system submucosa
 http://purl.obolibrary.org/obo/UBERON_0004778		larynx submucosa
 http://purl.obolibrary.org/obo/UBERON_0004779		respiratory system lamina propria
 http://purl.obolibrary.org/obo/UBERON_0004780		gastrointestinal system lamina propria
-http://purl.obolibrary.org/obo/UBERON_0004781		gall bladder lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004781		gallbladder lamina propria
 http://purl.obolibrary.org/obo/UBERON_0004782		gastrointestinal system serosa
-http://purl.obolibrary.org/obo/UBERON_0004783		gall bladder serosa
+http://purl.obolibrary.org/obo/UBERON_0004783		gallbladder serosa
 http://purl.obolibrary.org/obo/UBERON_0004784		heart ventricle wall
 http://purl.obolibrary.org/obo/UBERON_0004785		respiratory system mucosa
 http://purl.obolibrary.org/obo/UBERON_0004786		gastrointestinal system mucosa
@@ -25553,7 +25719,7 @@ http://purl.obolibrary.org/obo/UBERON_0006238		future brain
 http://purl.obolibrary.org/obo/UBERON_0006239		future central tendon
 http://purl.obolibrary.org/obo/UBERON_0006240		future forebrain
 http://purl.obolibrary.org/obo/UBERON_0006241		future spinal cord
-http://purl.obolibrary.org/obo/UBERON_0006242		gall bladder primordium
+http://purl.obolibrary.org/obo/UBERON_0006242		gallbladder primordium
 http://purl.obolibrary.org/obo/UBERON_0006260		lingual swellings
 http://purl.obolibrary.org/obo/UBERON_0006264		mouth-foregut junction
 http://purl.obolibrary.org/obo/UBERON_0006267		notochordal plate
@@ -25650,6 +25816,7 @@ http://purl.obolibrary.org/obo/UBERON_0006909		lumen of digestive tract
 http://purl.obolibrary.org/obo/UBERON_0006913		lip epithelium
 http://purl.obolibrary.org/obo/UBERON_0006914		squamous epithelium
 http://purl.obolibrary.org/obo/UBERON_0006915		stratified squamous epithelium
+http://purl.obolibrary.org/obo/UBERON_0006916		non-keratinized epithelium of tongue
 http://purl.obolibrary.org/obo/UBERON_0006919		tongue squamous epithelium
 http://purl.obolibrary.org/obo/UBERON_0006920		esophagus squamous epithelium
 http://purl.obolibrary.org/obo/UBERON_0006921		stomach squamous epithelium
@@ -25868,6 +26035,8 @@ http://purl.obolibrary.org/obo/UBERON_0008886		pulmonary vascular system
 http://purl.obolibrary.org/obo/UBERON_0008887		rectal venous plexus
 http://purl.obolibrary.org/obo/UBERON_0008895		splanchnocranium
 http://purl.obolibrary.org/obo/UBERON_0008896		post-hyoid pharyngeal arch
+http://purl.obolibrary.org/obo/UBERON_0008904		neuromast
+http://purl.obolibrary.org/obo/UBERON_0008906		lateral line nerve
 http://purl.obolibrary.org/obo/UBERON_0008907		dermal bone
 http://purl.obolibrary.org/obo/UBERON_0008909		perichordal bone
 http://purl.obolibrary.org/obo/UBERON_0008930		somatosensory cortex
@@ -25988,6 +26157,7 @@ http://purl.obolibrary.org/obo/UBERON_0009841		upper rhombic lip
 http://purl.obolibrary.org/obo/UBERON_0009842		glandular acinus
 http://purl.obolibrary.org/obo/UBERON_0009846		embryonic cloacal epithelium
 http://purl.obolibrary.org/obo/UBERON_0009848		zona limitans intrathalamica
+http://purl.obolibrary.org/obo/UBERON_0009850		nematode larva
 http://purl.obolibrary.org/obo/UBERON_0009854		digestive tract diverticulum
 http://purl.obolibrary.org/obo/UBERON_0009856		sac
 http://purl.obolibrary.org/obo/UBERON_0009857		cavum septum pellucidum
@@ -26013,7 +26183,6 @@ http://purl.obolibrary.org/obo/UBERON_0009955		neurogenic placode
 http://purl.obolibrary.org/obo/UBERON_0009970		epithelium of pancreatic duct
 http://purl.obolibrary.org/obo/UBERON_0009974		lumen of Rathke's pouch
 http://purl.obolibrary.org/obo/UBERON_0010000		multicellular anatomical structure
-http://purl.obolibrary.org/obo/UBERON_0010001		cell cluster organ
 http://purl.obolibrary.org/obo/UBERON_0010009		aggregate regional part of brain
 http://purl.obolibrary.org/obo/UBERON_0010010		basal nucleus of telencephalon
 http://purl.obolibrary.org/obo/UBERON_0010011		collection of basal ganglia
@@ -26085,6 +26254,7 @@ http://purl.obolibrary.org/obo/UBERON_0010294		scleral endothelium
 http://purl.obolibrary.org/obo/UBERON_0010295		substantia propria of sclera
 http://purl.obolibrary.org/obo/UBERON_0010299		scleral mesenchyme
 http://purl.obolibrary.org/obo/UBERON_0010303		extraembryonic epithelium
+http://purl.obolibrary.org/obo/UBERON_0010304		non-keratinized stratified squamous epithelium
 http://purl.obolibrary.org/obo/UBERON_0010312		immature eye
 http://purl.obolibrary.org/obo/UBERON_0010313		neural crest-derived structure
 http://purl.obolibrary.org/obo/UBERON_0010314		structure with developmental contribution from neural crest
@@ -26127,6 +26297,7 @@ http://purl.obolibrary.org/obo/UBERON_0010427		ciliary processes
 http://purl.obolibrary.org/obo/UBERON_0010428		flat bone
 http://purl.obolibrary.org/obo/UBERON_0010498		pseudostratified columnar epithelium
 http://purl.obolibrary.org/obo/UBERON_0010499		pseudostratified ciliated columnar epithelium
+http://purl.obolibrary.org/obo/UBERON_0010521		electroreceptor organ
 http://purl.obolibrary.org/obo/UBERON_0010522		replacement element
 http://purl.obolibrary.org/obo/UBERON_0010523		microcirculatory vessel
 http://purl.obolibrary.org/obo/UBERON_0010527		cavity of bone organ
@@ -26912,6 +27083,7 @@ http://purl.obolibrary.org/obo/UBERON_0035551		deep vasculature
 http://purl.obolibrary.org/obo/UBERON_0035552		deep vein
 http://purl.obolibrary.org/obo/UBERON_0035553		left cardiac chamber
 http://purl.obolibrary.org/obo/UBERON_0035554		right cardiac chamber
+http://purl.obolibrary.org/obo/UBERON_0035555		lateral line sense organ
 http://purl.obolibrary.org/obo/UBERON_0035562		intermediate pretectal nucleus
 http://purl.obolibrary.org/obo/UBERON_0035570		tectothalamic tract
 http://purl.obolibrary.org/obo/UBERON_0035594		accessory optic system
@@ -27049,20 +27221,32 @@ http://purl.obolibrary.org/obo/UBERON_0039857		left ovarian vein
 http://purl.obolibrary.org/obo/UBERON_1000021		skin of face
 http://purl.obolibrary.org/obo/UBERON_1000024		parenchyma of spleen
 http://purl.obolibrary.org/obo/UBERON_1100000		digestive tract junction
+http://purl.obolibrary.org/obo/UBERON_2000120		lateral line ganglion
 http://purl.obolibrary.org/obo/UBERON_2000238		olfactory tract linking bulb to ipsilateral ventral telencephalon
 http://purl.obolibrary.org/obo/UBERON_2001053		future internal carotid artery
 http://purl.obolibrary.org/obo/UBERON_2001073		axial vasculature
 http://purl.obolibrary.org/obo/UBERON_2001431		primitive olfactory epithelium
 http://purl.obolibrary.org/obo/UBERON_2001457		postcranial axial cartilage
+http://purl.obolibrary.org/obo/UBERON_2005227		protoneuromast
 http://purl.obolibrary.org/obo/UBERON_2005260		fenestrated capillary
 http://purl.obolibrary.org/obo/UBERON_2007013		preplacodal ectoderm
+http://purl.obolibrary.org/obo/UBERON_3000224		hyobranchial muscle
 http://purl.obolibrary.org/obo/UBERON_3000961		external integument structure
 http://purl.obolibrary.org/obo/UBERON_3000972		head external integument structure
 http://purl.obolibrary.org/obo/UBERON_3000977		body external integument structure
 http://purl.obolibrary.org/obo/UBERON_3000982		tail external integument structure
 http://purl.obolibrary.org/obo/UBERON_3010200		vasculature of respiratory integument
-http://purl.obolibrary.org/obo/UBERON_3011048		genital system
+http://purl.obolibrary.org/obo/UBERON_3010654		rectus cervicis
+http://purl.obolibrary.org/obo/UBERON_3010692		m. cucullaris
+http://purl.obolibrary.org/obo/UBERON_3010706		lateral line nucleus
 http://purl.obolibrary.org/obo/UBERON_4200230		surface of bone
+http://purl.obolibrary.org/obo/UBERON_6000004		panarthropod head
+http://purl.obolibrary.org/obo/UBERON_6001730		insect larval head
+http://purl.obolibrary.org/obo/UBERON_6002639		insect larval sense organ
+http://purl.obolibrary.org/obo/UBERON_6007240		insect embryonic/larval sensillum
+http://purl.obolibrary.org/obo/UBERON_6007242		insect embryonic/larval head sensillum
+http://purl.obolibrary.org/obo/UBERON_6007280		insect embryonic/larval head sense organ
+http://purl.obolibrary.org/obo/UBERON_7500107		sphenovomerine suture
 http://purl.obolibrary.org/obo/UBERON_8000006		left side of back
 http://purl.obolibrary.org/obo/UBERON_8000007		right side of back
 http://purl.obolibrary.org/obo/UBERON_8400021		liver serosa
@@ -27110,6 +27294,12 @@ http://purl.obolibrary.org/obo/UBERON_8440037		accessory facial motor nucleus
 http://purl.obolibrary.org/obo/UBERON_8440038		efferent vestibular nucleus
 http://purl.obolibrary.org/obo/UBERON_8440039		piriform-amygdalar area
 http://purl.obolibrary.org/obo/UBERON_8440040		dorsal peduncular area
+http://purl.obolibrary.org/obo/UBERON_8440072		lateral tegmental nucleus
+http://purl.obolibrary.org/obo/UBERON_8440073		magnocellular reticular nucleus
+http://purl.obolibrary.org/obo/UBERON_8440075		gustatory cortex
+http://purl.obolibrary.org/obo/UBERON_8440076		somatomotor area
+http://purl.obolibrary.org/obo/UBERON_8440077		rhinal incisure
+http://purl.obolibrary.org/obo/UBERON_8450002		excretory system
 http://purl.obolibrary.org/obo/UBERON_8480001		capillary of brain
 http://purl.obolibrary.org/obo/UBERON_8480002		thoracic aorta smooth muscle tissue
 http://www.genenames.org/cgi-bin/gene_symbol_report?hgnc_id=10848		SHH (human)
