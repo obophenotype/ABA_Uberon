@@ -4,10 +4,24 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
 PREFIX UBERON: <http://purl.obolibrary.org/obo/UBERON_>
+PREFIX MBA: <http://purl.obolibrary.org/obo/MBA_>
+PREFIX DMBA: <http://purl.obolibrary.org/obo/DMBA_>
 
 SELECT DISTINCT ?o ?s ?olabel ?slabel (str(?o_mba) as ?user_olabel) (str(?s_mba) as ?user_slabel)
 WHERE{
-    ?s_mba rdfs:subClassOf ?s .
+    ?s_mba a owl:Class .
+    FILTER (STRSTARTS(STR(?s_mba), str(MBA:)) || STRSTARTS(STR(?s_mba), str(DMBA:)))
+    {
+        ?s_mba rdfs:subClassOf ?s .
+    }
+    UNION
+    {
+        ?s_mba  owl:equivalentClass/
+                owl:intersectionOf/
+                rdf:rest*/rdf:first ?equivalentClassRestriction.
+        ?equivalentClassRestriction owl:onProperty <http://purl.obolibrary.org/obo/BFO_0000050> .
+        ?equivalentClassRestriction owl:someValuesFrom ?s .
+    }
     ?s_mba rdfs:subClassOf ?restriction.
     ?restriction owl:onProperty <http://purl.obolibrary.org/obo/BFO_0000050> .
     ?restriction owl:someValuesFrom ?o_mba .
@@ -15,8 +29,9 @@ WHERE{
     ?s rdfs:label ?slabel .
     ?o rdfs:label ?olabel .
 
+    FILTER (STRSTARTS(STR(?o_mba), str(MBA:)) || STRSTARTS(STR(?o_mba), str(DMBA:)))
     FILTER (isIRI(?o) && STRSTARTS(STR(?o), "http://purl.obolibrary.org/obo/UBERON_"))
     FILTER (isIRI(?s) && STRSTARTS(STR(?s), "http://purl.obolibrary.org/obo/UBERON_"))
     FILTER (?o != ?s)
-    FILTER (STRSTARTS(STR(?s_mba), "http://purl.obolibrary.org/obo/MBA_") || STRSTARTS(STR(?s_mba), "http://purl.obolibrary.org/obo/DMBA_"))
+
 }
