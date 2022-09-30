@@ -14,7 +14,7 @@ SOURCE_TEMPLATES = $(patsubst %, ../robot_templates/%_CCF_to_UBERON_source.tsv, 
 NEW_BRIDGES = $(patsubst %, new-bridges/new-uberon-bridge-to-%.owl, $(TARGETS))
 
 
-all: dependencies $(ALL_GRAPH_ONTOLOGIES) aba_uberon.owl report.xlsx $(NEW_BRIDGES)
+all: dependencies $(ALL_GRAPH_ONTOLOGIES) aba_uberon.owl report.xlsx $(NEW_BRIDGES) uberon_with_bridge.owl
 
 # Installing depedencies so it can run in ODK container
 .PHONY: dependencies
@@ -95,6 +95,8 @@ terms.txt: sources_merged.owl
 uberon_slice.owl: mirror/uberon.owl terms.txt
 	$(ROBOT) extract --method BOT --input mirror/uberon.owl --term-file terms.txt --force true remove --axioms disjoint --output $@
 
+uberon_with_bridge.owl: mirror/uberon.owl sources_merged.owl
+	$(ROBOT) merge --input mirror/uberon.owl --input sources_merged.owl annotate --ontology-iri $(URIBASE)/$@ -o $@
 
 # merge uberon + sources, reason & relax (EC -> SC)
 
