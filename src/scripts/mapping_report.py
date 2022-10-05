@@ -1,12 +1,12 @@
 """
 Mapping Report generator. Provides following reports:
 
-- report_old_vs_new_bridge: Reports the ABA terms that are mapped in the legacy file (OLD_MAPPING_FILE) but not in the new bridge
-ontology (LATEST_BRIDGE). Differences are printed to the console.
+- report_old_vs_new_bridge: Reports the ABA terms that are mapped in the legacy file (OLD_MAPPING_FILE) but not in the
+new bridge ontology (LATEST_BRIDGE). Differences are printed to the console.
 - report_json_vs_new_bridge: Reports the ABA terms that are defined in the json
 (such as http://api.brain-map.org/api/v2/structure_graph_download/1.json, but we will use src/ontology/sources/1.ofn
 since json is already processed and ontology generated) but not in the new bridge ontology
-(LATEST_BRIDGE). Differences are printed to the console with their Uberon parents.
+(MBA_BRIDGE). Differences are printed to the console with their Uberon parents.
 
 Script uses FunOWL to read the ofn ontology format and this operation is pretty slow.
 """
@@ -33,7 +33,6 @@ def query_mapped_entities(graph, query):
         query: query to run
 
     Returns: set of entity names
-
     """
     qres = graph.query(query)
     mapped_entities = set()
@@ -47,6 +46,13 @@ def query_mapped_entities(graph, query):
 
 
 def read_ontology(ontology_path):
+    """
+    Reads ontology file in any format from the given path.
+
+    Params:
+        ontology_path: file path to the ontology
+    Return: ontology graph
+    """
     try:
         graph = Graph()
         print("reading ontology file...")
@@ -61,7 +67,7 @@ def read_ofn_file(ont_path):
     """
     Uses FunOWL to read ontology file in OWL functional syntax to rdflib graph.
     This function works very slow, but does the job.
-    Args:
+    Params:
         ont_path: path of the ontology file in ofn format.
 
     Returns: rdflib graph object.
@@ -78,6 +84,9 @@ def read_ofn_file(ont_path):
 def get_new_mapped_terms(ontology_path):
     """
     Gets ABA terms from the new bridge ontology.
+
+    Params:
+        ontology_path: ontology file path
     Returns: list of mapped ABA terms
     """
     try:
@@ -96,6 +105,7 @@ def get_new_mapped_terms(ontology_path):
 def get_old_mapped_terms():
     """
     Gets ABA terms from the legacy mapping table.
+
     Returns: list of mapped ABA terms
     """
     headers, records = read_csv_to_dict(OLD_MAPPING_FILE, delimiter="\t", generated_ids=True)
@@ -108,6 +118,9 @@ def get_old_mapped_terms():
 def get_ont_terms(ontology_path):
     """
     Gets ABA terms from the new bridge ontology.
+
+    Params:
+        ontology_path: ontology file path
     Returns: list of mapped ABA terms
     """
     graph = read_ontology(ontology_path)
@@ -133,6 +146,11 @@ def get_ont_terms(ontology_path):
 def query_label(graph, entity):
     """
     Retrieves label of the given entity.
+
+    Params:
+        graph: ontology to query
+        entity: ontology term to search
+    Returns: labels joined with &
     """
     query = """
     PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -154,9 +172,15 @@ def query_label(graph, entity):
 
     return " & ".join(labels)
 
+
 def query_parent(graph, entity):
     """
-    Materialization didn't worked due to unsats so dynamically generating complex query.
+    Materialization didn't worked due to unsats so dynamically generating a complex query.
+
+    Params:
+        graph: ontology to query
+        entity: MBA term to search
+    Returns: most specific UBERON parents as string
     """
     query_start = """
                 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -198,11 +222,17 @@ def query_parent(graph, entity):
 
 
 def generate_path_query(i):
-    # <entity_name> rdfs: subClassOf / owl:someValuesFrom ?p1.
-    # FILTER(strstarts(str(?p1), str(MBA:)) )
-    # ?p1 rdfs: subClassOf / owl:someValuesFrom ?parentClass.
-    # FILTER(strstarts(str(?parentClass), str(MBA:)) )
+    """
+    Dynamically generating fixed length super class queries such as:
+        <entity_name> rdfs: subClassOf / owl:someValuesFrom ?p1.
+        FILTER(strstarts(str(?p1), str(MBA:)) )
+        ?p1 rdfs: subClassOf / owl:someValuesFrom ?parentClass.
+        FILTER(strstarts(str(?parentClass), str(MBA:)) )
 
+    Params:
+        i: depth of Uberon parent to search
+    Returns: fixed length parent query section.
+    """
     query_mid = ""
     for j in range(i + 1):
         s_name = "?p" + str(j)
@@ -237,6 +267,12 @@ def report_old_vs_new_bridge():
 
 
 def report_json_vs_new_bridge():
+    """
+    Reports the ABA terms that are defined in the json
+    (such as http://api.brain-map.org/api/v2/structure_graph_download/1.json, but we will use src/ontology/sources/1.ofn
+    since json is already processed and ontology generated) but not in the new bridge ontology
+    (MBA_BRIDGE). Differences are printed to the console with their Uberon parents.
+    """
     new_terms = get_ont_terms(MBA_BRIDGE)
     json_terms = get_ont_terms(JSON_ONT)
     terms_not_in_new = json_terms.difference(new_terms)
