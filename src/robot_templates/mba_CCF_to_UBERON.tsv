@@ -1175,7 +1175,6 @@ http://purl.obolibrary.org/obo/MBA_967	cranial nerves	equivalent		http://purl.ob
 http://purl.obolibrary.org/obo/MBA_969	"orbital area, ventrolateral part, layer 1"	subclass	http://purl.obolibrary.org/obo/UBERON_0004167			orbitofrontal cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_970	"paragigantocellular reticular nucleus, dorsal part"	equivalent		http://purl.obolibrary.org/obo/UBERON_0016825		dorsal paragigantocellular nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_971	"corpus callosum, posterior forceps"	subclass	http://purl.obolibrary.org/obo/UBERON_0034676			forceps major of corpus callosum 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_972	prelimbic area	equivalent		http://purl.obolibrary.org/obo/UBERON_0013560		prelimbic area	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_974	"primary somatosensory area, mouth, layer 5"	subclass	http://purl.obolibrary.org/obo/UBERON_0008933			primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_975	edinger-Westphal nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0002141		parvocellular oculomotor nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_977	ectorhinal area/Layer 6a	subclass	http://purl.obolibrary.org/obo/UBERON_0002728			entorhinal cortex 	Verified	https://ror.org/03cpe7c52
@@ -1248,6 +1247,14 @@ http://purl.obolibrary.org/obo/MBA_312782546	anterior area	subclass	http://purl.
 http://purl.obolibrary.org/obo/MBA_500	somatomotor area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440076		somatomotor area	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_1057	gustatory cortex	equivalent		http://purl.obolibrary.org/obo/UBERON_8440075		gustatory cortex	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_1079	rhinal incisure	equivalent		http://purl.obolibrary.org/obo/UBERON_8440077		rhinal incisure	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_42	"Superior colliculus, motor related, deep white layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0001945			superior colliculus	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_599626923	Subcommissural organ	equivalent		http://purl.obolibrary.org/obo/UBERON_0002139		subcommissural organ	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_690	mammillothalamic tract	equivalent		http://purl.obolibrary.org/obo/UBERON_0006696		mammillothalamic axonal tract	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_976	lobule II	equivalent		http://purl.obolibrary.org/obo/UBERON_0004075		cerebellum vermis lobule II	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_984	Lobule III	equivalent		http://purl.obolibrary.org/obo/UBERON_0004076		cerebellum vermis lobule III	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1099	fornix system	equivalent		http://purl.obolibrary.org/obo/UBERON_0000052		fornix of brain'	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1024	grooves	equivalent		http://purl.obolibrary.org/obo/UBERON_0013118		sulcus of brain	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1009	fiber tracts	equivalent		http://purl.obolibrary.org/obo/UBERON_0000122		neuron projection bundle	Curated	https://orcid.org/0000-0001-7258-9596
 								
 http://purl.obolibrary.org/obo/MBA_10687	"paraflocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005351		Curated	https://orcid.org/0000-0001-7258-9596
@@ -1348,3 +1355,29 @@ http://purl.obolibrary.org/obo/MBA_312782640	"postrhinal area, layer 4"	equivale
 http://purl.obolibrary.org/obo/MBA_312782644	"postrhinal area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_0035890		Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_312782648	"postrhinal area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0035890		Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_312782652	"postrhinal area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0035890		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_707	"Infralimbic area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_8440033		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_747	"Infralimbic area, layer 2"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005391	http://purl.obolibrary.org/obo/UBERON_8440033		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_556	"Infralimbic area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_8440033		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_827	"Infralimbic area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_8440033		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1054	"Infralimbic area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_8440033		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1081	"Infralimbic area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_8440033		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_180	"Gustatory areas, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_8440075 		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_148	"Gustatory areas, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035917	http://purl.obolibrary.org/obo/UBERON_8440075 		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_187	"Gustatory areas, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_8440075 		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_662	"Gustatory areas, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_8440075		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1127	"Temporal association areas, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0035013		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_107	"Somatomotor areas, Layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_8440076		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_219 	"Somatomotor areas, Layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_8440076		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_299	"Somatomotor areas, Layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_8440076		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_644	"Somatomotor areas, Layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_8440076		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_947	"Somatomotor areas, Layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_8440076		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1106	"Visceral area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_8440024		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_857	"Visceral area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_8440024		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_849	"Visceral area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_8440024		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_296 	"Anterior cingulate area, ventral part, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0009835		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_171	"Prelimbic area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_8440032		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_195	"Prelimbic area, layer 2"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005391	http://purl.obolibrary.org/obo/UBERON_8440032		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_304	"Prelimbic area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_8440032		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_363	"Prelimbic area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_8440032		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_84	"Prelimbic area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_8440032		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_132	"Prelimbic area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_8440032		Curated	https://orcid.org/0000-0001-7258-9596

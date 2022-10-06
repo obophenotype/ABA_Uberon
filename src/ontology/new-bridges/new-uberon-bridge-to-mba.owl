@@ -338,6 +338,32 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_1009 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_1009">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000122"/>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fiber tracts</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_1009"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_101 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_101">
@@ -600,6 +626,32 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_1024 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_1024">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0013118"/>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">grooves</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_1024"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -1342,6 +1394,40 @@
     </Class>
     <Axiom>
         <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_1053"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_1054 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_1054">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005395"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440033"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infralimbic area, layer 6a</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_1054"/>
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
@@ -2734,6 +2820,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_107 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_107">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005390"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440076"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Somatomotor areas, Layer 1</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_107"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -4248,6 +4368,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_1081 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_1081">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440003"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440033"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infralimbic area, layer 6b</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_1081"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_1082 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_1082">
@@ -4659,6 +4813,32 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_1099 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_1099">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000052"/>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fornix system</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_1099"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_11 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_11">
@@ -4817,6 +4997,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_1106 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_1106">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440000"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440024"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Visceral area, layer 2/3</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_1106"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -5202,6 +5416,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_1127 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_1127">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440000"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_0035013"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temporal association areas, layer 2/3</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_1127"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -6212,6 +6460,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_132 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_132">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440003"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440032"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prelimbic area, layer 6b</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_132"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_133 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_133">
@@ -6584,6 +6866,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_148 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_148">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035917"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440075"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gustatory areas, layer 4</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_148"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -7186,6 +7502,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_171 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_171">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005390"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440032"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prelimbic area, layer 1</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_171"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_173 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_173">
@@ -7346,6 +7696,40 @@
     </Class>
     <Axiom>
         <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_179"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_180 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_180">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440000"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440075"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gustatory areas, layer 2/3</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_180"/>
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
@@ -7689,6 +8073,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_187 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_187">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035913"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440075"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gustatory areas, layer 5</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_187"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_188 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_188">
@@ -7921,6 +8339,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_195 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_195">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005391"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440032"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prelimbic area, layer 2</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_195"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -10430,6 +10882,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_299 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_299">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035913"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440076"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Somatomotor areas, Layer 5</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_299"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_3 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_3">
@@ -10554,6 +11040,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_304 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_304">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440000"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440032"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prelimbic area, layer 2/3</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_304"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -12496,6 +13016,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_363 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_363">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035913"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440032"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prelimbic area, layer 5</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_363"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_365 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_365">
@@ -13931,6 +14485,35 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_42 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_42">
+        <rdfs:subClassOf>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_0001945"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </rdfs:subClassOf>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Superior colliculus, motor related, deep white layer</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_42"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -17460,6 +18043,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_556 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_556">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440000"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440033"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infralimbic area, layer 2/3</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_556"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_557 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_557">
@@ -18557,6 +19174,32 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_599626923 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_599626923">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002139"/>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Subcommissural organ</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_599626923"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -19784,6 +20427,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_644 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_644">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005395"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440076"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Somatomotor areas, Layer 6a</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_644"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_645 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_645">
@@ -20228,6 +20905,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_662 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_662">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440003"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440075"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gustatory areas, layer 6b</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_662"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -20976,6 +21687,32 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_690 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_690">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0006696"/>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mammillothalamic tract</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_690"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_691 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_691">
@@ -21432,6 +22169,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_707 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_707">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005390"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440033"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infralimbic area, layer 1</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_707"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -22386,6 +23157,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_747 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_747">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005391"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440033"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infralimbic area, layer 2</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_747"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -24129,6 +24934,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_827 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_827">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035913"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440033"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infralimbic area, layer 5</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_827"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_828 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_828">
@@ -24482,6 +25321,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_84 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_84">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005395"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440032"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prelimbic area, layer 6a</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_84"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_840 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_840">
@@ -24725,6 +25598,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_849 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_849">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440003"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440024"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Visceral area, layer 6b</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_849"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_85 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_85">
@@ -24857,6 +25764,40 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_857 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_857">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005395"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440024"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Visceral area, layer 6a</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_857"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -27211,6 +28152,40 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/MBA_947 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_947">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440003"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440076"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Somatomotor areas, Layer 6b</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_947"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/MBA_948 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/MBA_948">
@@ -27883,17 +28858,6 @@
         <equivalentClass>
             <Class>
                 <intersectionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0013560"/>
-                    <Restriction>
-                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
-                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
-                    </Restriction>
-                </intersectionOf>
-            </Class>
-        </equivalentClass>
-        <equivalentClass>
-            <Class>
-                <intersectionOf rdf:parseType="Collection">
                     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440032"/>
                     <Restriction>
                         <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
@@ -27904,19 +28868,12 @@
         </equivalentClass>
         <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">prelimbic area</obo:IAO_0000589>
         <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
-        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</oboInOwl:status>
     </Class>
     <Axiom>
         <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_972"/>
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
-    </Axiom>
-    <Axiom>
-        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_972"/>
-        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
-        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
-        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
     </Axiom>
     
 
@@ -28006,6 +28963,32 @@
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verified</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ror.org/03cpe7c52</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_976 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_976">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004075"/>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lobule II</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_976"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
     </Axiom>
     
 
@@ -28191,6 +29174,32 @@
     </Class>
     <Axiom>
         <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_982"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_984 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_984">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004076"/>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lobule III</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_984"/>
         <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
         <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
         <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
@@ -28606,6 +29615,18 @@
     <!-- http://purl.obolibrary.org/obo/NCBITaxon_10090 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UBERON_0000052 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0000052"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UBERON_0000122 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0000122"/>
     
 
 
@@ -29065,6 +30086,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/UBERON_0001945 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0001945"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/UBERON_0001946 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0001946"/>
@@ -29200,6 +30227,12 @@
     <!-- http://purl.obolibrary.org/obo/UBERON_0002138 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0002138"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/UBERON_0002139 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0002139"/>
     
 
 
@@ -30829,6 +31862,12 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/UBERON_0006696 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0006696"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/UBERON_0006698 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0006698"/>
@@ -31153,15 +32192,15 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/UBERON_0013531 -->
+    <!-- http://purl.obolibrary.org/obo/UBERON_0013118 -->
 
-    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0013531"/>
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0013118"/>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/UBERON_0013560 -->
+    <!-- http://purl.obolibrary.org/obo/UBERON_0013531 -->
 
-    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0013560"/>
+    <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_0013531"/>
     
 
 
@@ -32074,6 +33113,74 @@
     <!-- http://purl.obolibrary.org/obo/UBERON_8440077 -->
 
     <Class rdf:about="http://purl.obolibrary.org/obo/UBERON_8440077"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_219%20 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_219%20">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440000"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_8440076"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Somatomotor areas, Layer 2/3</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_219%20"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MBA_296%20 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MBA_296%20">
+        <equivalentClass>
+            <Class>
+                <intersectionOf rdf:parseType="Collection">
+                    <Class>
+                        <intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8440000"/>
+                            <Restriction>
+                                <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_10090"/>
+                            </Restriction>
+                        </intersectionOf>
+                    </Class>
+                    <Restriction>
+                        <onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                        <someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/UBERON_0009835"/>
+                    </Restriction>
+                </intersectionOf>
+            </Class>
+        </equivalentClass>
+        <obo:IAO_0000589 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anterior cingulate area, ventral part, layer 2/3</obo:IAO_0000589>
+        <oboInOwl:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</oboInOwl:status>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://purl.obolibrary.org/obo/MBA_296%20"/>
+        <annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#status"/>
+        <annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curated</annotatedTarget>
+        <oboInOwl:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://orcid.org/0000-0001-7258-9596</oboInOwl:source>
+    </Axiom>
 </rdf:RDF>
 
 
