@@ -11,7 +11,6 @@
 "Brodmann (1909) area 17"	<http://purl.obolibrary.org/obo/UBERON_8440010>	"primary visual cortex (V1, striate cortex, area 17)"	<http://purl.obolibrary.org/obo/PBA_10026>
 "Brodmann (1909) area 18"	<http://purl.obolibrary.org/obo/UBERON_0006473>	"parastriate cortex (area V2, area 18)"	<http://purl.obolibrary.org/obo/DHBA_10271>
 "Brodmann (1909) area 18"	<http://purl.obolibrary.org/obo/UBERON_0006473>	"parastriate cortex (V2, area 18)"	<http://purl.obolibrary.org/obo/PBA_10039>
-"Brodmann (1909) area 32"	<http://purl.obolibrary.org/obo/UBERON_0013560>	"Prelimbic area"	<http://purl.obolibrary.org/obo/MBA_972>
 "CA1 field of hippocampus"	<http://purl.obolibrary.org/obo/UBERON_0003881>	"CA1 region of Hipp"	<http://purl.obolibrary.org/obo/DHBA_10297>
 "CA1 field of hippocampus"	<http://purl.obolibrary.org/obo/UBERON_0003881>	"Field CA1"	<http://purl.obolibrary.org/obo/DMBA_16131>
 "CA1 field of hippocampus"	<http://purl.obolibrary.org/obo/UBERON_0003881>	"CA1 field"	<http://purl.obolibrary.org/obo/HBA_12892>
@@ -383,9 +382,11 @@
 "cerebellum vermis lobule I"	<http://purl.obolibrary.org/obo/UBERON_0004074>	"lobule 1 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16830>
 "cerebellum vermis lobule I"	<http://purl.obolibrary.org/obo/UBERON_0004074>	"Lingula (I)"	<http://purl.obolibrary.org/obo/MBA_912>
 "cerebellum vermis lobule II"	<http://purl.obolibrary.org/obo/UBERON_0004075>	"lobule 2 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16831>
+"cerebellum vermis lobule II"	<http://purl.obolibrary.org/obo/UBERON_0004075>	"Lobule II"	<http://purl.obolibrary.org/obo/MBA_976>
 "cerebellum vermis lobule III"	<http://purl.obolibrary.org/obo/UBERON_0004076>	"lobule III (central lobule and wing, posterior part)"	<http://purl.obolibrary.org/obo/DHBA_12841>
 "cerebellum vermis lobule III"	<http://purl.obolibrary.org/obo/UBERON_0004076>	"lobule 3 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16832>
 "cerebellum vermis lobule III"	<http://purl.obolibrary.org/obo/UBERON_0004076>	"III"	<http://purl.obolibrary.org/obo/HBA_12933>
+"cerebellum vermis lobule III"	<http://purl.obolibrary.org/obo/UBERON_0004076>	"Lobule III"	<http://purl.obolibrary.org/obo/MBA_984>
 "cerebellum vermis lobule IV"	<http://purl.obolibrary.org/obo/UBERON_0004077>	"lobule IV (culmen and quadrangular lobule, anterior part)"	<http://purl.obolibrary.org/obo/DHBA_12842>
 "cerebellum vermis lobule IV"	<http://purl.obolibrary.org/obo/UBERON_0004077>	"lobule 4 of cerebellar vermis"	<http://purl.obolibrary.org/obo/DMBA_16833>
 "cerebellum vermis lobule IV"	<http://purl.obolibrary.org/obo/UBERON_0004077>	"IV"	<http://purl.obolibrary.org/obo/HBA_12934>
@@ -701,6 +702,7 @@
 "fornix of brain"	<http://purl.obolibrary.org/obo/UBERON_0000052>	"fornix"	<http://purl.obolibrary.org/obo/DHBA_10576>
 "fornix of brain"	<http://purl.obolibrary.org/obo/UBERON_0000052>	"fornix tract"	<http://purl.obolibrary.org/obo/DMBA_17767>
 "fornix of brain"	<http://purl.obolibrary.org/obo/UBERON_0000052>	"fornix"	<http://purl.obolibrary.org/obo/HBA_9249>
+"fornix of brain"	<http://purl.obolibrary.org/obo/UBERON_0000052>	"fornix system"	<http://purl.obolibrary.org/obo/MBA_1099>
 "fourth ventricle"	<http://purl.obolibrary.org/obo/UBERON_0002422>	"ventricles of hindbrain"	<http://purl.obolibrary.org/obo/DHBA_10669>
 "fourth ventricle"	<http://purl.obolibrary.org/obo/UBERON_0002422>	"fourth ventricle"	<http://purl.obolibrary.org/obo/DHBA_12805>
 "fourth ventricle"	<http://purl.obolibrary.org/obo/UBERON_0002422>	"ventricles, hindbrain"	<http://purl.obolibrary.org/obo/DMBA_126651782>
@@ -1078,6 +1080,7 @@
 "mammillothalamic axonal tract"	<http://purl.obolibrary.org/obo/UBERON_0006696>	"mammillothalamic tract"	<http://purl.obolibrary.org/obo/DHBA_10586>
 "mammillothalamic axonal tract"	<http://purl.obolibrary.org/obo/UBERON_0006696>	"mammillothalamic tract"	<http://purl.obolibrary.org/obo/DMBA_17782>
 "mammillothalamic axonal tract"	<http://purl.obolibrary.org/obo/UBERON_0006696>	"mammillothalamic tract"	<http://purl.obolibrary.org/obo/HBA_9266>
+"mammillothalamic axonal tract"	<http://purl.obolibrary.org/obo/UBERON_0006696>	"mammillothalamic tract"	<http://purl.obolibrary.org/obo/MBA_690>
 "medial accessory inferior olivary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002159>	"inferior olive, medial nucleus"	<http://purl.obolibrary.org/obo/DHBA_12605>
 "medial accessory inferior olivary nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002159>	"medial accessory inferior olivary nucleus, left"	<http://purl.obolibrary.org/obo/HBA_9563>
 "medial accessory nucleus of optic tract"	<http://purl.obolibrary.org/obo/UBERON_0013601>	"Medial terminal nucleus of the accessory optic tract"	<http://purl.obolibrary.org/obo/MBA_58>
@@ -1251,6 +1254,7 @@
 "neural plate"	<http://purl.obolibrary.org/obo/UBERON_0003075>	"neural plate"	<http://purl.obolibrary.org/obo/DMBA_15565>
 "neural tube"	<http://purl.obolibrary.org/obo/UBERON_0001049>	"neural tube"	<http://purl.obolibrary.org/obo/DHBA_10154>
 "neurohypophysis"	<http://purl.obolibrary.org/obo/UBERON_0002198>	"neurohypophysis"	<http://purl.obolibrary.org/obo/DMBA_15691>
+"neuron projection bundle"	<http://purl.obolibrary.org/obo/UBERON_0000122>	"fiber tracts"	<http://purl.obolibrary.org/obo/MBA_1009>
 "nigrostriatal tract"	<http://purl.obolibrary.org/obo/UBERON_0014169>	"nigrostriatal tract"	<http://purl.obolibrary.org/obo/MBA_102>
 "noradrenergic cell group A4"	<http://purl.obolibrary.org/obo/UBERON_8440018>	"A4 noradrenergic cell group"	<http://purl.obolibrary.org/obo/DMBA_16937>
 "noradrenergic cell group A7"	<http://purl.obolibrary.org/obo/UBERON_8440021>	"A7 noradrenergic cell group"	<http://purl.obolibrary.org/obo/DMBA_17052>
@@ -11374,6 +11378,7 @@
 "subcommissural organ"	<http://purl.obolibrary.org/obo/UBERON_0002139>	"subcommissural organ"	<http://purl.obolibrary.org/obo/DHBA_12101>
 "subcommissural organ"	<http://purl.obolibrary.org/obo/UBERON_0002139>	"subcommissural organ"	<http://purl.obolibrary.org/obo/DMBA_16514>
 "subcommissural organ"	<http://purl.obolibrary.org/obo/UBERON_0002139>	"subcommissural organ"	<http://purl.obolibrary.org/obo/HBA_9489>
+"subcommissural organ"	<http://purl.obolibrary.org/obo/UBERON_0002139>	"Subcommissural organ"	<http://purl.obolibrary.org/obo/MBA_599626923>
 "subcuneiform nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002700>	"subcuneiform nucleus"	<http://purl.obolibrary.org/obo/DHBA_12246>
 "subcuneiform nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002700>	"subcuneiform nucleus"	<http://purl.obolibrary.org/obo/DMBA_16787>
 "subcuneiform nucleus"	<http://purl.obolibrary.org/obo/UBERON_0002700>	"subcuneiform nucleus, left"	<http://purl.obolibrary.org/obo/HBA_9022>
@@ -11422,6 +11427,7 @@
 "sulcus limitans of fourth ventricle"	<http://purl.obolibrary.org/obo/UBERON_0009573>	"sulcus limitans"	<http://purl.obolibrary.org/obo/DHBA_12823>
 "sulcus of brain"	<http://purl.obolibrary.org/obo/UBERON_0013118>	"cerebral sulci"	<http://purl.obolibrary.org/obo/DHBA_10610>
 "sulcus of brain"	<http://purl.obolibrary.org/obo/UBERON_0013118>	"sulci & spaces"	<http://purl.obolibrary.org/obo/HBA_9352>
+"sulcus of brain"	<http://purl.obolibrary.org/obo/UBERON_0013118>	"grooves"	<http://purl.obolibrary.org/obo/MBA_1024>
 "sulcus of limbic lobe"	<http://purl.obolibrary.org/obo/UBERON_0034674>	"limbic lobe sulci"	<http://purl.obolibrary.org/obo/HBA_9393>
 "sulcus of parietal lobe"	<http://purl.obolibrary.org/obo/UBERON_0035927>	"parietal lobe sulci"	<http://purl.obolibrary.org/obo/HBA_9370>
 "superficial layer of superior colliculus"	<http://purl.obolibrary.org/obo/UBERON_0006791>	"superficial layer of superior colliculus"	<http://purl.obolibrary.org/obo/DHBA_12293>
