@@ -1239,7 +1239,7 @@ http://purl.obolibrary.org/obo/MBA_541	temporal association areas	equivalent		ht
 http://purl.obolibrary.org/obo/MBA_91	interposed nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0004073		cerebellum interpositus nucleus	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_283	lateral tegmental nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440072		lateral tegmental nucleus	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_44	infralimbic area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440033		infralimbic area	Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_298	Magnocellular nucleus	subclass	http://purl.obolibrary.org/obo/UBERON_0010010			basal nucleus of telencephalon	Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_298	Magnocellular nucleus	subclass	http://purl.obolibrary.org/obo/UBERON_0014913			ventral pallium	Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_887	efferent cochlear group	subclass	http://purl.obolibrary.org/obo/UBERON_0002775			olivocochlear bundle	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_190	Pyramid	equivalent	http://purl.obolibrary.org/obo/UBERON_0036224 	http://purl.obolibrary.org/obo/UBERON_0002755		pyramidal decussation	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_312782574	laterointermediate area	subclass	http://purl.obolibrary.org/obo/UBERON_0000411			visual cortex	Verified	https://orcid.org/0000-0001-7258-9596
@@ -1375,7 +1375,7 @@ http://purl.obolibrary.org/obo/MBA_947	"Somatomotor areas, Layer 6b"	equivalent	
 http://purl.obolibrary.org/obo/MBA_1106	"Visceral area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_8440024		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_857	"Visceral area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_8440024		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_849	"Visceral area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_8440024		Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_296 	"Anterior cingulate area, ventral part, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0009835		Curated	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_296 	"Anterior cingulate area, ventral part, layer 2/3"	subclass	http://purl.obolibrary.org/obo/UBERON_0009835				Curated	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_171	"Prelimbic area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_8440032		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_195	"Prelimbic area, layer 2"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005391	http://purl.obolibrary.org/obo/UBERON_8440032		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_304	"Prelimbic area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_8440032		Verified	https://orcid.org/0000-0001-7258-9596
