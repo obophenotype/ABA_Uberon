@@ -70,12 +70,6 @@ http://purl.obolibrary.org/obo/MBA_1064	crus 2	equivalent		http://purl.obolibrar
 http://purl.obolibrary.org/obo/MBA_1065	hindbrain	equivalent		http://purl.obolibrary.org/obo/UBERON_0002028		hindbrain	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1067	"taenia tecta, ventral part, layer 1"	subclass	http://purl.obolibrary.org/obo/UBERON_0015800			taenia tectum of brain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_10671	median eminence	equivalent		http://purl.obolibrary.org/obo/UBERON_0002197		median eminence of neurohypophysis	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_10687	"paraflocculus, granular layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0005351			paraflocculus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_10688	"paraflocculus, Purkinje layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0005351			paraflocculus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, molecular layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0005351			paraflocculus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_10690	"flocculus, granular layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0001063			flocculus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_10691	"flocculus, Purkinje layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0001063			flocculus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_10692	"flocculus, molecular layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0001063			flocculus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_10693	"parasubiculum, layer 1"	subclass	http://purl.obolibrary.org/obo/UBERON_0004683			parasubiculum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_10694	"parasubiculum, layer 2"	subclass	http://purl.obolibrary.org/obo/UBERON_0004683			parasubiculum 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_10695	"parasubiculum, layer 3"	subclass	http://purl.obolibrary.org/obo/UBERON_0004683			parasubiculum 	Verified	https://ror.org/03cpe7c52
@@ -93,9 +87,6 @@ http://purl.obolibrary.org/obo/MBA_10703	"dentate gyrus, molecular layer"	equiva
 http://purl.obolibrary.org/obo/MBA_10703	"dentate gyrus, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0004679		dentate gyrus molecular layer 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_10704	"dentate gyrus, polymorph layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002928		dentate gyrus polymorphic layer	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_10704	"dentate gyrus, polymorph layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002928		dentate gyrus polymorphic layer 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_10705	"lingula (I), granular layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0004074			cerebellum vermis lobule I 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_10706	"lingula (I), Purkinje layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0004074			cerebellum vermis lobule I 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_10707	"lingula (I), molecular layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0004074			cerebellum vermis lobule I 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1071	rhinal fissure	equivalent		http://purl.obolibrary.org/obo/UBERON_0002683		rhinal sulcus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1072	"medial geniculate complex, dorsal part"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002758		dorsal nucleus of medial geniculate body	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_1072	"medial geniculate complex, dorsal part"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002758		dorsal nucleus of medial geniculate body 	Verified	https://ror.org/03cpe7c52
@@ -176,8 +167,6 @@ http://purl.obolibrary.org/obo/MBA_116	choroid fissure	equivalent		http://purl.o
 http://purl.obolibrary.org/obo/MBA_116	choroid fissure	equivalent		http://purl.obolibrary.org/obo/UBERON_0002192		ventricular system choroidal fissure 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_117	optic chiasm	equivalent		http://purl.obolibrary.org/obo/UBERON_0000959		optic chiasma	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_117	optic chiasm	equivalent		http://purl.obolibrary.org/obo/UBERON_0000959		optic chiasma 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_118	"periventricular hypothalamic nucleus, intermediate part"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002746		intermediate periventricular nucleus	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_118	"periventricular hypothalamic nucleus, intermediate part"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002746		intermediate periventricular nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_119	"agranular insular area, ventral part"	subclass	http://purl.obolibrary.org/obo/UBERON_0034893			agranular insular cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_12	interfascicular nucleus raphe	equivalent		http://purl.obolibrary.org/obo/UBERON_0013736		interfascicular linear nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_12	interfascicular nucleus raphe	equivalent		http://purl.obolibrary.org/obo/UBERON_0013736		interfascicular linear nucleus 	Verified	https://ror.org/03cpe7c52
@@ -257,8 +246,8 @@ http://purl.obolibrary.org/obo/MBA_177	nucleus of Roller	equivalent		http://purl
 http://purl.obolibrary.org/obo/MBA_178	ventral part of the lateral geniculate complex	equivalent		http://purl.obolibrary.org/obo/UBERON_0002480		ventral lateral geniculate nucleus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_178	ventral part of the lateral geniculate complex	equivalent		http://purl.obolibrary.org/obo/UBERON_0002480		ventral lateral geniculate nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_178	ventral part of the lateral geniculate complex	equivalent		http://purl.obolibrary.org/obo/UBERON_0002480		ventral lateral geniculate nucleus 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_181	nucleus of reunions	equivalent		http://purl.obolibrary.org/obo/UBERON_0001921		reuniens nucleus	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_181	nucleus of reunions	equivalent		http://purl.obolibrary.org/obo/UBERON_0001921		reuniens nucleus 	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_181	Nucleus of reuniens	equivalent		http://purl.obolibrary.org/obo/UBERON_0001921		reuniens nucleus	Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_181	Nucleus of reuniens	equivalent		http://purl.obolibrary.org/obo/UBERON_0001921		reuniens nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_182305689	"primary somatosensory area, unassigned"	subclass	http://purl.obolibrary.org/obo/UBERON_0008933			primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_182305693	"primary somatosensory area, unassigned, layer 1"	subclass	http://purl.obolibrary.org/obo/UBERON_0008933			primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_182305697	"primary somatosensory area, unassigned, layer 2/3"	subclass	http://purl.obolibrary.org/obo/UBERON_0008933			primary somatosensory cortex 	Verified	https://ror.org/03cpe7c52
@@ -276,7 +265,6 @@ http://purl.obolibrary.org/obo/MBA_189	rhomboid nucleus	equivalent		http://purl.
 http://purl.obolibrary.org/obo/MBA_189	rhomboid nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_0002955		rhomboidal nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_19	induseum griseum	equivalent		http://purl.obolibrary.org/obo/UBERON_0015793		induseum griseum	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_19	induseum griseum	equivalent		http://purl.obolibrary.org/obo/UBERON_0015793		induseum griseum 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_190	pyramid	equivalent		http://purl.obolibrary.org/obo/UBERON_0002707		corticospinal tract	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_191	"anterior olfactory nucleus, medial part"	subclass	http://purl.obolibrary.org/obo/UBERON_0002266			anterior olfactory nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_192	"cortical amygdalar area, anterior part, layer 1"	subclass	http://purl.obolibrary.org/obo/UBERON_0002891			cortical amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_194	lateral hypothalamic area	equivalent		http://purl.obolibrary.org/obo/UBERON_0002430		lateral hypothalamic area	Verified	https://ror.org/03cpe7c52
@@ -395,7 +383,6 @@ http://purl.obolibrary.org/obo/MBA_295	basolateral amygdalar nucleus	equivalent	
 http://purl.obolibrary.org/obo/MBA_297	"taenia tecta, dorsal part, layers 1-4"	subclass	http://purl.obolibrary.org/obo/UBERON_0015800			taenia tectum of brain 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_3	secondary fissure	equivalent		http://purl.obolibrary.org/obo/UBERON_0002817		secondary fissure of cerebellum	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_3	secondary fissure	equivalent		http://purl.obolibrary.org/obo/UBERON_0002817		secondary fissure of cerebellum 	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_30	"periventricular hypothalamic nucleus, anterior part"	subclass	http://purl.obolibrary.org/obo/UBERON_0014667			periventricular nucleus of the hypothalamus	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_301	stria terminalis	equivalent		http://purl.obolibrary.org/obo/UBERON_0003029		stria terminalis	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_301	stria terminalis	equivalent		http://purl.obolibrary.org/obo/UBERON_0003029		stria terminalis 	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_303	"basolateral amygdalar nucleus, anterior part"	subclass	http://purl.obolibrary.org/obo/UBERON_0002887			basal amygdaloid nucleus 	Verified	https://ror.org/03cpe7c52
@@ -1213,7 +1200,7 @@ http://purl.obolibrary.org/obo/MBA_623	cerebral nuclei	equivalent		http://purl.o
 http://purl.obolibrary.org/obo/MBA_814	dorsal peduncular area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440040		dorsal peduncular area	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_640	efferent vestibular nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440038		efferent vestibular nucleus	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_982	fasciola cinerea	equivalent		http://purl.obolibrary.org/obo/UBERON_8440013		fasciola cinerea	Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_428	medial corticohypothalmic tract	equivalent		http://purl.obolibrary.org/obo/UBERON_8440031		medial corticohypothalmic tract	Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_428	medial corticohypothalamic tract	equivalent		http://purl.obolibrary.org/obo/UBERON_8440031		medial corticohypothalmic tract	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_1069	parapyramidal nucleus	equivalent		http://purl.obolibrary.org/obo/UBERON_8440025		parapyramidal nucleus	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_185	"parapyramidal nucleus, deep part"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440026		"parapyramidal nucleus, deep part"	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_193	"parapyramidal nucleus, superficial part"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440027		"parapyramidal nucleus, superficial part"	Verified	https://orcid.org/0000-0001-7258-9596
@@ -1241,11 +1228,11 @@ http://purl.obolibrary.org/obo/MBA_283	lateral tegmental nucleus	equivalent		htt
 http://purl.obolibrary.org/obo/MBA_44	infralimbic area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440033		infralimbic area	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_298	Magnocellular nucleus	subclass	http://purl.obolibrary.org/obo/UBERON_0014913			ventral pallium	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_887	efferent cochlear group	subclass	http://purl.obolibrary.org/obo/UBERON_0002775			olivocochlear bundle	Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_190	Pyramid	equivalent	http://purl.obolibrary.org/obo/UBERON_0036224 	http://purl.obolibrary.org/obo/UBERON_0002755		pyramidal decussation	Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_190	Pyramid	equivalent		http://purl.obolibrary.org/obo/UBERON_0002755		pyramidal decussation	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_312782574	laterointermediate area	subclass	http://purl.obolibrary.org/obo/UBERON_0000411			visual cortex	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_312782546	anterior area	subclass	http://purl.obolibrary.org/obo/UBERON_0000411			visual cortex	Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_500	somatomotor area	equivalent		http://purl.obolibrary.org/obo/UBERON_8440076		somatomotor area	Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_1057	gustatory cortex	equivalent		http://purl.obolibrary.org/obo/UBERON_8440075		gustatory cortex	Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_500	somatomotor areas	equivalent		http://purl.obolibrary.org/obo/UBERON_8440076		somatomotor area	Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_1057	Gustatory areas	equivalent		http://purl.obolibrary.org/obo/UBERON_8440075		gustatory cortex	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_1078	rhinal incisure	equivalent		http://purl.obolibrary.org/obo/UBERON_8440077		rhinal incisure	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_42	"Superior colliculus, motor related, deep white layer"	subclass	http://purl.obolibrary.org/obo/UBERON_0001945			superior colliculus	Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_599626923	Subcommissural organ	equivalent		http://purl.obolibrary.org/obo/UBERON_0002139		subcommissural organ	Verified	https://orcid.org/0000-0001-7258-9596
@@ -1258,7 +1245,7 @@ http://purl.obolibrary.org/obo/MBA_1009	fiber tracts	equivalent		http://purl.obo
 http://purl.obolibrary.org/obo/MBA_76	interstitial nucleus of the vestibular nerve	equivalent		http://purl.obolibrary.org/obo/UBERON_8440074		interstitial nucleus of the vestibular nerve	Verified	https://orcid.org/0000-0001-7258-9596
 								
 http://purl.obolibrary.org/obo/MBA_10687	"paraflocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0005351		Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005351		Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_10688	"paraflocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0005351		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10689	"paraflocculus, molecular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002974	http://purl.obolibrary.org/obo/UBERON_0005351		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10690	"flocculus, granular layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002956	http://purl.obolibrary.org/obo/UBERON_0001063		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_10691	"flocculus, Purkinje layer"	equivalent		http://purl.obolibrary.org/obo/UBERON_0002979	http://purl.obolibrary.org/obo/UBERON_0001063		Verified	https://orcid.org/0000-0001-7258-9596
@@ -1320,12 +1307,12 @@ http://purl.obolibrary.org/obo/MBA_401	"anteromedial visual area, layer 4"	equiv
 http://purl.obolibrary.org/obo/MBA_441	"anteromedial visual area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0035893		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_433	"anteromedial visual area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913		"anteromedial visual area, layer 5"	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_973	"lateral visual area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0035895		Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_527	"dorsal auditory area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0035917		Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_600	"dorsal auditory area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0035917		Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_527	"dorsal auditory area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0035885		Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_600	"dorsal auditory area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0035885		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_678	"dorsal auditory area, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035917		"dorsal auditory area, layer 4"	Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_252	"dorsal auditory area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_0035917		Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_156	"dorsal auditory area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0035917		Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_243	"dorsal auditory area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0035917		Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_252	"dorsal auditory area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_0035885		Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_156	"dorsal auditory area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0035885		Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_243	"dorsal auditory area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0035885		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_496	"dorsal peduncular area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_8440040		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_360	"dorsal peduncular area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_8440040		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_535	"dorsal peduncular area, layer 2"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005391	http://purl.obolibrary.org/obo/UBERON_8440040		Verified	https://orcid.org/0000-0001-7258-9596
@@ -1333,19 +1320,18 @@ http://purl.obolibrary.org/obo/MBA_646	"dorsal peduncular area, layer 5"	equival
 http://purl.obolibrary.org/obo/MBA_267	"dorsal peduncular area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_8440040		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_281	"anteromedial visual area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0035893		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_1066	"anteromedial visual area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0035893		Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_401	"anteromedial visual area, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035917	http://purl.obolibrary.org/obo/UBERON_0035893		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_1046	"anteromedial visual area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0035893		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_441	"anteromedial visual area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0035893		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_593	"primary visual area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0002436		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_12993	"somatosensory areas, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0008930		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_12994	"somatosensory areas, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0008930		Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_12995	"somatosensory areas, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035917	http://purl.obolibrary.org/obo/UBERON_0008930		Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_12995	"somatosensory areas, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005393	http://purl.obolibrary.org/obo/UBERON_0008930		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_12996	"somatosensory areas, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_0008930		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_12997	"somatosensory areas, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0008930		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_12998	"somatosensory areas, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0008930		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_312782604	"rostrolateral area, layer 1"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005390	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_312782608	"rostrolateral area, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
-http://purl.obolibrary.org/obo/MBA_312782612	"rostrolateral area, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035917	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
+http://purl.obolibrary.org/obo/MBA_312782612	"rostrolateral area, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005393	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_312782616	"rostrolateral area, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035920		"rostrolateral area, layer 5"	Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_312782620	"rostrolateral area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
 http://purl.obolibrary.org/obo/MBA_312782624	"rostrolateral area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_0035912		Verified	https://ror.org/03cpe7c52
@@ -1363,7 +1349,7 @@ http://purl.obolibrary.org/obo/MBA_827	"Infralimbic area, layer 5"	equivalent		h
 http://purl.obolibrary.org/obo/MBA_1054	"Infralimbic area, layer 6a"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005395	http://purl.obolibrary.org/obo/UBERON_8440033		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_1081	"Infralimbic area, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_8440033		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_180	"Gustatory areas, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_8440075 		Verified	https://orcid.org/0000-0001-7258-9596
-http://purl.obolibrary.org/obo/MBA_148	"Gustatory areas, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035917	http://purl.obolibrary.org/obo/UBERON_8440075 		Verified	https://orcid.org/0000-0001-7258-9596
+http://purl.obolibrary.org/obo/MBA_148	"Gustatory areas, layer 4"	equivalent		http://purl.obolibrary.org/obo/UBERON_0005393	http://purl.obolibrary.org/obo/UBERON_8440075 		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_187	"Gustatory areas, layer 5"	equivalent		http://purl.obolibrary.org/obo/UBERON_0035913	http://purl.obolibrary.org/obo/UBERON_8440075 		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_662	"Gustatory areas, layer 6b"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440003	http://purl.obolibrary.org/obo/UBERON_8440075		Verified	https://orcid.org/0000-0001-7258-9596
 http://purl.obolibrary.org/obo/MBA_1127	"Temporal association areas, layer 2/3"	equivalent		http://purl.obolibrary.org/obo/UBERON_8440000	http://purl.obolibrary.org/obo/UBERON_0035013		Verified	https://orcid.org/0000-0001-7258-9596

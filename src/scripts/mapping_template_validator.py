@@ -3,13 +3,22 @@ import re
 import logging
 import argparse
 import csv
+import urllib.request
 
 from relation_validator import read_csv_to_dict
+from structure_graph_utils import read_structure_graph
 from abc import ABC, abstractmethod, ABCMeta
 from os.path import isfile, join
 
-MAPPING_FILE = os.path.join(os.path.dirname(os.path.realpath(__file__)), "../robot_templates/CCF_to_UBERON.tsv")
+MAPPING_FILE = os.path.join(os.path.dirname(os.path.realpath(__file__)), "../robot_templates/mba_CCF_to_UBERON.tsv")
 PATH_REPORT = os.path.join(os.path.dirname(os.path.realpath(__file__)), "../../validation_report.txt")
+STRUCTURE_GRAPH_URL = "http://api.brain-map.org/api/v2/structure_graph_download/"
+
+SG_NAME_MAP = {"MBA": "1.json",
+              "DMBA": "17.json",
+              "HBA": "10.json",
+              "DHBA": "16.json",
+              "PBA": "8.json"}
 
 log = logging.getLogger(__name__)
 
@@ -105,9 +114,51 @@ class UniqueIdChecker(StrictChecker):
         return "=== Unique Id Checks :"
 
 
+class StructureGraphChecker(StrictChecker):
+    """
+    Compare mapping template with the original structure graph. All entities should exist in the structure graph
+    and their label's should match.
+    """
+
+    def __init__(self):
+        self.reports = []
+
+    def check(self):
+        mapping_file_name = MAPPING_FILE.rsplit('/', 1)[-1]
+        # MBA, DMBA ...
+        structure_graph_type = mapping_file_name.split("_")[0].upper()
+        web_file_name = SG_NAME_MAP[structure_graph_type]
+        urllib.request.urlretrieve(STRUCTURE_GRAPH_URL + web_file_name, web_file_name)
+
+        structure_graph_list = read_structure_graph(web_file_name)
+        structure_graph = dict()
+        for item in structure_graph_list:
+            structure_graph[item["id"]] = item
+
+        headers, records = read_csv_to_dict(MAPPING_FILE, delimiter="\t", generated_ids=True)
+        for line_number in records:
+            mapped_id = str(records[line_number]["ID"]).strip()
+            if mapped_id and mapped_id != "ID" and not str(mapped_id).endswith(structure_graph_type + "_ENTITY"):
+                if mapped_id not in structure_graph:
+                    self.reports.append("{} not exists in the structure graph.".format(mapped_id))
+
+        for line_number in records:
+            mapped_id = records[line_number]["ID"]
+            if mapped_id in structure_graph:
+                if str(structure_graph[mapped_id]["name"]).lower().strip() != \
+                        str(records[line_number]["Label"]).lower().strip():
+                    self.reports.append("{} label is '{}' in template, but '{}' in the structure graph.".
+                                        format(mapped_id,
+                                               records[line_number]["Label"],
+                                               structure_graph[mapped_id]["name"]))
+
+    def get_header(self):
+        return "=== Structure Graph Compatibility :"
+
+
 class MappingValidator(object):
 
-    rules = [SingleMappingChecker(), UniqueIdChecker()]
+    rules = [SingleMappingChecker(), UniqueIdChecker(), StructureGraphChecker()]
     errors = []
     warnings = []
 
