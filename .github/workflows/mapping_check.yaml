@@ -5,7 +5,7 @@ on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
     paths:
-      - 'src/robot_templates/CCF_to_UBERON.tsv'
+      - 'src/robot_templates/mba_CCF_to_UBERON.tsv'
       - '.github/workflows/mapping_check.yaml'
       - 'src/scripts/mapping_template_validator.py'
   pull_request:
