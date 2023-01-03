@@ -2,13 +2,12 @@ name: Validate Mappings
 
 # Controls when the action will run.
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
-  push:
+  pull_request:
+    branches: [ master ]
     paths:
       - 'src/robot_templates/mba_CCF_to_UBERON.tsv'
       - '.github/workflows/mapping_check.yaml'
       - 'src/scripts/mapping_template_validator.py'
-  pull_request:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
