@@ -27,7 +27,7 @@ def tree_recurse(node, dl, namespace):
     d["acronym"] = node["acronym"]
     if node["parent_structure_id"]:
         d["parent_structure_id"] = namespace + str(node["parent_structure_id"])
-    d["subclass_of"] = "UBERON:0002616"
+    # d["subclass_of"] = "UBERON:0002616"
     dl.append(d)
 
     for child in node["children"]:
